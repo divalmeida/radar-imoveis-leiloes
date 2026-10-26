@@ -1,20 +1,20 @@
 {
- "atualizado_em": "2026-10-26 18:32",
+ "atualizado_em": "2026-10-26 18:55",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 503,
-   "segundos": 437
+   "segundos": 546
   },
   "Superbid": {
    "ok": true,
    "lotes": 700,
-   "segundos": 8
+   "segundos": 9
   },
   "Caixa": {
    "ok": true,
    "lotes": 740,
-   "segundos": 1
+   "segundos": 2
   }
  },
  "lotes": [
@@ -12545,7 +12545,7 @@
    "id": "superbid-5064713",
    "titulo": "SMARTPHONE SAMSUNG GALAXY A17, SMARTPHONE SAMSUNG GALAXY A36 (02 UN)             (Ref.: SB0033913)",
    "categoria": "Telefonia",
-   "lance_atual": 700,
+   "lance_atual": 800,
    "encerramento": "2026-10-27 16:31",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -12557,7 +12557,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -12641,7 +12641,7 @@
    "id": "superbid-5064715",
    "titulo": "SMARTPHONE SAMSUNG GALAXY (02 UN)          (Ref.: SB0033912)",
    "categoria": "Telefonia",
-   "lance_atual": 940,
+   "lance_atual": 1040,
    "encerramento": "2026-10-27 16:33",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -12653,7 +12653,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -12857,7 +12857,7 @@
    "id": "superbid-5063058",
    "titulo": "TABLET XIAOMI PAD 7 GRAY 8GB RAM 256GB, TABLET VAIO TL10   (02 UN)     (Ref.: SB0033924)",
    "categoria": "Informática",
-   "lance_atual": 1300,
+   "lance_atual": 1400,
    "encerramento": "2026-10-27 16:38",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -12869,7 +12869,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -12881,7 +12881,7 @@
    "id": "superbid-5064719",
    "titulo": "NOTEBOOK DELL INSPIRION 15 3530 (01 UN)               (Ref.: SB0033930)",
    "categoria": "Telefonia",
-   "lance_atual": 1150,
+   "lance_atual": 1250,
    "encerramento": "2026-10-27 16:39",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -12889,30 +12889,6 @@
    "link": "https://www.superbid.net/oferta/notebook-dell-inspirion-15-3530-01-un-ref-sb0033930-5064719",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/f0d81579-8d82-4fc6-bce1-08eb6ecac494.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 4,
-    "leiloeiro": "SOLD",
-    "leilao": "Logística Reversa"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5063059",
-   "titulo": "NOTEBOOK VAIO FE 15  (01 UN)  (Ref.: SB0033929)",
-   "categoria": "Telefonia",
-   "lance_atual": 1040,
-   "encerramento": "2026-10-27 16:39",
-   "cidade": "Embu das Artes",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-vaio-fe-15-01-un-ref-sb0033929-5063059",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/07bf9203-d970-46b3-a06e-fdfbebe0dea3.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -12926,10 +12902,34 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5063059",
+   "titulo": "NOTEBOOK VAIO FE 15  (01 UN)  (Ref.: SB0033929)",
+   "categoria": "Telefonia",
+   "lance_atual": 1140,
+   "encerramento": "2026-10-27 16:39",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/notebook-vaio-fe-15-01-un-ref-sb0033929-5063059",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/07bf9203-d970-46b3-a06e-fdfbebe0dea3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 6,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5064720",
    "titulo": "NOTEBOOK ACER ASPIRE GO 15 AG15-51P (01 UN)\n(Ref.: SB0033928)",
    "categoria": "Informática",
-   "lance_atual": 1240,
+   "lance_atual": 1340,
    "encerramento": "2026-10-27 16:40",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -12941,7 +12941,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -12953,7 +12953,7 @@
    "id": "superbid-5063060",
    "titulo": "NOTEBOOK LENOVO TRINKPAD E14 (USADO), NOTEBOOK ASUS VIVOBOOK 15 X1504V (02 UN) (Ref.: SB0033927)",
    "categoria": "Informática",
-   "lance_atual": 2030,
+   "lance_atual": 2230,
    "encerramento": "2026-10-27 16:40",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -12965,7 +12965,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
