@@ -43,6 +43,8 @@ jobs:
 
       - name: Coletar leilões
         run: python coletar_leiloes.py
+        env:
+          PYTHONUNBUFFERED: "1"
 
       - name: Salvar os dados no repositório
         run: |

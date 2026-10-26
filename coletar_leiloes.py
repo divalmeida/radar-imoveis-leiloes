@@ -4,32 +4,50 @@ Uso:  python3 coletar_leiloes.py
 """
 
 import json
+import multiprocessing
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from radar.coletores import caixa, receita, superbid
 
+# Fonte: (função de coleta, tempo máximo em minutos)
 COLETORES = {
-    "Receita Federal": receita.coletar,
-    "Superbid": superbid.coletar,
-    "Caixa": caixa.coletar,
+    "Receita Federal": (receita.coletar, 15),
+    "Superbid": (superbid.coletar, 8),
+    "Caixa": (caixa.coletar, 5),
 }
 
 ARQUIVO_SAIDA = Path(__file__).parent / "docs" / "dados" / "leiloes.json"
 FUSO_BRASILIA = timezone(timedelta(hours=-3))
 
 
+def _rodar_com_limite(coletar, minutos: int):
+    """Roda o coletor em um processo separado; se passar do tempo, ele é encerrado."""
+    with multiprocessing.get_context("spawn").Pool(1) as pool:
+        tarefa = pool.apply_async(coletar)
+        try:
+            return tarefa.get(timeout=minutos * 60)
+        except multiprocessing.TimeoutError:
+            pool.terminate()
+            raise RuntimeError(f"passou de {minutos} minutos e foi interrompido")
+
+
 def main() -> None:
     lotes = []
     status = {}
-    for nome, coletar in COLETORES.items():
+    for nome, (coletar, minutos) in COLETORES.items():
+        inicio = datetime.now()
+        print(f"\n=== {nome} ===", flush=True)
         try:
-            encontrados = coletar()
+            encontrados = _rodar_com_limite(coletar, minutos)
             lotes.extend(encontrados)
             status[nome] = {"ok": True, "lotes": len(encontrados)}
         except Exception as erro:  # uma fonte com problema não derruba as outras
-            print(f"[ERRO] {nome}: {erro}")
+            print(f"[ERRO] {nome}: {erro}", flush=True)
             status[nome] = {"ok": False, "erro": str(erro)}
+        segundos = (datetime.now() - inicio).seconds
+        status[nome]["segundos"] = segundos
+        print(f"=== {nome}: {segundos} s ===", flush=True)
 
     lotes.sort(key=lambda l: (not l.prioridade, not l.destaque, l.encerramento or "9999"))
     resultado = {

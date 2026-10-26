@@ -46,11 +46,14 @@ def _baixar_com_navegador(ufs: List[str]) -> dict:
     with sync_playwright() as p:
         navegador = p.chromium.launch()
         pagina = navegador.new_page(locale="pt-BR")
-        pagina.goto(PAGINA_DOWNLOAD, wait_until="networkidle", timeout=90_000)
+        pagina.set_default_timeout(90_000)
+        pagina.goto(PAGINA_DOWNLOAD, wait_until="domcontentloaded")
+        pagina.wait_for_timeout(5_000)  # tempo para o anti-robô liberar a página
         for uf in ufs:
+            # O fetch tem limite de 60 s para nunca deixar a coleta travada
             bytes_lista = pagina.evaluate(
                 """async (url) => {
-                    const r = await fetch(url);
+                    const r = await fetch(url, {signal: AbortSignal.timeout(60000)});
                     return Array.from(new Uint8Array(await r.arrayBuffer()));
                 }""",
                 URL_LISTA.format(uf=uf),

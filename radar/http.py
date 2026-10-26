@@ -22,8 +22,19 @@ def baixar(url: str, tentativas: int = 3, timeout: int = 40) -> bytes:
                 url,
                 headers={"User-Agent": USER_AGENT, "Accept-Language": "pt-BR,pt;q=0.9"},
             )
+            # Prazo total do download: sites anti-robô às vezes mandam a resposta
+            # aos pouquinhos para prender o robô, e o timeout normal não pega isso.
+            prazo = time.monotonic() + timeout * 2
+            partes = []
             with urllib.request.urlopen(pedido, timeout=timeout) as resposta:
-                conteudo = resposta.read()
+                while True:
+                    parte = resposta.read(65536)
+                    if not parte:
+                        break
+                    partes.append(parte)
+                    if time.monotonic() > prazo:
+                        raise TimeoutError("download lento demais")
+            conteudo = b"".join(partes)
             if conteudo[:2] == b"\x1f\x8b":  # alguns sites mandam compactado sem pedir
                 conteudo = gzip.decompress(conteudo)
             time.sleep(PAUSA_ENTRE_REQUISICOES)
