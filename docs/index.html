@@ -1,0 +1,330 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Radar Imóveis e Leilões</title>
+<meta name="description" content="Imóveis e leilões coletados todo dia">
+<meta name="theme-color" content="#0f3d3e">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Radar">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icone-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icone-180.png">
+<style>
+  :root {
+    --fundo: #f4f6f5;
+    --cartao: #ffffff;
+    --texto: #18211f;
+    --suave: #5f6b68;
+    --borda: #dfe5e3;
+    --marca: #0f3d3e;
+    --marca-texto: #ffffff;
+    --destaque: #e8f4ef;
+    --verde: #1d7a4f;
+    --laranja: #b5560b;
+    --vermelho: #b3261e;
+    --azul: #1f5fa8;
+    --chip: #eef2f1;
+    --sombra: 0 1px 2px rgba(0,0,0,.06), 0 2px 8px rgba(0,0,0,.04);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --fundo: #0f1413;
+      --cartao: #182120;
+      --texto: #e8eeec;
+      --suave: #9aa8a4;
+      --borda: #2a3634;
+      --marca: #123f40;
+      --destaque: #15302a;
+      --verde: #5fc795;
+      --laranja: #f0a25c;
+      --vermelho: #f2857c;
+      --azul: #7fb0ec;
+      --chip: #22302d;
+      --sombra: none;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; background: var(--fundo); color: var(--texto); }
+  body {
+    font: 15px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  header {
+    background: var(--marca); color: var(--marca-texto);
+    padding: calc(env(safe-area-inset-top) + 12px) 16px 0;
+    position: sticky; top: 0; z-index: 10;
+  }
+  .topo { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; max-width: 1100px; margin: 0 auto; }
+  h1 { font-size: 18px; margin: 0; letter-spacing: .2px; }
+  .atualizado { font-size: 12px; opacity: .8; text-align: right; }
+  nav { display: flex; gap: 4px; max-width: 1100px; margin: 10px auto 0; }
+  nav button {
+    flex: 1; border: 0; background: transparent; color: var(--marca-texto); opacity: .7;
+    font: inherit; font-weight: 600; padding: 10px 8px 12px; border-bottom: 3px solid transparent; cursor: pointer;
+  }
+  nav button[aria-selected="true"] { opacity: 1; border-bottom-color: #8fe3bd; }
+  main { max-width: 1100px; margin: 0 auto; padding: 12px 16px 40px; }
+  .filtros { display: grid; gap: 8px; margin-bottom: 12px; }
+  .linha { display: flex; gap: 8px; flex-wrap: wrap; }
+  input[type=search], select {
+    font: inherit; font-size: 16px; color: var(--texto); background: var(--cartao);
+    border: 1px solid var(--borda); border-radius: 10px; padding: 9px 11px; min-width: 0;
+  }
+  input[type=search] { flex: 1 1 220px; }
+  select { flex: 1 1 140px; }
+  .chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: none; }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip {
+    flex: none; border: 1px solid var(--borda); background: var(--cartao); color: var(--texto);
+    font: inherit; font-size: 13px; padding: 6px 11px; border-radius: 999px; cursor: pointer; white-space: nowrap;
+  }
+  .chip[aria-pressed="true"] { background: var(--marca); color: var(--marca-texto); border-color: var(--marca); }
+  .resumo { font-size: 13px; color: var(--suave); margin: 4px 2px 10px; }
+  .lista { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  .cartao {
+    background: var(--cartao); border: 1px solid var(--borda); border-radius: 14px; box-shadow: var(--sombra);
+    padding: 12px; display: flex; flex-direction: column; gap: 8px; min-width: 0;
+  }
+  .cartao.prioridade { border-color: var(--verde); background: var(--destaque); }
+  .cab { display: flex; gap: 10px; }
+  .foto { width: 64px; height: 64px; border-radius: 10px; object-fit: cover; background: var(--chip); flex: none; }
+  .titulo { font-weight: 600; font-size: 14px; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; overflow-wrap: anywhere; }
+  .meta { font-size: 12px; color: var(--suave); margin-top: 2px; }
+  .valores { display: flex; align-items: baseline; justify-content: space-between; gap: 8px; flex-wrap: wrap; }
+  .preco { font-size: 19px; font-weight: 700; }
+  .rotulo { font-size: 11px; color: var(--suave); display: block; font-weight: 400; }
+  .prazo { font-size: 13px; font-weight: 600; text-align: right; }
+  .prazo.urgente { color: var(--vermelho); }
+  .prazo.breve { color: var(--laranja); }
+  .selos { display: flex; gap: 6px; flex-wrap: wrap; }
+  .selo { font-size: 11px; font-weight: 600; padding: 3px 8px; border-radius: 6px; background: var(--chip); color: var(--texto); }
+  .selo.pf { color: var(--verde); }
+  .selo.pj { color: var(--azul); }
+  .selo.fin { color: var(--verde); }
+  .selo.desc { color: var(--laranja); }
+  .acoes a {
+    display: block; text-align: center; text-decoration: none; font-weight: 600; font-size: 14px;
+    padding: 9px; border-radius: 10px; background: var(--marca); color: var(--marca-texto);
+  }
+  .mais { display: block; margin: 16px auto 0; font: inherit; font-weight: 600; padding: 10px 18px; border-radius: 10px; border: 1px solid var(--borda); background: var(--cartao); color: var(--texto); cursor: pointer; }
+  .vazio, .aviso { text-align: center; color: var(--suave); padding: 40px 16px; }
+  .aviso h2 { color: var(--texto); font-size: 17px; }
+  .fontes { font-size: 12px; color: var(--suave); margin-top: 24px; line-height: 1.6; }
+  .fontes .erro { color: var(--vermelho); }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<header>
+  <div class="topo">
+    <h1>Radar Imóveis e Leilões</h1>
+    <div class="atualizado" id="atualizado">carregando…</div>
+  </div>
+  <nav role="tablist">
+    <button role="tab" id="aba-leiloes" aria-selected="true">Leilões</button>
+    <button role="tab" id="aba-imoveis" aria-selected="false">Imóveis</button>
+  </nav>
+</header>
+
+<main>
+  <section id="painel-leiloes">
+    <div class="filtros">
+      <div class="linha">
+        <input type="search" id="busca" placeholder="Buscar: iphone, notebook, apartamento…" autocomplete="off">
+      </div>
+      <div class="chips" id="chips-tipo" aria-label="Tipo"></div>
+      <div class="chips" id="chips-uf" aria-label="Estado"></div>
+      <div class="linha">
+        <select id="publico" aria-label="Quem pode comprar">
+          <option value="">PF e PJ (todos)</option>
+          <option value="PF e PJ">Aceita pessoa física</option>
+          <option value="Só PJ (CNPJ)">Só PJ (CNPJ)</option>
+        </select>
+        <select id="fonte" aria-label="Fonte"><option value="">Todas as fontes</option></select>
+        <select id="ordem" aria-label="Ordenar">
+          <option value="encerra">Encerra primeiro</option>
+          <option value="menor">Menor valor</option>
+          <option value="desconto">Maior desconto</option>
+        </select>
+      </div>
+    </div>
+    <div class="resumo" id="resumo"></div>
+    <div class="lista" id="lista"></div>
+    <button class="mais" id="mais" hidden>Mostrar mais</button>
+    <div class="fontes" id="fontes"></div>
+  </section>
+
+  <section id="painel-imoveis" hidden>
+    <div class="aviso">
+      <h2>Aba Imóveis em construção</h2>
+      <p>Apartamentos para compra e aluguel em Salvador, Feira de Santana e Conceição do Jacuípe vão aparecer aqui.</p>
+      <p>Enquanto isso, os imóveis da Caixa estão na aba Leilões, no filtro “Imóveis Caixa”.</p>
+    </div>
+  </section>
+</main>
+
+<script>
+const UFS_DESTAQUE = ["SP", "RJ", "DF", "SC", "BA"];
+const POR_PAGINA = 60;
+const TIPOS = [
+  { id: "", nome: "Tudo" },
+  { id: "eletronicos", nome: "Eletrônicos e celulares" },
+  { id: "eletrodomesticos", nome: "Eletrodomésticos" },
+  { id: "imoveis", nome: "Imóveis Caixa" },
+  { id: "prioritarias", nome: "Salvador, Feira e Conceição" },
+];
+
+const estado = { lotes: [], tipo: "", uf: "", mostrando: POR_PAGINA };
+const $ = (id) => document.getElementById(id);
+const dinheiro = new Intl.NumberFormat("pt-BR", { style: "currency", currency: "BRL", maximumFractionDigits: 0 });
+
+function semAcento(t) { return (t || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase(); }
+
+function tipoDoLote(l) {
+  if (l.fonte === "Caixa") return "imoveis";
+  if (/ELETRODOM|ELETROPORT|REFRIGER|FOGO|FORNO|LIMPEZA|UTENS/i.test(l.categoria)) return "eletrodomesticos";
+  return "eletronicos";
+}
+
+function dataDe(texto) {
+  if (!texto) return null;
+  const [d, h] = texto.split(" ");
+  return new Date(`${d}T${h || "00:00"}:00-03:00`);
+}
+
+function prazo(l) {
+  const fim = dataDe(l.encerramento);
+  if (!fim) return { texto: l.fonte === "Caixa" ? "Venda direta" : "", classe: "" };
+  const horas = (fim - Date.now()) / 36e5;
+  const quando = fim.toLocaleString("pt-BR", { day: "2-digit", month: "2-digit", hour: "2-digit", minute: "2-digit", timeZone: "America/Sao_Paulo" });
+  if (horas < 0) return { texto: `Encerrado ${quando}`, classe: "urgente" };
+  if (horas < 24) return { texto: `Encerra hoje · ${quando}`, classe: "urgente" };
+  const dias = Math.round(horas / 24);
+  return { texto: `Encerra em ${dias} dia${dias > 1 ? "s" : ""} · ${quando}`, classe: dias <= 3 ? "breve" : "" };
+}
+
+function desconto(l) {
+  if (l.detalhes && l.detalhes.desconto_pct != null) return l.detalhes.desconto_pct;
+  if (l.valor_avaliacao && l.lance_atual) return Math.round((1 - l.lance_atual / l.valor_avaliacao) * 100);
+  return null;
+}
+
+function filtrar() {
+  const busca = semAcento($("busca").value).split(/\s+/).filter(Boolean);
+  const publico = $("publico").value, fonte = $("fonte").value;
+  const agora = Date.now();
+  let r = estado.lotes.filter((l) => {
+    const fim = dataDe(l.encerramento);
+    if (fim && fim < agora) return false;
+    if (estado.tipo === "prioritarias") { if (!l.prioridade) return false; }
+    else if (estado.tipo && l._tipo !== estado.tipo) return false;
+    if (estado.uf && l.uf !== estado.uf) return false;
+    if (publico && l.publico !== publico) return false;
+    if (fonte && l.fonte !== fonte) return false;
+    return busca.every((p) => l._busca.includes(p));
+  });
+  const ordem = $("ordem").value;
+  if (ordem === "menor") r.sort((a, b) => (a.lance_atual ?? 1e15) - (b.lance_atual ?? 1e15));
+  else if (ordem === "desconto") r.sort((a, b) => (desconto(b) ?? -1) - (desconto(a) ?? -1));
+  // Com data: o que encerra antes vem primeiro. Sem data (Caixa): cidades prioritárias primeiro.
+  else r.sort((a, b) => (a.encerramento || "9").localeCompare(b.encerramento || "9") || (!!b.prioridade - !!a.prioridade) || (!!b.destaque - !!a.destaque));
+  return r;
+}
+
+function escapar(t) { return String(t ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c])); }
+
+function cartao(l) {
+  const p = prazo(l), d = desconto(l);
+  const selos = [];
+  selos.push(l.publico === "Só PJ (CNPJ)" ? `<span class="selo pj">Só PJ (CNPJ)</span>` : `<span class="selo pf">PF e PJ</span>`);
+  if (l.detalhes && l.detalhes.financiamento) selos.push(`<span class="selo fin">Aceita financiamento</span>`);
+  if (d != null && d > 0) selos.push(`<span class="selo desc">${Math.round(d)}% abaixo da avaliação</span>`);
+  selos.push(`<span class="selo">${escapar(l.fonte)}</span>`);
+  const rotulo = l.fonte === "Receita Federal" ? "Lance mínimo" : l.fonte === "Caixa" ? "Preço" : "Lance atual";
+  const foto = l.imagem ? `<img class="foto" loading="lazy" src="${escapar(l.imagem)}" alt="">` : "";
+  return `<article class="cartao${l.prioridade ? " prioridade" : ""}">
+    <div class="cab">${foto}<div style="min-width:0">
+      <div class="titulo">${escapar(l.titulo)}</div>
+      <div class="meta">${escapar(l.cidade)}${l.uf ? " - " + escapar(l.uf) : ""} · ${escapar(l.categoria)}</div>
+    </div></div>
+    <div class="valores">
+      <div class="preco"><span class="rotulo">${rotulo}</span>${l.lance_atual != null ? dinheiro.format(l.lance_atual) : "—"}</div>
+      <div class="prazo ${p.classe}">${escapar(p.texto)}</div>
+    </div>
+    <div class="selos">${selos.join("")}</div>
+    <div class="acoes"><a href="${escapar(l.link)}" target="_blank" rel="noopener">Abrir no site do leilão</a></div>
+  </article>`;
+}
+
+function desenhar(reiniciar) {
+  if (reiniciar) estado.mostrando = POR_PAGINA;
+  const r = filtrar();
+  $("resumo").textContent = `${r.length.toLocaleString("pt-BR")} resultado${r.length === 1 ? "" : "s"}`;
+  $("lista").innerHTML = r.length ? r.slice(0, estado.mostrando).map(cartao).join("") : `<div class="vazio">Nenhum lote com esses filtros.</div>`;
+  $("mais").hidden = r.length <= estado.mostrando;
+}
+
+function chips(el, itens, chave) {
+  el.innerHTML = itens.map((i) => `<button class="chip" data-v="${i.id}" aria-pressed="${estado[chave] === i.id}">${i.nome}</button>`).join("");
+  el.onclick = (e) => {
+    const b = e.target.closest(".chip"); if (!b) return;
+    estado[chave] = b.dataset.v;
+    el.querySelectorAll(".chip").forEach((c) => c.setAttribute("aria-pressed", c.dataset.v === estado[chave]));
+    desenhar(true);
+  };
+}
+
+function trocarAba(qual) {
+  const leiloes = qual === "leiloes";
+  $("aba-leiloes").setAttribute("aria-selected", leiloes);
+  $("aba-imoveis").setAttribute("aria-selected", !leiloes);
+  $("painel-leiloes").hidden = !leiloes;
+  $("painel-imoveis").hidden = leiloes;
+  try { localStorage.setItem("aba", qual); } catch (e) {}
+}
+
+async function iniciar() {
+  $("aba-leiloes").onclick = () => trocarAba("leiloes");
+  $("aba-imoveis").onclick = () => trocarAba("imoveis");
+  try { if (localStorage.getItem("aba") === "imoveis") trocarAba("imoveis"); } catch (e) {}
+
+  let dados;
+  try {
+    const resp = await fetch(`dados/leiloes.json?v=${Date.now()}`, { cache: "no-store" });
+    dados = await resp.json();
+  } catch (e) {
+    $("atualizado").textContent = "sem conexão";
+    $("lista").innerHTML = `<div class="vazio">Não foi possível carregar os dados agora. Tente de novo em instantes.</div>`;
+    return;
+  }
+
+  estado.lotes = dados.lotes.map((l) => ({ ...l, _tipo: tipoDoLote(l), _busca: semAcento(`${l.titulo} ${l.categoria} ${l.cidade} ${l.uf} ${l.fonte}`) }));
+  $("atualizado").textContent = `atualizado ${dados.atualizado_em.split(" ").reverse().join(" · ").replace(/(\d{4})-(\d{2})-(\d{2})/, "$3/$2")}`;
+
+  chips($("chips-tipo"), TIPOS, "tipo");
+  const ufs = [...new Set(estado.lotes.map((l) => l.uf).filter(Boolean))];
+  ufs.sort((a, b) => (UFS_DESTAQUE.includes(b) - UFS_DESTAQUE.includes(a)) || a.localeCompare(b));
+  chips($("chips-uf"), [{ id: "", nome: "Todos os estados" }, ...ufs.map((u) => ({ id: u, nome: UFS_DESTAQUE.includes(u) ? `★ ${u}` : u }))], "uf");
+
+  const fontes = [...new Set(estado.lotes.map((l) => l.fonte))].sort();
+  $("fonte").innerHTML += fontes.map((f) => `<option>${escapar(f)}</option>`).join("");
+
+  $("fontes").innerHTML = "Fontes da última coleta: " + Object.entries(dados.fontes).map(([n, s]) =>
+    s.ok ? `${escapar(n)} (${s.lotes})` : `<span class="erro">${escapar(n)} (falhou)</span>`).join(" · ");
+
+  let espera;
+  $("busca").oninput = () => { clearTimeout(espera); espera = setTimeout(() => desenhar(true), 200); };
+  ["publico", "fonte", "ordem"].forEach((id) => ($(id).onchange = () => desenhar(true)));
+  $("mais").onclick = () => { estado.mostrando += POR_PAGINA; desenhar(false); };
+  desenhar(true);
+}
+
+iniciar();
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>

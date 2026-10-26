@@ -55,5 +55,7 @@ jobs:
             echo "Nenhuma mudança nos dados."
           else
             git commit -m "Coleta automática $(TZ=America/Sao_Paulo date '+%Y-%m-%d %H:%M')"
+            # Se alguém enviou código durante a coleta, junta antes de enviar
+            git pull --rebase
             git push
           fi
