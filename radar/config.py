@@ -9,6 +9,9 @@ UFS_DESTAQUE = ["SP", "RJ", "DF", "SC", "BA"]
 # Cidades prioritárias (imóveis da Caixa e anúncios de apartamentos)
 CIDADES_PRIORITARIAS = ["SALVADOR", "FEIRA DE SANTANA", "CONCEICAO DO JACUIPE"]
 
+# Estados baixados da lista oficial de imóveis da Caixa
+UFS_CAIXA = ["BA"]
+
 # Palavras que indicam lotes de eletrônicos, eletrodomésticos e celulares
 CATEGORIAS_INTERESSE = [
     "CELULAR",

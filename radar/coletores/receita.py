@@ -13,6 +13,7 @@ from typing import List
 
 from radar.config import CATEGORIAS_INTERESSE
 from radar.http import baixar_json
+from radar.localidades import nome_cidade
 from radar.modelo import PUBLICO_PF_PJ, PUBLICO_SO_PJ, Lote
 
 API = "https://www25.receita.fazenda.gov.br/sle-sociedade/api"
@@ -42,12 +43,6 @@ UF_POR_CIDADE = {
 def _eh_categoria_de_interesse(tipo: str) -> bool:
     tipo = tipo.upper()
     return any(palavra in tipo for palavra in CATEGORIAS_INTERESSE)
-
-
-def _nome_cidade(cidade: str) -> str:
-    """'RIO DE JANEIRO' -> 'Rio de Janeiro'."""
-    minusculas = {"De", "Do", "Da", "Dos", "Das"}
-    return " ".join(p.lower() if p in minusculas else p for p in cidade.title().split())
 
 
 def _titulo_do_lote(detalhe: dict) -> str:
@@ -98,7 +93,7 @@ def coletar() -> List[Lote]:
                     lance_atual=resumo.get("valorMinimo"),
                     valor_avaliacao=resumo.get("valorAvaliacao"),
                     encerramento=encerramento,
-                    cidade=_nome_cidade(cidade),
+                    cidade=nome_cidade(cidade),
                     uf=uf,
                     publico=PUBLICO_PF_PJ if resumo.get("permitePF") else PUBLICO_SO_PJ,
                     link=f"{PORTAL}/edital/{edle}/lote/{numero}",

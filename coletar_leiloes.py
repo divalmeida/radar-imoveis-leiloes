@@ -7,10 +7,12 @@ import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from radar.coletores import receita
+from radar.coletores import caixa, receita, superbid
 
 COLETORES = {
     "Receita Federal": receita.coletar,
+    "Superbid": superbid.coletar,
+    "Caixa": caixa.coletar,
 }
 
 ARQUIVO_SAIDA = Path(__file__).parent / "docs" / "dados" / "leiloes.json"
@@ -29,7 +31,7 @@ def main() -> None:
             print(f"[ERRO] {nome}: {erro}")
             status[nome] = {"ok": False, "erro": str(erro)}
 
-    lotes.sort(key=lambda l: (not l.destaque, l.encerramento or "9999"))
+    lotes.sort(key=lambda l: (not l.prioridade, not l.destaque, l.encerramento or "9999"))
     resultado = {
         "atualizado_em": datetime.now(FUSO_BRASILIA).strftime("%Y-%m-%d %H:%M"),
         "fontes": status,

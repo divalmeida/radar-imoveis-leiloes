@@ -1,7 +1,7 @@
 """Formato único de um lote de leilão, igual para todas as fontes."""
 
 from dataclasses import asdict, dataclass, field
-from typing import List, Optional
+from typing import Dict, List, Optional
 
 from radar.config import UFS_DESTAQUE
 
@@ -24,6 +24,8 @@ class Lote:
     valor_avaliacao: Optional[float] = None
     imagem: Optional[str] = None
     observacoes: List[str] = field(default_factory=list)
+    detalhes: Dict[str, object] = field(default_factory=dict)  # campos próprios da fonte
+    prioridade: bool = False  # cidade prioritária (Salvador, Feira, Conceição do Jacuípe)
 
     @property
     def destaque(self) -> bool:

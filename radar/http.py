@@ -1,5 +1,6 @@
 """Acesso à internet com novas tentativas e pausa entre chamadas."""
 
+import gzip
 import json
 import time
 import urllib.error
@@ -23,6 +24,8 @@ def baixar(url: str, tentativas: int = 3, timeout: int = 40) -> bytes:
             )
             with urllib.request.urlopen(pedido, timeout=timeout) as resposta:
                 conteudo = resposta.read()
+            if conteudo[:2] == b"\x1f\x8b":  # alguns sites mandam compactado sem pedir
+                conteudo = gzip.decompress(conteudo)
             time.sleep(PAUSA_ENTRE_REQUISICOES)
             return conteudo
         except (urllib.error.URLError, TimeoutError) as erro:
