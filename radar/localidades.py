@@ -24,6 +24,9 @@ def _chave(cidade: str) -> str:
     return " ".join(texto.upper().replace("'", " ").split())
 
 
+chave_texto = _chave  # nome sem acento, em maiúsculas, para comparar textos
+
+
 @lru_cache(maxsize=1)
 def _ufs_por_cidade() -> Dict[str, Set[str]]:
     mapa: Dict[str, Set[str]] = {}

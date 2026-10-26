@@ -12,12 +12,14 @@ on:
     paths:
       - "radar/**"
       - "coletar_leiloes.py"
+      - "coletar_imoveis.py"
       - "requirements.txt"
       - ".github/workflows/coleta-diaria.yml"
 
 permissions:
   contents: write
 
+# Uma coleta por vez; se chegar outra, ela espera a atual terminar
 concurrency:
   group: coleta
   cancel-in-progress: false
@@ -25,7 +27,7 @@ concurrency:
 jobs:
   coletar:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 55
     steps:
       - name: Baixar o código
         uses: actions/checkout@v4
@@ -46,8 +48,22 @@ jobs:
         env:
           PYTHONUNBUFFERED: "1"
 
+      - name: Coletar imóveis
+        # Se os imóveis falharem, os leilões ainda são salvos
+        continue-on-error: true
+        timeout-minutes: 25
+        run: python coletar_imoveis.py
+        env:
+          PYTHONUNBUFFERED: "1"
+
       - name: Salvar os dados no repositório
         run: |
+          # Guarda os dados coletados, pega a versão mais nova do repositório
+          # (pode ter chegado código novo durante a coleta) e põe os dados por cima
+          cp -r docs/dados /tmp/dados-novos
+          git fetch origin main
+          git reset --hard origin/main
+          cp -r /tmp/dados-novos/. docs/dados/
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
           git add docs/dados
@@ -55,7 +71,5 @@ jobs:
             echo "Nenhuma mudança nos dados."
           else
             git commit -m "Coleta automática $(TZ=America/Sao_Paulo date '+%Y-%m-%d %H:%M')"
-            # Se alguém enviou código durante a coleta, junta antes de enviar
-            git pull --rebase
             git push
           fi

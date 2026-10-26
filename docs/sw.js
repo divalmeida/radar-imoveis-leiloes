@@ -1,5 +1,5 @@
 // Guarda a tela do painel para abrir rápido; os dados sempre vêm da internet primeiro.
-const CACHE = "radar-v1";
+const CACHE = "radar-v2";
 const TELA = ["./", "index.html", "manifest.webmanifest", "icone-192.png", "icone-180.png"];
 
 self.addEventListener("install", (e) => {
