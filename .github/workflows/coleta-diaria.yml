@@ -13,6 +13,7 @@ on:
       - "radar/**"
       - "coletar_leiloes.py"
       - "coletar_imoveis.py"
+      - "enviar_alertas.py"
       - "requirements.txt"
       - ".github/workflows/coleta-diaria.yml"
 
@@ -43,6 +44,9 @@ jobs:
           pip install -r requirements.txt
           python -m playwright install --with-deps chromium
 
+      - name: Guardar os dados de ontem (para saber o que é novo)
+        run: cp -r docs/dados /tmp/dados-anteriores
+
       - name: Coletar leilões
         run: python coletar_leiloes.py
         env:
@@ -55,6 +59,16 @@ jobs:
         run: python coletar_imoveis.py
         env:
           PYTHONUNBUFFERED: "1"
+
+      - name: Enviar alertas
+        # Só na coleta das 07:00 (ou pelo botão), para não mandar alerta a cada envio de código
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: python enviar_alertas.py /tmp/dados-anteriores
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_VOCE: ${{ secrets.TELEGRAM_CHAT_VOCE }}
+          TELEGRAM_CHAT_LORE: ${{ secrets.TELEGRAM_CHAT_LORE }}
 
       - name: Salvar os dados no repositório
         run: |
