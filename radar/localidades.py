@@ -1,13 +1,16 @@
-"""Descobre o estado (UF) de uma cidade pela lista oficial de municípios do IBGE."""
+"""Descobre o estado (UF) de uma cidade pela lista oficial de municípios do IBGE.
+
+A lista fica guardada em radar/dados/municipios.json porque o site do IBGE
+não responde bem para os servidores do GitHub (que ficam fora do Brasil).
+"""
 
 import json
 import unicodedata
 from functools import lru_cache
+from pathlib import Path
 from typing import Dict, Set
 
-from radar.http import baixar
-
-URL_MUNICIPIOS = "https://servicodados.ibge.gov.br/api/v1/localidades/municipios?view=nivelado"
+ARQUIVO_MUNICIPIOS = Path(__file__).parent / "dados" / "municipios.json"
 
 
 def nome_cidade(cidade: str) -> str:
@@ -24,18 +27,15 @@ def _chave(cidade: str) -> str:
 @lru_cache(maxsize=1)
 def _ufs_por_cidade() -> Dict[str, Set[str]]:
     mapa: Dict[str, Set[str]] = {}
-    for m in json.loads(baixar(URL_MUNICIPIOS, timeout=60)):
-        mapa.setdefault(_chave(m["municipio-nome"]), set()).add(m["UF-sigla"])
+    for nome, ufs in json.loads(ARQUIVO_MUNICIPIOS.read_text(encoding="utf-8")).items():
+        mapa.setdefault(_chave(nome), set()).update(ufs)
     return mapa
 
 
 def uf_da_cidade(cidade: str, preferida: str = "") -> str:
     """Devolve a UF da cidade. Se o nome existir em mais de um estado,
     usa a UF `preferida` quando ela for uma das opções; senão, vazio."""
-    try:
-        ufs = _ufs_por_cidade().get(_chave(cidade), set())
-    except RuntimeError:
-        return ""
+    ufs = _ufs_por_cidade().get(_chave(cidade), set())
     if len(ufs) == 1:
         return next(iter(ufs))
     return preferida if preferida in ufs else ""

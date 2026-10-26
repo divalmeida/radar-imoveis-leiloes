@@ -79,6 +79,7 @@ def coletar() -> List[Lote]:
         ofertas = dados.get("offers") or []
         if numero == 1:
             print(f"[Superbid] {dados.get('total')} ofertas abertas em Tecnologia e Eletrodomésticos")
+        print(f"[Superbid] página {numero}: {len(ofertas)} ofertas", flush=True)
         for oferta in ofertas:
             if (oferta.get("offerStatus") or {}).get("closedToBids"):
                 continue
