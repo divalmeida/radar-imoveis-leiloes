@@ -564,7 +564,9 @@ function iniciarLeiloes(dados) {
   $("fonte").innerHTML += fontes.map((f) => `<option>${escapar(f)}</option>`).join("");
 
   $("fontes").innerHTML = "Fontes da última coleta: " + Object.entries(dados.fontes).map(([n, s]) =>
-    s.ok ? `${escapar(n)} (${s.lotes})` : `<span class="erro">${escapar(n)} (falhou)</span>`).join(" · ");
+    s.ok ? `${escapar(n)} (${s.lotes})` : s.dados_de
+      ? `<span class="erro">${escapar(n)} (falhou agora; mostrando ${s.lotes} da coleta de ${dataBR(s.dados_de)} ${escapar(s.dados_de.slice(11))})</span>`
+      : `<span class="erro">${escapar(n)} (falhou)</span>`).join(" · ");
 
   let espera;
   $("busca").oninput = () => { clearTimeout(espera); espera = setTimeout(() => desenharLe(true), 200); };

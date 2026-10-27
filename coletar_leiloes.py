@@ -32,9 +32,26 @@ def _rodar_com_limite(coletar, minutos: int):
             raise RuntimeError(f"passou de {minutos} minutos e foi interrompido")
 
 
+def _anteriores() -> dict:
+    """Lotes da coleta anterior, por fonte (usados quando uma fonte falha)."""
+    try:
+        dados = json.loads(ARQUIVO_SAIDA.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    por_fonte: dict = {}
+    for lote in dados.get("lotes", []):
+        por_fonte.setdefault(lote["fonte"], []).append(lote)
+    for nome, info in dados.get("fontes", {}).items():
+        for lote in por_fonte.get(nome, []):
+            lote.setdefault("_coletado_em", info.get("dados_de") or dados.get("atualizado_em"))
+    return por_fonte
+
+
 def main() -> None:
     lotes = []
     status = {}
+    anteriores = _anteriores()
+    guardados = []  # lotes mantidos da coleta anterior (já em formato de dicionário)
     for nome, (coletar, minutos) in COLETORES.items():
         inicio = datetime.now()
         print(f"\n=== {nome} ===", flush=True)
@@ -45,6 +62,15 @@ def main() -> None:
         except Exception as erro:  # uma fonte com problema não derruba as outras
             print(f"[ERRO] {nome}: {erro}", flush=True)
             status[nome] = {"ok": False, "erro": str(erro)}
+            # Mantém a última lista boa dessa fonte, avisando de quando ela é
+            antigos = anteriores.get(nome, [])
+            if antigos:
+                status[nome]["dados_de"] = antigos[0].pop("_coletado_em", None)
+                for lote in antigos:
+                    lote.pop("_coletado_em", None)
+                guardados.extend(antigos)
+                status[nome]["lotes"] = len(antigos)
+                print(f"[{nome}] mantidos {len(antigos)} lotes da coleta de {status[nome]['dados_de']}", flush=True)
         segundos = (datetime.now() - inicio).seconds
         status[nome]["segundos"] = segundos
         print(f"=== {nome}: {segundos} s ===", flush=True)
@@ -53,7 +79,7 @@ def main() -> None:
     resultado = {
         "atualizado_em": datetime.now(FUSO_BRASILIA).strftime("%Y-%m-%d %H:%M"),
         "fontes": status,
-        "lotes": [l.para_dict() for l in lotes],
+        "lotes": [l.para_dict() for l in lotes] + guardados,
     }
     ARQUIVO_SAIDA.parent.mkdir(parents=True, exist_ok=True)
     ARQUIVO_SAIDA.write_text(json.dumps(resultado, ensure_ascii=False, indent=1), encoding="utf-8")
