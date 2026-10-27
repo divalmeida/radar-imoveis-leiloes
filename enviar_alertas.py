@@ -92,9 +92,13 @@ def mensagem_imoveis(dados: dict, anterior: dict, sempre: bool) -> str:
         grupos.setdefault(a.get("grupo") or a["id"], []).append(a)
 
     novos, baixaram, subiram = [], [], []
+    portais_antes = {a.get("fonte") for a in antes.values()}
     if antes:  # sem coleta anterior não dá para saber o que mudou
         for grupo, lista in grupos.items():
             lista.sort(key=lambda a: a.get("preco") or 1e12)
+            # Portal recém-incluído: tudo dele seria "novo"; só conta a partir da próxima coleta
+            if not any(a.get("fonte") in portais_antes for a in lista):
+                continue
             if grupo not in grupos_antes and not any(a["id"] in antes for a in lista):
                 novos.append(lista[0])
                 continue

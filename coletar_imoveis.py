@@ -24,13 +24,19 @@ from radar.config import (
     PRECO_MINIMO_COMPRA,
     QUARTOS_MINIMO,
 )
-from radar.coletores import chavesnamao
+from radar.coletores import chavesnamao, quintoandar
 from radar.localidades import chave_texto
 
 PASTA = Path(__file__).parent / "docs" / "dados"
 ARQUIVO = PASTA / "imoveis.json"
 FUSO_BRASILIA = timezone(timedelta(hours=-3))
 TEMPO_MAXIMO_DETALHES = 12 * 60  # segundos
+
+# Portais coletados todo dia (cada um com a função buscar(negocio, cidade, quartos, preco_max))
+PORTAIS = {
+    "Chaves na Mão": chavesnamao,
+    "QuintoAndar": quintoandar,
+}
 
 
 def _anterior() -> dict:
@@ -92,23 +98,29 @@ def _referencia_aluguel(alugueis: list) -> dict:
 def main() -> None:
     hoje = date.today().isoformat()
     anterior = _anterior()
-    primeira_coleta = not anterior
+    # Um portal que aparece pela primeira vez não marca tudo como "novo"
+    portais_antes = {a.get("fonte") for a in anterior.values()}
 
     compras, alugueis, status = [], [], {}
-    for cidade in CIDADES_IMOVEIS:
+    buscas = [
+        (portal, modulo, cidade, negocio, preco_min, preco_max, destino)
+        for portal, modulo in PORTAIS.items()
+        for cidade in CIDADES_IMOVEIS
         for negocio, preco_min, preco_max, destino in (
             ("compra", PRECO_MINIMO_COMPRA, PRECO_MAXIMO_COMPRA, compras),
             ("aluguel", PRECO_MINIMO_ALUGUEL, PRECO_MAXIMO_ALUGUEL, alugueis),
-        ):
-            chave = f"Chaves na Mão - {negocio} - {cidade['nome']}"
-            try:
-                encontrados = chavesnamao.buscar(negocio, cidade, QUARTOS_MINIMO, preco_max)
-                encontrados = [a for a in encontrados if a.get("preco") and a["preco"] >= preco_min]
-                destino.extend(encontrados)
-                status[chave] = {"ok": True, "anuncios": len(encontrados)}
-            except Exception as erro:
-                print(f"[ERRO] {chave}: {erro}", flush=True)
-                status[chave] = {"ok": False, "erro": str(erro)}
+        )
+    ]
+    for portal, modulo, cidade, negocio, preco_min, preco_max, destino in buscas:
+        chave = f"{portal} - {negocio} - {cidade['nome']}"
+        try:
+            encontrados = modulo.buscar(negocio, cidade, QUARTOS_MINIMO, preco_max)
+            encontrados = [a for a in encontrados if a.get("preco") and a["preco"] >= preco_min]
+            destino.extend(encontrados)
+            status[chave] = {"ok": True, "anuncios": len(encontrados)}
+        except Exception as erro:
+            print(f"[ERRO] {chave}: {erro}", flush=True)
+            status[chave] = {"ok": False, "erro": str(erro)}
 
     # Histórico: novos, quedas de preço e detalhes já buscados antes
     for a in compras:
@@ -121,7 +133,7 @@ def main() -> None:
             if a["preco"] and historico and historico[-1]["preco"] != a["preco"]:
                 historico.append({"data": hoje, "preco": a["preco"]})
         else:
-            a["primeiro_visto"] = hoje if not primeira_coleta else None
+            a["primeiro_visto"] = hoje if a["fonte"] in portais_antes else None
             a["historico_precos"] = [{"data": hoje, "preco": a["preco"]}]
 
         visto = a.get("primeiro_visto")
@@ -146,7 +158,7 @@ def main() -> None:
     falhas = {k for k, s in status.items() if not s["ok"]}
     ids = {a["id"] for a in compras}
     for a in anterior.values():
-        if a["id"] not in ids and f"Chaves na Mão - compra - {a['cidade']}" in falhas:
+        if a["id"] not in ids and f"{a.get('fonte')} - compra - {a['cidade']}" in falhas:
             compras.append(a)
 
     _marcar_repetidos(compras)
