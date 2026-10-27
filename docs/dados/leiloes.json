@@ -1,14 +1,14 @@
 {
- "atualizado_em": "2026-10-27 09:38",
+ "atualizado_em": "2026-10-27 09:56",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 503,
-   "segundos": 476
+   "segundos": 580
   },
   "Superbid": {
    "ok": true,
-   "lotes": 700,
+   "lotes": 702,
    "segundos": 8
   },
   "Caixa": {
@@ -1117,7 +1117,7 @@
    "id": "superbid-5063058",
    "titulo": "TABLET XIAOMI PAD 7 GRAY 8GB RAM 256GB, TABLET VAIO TL10   (02 UN)     (Ref.: SB0033924)",
    "categoria": "Informática",
-   "lance_atual": 1400,
+   "lance_atual": 1500,
    "encerramento": "2026-10-27 16:38",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1129,7 +1129,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 8,
+    "lances": 9,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -12348,6 +12348,54 @@
     "lances": 0,
     "leiloeiro": "SOLD",
     "leilao": "Wilson Sons"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068105",
+   "titulo": "LAVA-LOUÇAS INDUSTRIAL DE CAPOTA EM AÇO INOX",
+   "categoria": "Limpeza",
+   "lance_atual": 2000,
+   "encerramento": "2026-11-06 10:24",
+   "cidade": "Sertãozinho",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lava-loucas-industrial-de-capota-em-aco-inox-5068105",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c63a95da-d691-4c66-be10-cfcf4d19704a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Savegnago"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071795",
+   "titulo": "LAVA-LOUÇAS INDUSTRIAL DE CAPOTA EM AÇO INOX",
+   "categoria": "Limpeza",
+   "lance_atual": 2000,
+   "encerramento": "2026-11-06 10:24",
+   "cidade": "Sertãozinho",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lava-loucas-industrial-de-capota-em-aco-inox-5071795",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4a3b9e5b-0a16-4052-a9a5-74b44742f5c0.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Savegnago"
    },
    "prioridade": false,
    "destaque": true
@@ -26232,7 +26280,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/57",
    "valor_avaliacao": 300000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_57_553995_9e7ef43284c8db6a4ffbe4bf38839902.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -26252,7 +26300,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/58",
    "valor_avaliacao": 40000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_58_553996_382da3b1bf011d3dd0735d278fb14c97.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -26272,7 +26320,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/59",
    "valor_avaliacao": 240000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_59_553997_fab3be468a374c1768ea528c1c8e5218.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
