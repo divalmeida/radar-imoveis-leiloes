@@ -15,7 +15,6 @@ on:
       - "coletar_leiloes.py"
       - "coletar_imoveis.py"
       - "enviar_alertas.py"
-      - "requirements.txt"
       - ".github/workflows/coleta-diaria.yml"
 
 permissions:
@@ -38,12 +37,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
-
-      - name: Instalar navegador para sites com anti-robô
-        run: |
-          pip install -r requirements.txt
-          python -m playwright install --with-deps chromium
 
       - name: Guardar os dados de ontem (para saber o que é novo)
         run: cp -r docs/dados /tmp/dados-anteriores
