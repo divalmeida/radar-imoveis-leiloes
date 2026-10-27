@@ -2,14 +2,14 @@
 
 - Compara com a coleta anterior para marcar anúncios NOVOS e QUEDAS DE PREÇO.
 - Junta o mesmo imóvel anunciado em portais diferentes (quando houver mais portais).
-- Calcula o aluguel de referência por bairro, usado no painel para estimar
-  o rendimento das compras e dos imóveis de leilão.
+- Calcula o aluguel estimado de TODO imóvel à venda (e dos apartamentos da
+  Caixa) e o custo mensal (condomínio + IPTU).
 
 Uso:  python3 coletar_imoveis.py
 """
 
 import json
-import statistics
+import re
 import time
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -24,6 +24,7 @@ from radar.config import (
     PRECO_MINIMO_COMPRA,
     QUARTOS_MINIMO,
 )
+from radar.aluguel import Referencia
 from radar.coletores import chavesnamao, quintoandar
 from radar.localidades import chave_texto
 
@@ -54,6 +55,40 @@ def _chave_imovel(a: dict) -> str:
     return f"{chave_texto(a['cidade'])}|{chave_texto(a.get('bairro') or '')}|{a.get('quartos')}|{area}|{preco}"
 
 
+def _custos(a: dict) -> None:
+    """Custo mensal fixo do imóvel: condomínio + IPTU.
+    Alguns anúncios informam o IPTU do ano inteiro; quando o valor é alto demais
+    para ser mensal, dividimos por 12."""
+    if a.get("condominio_iptu"):  # QuintoAndar informa os dois somados, por mês
+        a["custo_mensal"] = a["condominio_iptu"]
+        return
+    iptu = a.get("iptu")
+    a["iptu_anual"] = bool(iptu and iptu > max(600, 2 * (a.get("condominio") or 0)))
+    a["iptu_mensal"] = round(iptu / 12) if a["iptu_anual"] else iptu
+    partes = [v for v in (a.get("condominio"), a["iptu_mensal"]) if v]
+    a["custo_mensal"] = round(sum(partes)) if partes else None
+
+
+def _aluguel_caixa(referencia: Referencia) -> dict:
+    """Aluguel estimado dos apartamentos da Caixa (aba Leilões), pela mesma regra."""
+    try:
+        leiloes = json.loads((PASTA / "leiloes.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    estimativas = {}
+    for lote in leiloes.get("lotes", []):
+        det = lote.get("detalhes") or {}
+        if lote.get("fonte") != "Caixa" or "apartamento" not in (lote.get("categoria") or "").lower():
+            continue
+        descricao = det.get("descricao") or ""
+        m = re.search(r"([\d.]+) de área privativa", descricao) or re.search(r"([\d.]+) de área total", descricao)
+        q = re.search(r"(\d+) qto", descricao)
+        est = referencia.estimar(lote["cidade"], det.get("bairro"), float(m.group(1)) if m else None, int(q.group(1)) if q else None)
+        if est:
+            estimativas[lote["id"]] = est
+    return estimativas
+
+
 def _variacao(a: dict) -> None:
     """Compara o preço atual com o anterior: subiu, baixou, quanto e quando."""
     historico = [h for h in a.get("historico_precos", []) if h.get("preco")]
@@ -74,25 +109,6 @@ def _marcar_repetidos(anuncios: list) -> None:
     'grupo'; o painel mostra um cartão por grupo."""
     for a in anuncios:
         a["grupo"] = _chave_imovel(a)
-
-
-def _referencia_aluguel(alugueis: list) -> dict:
-    """Mediana do aluguel por m² em cada bairro e em cada cidade."""
-    def resumo(lista):
-        por_m2 = [a["preco"] / a["area"] for a in lista if a.get("preco") and a.get("area") and a["area"] >= 25]
-        valores = [a["preco"] for a in lista if a.get("preco")]
-        return {"amostras": len(lista), "mediana": round(statistics.median(valores)) if valores else None,
-                "mediana_m2": round(statistics.median(por_m2), 2) if por_m2 else None}
-
-    referencia = {"cidades": {}, "bairros": {}}
-    for cidade in {a["cidade"] for a in alugueis}:
-        da_cidade = [a for a in alugueis if a["cidade"] == cidade]
-        referencia["cidades"][chave_texto(cidade)] = resumo(da_cidade)
-        for bairro in {a["bairro"] for a in da_cidade if a.get("bairro")}:
-            do_bairro = [a for a in da_cidade if a["bairro"] == bairro]
-            if len(do_bairro) >= 3:
-                referencia["bairros"][f"{chave_texto(cidade)}|{chave_texto(bairro)}"] = resumo(do_bairro)
-    return referencia
 
 
 def main() -> None:
@@ -130,8 +146,11 @@ def main() -> None:
     for a in compras:
         antes = anterior.get(a["id"])
         if antes:
-            for campo in ("primeiro_visto", "historico_precos", "detalhado", "financiamento", "condominio", "iptu", "publicado_em"):
+            for campo in ("primeiro_visto", "historico_precos", "detalhado", "financiamento", "publicado_em"):
                 if campo in antes:
+                    a[campo] = antes[campo]
+            for campo in ("condominio", "iptu"):  # vale o da coleta de hoje; o antigo só se hoje não veio
+                if a.get(campo) is None and antes.get(campo) is not None:
                     a[campo] = antes[campo]
             historico = a.setdefault("historico_precos", [])
             if a["preco"] and historico and historico[-1]["preco"] != a["preco"]:
@@ -166,6 +185,10 @@ def main() -> None:
             compras.append(a)
 
     _marcar_repetidos(compras)
+    referencia = Referencia(alugueis, {c["nome"]: c["regiao"] for c in CIDADES_IMOVEIS})
+    for a in compras:
+        _custos(a)
+        a["aluguel"] = referencia.estimar(a["cidade"], a.get("bairro"), a.get("area"), a.get("quartos"))
     resultado = {
         "atualizado_em": datetime.now(FUSO_BRASILIA).strftime("%Y-%m-%d %H:%M"),
         "filtros": {"quartos_minimo": QUARTOS_MINIMO, "preco_maximo_compra": PRECO_MAXIMO_COMPRA,
@@ -173,7 +196,7 @@ def main() -> None:
                     "regioes": [{"nome": r, "cidades": [c["nome"] for c in CIDADES_IMOVEIS if c["regiao"] == r]}
                                 for r in dict.fromkeys(c["regiao"] for c in CIDADES_IMOVEIS)]},
         "fontes": status,
-        "referencia_aluguel": _referencia_aluguel(alugueis),
+        "aluguel_caixa": _aluguel_caixa(referencia),
         "anuncios": compras,
         "alugueis": alugueis,
     }

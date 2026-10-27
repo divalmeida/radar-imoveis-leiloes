@@ -92,7 +92,7 @@ def buscar(negocio: str, cidade: dict, quartos: int, preco_max: int) -> List[dic
                 "imagem": f"https://www.quintoandar.com.br/img/v2/med/{s['coverImage']}" if s.get("coverImage") else None,
                 "anunciante": "QuintoAndar",
                 "na_planta": bool(s.get("isPrimaryMarket")),
-                "condominio": s.get("iptuPlusCondominium"),  # o QuintoAndar informa condomínio + IPTU juntos
+                "condominio_iptu": s.get("iptuPlusCondominium"),  # o QuintoAndar informa os dois somados, por mês
                 "link": f"{SITE}/imovel/{id_}/{'comprar' if negocio == 'compra' else 'alugar'}",
                 # O QuintoAndar não informa na lista se aceita financiamento
                 "detalhado": True,

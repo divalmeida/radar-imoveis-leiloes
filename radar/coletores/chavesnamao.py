@@ -83,6 +83,24 @@ def _anuncio(oferta: dict, negocio: str, cidade: dict) -> Optional[dict]:
     }
 
 
+_CUSTOS = re.compile(r'/id-(\d+)/"[^{}]{0,600}?"prices":\{([^}]*)\}')
+
+
+def _custos_da_pagina(html: str) -> Dict[str, dict]:
+    """Condomínio e IPTU de cada anúncio, que vêm nos dados do cartão da busca."""
+    texto = html.replace('\\"', '"')
+    custos = {}
+    for id_, precos in _CUSTOS.findall(texto):
+        cond = re.search(r'"condominiumFee":"([^"]*)"', precos)
+        iptu = re.search(r'"iptuValue":"([^"]*)"', precos)
+        if cond or iptu:
+            custos[f"cnm-{id_}"] = {
+                "condominio": _numero(cond.group(1)) if cond else None,
+                "iptu": _numero(iptu.group(1)) if iptu else None,
+            }
+    return custos
+
+
 def buscar(negocio: str, cidade: dict, quartos: int, preco_max: int) -> List[dict]:
     """Percorre todas as páginas de uma busca e devolve os anúncios."""
     anuncios: Dict[str, dict] = {}
@@ -97,9 +115,11 @@ def buscar(negocio: str, cidade: dict, quartos: int, preco_max: int) -> List[dic
             total = ofertas.get("numberOfItems") or 0
             total_paginas = math.ceil(total / POR_PAGINA)
             print(f"[Chaves na Mão] {negocio} {cidade['nome']}: {total} anúncios ({total_paginas} páginas)", flush=True)
+        custos = _custos_da_pagina(html)
         for oferta in ofertas.get("itemListElement") or []:
             anuncio = _anuncio(oferta, negocio, cidade)
             if anuncio:
+                anuncio.update(custos.get(anuncio["id"], {}))
                 anuncios[anuncio["id"]] = anuncio
         pagina += 1
     return list(anuncios.values())

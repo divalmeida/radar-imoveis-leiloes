@@ -11,14 +11,12 @@ Uso:  python3 enviar_alertas.py [pasta_com_dados_da_coleta_anterior]
 import html
 import json
 import os
-import statistics
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from radar.alertas import canais_configurados
 from radar.config import UFS_DESTAQUE
-from radar.localidades import chave_texto
 
 PASTA = Path(__file__).parent / "docs" / "dados"
 SITE = "https://divalmeida.github.io/radar-imoveis-leiloes/"
@@ -41,28 +39,7 @@ def _e(texto) -> str:
     return html.escape(str(texto or ""))
 
 
-# ---------- aluguel estimado (mesma regra do painel) ----------
-
-def _indice_alugueis(alugueis: list) -> dict:
-    indice = {}
-    for a in alugueis:
-        if a.get("preco") and a.get("bairro"):
-            indice.setdefault(f"{chave_texto(a['cidade'])}|{chave_texto(a['bairro'])}", []).append(a)
-    return indice
-
-
-def _aluguel_estimado(indice: dict, cidade, bairro, area, quartos):
-    do_bairro = indice.get(f"{chave_texto(cidade or '')}|{chave_texto(bairro or '')}", [])
-    comps = [a for a in do_bairro if (not quartos or a.get("quartos") == quartos)
-             and (not area or (a.get("area") and area * 0.7 <= a["area"] <= area * 1.3))]
-    if len(comps) >= 3:
-        return statistics.median(a["preco"] for a in comps)
-    if area:
-        por_m2 = [a for a in do_bairro if (not quartos or a.get("quartos") == quartos) and (a.get("area") or 0) >= 25]
-        if len(por_m2) >= 3 and area <= max(a["area"] for a in por_m2) * 1.3:
-            return min(statistics.median(a["preco"] / a["area"] for a in por_m2) * area, max(a["preco"] for a in por_m2))
-    return None
-
+# ---------- aluguel estimado (calculado na coleta, radar/aluguel.py) ----------
 
 def _linha_renda(estimado, preco) -> str:
     if not estimado or not preco:
@@ -85,7 +62,6 @@ def mensagem_imoveis(dados: dict, anterior: dict, sempre: bool) -> str:
     Se não houver novidade, só manda mensagem quando `sempre` for verdadeiro (resumo da manhã)."""
     if not dados:
         return ""
-    indice = _indice_alugueis(dados.get("alugueis", []))
     antes = {a["id"]: a for a in anterior.get("anuncios", [])}
     grupos_antes = {a.get("grupo") for a in antes.values()}
     grupos = {}
@@ -110,13 +86,15 @@ def mensagem_imoveis(dados: dict, anterior: dict, sempre: bool) -> str:
                     break
 
     def item(a, preco_antes=None):
-        est = _aluguel_estimado(indice, a["cidade"], a.get("bairro"), a.get("area"), a.get("quartos"))
+        est = (a.get("aluguel") or {}).get("valor")
         ficha = " · ".join(filter(None, [a.get("quartos") and f"{a['quartos']} qts", a.get("area") and f"{a['area']:.0f} m²"]))
         if preco_antes:
             preco = f"<s>{_reais(preco_antes)}</s> → <b>{_reais(a['preco'])}</b>  {_variacao_texto(preco_antes, a['preco'])}"
         else:
             preco = f"<b>{_reais(a.get('preco'))}</b>"
         fin = " · aceita financiamento" if a.get("financiamento") is True else ""
+        if a.get("custo_mensal"):
+            fin += f" · cond.+IPTU {_reais(a['custo_mensal'])}/mês"
         texto = (f"• {preco}\n   {_e(a.get('bairro'))}, {_e(a['cidade'])} ({ficha}){fin}"
                  f"{_linha_renda(est, a.get('preco'))}\n   <a href=\"{_e(a['link'])}\">ver anúncio</a>")
         return texto, (est * 12 / a["preco"] if est and a.get("preco") else 0)

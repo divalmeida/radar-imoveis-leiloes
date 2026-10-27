@@ -103,6 +103,8 @@
   .prazo { font-size: 13px; font-weight: 600; text-align: right; }
   .prazo.urgente { color: var(--vermelho); }
   .prazo.breve { color: var(--laranja); }
+  .custos { font-size: 13px; color: var(--texto); }
+  .custos.sem { color: var(--suave); font-size: 12px; }
   .renda { font-size: 13px; background: var(--chip); border-radius: 10px; padding: 8px 10px; }
   .renda b { color: var(--verde); }
   .renda small { display: block; color: var(--suave); font-size: 11px; margin-top: 2px; }
@@ -178,13 +180,20 @@
           <option value="60">60 m² ou mais</option>
           <option value="70">70 m² ou mais</option>
         </select>
-        <select id="im-portal" aria-label="Portal"><option value="">Todos os portais</option></select>
+        <select id="im-custo" aria-label="Condomínio + IPTU">
+          <option value="0">Cond. + IPTU: qualquer</option>
+          <option value="300">Até R$ 300/mês</option>
+          <option value="500">Até R$ 500/mês</option>
+          <option value="800">Até R$ 800/mês</option>
+        </select>
+                <select id="im-portal" aria-label="Portal"><option value="">Todos os portais</option></select>
         <select id="im-ordem" aria-label="Ordenar">
           <option value="recentes">Mais recentes</option>
           <option value="menor">Menor preço</option>
           <option value="rendimento">Maior rendimento</option>
           <option value="m2">Menor preço por m²</option>
           <option value="queda">Maior queda de preço</option>
+          <option value="custo">Menor condomínio + IPTU</option>
         </select>
       </div>
     </div>
@@ -236,48 +245,29 @@ const chave = (t) => semAcento(t).toUpperCase().replace(/'/g, " ").replace(/\s+/
 const escapar = (t) => String(t ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const dataBR = (iso) => iso ? iso.slice(0, 10).split("-").reverse().slice(0, 2).join("/") : "";
 
-/* ---------- Aluguel estimado por comparáveis ---------- */
-// Para cada imóvel, procura aluguéis do MESMO bairro, com os mesmos quartos e
-// área parecida (±30%). Com menos de 3 comparáveis, não estima.
-const ALUGUEIS = new Map();
-const MIN_COMPARAVEIS = 3;
-
-function indexarAlugueis(lista) {
-  for (const a of lista) {
-    if (!a.preco || !a.bairro) continue;
-    const k = `${chave(a.cidade)}|${chave(a.bairro)}`;
-    if (!ALUGUEIS.has(k)) ALUGUEIS.set(k, []);
-    ALUGUEIS.get(k).push(a);
-  }
-}
-
-function mediana(v) { const s = [...v].sort((a, b) => a - b); const m = s.length >> 1; return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2; }
-
-function aluguelEstimado(cidade, bairro, area, quartos) {
-  const doBairro = ALUGUEIS.get(`${chave(cidade)}|${chave(bairro)}`) || [];
-  const parecidos = (a) => (!quartos || a.quartos === quartos) && (!area || (a.area && a.area >= area * 0.7 && a.area <= area * 1.3));
-  let comps = doBairro.filter(parecidos);
-  let criterio = [quartos && `${quartos} quartos`, area && "área parecida"].filter(Boolean).join(" e ");
-  if (comps.length < MIN_COMPARAVEIS && area) {
-    // sem área parecida suficiente: usa o valor por m² dos aluguéis com os mesmos quartos
-    const porM2 = doBairro.filter((a) => (!quartos || a.quartos === quartos) && a.area >= 25);
-    // Área muito fora do que existe no bairro costuma ser erro do anúncio: não estima
-    const maiorArea = Math.max(...porM2.map((a) => a.area));
-    if (porM2.length >= MIN_COMPARAVEIS && area <= maiorArea * 1.3) {
-      const valor = Math.min(mediana(porM2.map((a) => a.preco / a.area)) * area, Math.max(...porM2.map((a) => a.preco)));
-      return { valor: Math.round(valor / 50) * 50, n: porM2.length, criterio: `${quartos ? quartos + " quartos, " : ""}pelo valor do m²` };
-    }
-  }
-  if (comps.length < MIN_COMPARAVEIS) return null;
-  return { valor: Math.round(mediana(comps.map((a) => a.preco)) / 50) * 50, n: comps.length, criterio };
-}
+/* ---------- Aluguel estimado e custos ---------- */
+// O aluguel estimado é calculado na coleta (radar/aluguel.py) para todo imóvel
+// à venda: do mais preciso (mesmo bairro, quartos e área) ao mais geral.
+let ALUGUEL_CAIXA = {};
+const NIVEL = { bairro: "", cidade: "", regiao: " · referência fraca", geral: " · referência muito fraca" };
 
 function blocoRenda(est, preco) {
-  if (!preco) return "";
-  if (!est) return `<div class="renda">Aluguel estimado: <i>poucos aluguéis parecidos no bairro para comparar</i></div>`;
+  if (!preco || !est) return "";
   const rend = (est.valor * 12 / preco) * 100;
   return `<div class="renda">Aluguel estimado <b>${dinheiro.format(est.valor)}/mês</b> · rendimento <b>${rend.toFixed(1).replace(".", ",")}% ao ano</b>
-    <small>Mediana de ${est.n} aluguéis no mesmo bairro (${escapar(est.criterio)}). Bruto, sem condomínio, IPTU e vacância.</small></div>`;
+    <small>Mediana de ${est.amostras} aluguéis: ${escapar(est.base)}${NIVEL[est.nivel] || ""}. Bruto (condomínio e IPTU costumam ficar com o inquilino).</small></div>`;
+}
+
+function blocoCustos(a) {
+  const itens = [];
+  if (a.condominio_iptu) itens.push(`Condomínio + IPTU <b>${dinheiro.format(a.condominio_iptu)}</b>/mês`);
+  else {
+    if (a.condominio) itens.push(`Condomínio <b>${dinheiro.format(a.condominio)}</b>/mês`);
+    if (a.iptu) itens.push(a.iptu_anual ? `IPTU <b>${dinheiro.format(a.iptu)}</b>/ano (≈ ${dinheiro.format(a.iptu_mensal)}/mês)` : `IPTU <b>${dinheiro.format(a.iptu)}</b>/mês`);
+  }
+  if (!itens.length) return `<div class="custos sem">Condomínio e IPTU não informados no anúncio</div>`;
+  const total = a.custo_mensal && (a.condominio && a.iptu) ? ` · total <b>${dinheiro.format(a.custo_mensal)}/mês</b>` : "";
+  return `<div class="custos">${itens.join(" · ")}${total}</div>`;
 }
 
 /* ---------- Abas ---------- */
@@ -320,8 +310,11 @@ function montarGrupos(anuncios) {
       baixou_preco: mudou.variacao < 0, subiu_preco: mudou.variacao > 0, _quemMudou: mudou === lista[0] ? null : mudou });
     p._portais = [...new Set(lista.map((a) => a.fonte))];
     p.financiamento = lista.some((a) => a.financiamento === true) ? true : lista.some((a) => a.financiamento === false) ? false : null;
-    p.condominio = lista.map((a) => a.condominio).find((v) => v) ?? null;
-    p._est = aluguelEstimado(p.cidade, p.bairro, p.area, p.quartos);
+    // custos: usa o primeiro anúncio do grupo que informou
+    const comCusto = lista.find((a) => a.custo_mensal) || lista[0];
+    Object.assign(p, { condominio: comCusto.condominio, iptu: comCusto.iptu, iptu_anual: comCusto.iptu_anual, iptu_mensal: comCusto.iptu_mensal,
+      condominio_iptu: comCusto.condominio_iptu, custo_mensal: comCusto.custo_mensal });
+    p._est = lista.map((a) => a.aluguel).find(Boolean) || null;
     p._rend = p._est && p.preco ? p._est.valor * 12 / p.preco : null;
     p._m2 = p.area && p.preco ? p.preco / p.area : null;
     p._recente = lista.map((a) => a.primeiro_visto || a.publicado_em || "").sort().pop();
@@ -334,11 +327,13 @@ function filtrarIm() {
   const busca = semAcento($("im-busca").value).split(/\s+/).filter(Boolean);
   const q = +$("im-quartos").value, precoMax = +$("im-preco").value, areaMin = +$("im-area").value;
   const bairro = $("im-bairro").value, portal = $("im-portal").value;
+  const custoMax = +$("im-custo").value;
   let r = estadoIm.grupos.filter((g) => {
     if (estadoIm.cidade && g._regiao !== estadoIm.cidade) return false;
     if (bairro && `${g.cidade}|${g.bairro}` !== bairro) return false;
     if (precoMax && (g.preco || 0) > precoMax) return false;
     if (areaMin && (g.area || 0) < areaMin) return false;
+    if (custoMax && !(g.custo_mensal && g.custo_mensal <= custoMax)) return false;
     if (portal && !g._portais.includes(portal)) return false;
     if (estadoIm.marca === "novos" && !g.novo) return false;
     if (estadoIm.marca === "baixou" && !g.baixou_preco) return false;
@@ -352,6 +347,7 @@ function filtrarIm() {
   if (o === "menor") r.sort((a, b) => (a.preco ?? 1e12) - (b.preco ?? 1e12));
   else if (o === "rendimento") r.sort((a, b) => (b._rend ?? -1) - (a._rend ?? -1));
   else if (o === "m2") r.sort((a, b) => (a._m2 ?? 1e12) - (b._m2 ?? 1e12));
+  else if (o === "custo") r.sort((a, b) => (a.custo_mensal ?? 1e9) - (b.custo_mensal ?? 1e9));
   else if (o === "queda") r.sort((a, b) => (a.variacao_pct ?? 0) - (b.variacao_pct ?? 0));
   else r.sort((a, b) => (b.novo - a.novo) || (b.baixou_preco - a.baixou_preco) || (b._recente || "").localeCompare(a._recente || ""));
   return r;
@@ -369,7 +365,7 @@ function cartaoIm(g) {
   selos.push(`<span class="selo">${escapar(g.fonte)}</span>`);
 
   const ficha = [g.quartos && `${g.quartos} quartos`, g.area && `${g.area} m²`, g.banheiros && `${g.banheiros} banh.`,
-    g.condominio && `cond. ${dinheiro.format(g.condominio)}`, g._m2 && `${dinheiro.format(g._m2)}/m²`].filter(Boolean);
+    g._m2 && `${dinheiro.format(g._m2)}/m²`].filter(Boolean);
 
   const outros = g.outros.length ? `<details><summary>Mais ${g.outros.length} anúncio${g.outros.length > 1 ? "s" : ""} do mesmo imóvel</summary><ul>${
     g.outros.map((o) => `<li><a href="${escapar(o.link)}" target="_blank" rel="noopener">${escapar(o.anunciante || o.fonte)}</a> · ${o.preco ? dinheiro.format(o.preco) : "—"}</li>`).join("")}</ul></details>` : "";
@@ -382,6 +378,7 @@ function cartaoIm(g) {
     ${g.variacao ? `<div class="variacao ${g.variacao < 0 ? "desce" : "sobe"}">${g.variacao < 0 ? "▼ Baixou" : "▲ Subiu"} ${dinheiro.format(Math.abs(g.variacao))}
       (${g.variacao < 0 ? "−" : "+"}${String(Math.abs(g.variacao_pct)).replace(".", ",")}%) em ${dataBR(g.variacao_em)} · antes ${dinheiro.format(g.preco_anterior)}${g._quemMudou ? ` <small>(anúncio de ${escapar(g._quemMudou.anunciante || g._quemMudou.fonte)})</small>` : ""}</div>` : ""}
     <div class="ficha">${ficha.map((f) => `<span>${f}</span>`).join("")}</div>
+    ${blocoCustos(g)}
     ${blocoRenda(g._est, g.preco)}
     <div class="selos">${selos.join("")}</div>
     ${outros}
@@ -398,7 +395,7 @@ function desenharIm(reiniciar) {
 }
 
 function iniciarImoveis(dados) {
-  indexarAlugueis(dados.alugueis);
+  ALUGUEL_CAIXA = dados.aluguel_caixa || {};
   estadoIm.atualizado = `atualizado ${dataBR(dados.atualizado_em)} · ${dados.atualizado_em.slice(11)}`;
   estadoIm.grupos = montarGrupos(dados.anuncios);
   const f = dados.filtros;
@@ -436,7 +433,7 @@ function iniciarImoveis(dados) {
     Object.entries(dados.fontes).map(([n, s]) => s.ok ? `${escapar(n)} (${s.anuncios})` : `<span class="erro">${escapar(n)} (falhou)</span>`).join(" · ");
   let espera;
   $("im-busca").oninput = () => { clearTimeout(espera); espera = setTimeout(() => desenharIm(true), 200); };
-  ["im-quartos", "im-ordem", "im-bairro", "im-preco", "im-area", "im-portal"].forEach((id) => ($(id).onchange = () => desenharIm(true)));
+  ["im-quartos", "im-ordem", "im-bairro", "im-preco", "im-area", "im-portal", "im-custo"].forEach((id) => ($(id).onchange = () => desenharIm(true)));
   $("im-mais").onclick = () => { estadoIm.mostrando += POR_PAGINA; desenharIm(false); };
   desenharIm(true);
 }
@@ -485,12 +482,6 @@ function desconto(l) {
   return null;
 }
 
-function areaDaCaixa(l) {
-  const m = /([\d.]+) de área privativa/.exec((l.detalhes && l.detalhes.descricao) || "") || /([\d.]+) de área total/.exec((l.detalhes && l.detalhes.descricao) || "");
-  const v = m ? parseFloat(m[1]) : 0;
-  return v > 0 ? v : null;
-}
-
 function filtrarLe() {
   const busca = semAcento($("busca").value).split(/\s+/).filter(Boolean);
   const publico = $("publico").value, fonte = $("fonte").value;
@@ -532,7 +523,7 @@ function cartaoLe(l) {
       <div class="preco"><span class="rotulo">${rotulo}</span>${l.lance_atual != null ? dinheiro.format(l.lance_atual) : "—"}</div>
       <div class="prazo ${p.classe}">${escapar(p.texto)}</div>
     </div>
-    ${l._tipo === "imoveis" && /apartamento/i.test(l.categoria) ? blocoRenda(l._est, l.lance_atual) : ""}
+    ${l._est ? blocoRenda(l._est, l.lance_atual) : ""}
     <div class="selos">${selos.join("")}</div>
     <div class="acoes"><a href="${escapar(l.link)}" target="_blank" rel="noopener">Abrir no site do leilão</a></div>
   </article>`;
@@ -551,11 +542,8 @@ function iniciarLeiloes(dados) {
   estadoLe.lotes = dados.lotes.map((l) => {
     const item = { ...l, _tipo: tipoDoLote(l), _regiao: l.uf === "BA" ? regiaoDe(l.cidade) : null,
       _busca: semAcento(`${l.titulo} ${l.categoria} ${l.cidade} ${l.uf} ${l.fonte} ${(l.detalhes && l.detalhes.bairro) || ""}`) };
-    if (l.fonte === "Caixa" && /apartamento/i.test(l.categoria)) {
-      const q = /(\d+) qto/.exec((l.detalhes && l.detalhes.descricao) || "");
-      item._est = aluguelEstimado(l.cidade, l.detalhes && l.detalhes.bairro, areaDaCaixa(l), q ? +q[1] : null);
-      item._rend = item._est && l.lance_atual ? item._est.valor * 12 / l.lance_atual : null;
-    }
+    item._est = ALUGUEL_CAIXA[l.id] || null;  // só apartamentos da Caixa têm estimativa
+    item._rend = item._est && l.lance_atual ? item._est.valor * 12 / l.lance_atual : null;
     return item;
   });
 
