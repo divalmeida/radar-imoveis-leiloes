@@ -68,13 +68,13 @@
   }
   nav button[aria-selected="true"] { opacity: 1; border-bottom-color: #8fe3bd; }
   main { max-width: 1100px; margin: 0 auto; padding: 12px 16px 40px; }
-  .filtros { display: grid; gap: 8px; margin-bottom: 12px; }
+  .filtros { display: grid; grid-template-columns: minmax(0, 1fr); gap: 8px; margin-bottom: 12px; }
   .linha { display: flex; gap: 8px; flex-wrap: wrap; }
   input[type=search], select {
     font: inherit; font-size: 16px; color: var(--texto); background: var(--cartao);
     border: 1px solid var(--borda); border-radius: 10px; padding: 9px 11px; min-width: 0;
   }
-  input[type=search] { flex: 1 1 220px; }
+  input[type=search] { flex: 1 1 220px; width: 100%; }
   select { flex: 1 1 140px; }
   .chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: none; }
   .chips::-webkit-scrollbar { display: none; }
@@ -113,6 +113,11 @@
   .selo.desc { color: var(--laranja); }
   .selo.novo { background: var(--azul); color: #fff; }
   .selo.baixou { background: var(--verde); color: #fff; }
+  .selo.sobe { background: var(--vermelho); color: #fff; }
+  .variacao { font-size: 13px; font-weight: 600; }
+  .variacao.desce { color: var(--verde); }
+  .variacao.sobe { color: var(--vermelho); }
+  .variacao small { font-weight: 400; color: var(--suave); }
   .acoes a {
     display: block; text-align: center; text-decoration: none; font-weight: 600; font-size: 14px;
     padding: 9px; border-radius: 10px; background: var(--marca); color: var(--marca-texto);
@@ -145,21 +150,41 @@
   <section id="painel-imoveis">
     <div class="filtros">
       <div class="linha">
-        <input type="search" id="im-busca" placeholder="Buscar: bairro, rua, condomínio…" autocomplete="off">
+        <input type="search" id="im-busca" list="im-sugestoes" placeholder="Bairro, cidade, rua ou condomínio…" autocomplete="off">
+        <datalist id="im-sugestoes"></datalist>
       </div>
       <div class="chips" id="im-chips-cidade" aria-label="Cidade"></div>
       <div class="chips" id="im-chips-marca" aria-label="Destaques"></div>
+      <div class="linha">
+        <select id="im-bairro" aria-label="Bairro"><option value="">Todos os bairros</option></select>
+        <select id="im-preco" aria-label="Preço máximo">
+          <option value="0">Preço: qualquer</option>
+          <option value="100000">Até R$ 100 mil</option>
+          <option value="150000">Até R$ 150 mil</option>
+          <option value="200000">Até R$ 200 mil</option>
+          <option value="250000">Até R$ 250 mil</option>
+        </select>
+      </div>
       <div class="linha">
         <select id="im-quartos" aria-label="Quartos">
           <option value="0">Quartos: todos</option>
           <option value="2">2+ quartos</option>
           <option value="3">3+ quartos</option>
         </select>
+        <select id="im-area" aria-label="Área mínima">
+          <option value="0">Área: qualquer</option>
+          <option value="40">40 m² ou mais</option>
+          <option value="50">50 m² ou mais</option>
+          <option value="60">60 m² ou mais</option>
+          <option value="70">70 m² ou mais</option>
+        </select>
+        <select id="im-portal" aria-label="Portal"><option value="">Todos os portais</option></select>
         <select id="im-ordem" aria-label="Ordenar">
           <option value="recentes">Mais recentes</option>
           <option value="menor">Menor preço</option>
           <option value="rendimento">Maior rendimento</option>
           <option value="m2">Menor preço por m²</option>
+          <option value="queda">Maior queda de preço</option>
         </select>
       </div>
     </div>
@@ -173,9 +198,11 @@
   <section id="painel-leiloes" hidden>
     <div class="filtros">
       <div class="linha">
-        <input type="search" id="busca" placeholder="Buscar: iphone, notebook, apartamento…" autocomplete="off">
+        <input type="search" id="busca" list="sugestoes" placeholder="Buscar: iphone, notebook, cidade…" autocomplete="off">
+        <datalist id="sugestoes"></datalist>
       </div>
       <div class="chips" id="chips-tipo" aria-label="Tipo"></div>
+      <div class="chips" id="chips-cidade" aria-label="Cidade"></div>
       <div class="chips" id="chips-uf" aria-label="Estado"></div>
       <div class="linha">
         <select id="publico" aria-label="Quem pode comprar">
@@ -287,6 +314,11 @@ function montarGrupos(anuncios) {
     lista.sort((x, y) => (x.preco ?? 1e12) - (y.preco ?? 1e12));
     const p = { ...lista[0], outros: lista.slice(1) };
     p.novo = lista.some((a) => a.novo);
+    // Variação de preço: vale a do anúncio que mudou (se algum mudou)
+    const mudou = lista.find((a) => a.variacao);
+    if (mudou) Object.assign(p, { variacao: mudou.variacao, variacao_pct: mudou.variacao_pct, variacao_em: mudou.variacao_em, preco_anterior: mudou.preco_anterior,
+      baixou_preco: mudou.variacao < 0, subiu_preco: mudou.variacao > 0, _quemMudou: mudou === lista[0] ? null : mudou });
+    p._portais = [...new Set(lista.map((a) => a.fonte))];
     p.financiamento = lista.some((a) => a.financiamento === true) ? true : lista.some((a) => a.financiamento === false) ? false : null;
     p.condominio = lista.map((a) => a.condominio).find((v) => v) ?? null;
     p._est = aluguelEstimado(p.cidade, p.bairro, p.area, p.quartos);
@@ -300,11 +332,17 @@ function montarGrupos(anuncios) {
 
 function filtrarIm() {
   const busca = semAcento($("im-busca").value).split(/\s+/).filter(Boolean);
-  const q = +$("im-quartos").value;
+  const q = +$("im-quartos").value, precoMax = +$("im-preco").value, areaMin = +$("im-area").value;
+  const bairro = $("im-bairro").value, portal = $("im-portal").value;
   let r = estadoIm.grupos.filter((g) => {
     if (estadoIm.cidade && g.cidade !== estadoIm.cidade) return false;
+    if (bairro && `${g.cidade}|${g.bairro}` !== bairro) return false;
+    if (precoMax && (g.preco || 0) > precoMax) return false;
+    if (areaMin && (g.area || 0) < areaMin) return false;
+    if (portal && !g._portais.includes(portal)) return false;
     if (estadoIm.marca === "novos" && !g.novo) return false;
     if (estadoIm.marca === "baixou" && !g.baixou_preco) return false;
+    if (estadoIm.marca === "subiu" && !g.subiu_preco) return false;
     if (estadoIm.marca === "financiamento" && g.financiamento !== true) return false;
     if (estadoIm.marca === "rendimento" && !(g._rend >= 0.08)) return false;
     if (q && (g.quartos || 0) < q) return false;
@@ -314,6 +352,7 @@ function filtrarIm() {
   if (o === "menor") r.sort((a, b) => (a.preco ?? 1e12) - (b.preco ?? 1e12));
   else if (o === "rendimento") r.sort((a, b) => (b._rend ?? -1) - (a._rend ?? -1));
   else if (o === "m2") r.sort((a, b) => (a._m2 ?? 1e12) - (b._m2 ?? 1e12));
+  else if (o === "queda") r.sort((a, b) => (a.variacao_pct ?? 0) - (b.variacao_pct ?? 0));
   else r.sort((a, b) => (b.novo - a.novo) || (b.baixou_preco - a.baixou_preco) || (b._recente || "").localeCompare(a._recente || ""));
   return r;
 }
@@ -322,6 +361,7 @@ function cartaoIm(g) {
   const selos = [];
   if (g.novo) selos.push(`<span class="selo novo">Novo</span>`);
   if (g.baixou_preco) selos.push(`<span class="selo baixou">Baixou de preço</span>`);
+  if (g.subiu_preco) selos.push(`<span class="selo sobe">Subiu de preço</span>`);
   if (g.financiamento === true) selos.push(`<span class="selo fin">Aceita financiamento</span>`);
   else if (g.financiamento === false) selos.push(`<span class="selo pj">Só à vista</span>`);
   else selos.push(`<span class="selo">Financiamento não informado</span>`);
@@ -338,7 +378,9 @@ function cartaoIm(g) {
     ${g.imagem ? `<img class="foto grande" loading="lazy" src="${escapar(g.imagem)}" alt="">` : ""}
     <div><div class="titulo">${escapar(g.titulo)}</div>
       <div class="meta">${escapar(g.bairro)}, ${escapar(g.cidade)}${g.anunciante ? " · " + escapar(g.anunciante) : ""}</div></div>
-    <div class="valores"><div class="preco">${g.preco ? dinheiro.format(g.preco) : "—"}${g.baixou_preco && g.preco_anterior ? `<span class="riscado">${dinheiro.format(g.preco_anterior)}</span>` : ""}</div></div>
+    <div class="valores"><div class="preco">${g.preco ? dinheiro.format(g.preco) : "—"}</div></div>
+    ${g.variacao ? `<div class="variacao ${g.variacao < 0 ? "desce" : "sobe"}">${g.variacao < 0 ? "▼ Baixou" : "▲ Subiu"} ${dinheiro.format(Math.abs(g.variacao))}
+      (${g.variacao < 0 ? "−" : "+"}${String(Math.abs(g.variacao_pct)).replace(".", ",")}%) em ${dataBR(g.variacao_em)} · antes ${dinheiro.format(g.preco_anterior)}${g._quemMudou ? ` <small>(anúncio de ${escapar(g._quemMudou.anunciante || g._quemMudou.fonte)})</small>` : ""}</div>` : ""}
     <div class="ficha">${ficha.map((f) => `<span>${f}</span>`).join("")}</div>
     ${blocoRenda(g._est, g.preco)}
     <div class="selos">${selos.join("")}</div>
@@ -360,17 +402,37 @@ function iniciarImoveis(dados) {
   estadoIm.atualizado = `atualizado ${dataBR(dados.atualizado_em)} · ${dados.atualizado_em.slice(11)}`;
   estadoIm.grupos = montarGrupos(dados.anuncios);
   const f = dados.filtros;
-  chips($("im-chips-cidade"), [{ id: "", nome: "Todas as cidades" }, ...f.cidades.map((c) => ({ id: c, nome: c }))], estadoIm, "cidade", () => desenharIm(true));
+  const contar = (cidade) => estadoIm.grupos.filter((g) => g.cidade === cidade).length;
+  chips($("im-chips-cidade"), [{ id: "", nome: "Todas as cidades" }, ...f.cidades.map((c) => ({ id: c, nome: `${c} (${contar(c)})` }))], estadoIm, "cidade", () => {
+    preencherBairros(); desenharIm(true);
+  });
   chips($("im-chips-marca"), [
-    { id: "", nome: "Todos" }, { id: "novos", nome: "Novos" }, { id: "baixou", nome: "Baixaram de preço" },
+    { id: "", nome: "Todos" }, { id: "novos", nome: "Novos" }, { id: "baixou", nome: "▼ Baixaram de preço" }, { id: "subiu", nome: "▲ Subiram de preço" },
     { id: "financiamento", nome: "Aceita financiamento" }, { id: "rendimento", nome: "Rendimento 8%+ ao ano" },
   ], estadoIm, "marca", () => desenharIm(true));
+
+  // Sugestões enquanto digita: cidades e bairros
+  const bairros = new Map();
+  estadoIm.grupos.forEach((g) => g.bairro && bairros.set(`${g.cidade}|${g.bairro}`, (bairros.get(`${g.cidade}|${g.bairro}`) || 0) + 1));
+  $("im-sugestoes").innerHTML = [...f.cidades, ...[...bairros.keys()].map((k) => k.split("|")[1])]
+    .filter((v, i, a) => a.indexOf(v) === i).sort((a, b) => a.localeCompare(b)).map((v) => `<option value="${escapar(v)}">`).join("");
+
+  // Lista de bairros da cidade escolhida, com quantos imóveis cada um tem
+  function preencherBairros() {
+    const lista = [...bairros.entries()].filter(([k]) => !estadoIm.cidade || k.startsWith(estadoIm.cidade + "|"))
+      .sort((a, b) => a[0].split("|")[1].localeCompare(b[0].split("|")[1]));
+    $("im-bairro").innerHTML = `<option value="">Todos os bairros (${lista.length})</option>` +
+      lista.map(([k, n]) => `<option value="${escapar(k)}">${escapar(k.split("|")[1])}${estadoIm.cidade ? "" : " - " + escapar(k.split("|")[0])} (${n})</option>`).join("");
+  }
+  preencherBairros();
+  const portais = [...new Set(estadoIm.grupos.flatMap((g) => g._portais))].sort();
+  $("im-portal").innerHTML = `<option value="">Todos os portais</option>` + portais.map((p) => `<option>${escapar(p)}</option>`).join("");
   $("im-fontes").innerHTML = `Apartamentos à venda até ${dinheiro.format(f.preco_maximo_compra)}, ${f.quartos_minimo}+ quartos. ` +
     `Aluguel estimado com base em ${dados.alugueis.length} anúncios de aluguel (até ${dinheiro.format(f.preco_maximo_aluguel)}).<br>Fontes: ` +
     Object.entries(dados.fontes).map(([n, s]) => s.ok ? `${escapar(n)} (${s.anuncios})` : `<span class="erro">${escapar(n)} (falhou)</span>`).join(" · ");
   let espera;
   $("im-busca").oninput = () => { clearTimeout(espera); espera = setTimeout(() => desenharIm(true), 200); };
-  ["im-quartos", "im-ordem"].forEach((id) => ($(id).onchange = () => desenharIm(true)));
+  ["im-quartos", "im-ordem", "im-bairro", "im-preco", "im-area", "im-portal"].forEach((id) => ($(id).onchange = () => desenharIm(true)));
   $("im-mais").onclick = () => { estadoIm.mostrando += POR_PAGINA; desenharIm(false); };
   desenharIm(true);
 }
@@ -381,9 +443,9 @@ const TIPOS = [
   { id: "eletronicos", nome: "Eletrônicos e celulares" },
   { id: "eletrodomesticos", nome: "Eletrodomésticos" },
   { id: "imoveis", nome: "Imóveis Caixa" },
-  { id: "prioritarias", nome: "Salvador, Feira e Conceição" },
 ];
-const estadoLe = { lotes: [], tipo: "", uf: "", mostrando: POR_PAGINA, atualizado: "carregando…" };
+const CIDADES_PRIORITARIAS = ["Salvador", "Feira de Santana", "Conceição do Jacuípe"];
+const estadoLe = { lotes: [], tipo: "", uf: "", cidade: "", mostrando: POR_PAGINA, atualizado: "carregando…" };
 
 function tipoDoLote(l) {
   if (l.fonte === "Caixa") return "imoveis";
@@ -427,8 +489,8 @@ function filtrarLe() {
   let r = estadoLe.lotes.filter((l) => {
     const fim = dataDe(l.encerramento);
     if (fim && fim < agora) return false;
-    if (estadoLe.tipo === "prioritarias") { if (!l.prioridade) return false; }
-    else if (estadoLe.tipo && l._tipo !== estadoLe.tipo) return false;
+    if (estadoLe.tipo && l._tipo !== estadoLe.tipo) return false;
+    if (estadoLe.cidade && l._cidade !== chave(estadoLe.cidade)) return false;
     if (estadoLe.uf && l.uf !== estadoLe.uf) return false;
     if (publico && l.publico !== publico) return false;
     if (fonte && l.fonte !== fonte) return false;
@@ -478,7 +540,8 @@ function desenharLe(reiniciar) {
 function iniciarLeiloes(dados) {
   estadoLe.atualizado = `atualizado ${dataBR(dados.atualizado_em)} · ${dados.atualizado_em.slice(11)}`;
   estadoLe.lotes = dados.lotes.map((l) => {
-    const item = { ...l, _tipo: tipoDoLote(l), _busca: semAcento(`${l.titulo} ${l.categoria} ${l.cidade} ${l.uf} ${l.fonte}`) };
+    const item = { ...l, _tipo: tipoDoLote(l), _cidade: chave(l.cidade),
+      _busca: semAcento(`${l.titulo} ${l.categoria} ${l.cidade} ${l.uf} ${l.fonte} ${(l.detalhes && l.detalhes.bairro) || ""}`) };
     if (l.fonte === "Caixa" && /apartamento/i.test(l.categoria)) {
       const q = /(\d+) qto/.exec((l.detalhes && l.detalhes.descricao) || "");
       item._est = aluguelEstimado(l.cidade, l.detalhes && l.detalhes.bairro, areaDaCaixa(l), q ? +q[1] : null);
@@ -488,6 +551,11 @@ function iniciarLeiloes(dados) {
   });
 
   chips($("chips-tipo"), TIPOS, estadoLe, "tipo", () => desenharLe(true));
+  const nCidade = (c) => estadoLe.lotes.filter((l) => l._cidade === chave(c)).length;
+  chips($("chips-cidade"), [{ id: "", nome: "Todas as cidades" }, ...CIDADES_PRIORITARIAS.map((c) => ({ id: c, nome: `${c} (${nCidade(c)})` }))],
+    estadoLe, "cidade", () => desenharLe(true));
+  const cidades = [...new Set(estadoLe.lotes.map((l) => l.cidade).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+  $("sugestoes").innerHTML = cidades.map((c) => `<option value="${escapar(c)}">`).join("");
   const ufs = [...new Set(estadoLe.lotes.map((l) => l.uf).filter(Boolean))];
   ufs.sort((a, b) => (UFS_DESTAQUE.includes(b) - UFS_DESTAQUE.includes(a)) || a.localeCompare(b));
   chips($("chips-uf"), [{ id: "", nome: "Todos os estados" }, ...ufs.map((u) => ({ id: u, nome: UFS_DESTAQUE.includes(u) ? `★ ${u}` : u }))], estadoLe, "uf", () => desenharLe(true));

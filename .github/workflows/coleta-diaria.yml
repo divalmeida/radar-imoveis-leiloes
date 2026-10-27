@@ -2,8 +2,9 @@ name: Coleta diária
 
 on:
   schedule:
-    # Todo dia às 07:00 de Brasília (10:00 UTC)
-    - cron: "0 10 * * *"
+    # 3 vezes ao dia: 06:17, 12:17 e 18:17 de Brasília (09:17, 15:17 e 21:17 UTC).
+    # Minuto "quebrado" porque no horário cheio o GitHub atrasa mais.
+    - cron: "17 9,15,21 * * *"
   # Permite rodar na hora pelo botão "Run workflow"
   workflow_dispatch:
   # Roda também quando o código dos coletores muda (para testar na nuvem)

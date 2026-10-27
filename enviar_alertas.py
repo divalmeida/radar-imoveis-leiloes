@@ -72,51 +72,72 @@ def _linha_renda(estimado, preco) -> str:
 
 # ---------- mensagens ----------
 
-def mensagem_imoveis(dados: dict, hoje: str) -> str:
+def _variacao_texto(antes: float, agora: float) -> str:
+    """'▼ R$ 15.000 (−6,8%)' ou '▲ R$ 10.000 (+4,2%)'."""
+    diferenca = agora - antes
+    pct = str(round(abs(diferenca) / antes * 100, 1)).replace(".", ",")
+    return f"{'▼' if diferenca < 0 else '▲'} {_reais(abs(diferenca))} ({'−' if diferenca < 0 else '+'}{pct}%)"
+
+
+def mensagem_imoveis(dados: dict, anterior: dict, sempre: bool) -> str:
+    """Compara com a coleta anterior: o que apareceu e o que mudou de preço desde então.
+    Se não houver novidade, só manda mensagem quando `sempre` for verdadeiro (resumo da manhã)."""
     if not dados:
         return ""
     indice = _indice_alugueis(dados.get("alugueis", []))
+    antes = {a["id"]: a for a in anterior.get("anuncios", [])}
+    grupos_antes = {a.get("grupo") for a in antes.values()}
     grupos = {}
     for a in dados.get("anuncios", []):
         grupos.setdefault(a.get("grupo") or a["id"], []).append(a)
 
-    novos, baixaram = [], []
-    for lista in grupos.values():
-        lista.sort(key=lambda a: a.get("preco") or 1e12)
-        a = lista[0]
-        if any(x.get("primeiro_visto") == hoje for x in lista) and not any((x.get("primeiro_visto") or hoje) < hoje for x in lista):
-            novos.append(a)
-        elif any(x.get("baixou_preco") and (x.get("historico_precos") or [{}])[-1].get("data") == hoje for x in lista):
-            baixaram.append(next(x for x in lista if x.get("baixou_preco")))
+    novos, baixaram, subiram = [], [], []
+    if antes:  # sem coleta anterior não dá para saber o que mudou
+        for grupo, lista in grupos.items():
+            lista.sort(key=lambda a: a.get("preco") or 1e12)
+            if grupo not in grupos_antes and not any(a["id"] in antes for a in lista):
+                novos.append(lista[0])
+                continue
+            for a in lista:
+                velho = antes.get(a["id"])
+                if velho and velho.get("preco") and a.get("preco") and velho["preco"] != a["preco"]:
+                    (baixaram if a["preco"] < velho["preco"] else subiram).append((a, velho["preco"]))
+                    break
 
-    def item(a, queda=False):
+    def item(a, preco_antes=None):
         est = _aluguel_estimado(indice, a["cidade"], a.get("bairro"), a.get("area"), a.get("quartos"))
         ficha = " · ".join(filter(None, [a.get("quartos") and f"{a['quartos']} qts", a.get("area") and f"{a['area']:.0f} m²"]))
-        preco = _reais(a.get("preco"))
-        if queda and a.get("preco_anterior"):
-            preco = f"<s>{_reais(a['preco_anterior'])}</s> → <b>{_reais(a['preco'])}</b>"
+        if preco_antes:
+            preco = f"<s>{_reais(preco_antes)}</s> → <b>{_reais(a['preco'])}</b>  {_variacao_texto(preco_antes, a['preco'])}"
         else:
-            preco = f"<b>{preco}</b>"
+            preco = f"<b>{_reais(a.get('preco'))}</b>"
         fin = " · aceita financiamento" if a.get("financiamento") is True else ""
-        return (f"• {preco} — {_e(a.get('bairro'))}, {_e(a['cidade'])} ({ficha}){fin}"
-                f"{_linha_renda(est, a.get('preco'))}\n   <a href=\"{_e(a['link'])}\">ver anúncio</a>"), (est * 12 / a["preco"] if est and a.get("preco") else 0)
+        texto = (f"• {preco}\n   {_e(a.get('bairro'))}, {_e(a['cidade'])} ({ficha}){fin}"
+                 f"{_linha_renda(est, a.get('preco'))}\n   <a href=\"{_e(a['link'])}\">ver anúncio</a>")
+        return texto, (est * 12 / a["preco"] if est and a.get("preco") else 0)
 
-    partes = [f"🏠 <b>Radar Imóveis — {datetime.now(FUSO).strftime('%d/%m')}</b>"]
+    agora = datetime.now(FUSO)
+    partes = [f"🏠 <b>Radar Imóveis — {agora.strftime('%d/%m %H:%M')}</b>"]
     if novos:
         itens = sorted((item(a) for a in novos), key=lambda x: -x[1])
-        partes.append(f"<b>{len(novos)} apartamento{'s' if len(novos) > 1 else ''} novo{'s' if len(novos) > 1 else ''}</b> (maior rendimento primeiro):\n\n" +
+        partes.append(f"<b>🆕 {len(novos)} apartamento{'s' if len(novos) > 1 else ''} novo{'s' if len(novos) > 1 else ''}</b> (maior rendimento primeiro):\n\n" +
                       "\n\n".join(t for t, _ in itens[:MAX_ITENS]))
     if baixaram:
-        itens = sorted((item(a, queda=True) for a in baixaram), key=lambda x: -x[1])
-        partes.append(f"<b>{len(baixaram)} baixaram de preço:</b>\n\n" + "\n\n".join(t for t, _ in itens[:MAX_ITENS]))
-    if not novos and not baixaram:
-        partes.append("Nenhum apartamento novo ou com preço menor desde ontem.")
-    total = len(grupos)
-    partes.append(f"{total} apartamentos acompanhados. <a href=\"{SITE}\">Abrir o Radar</a>")
+        baixaram.sort(key=lambda x: (x[0]["preco"] - x[1]) / x[1])
+        partes.append(f"<b>📉 {len(baixaram)} {'baixaram' if len(baixaram) > 1 else 'baixou'} de preço:</b>\n\n" + "\n\n".join(item(a, p)[0] for a, p in baixaram[:MAX_ITENS]))
+    if subiram:
+        subiram.sort(key=lambda x: -(x[0]["preco"] - x[1]) / x[1])
+        partes.append(f"<b>📈 {len(subiram)} {'subiram' if len(subiram) > 1 else 'subiu'} de preço:</b>\n\n" + "\n\n".join(item(a, p)[0] for a, p in subiram[:MAX_ITENS]))
+    if not (novos or baixaram or subiram):
+        if not sempre:
+            return ""
+        partes.append("Nenhum apartamento novo e nenhuma mudança de preço desde a última coleta.")
+    partes.append(f"{len(grupos)} apartamentos acompanhados. <a href=\"{SITE}\">Abrir o Radar</a>")
     return "\n\n".join(partes)
 
 
-def mensagem_leiloes(dados: dict, anterior: dict) -> str:
+def mensagem_leiloes(dados: dict, anterior: dict, sempre: bool) -> str:
+    """Imóveis novos da Caixa em toda coleta; a lista do que encerra em 48h só no resumo da manhã."""
     if not dados:
         return ""
     agora = datetime.now(FUSO).replace(tzinfo=None)
@@ -125,7 +146,7 @@ def mensagem_leiloes(dados: dict, anterior: dict) -> str:
 
     caixa_novos = [l for l in lotes if l["fonte"] == "Caixa" and l.get("prioridade") and anterior and l["id"] not in ids_antes]
     encerrando = []
-    for l in lotes:
+    for l in (lotes if sempre else []):
         if l["fonte"] == "Caixa" or not l.get("encerramento") or l.get("uf") not in UFS_DESTAQUE:
             continue
         fim = datetime.strptime(l["encerramento"], "%Y-%m-%d %H:%M")
@@ -137,7 +158,7 @@ def mensagem_leiloes(dados: dict, anterior: dict) -> str:
             return 1 - l["lance_atual"] / l["valor_avaliacao"]
         return 0
 
-    partes = [f"🔨 <b>Radar Leilões — {datetime.now(FUSO).strftime('%d/%m')}</b>"]
+    partes = [f"🔨 <b>Radar Leilões — {datetime.now(FUSO).strftime('%d/%m %H:%M')}</b>"]
     if caixa_novos:
         caixa_novos.sort(key=lambda l: -(l.get("detalhes") or {}).get("desconto_pct", 0))
         partes.append(f"<b>{len(caixa_novos)} imóve{'is' if len(caixa_novos) > 1 else 'l'} novo{'s' if len(caixa_novos) > 1 else ''} da Caixa</b> (Salvador, Feira, Conceição):\n\n" + "\n\n".join(
@@ -152,6 +173,8 @@ def mensagem_leiloes(dados: dict, anterior: dict) -> str:
             f" · <a href=\"{_e(l['link'])}\">{_e(l['fonte'])}</a>"
             for l in encerrando[:MAX_ITENS]))
     if not caixa_novos and not encerrando:
+        if not sempre:
+            return ""
         partes.append("Nada novo da Caixa nas cidades prioritárias e nenhum lote encerrando em 48h nos estados em destaque.")
     falhas = [n for n, s in dados.get("fontes", {}).items() if not s.get("ok")]
     if falhas:
@@ -163,11 +186,13 @@ def mensagem_leiloes(dados: dict, anterior: dict) -> str:
 def main() -> None:
     previa = "--previa" in sys.argv
     pasta_anterior = next((Path(a) for a in sys.argv[1:] if not a.startswith("--")), None)
-    hoje = datetime.now(FUSO).date().isoformat()
+    anterior = (lambda nome: _ler(pasta_anterior / nome)) if pasta_anterior else (lambda nome: {})
+    # A coleta da manhã sempre manda um resumo; as outras só quando há novidade
+    sempre = datetime.now(FUSO).hour < 11
 
     mensagens = {
-        "imoveis": mensagem_imoveis(_ler(PASTA / "imoveis.json"), hoje),
-        "leiloes": mensagem_leiloes(_ler(PASTA / "leiloes.json"), _ler(pasta_anterior / "leiloes.json") if pasta_anterior else {}),
+        "imoveis": mensagem_imoveis(_ler(PASTA / "imoveis.json"), anterior("imoveis.json"), sempre),
+        "leiloes": mensagem_leiloes(_ler(PASTA / "leiloes.json"), anterior("leiloes.json"), sempre),
     }
 
     if previa:

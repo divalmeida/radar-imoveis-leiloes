@@ -48,6 +48,20 @@ def _chave_imovel(a: dict) -> str:
     return f"{chave_texto(a['cidade'])}|{chave_texto(a.get('bairro') or '')}|{a.get('quartos')}|{area}|{preco}"
 
 
+def _variacao(a: dict) -> None:
+    """Compara o preço atual com o anterior: subiu, baixou, quanto e quando."""
+    historico = [h for h in a.get("historico_precos", []) if h.get("preco")]
+    a["preco_anterior"] = a["variacao"] = a["variacao_pct"] = a["variacao_em"] = None
+    if len(historico) > 1:
+        antes, agora = historico[-2], historico[-1]
+        a["preco_anterior"] = antes["preco"]
+        a["variacao"] = agora["preco"] - antes["preco"]
+        a["variacao_pct"] = round(a["variacao"] / antes["preco"] * 100, 1)
+        a["variacao_em"] = agora["data"]
+    a["baixou_preco"] = bool(a["variacao"] and a["variacao"] < 0)
+    a["subiu_preco"] = bool(a["variacao"] and a["variacao"] > 0)
+
+
 def _marcar_repetidos(anuncios: list) -> None:
     """O mesmo imóvel costuma ser anunciado por várias imobiliárias e portais.
     Todos ficam guardados (para manter o histórico de cada um), com o mesmo
@@ -112,9 +126,7 @@ def main() -> None:
 
         visto = a.get("primeiro_visto")
         a["novo"] = bool(visto) and (date.fromisoformat(visto) >= date.today() - timedelta(days=DIAS_NOVO))
-        precos = [h["preco"] for h in a["historico_precos"] if h.get("preco")]
-        a["baixou_preco"] = len(precos) > 1 and precos[-1] < max(precos)
-        a["preco_anterior"] = max(precos) if a["baixou_preco"] else None
+        _variacao(a)
 
     # Detalhes (financiamento, condomínio): primeiro os novos, com limite de tempo
     pendentes = sorted((a for a in compras if not a.get("detalhado")), key=lambda a: not a["novo"])
@@ -151,8 +163,9 @@ def main() -> None:
     ARQUIVO.write_text(json.dumps(resultado, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     novos = sum(a["novo"] for a in resultado["anuncios"])
     baixaram = sum(a["baixou_preco"] for a in resultado["anuncios"])
+    subiram = sum(a["subiu_preco"] for a in resultado["anuncios"])
     imoveis = len({a["grupo"] for a in compras})
-    print(f"\nTotal: {len(compras)} anúncios à venda de {imoveis} imóveis ({novos} novos, {baixaram} baixaram de preço), "
+    print(f"\nTotal: {len(compras)} anúncios à venda de {imoveis} imóveis ({novos} novos, {baixaram} baixaram e {subiram} subiram de preço), "
           f"{len(alugueis)} aluguéis de referência")
 
 
