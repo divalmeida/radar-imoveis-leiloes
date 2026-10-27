@@ -10,6 +10,7 @@ Uso:  python3 enviar_alertas.py [pasta_com_dados_da_coleta_anterior]
 
 import html
 import json
+import os
 import statistics
 import sys
 from datetime import datetime, timedelta, timezone
@@ -191,8 +192,9 @@ def main() -> None:
     previa = "--previa" in sys.argv
     pasta_anterior = next((Path(a) for a in sys.argv[1:] if not a.startswith("--")), None)
     anterior = (lambda nome: _ler(pasta_anterior / nome)) if pasta_anterior else (lambda nome: {})
-    # A coleta da manhã sempre manda um resumo; as outras só quando há novidade
-    sempre = datetime.now(FUSO).hour < 11
+    # A coleta da manhã (e o botão "Run workflow") sempre manda um resumo;
+    # as outras só quando há novidade
+    sempre = datetime.now(FUSO).hour < 11 or os.environ.get("ALERTA_SEMPRE") == "1"
 
     mensagens = {
         "imoveis": mensagem_imoveis(_ler(PASTA / "imoveis.json"), anterior("imoveis.json"), sempre),

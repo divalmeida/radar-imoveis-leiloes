@@ -63,6 +63,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_VOCE: ${{ secrets.TELEGRAM_CHAT_VOCE }}
           TELEGRAM_CHAT_LORE: ${{ secrets.TELEGRAM_CHAT_LORE }}
+          ALERTA_SEMPRE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
 
       - name: Salvar os dados no repositório
         run: |
