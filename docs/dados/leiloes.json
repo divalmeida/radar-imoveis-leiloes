@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-10-27 09:56",
+ "atualizado_em": "2026-10-27 10:11",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 503,
-   "segundos": 580
+   "segundos": 608
   },
   "Superbid": {
    "ok": true,
    "lotes": 702,
-   "segundos": 8
+   "segundos": 7
   },
   "Caixa": {
    "ok": false,
@@ -1165,7 +1165,7 @@
    "id": "superbid-5063059",
    "titulo": "NOTEBOOK VAIO FE 15  (01 UN)  (Ref.: SB0033929)",
    "categoria": "Telefonia",
-   "lance_atual": 1140,
+   "lance_atual": 1240,
    "encerramento": "2026-10-27 16:39",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1177,7 +1177,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -6817,7 +6817,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -6841,7 +6841,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -26573,7 +26573,7 @@
    "id": "superbid-5038831",
    "titulo": "Forno Industrial - marca: LIEME, modelo: B8",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 1150,
+   "lance_atual": 1200,
    "encerramento": "2026-11-26 10:00",
    "cidade": "São José dos Pinhais",
    "uf": "PR",
@@ -26585,7 +26585,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "KRON LEILÕES",
     "leilao": "Prefeitura Municipal de São José dos Pinhais"
    },
