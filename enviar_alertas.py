@@ -93,12 +93,12 @@ def mensagem_imoveis(dados: dict, anterior: dict, sempre: bool) -> str:
         grupos.setdefault(a.get("grupo") or a["id"], []).append(a)
 
     novos, baixaram, subiram = [], [], []
-    portais_antes = {a.get("fonte") for a in antes.values()}
+    buscas_antes = {(a.get("fonte"), a.get("cidade")) for a in antes.values()}
     if antes:  # sem coleta anterior não dá para saber o que mudou
         for grupo, lista in grupos.items():
             lista.sort(key=lambda a: a.get("preco") or 1e12)
-            # Portal recém-incluído: tudo dele seria "novo"; só conta a partir da próxima coleta
-            if not any(a.get("fonte") in portais_antes for a in lista):
+            # Portal ou cidade recém-incluídos: tudo seria "novo"; só conta a partir da próxima coleta
+            if not any((a.get("fonte"), a.get("cidade")) in buscas_antes for a in lista):
                 continue
             if grupo not in grupos_antes and not any(a["id"] in antes for a in lista):
                 novos.append(lista[0])
@@ -166,7 +166,7 @@ def mensagem_leiloes(dados: dict, anterior: dict, sempre: bool) -> str:
     partes = [f"🔨 <b>Radar Leilões — {datetime.now(FUSO).strftime('%d/%m %H:%M')}</b>"]
     if caixa_novos:
         caixa_novos.sort(key=lambda l: -(l.get("detalhes") or {}).get("desconto_pct", 0))
-        partes.append(f"<b>{len(caixa_novos)} imóve{'is' if len(caixa_novos) > 1 else 'l'} novo{'s' if len(caixa_novos) > 1 else ''} da Caixa</b> (Salvador, Feira, Conceição):\n\n" + "\n\n".join(
+        partes.append(f"<b>{len(caixa_novos)} imóve{'is' if len(caixa_novos) > 1 else 'l'} novo{'s' if len(caixa_novos) > 1 else ''} da Caixa</b> nas suas cidades:\n\n" + "\n\n".join(
             f"• <b>{_reais(l['lance_atual'])}</b> — {_e(l['titulo'])} · {(l.get('detalhes') or {}).get('desconto_pct', 0):.0f}% de desconto"
             f"{' · aceita financiamento' if (l.get('detalhes') or {}).get('financiamento') else ''}\n   <a href=\"{_e(l['link'])}\">ver na Caixa</a>"
             for l in caixa_novos[:MAX_ITENS]))

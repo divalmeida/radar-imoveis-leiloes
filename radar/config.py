@@ -6,16 +6,26 @@ Nada de senha ou token aqui: eles ficam nos Secrets do GitHub.
 # Estados que recebem destaque na aba Leilões
 UFS_DESTAQUE = ["SP", "RJ", "DF", "SC", "BA"]
 
-# Cidades prioritárias (imóveis da Caixa e anúncios de apartamentos)
-CIDADES_PRIORITARIAS = ["SALVADOR", "FEIRA DE SANTANA", "CONCEICAO DO JACUIPE"]
-
-# Busca diária de apartamentos (aba Imóveis)
-# slug = como a cidade aparece no endereço dos portais
+# Busca diária de apartamentos (aba Imóveis), agrupada por região no app.
+# slug = como a cidade aparece no endereço do Chaves na Mão.
+# Abrantes e Nova Abrantes são distritos de Camaçari; a Linha Verde passa por
+# Mata de São João (Praia do Forte, Imbassaí), Entre Rios (Porto de Sauípe),
+# Esplanada, Conde (Sítio do Conde) e Jandaíra (Mangue Seco).
 CIDADES_IMOVEIS = [
-    {"nome": "Salvador", "uf": "BA", "slug": "ba-salvador"},
-    {"nome": "Feira de Santana", "uf": "BA", "slug": "ba-feira-de-santana"},
-    {"nome": "Conceição do Jacuípe", "uf": "BA", "slug": "ba-conceicao-do-jacuipe"},
+    {"nome": "Salvador", "uf": "BA", "slug": "ba-salvador", "regiao": "Salvador"},
+    {"nome": "Lauro de Freitas", "uf": "BA", "slug": "ba-lauro-de-freitas", "regiao": "Lauro de Freitas"},
+    {"nome": "Camaçari", "uf": "BA", "slug": "ba-camacari", "regiao": "Camaçari e Abrantes"},
+    {"nome": "Mata de São João", "uf": "BA", "slug": "ba-mata-de-sao-joao", "regiao": "Linha Verde"},
+    {"nome": "Entre Rios", "uf": "BA", "slug": "ba-entre-rios", "regiao": "Linha Verde"},
+    {"nome": "Esplanada", "uf": "BA", "slug": "ba-esplanada", "regiao": "Linha Verde"},
+    {"nome": "Conde", "uf": "BA", "slug": "ba-conde", "regiao": "Linha Verde"},
+    {"nome": "Jandaíra", "uf": "BA", "slug": "ba-jandaira", "regiao": "Linha Verde"},
+    {"nome": "Feira de Santana", "uf": "BA", "slug": "ba-feira-de-santana", "regiao": "Feira de Santana"},
+    {"nome": "Conceição do Jacuípe", "uf": "BA", "slug": "ba-conceicao-do-jacuipe", "regiao": "Conceição do Jacuípe"},
 ]
+
+# Cidades prioritárias nos imóveis da Caixa (as mesmas da aba Imóveis)
+CIDADES_PRIORITARIAS = [c["nome"].upper() for c in CIDADES_IMOVEIS]
 QUARTOS_MINIMO = 2
 PRECO_MAXIMO_COMPRA = 300_000
 # Aluguel serve só de referência para estimar o rendimento das compras

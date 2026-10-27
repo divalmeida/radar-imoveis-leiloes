@@ -98,8 +98,8 @@ def _referencia_aluguel(alugueis: list) -> dict:
 def main() -> None:
     hoje = date.today().isoformat()
     anterior = _anterior()
-    # Um portal que aparece pela primeira vez não marca tudo como "novo"
-    portais_antes = {a.get("fonte") for a in anterior.values()}
+    # Um portal ou cidade que aparece pela primeira vez não marca tudo como "novo"
+    buscas_antes = {(a.get("fonte"), a.get("cidade")) for a in anterior.values()}
 
     compras, alugueis, status = [], [], {}
     buscas = [
@@ -122,6 +122,10 @@ def main() -> None:
             print(f"[ERRO] {chave}: {erro}", flush=True)
             status[chave] = {"ok": False, "erro": str(erro)}
 
+    regiao_da_cidade = {c["nome"]: c["regiao"] for c in CIDADES_IMOVEIS}
+    for a in compras + alugueis:
+        a["regiao"] = regiao_da_cidade.get(a["cidade"], a["cidade"])
+
     # Histórico: novos, quedas de preço e detalhes já buscados antes
     for a in compras:
         antes = anterior.get(a["id"])
@@ -133,7 +137,7 @@ def main() -> None:
             if a["preco"] and historico and historico[-1]["preco"] != a["preco"]:
                 historico.append({"data": hoje, "preco": a["preco"]})
         else:
-            a["primeiro_visto"] = hoje if a["fonte"] in portais_antes else None
+            a["primeiro_visto"] = hoje if (a["fonte"], a["cidade"]) in buscas_antes else None
             a["historico_precos"] = [{"data": hoje, "preco": a["preco"]}]
 
         visto = a.get("primeiro_visto")
@@ -165,7 +169,9 @@ def main() -> None:
     resultado = {
         "atualizado_em": datetime.now(FUSO_BRASILIA).strftime("%Y-%m-%d %H:%M"),
         "filtros": {"quartos_minimo": QUARTOS_MINIMO, "preco_maximo_compra": PRECO_MAXIMO_COMPRA,
-                    "preco_maximo_aluguel": PRECO_MAXIMO_ALUGUEL, "cidades": [c["nome"] for c in CIDADES_IMOVEIS]},
+                    "preco_maximo_aluguel": PRECO_MAXIMO_ALUGUEL, "cidades": [c["nome"] for c in CIDADES_IMOVEIS],
+                    "regioes": [{"nome": r, "cidades": [c["nome"] for c in CIDADES_IMOVEIS if c["regiao"] == r]}
+                                for r in dict.fromkeys(c["regiao"] for c in CIDADES_IMOVEIS)]},
         "fontes": status,
         "referencia_aluguel": _referencia_aluguel(alugueis),
         "anuncios": compras,

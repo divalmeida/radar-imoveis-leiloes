@@ -335,7 +335,7 @@ function filtrarIm() {
   const q = +$("im-quartos").value, precoMax = +$("im-preco").value, areaMin = +$("im-area").value;
   const bairro = $("im-bairro").value, portal = $("im-portal").value;
   let r = estadoIm.grupos.filter((g) => {
-    if (estadoIm.cidade && g.cidade !== estadoIm.cidade) return false;
+    if (estadoIm.cidade && g._regiao !== estadoIm.cidade) return false;
     if (bairro && `${g.cidade}|${g.bairro}` !== bairro) return false;
     if (precoMax && (g.preco || 0) > precoMax) return false;
     if (areaMin && (g.area || 0) < areaMin) return false;
@@ -402,8 +402,10 @@ function iniciarImoveis(dados) {
   estadoIm.atualizado = `atualizado ${dataBR(dados.atualizado_em)} · ${dados.atualizado_em.slice(11)}`;
   estadoIm.grupos = montarGrupos(dados.anuncios);
   const f = dados.filtros;
-  const contar = (cidade) => estadoIm.grupos.filter((g) => g.cidade === cidade).length;
-  chips($("im-chips-cidade"), [{ id: "", nome: "Todas as cidades" }, ...f.cidades.map((c) => ({ id: c, nome: `${c} (${contar(c)})` }))], estadoIm, "cidade", () => {
+  if (f.regioes) REGIOES = f.regioes;
+  estadoIm.grupos.forEach((g) => (g._regiao = regiaoDe(g.cidade)));
+  const contar = (r) => estadoIm.grupos.filter((g) => g._regiao === r).length;
+  chips($("im-chips-cidade"), [{ id: "", nome: "Todas as regiões" }, ...REGIOES.map((r) => ({ id: r.nome, nome: `${r.nome} (${contar(r.nome)})` }))], estadoIm, "cidade", () => {
     preencherBairros(); desenharIm(true);
   });
   chips($("im-chips-marca"), [
@@ -419,10 +421,12 @@ function iniciarImoveis(dados) {
 
   // Lista de bairros da cidade escolhida, com quantos imóveis cada um tem
   function preencherBairros() {
-    const lista = [...bairros.entries()].filter(([k]) => !estadoIm.cidade || k.startsWith(estadoIm.cidade + "|"))
+    const regiao = REGIOES.find((r) => r.nome === estadoIm.cidade);
+    const umaCidade = regiao && regiao.cidades.length === 1;
+    const lista = [...bairros.entries()].filter(([k]) => !regiao || regiao.cidades.includes(k.split("|")[0]))
       .sort((a, b) => a[0].split("|")[1].localeCompare(b[0].split("|")[1]));
     $("im-bairro").innerHTML = `<option value="">Todos os bairros (${lista.length})</option>` +
-      lista.map(([k, n]) => `<option value="${escapar(k)}">${escapar(k.split("|")[1])}${estadoIm.cidade ? "" : " - " + escapar(k.split("|")[0])} (${n})</option>`).join("");
+      lista.map(([k, n]) => `<option value="${escapar(k)}">${escapar(k.split("|")[1])}${umaCidade ? "" : " - " + escapar(k.split("|")[0])} (${n})</option>`).join("");
   }
   preencherBairros();
   const portais = [...new Set(estadoIm.grupos.flatMap((g) => g._portais))].sort();
@@ -444,7 +448,12 @@ const TIPOS = [
   { id: "eletrodomesticos", nome: "Eletrodomésticos" },
   { id: "imoveis", nome: "Imóveis Caixa" },
 ];
-const CIDADES_PRIORITARIAS = ["Salvador", "Feira de Santana", "Conceição do Jacuípe"];
+// Regiões da aba Imóveis (vêm do imoveis.json; esta lista é só a reserva se ele não carregar)
+let REGIOES = ["Salvador", "Feira de Santana", "Conceição do Jacuípe"].map((c) => ({ nome: c, cidades: [c] }));
+function regiaoDe(cidade) {
+  const r = REGIOES.find((x) => x.cidades.some((c) => chave(c) === chave(cidade)));
+  return r ? r.nome : null;
+}
 const estadoLe = { lotes: [], tipo: "", uf: "", cidade: "", mostrando: POR_PAGINA, atualizado: "carregando…" };
 
 function tipoDoLote(l) {
@@ -490,7 +499,7 @@ function filtrarLe() {
     const fim = dataDe(l.encerramento);
     if (fim && fim < agora) return false;
     if (estadoLe.tipo && l._tipo !== estadoLe.tipo) return false;
-    if (estadoLe.cidade && l._cidade !== chave(estadoLe.cidade)) return false;
+    if (estadoLe.cidade && l._regiao !== estadoLe.cidade) return false;
     if (estadoLe.uf && l.uf !== estadoLe.uf) return false;
     if (publico && l.publico !== publico) return false;
     if (fonte && l.fonte !== fonte) return false;
@@ -540,7 +549,7 @@ function desenharLe(reiniciar) {
 function iniciarLeiloes(dados) {
   estadoLe.atualizado = `atualizado ${dataBR(dados.atualizado_em)} · ${dados.atualizado_em.slice(11)}`;
   estadoLe.lotes = dados.lotes.map((l) => {
-    const item = { ...l, _tipo: tipoDoLote(l), _cidade: chave(l.cidade),
+    const item = { ...l, _tipo: tipoDoLote(l), _regiao: l.uf === "BA" ? regiaoDe(l.cidade) : null,
       _busca: semAcento(`${l.titulo} ${l.categoria} ${l.cidade} ${l.uf} ${l.fonte} ${(l.detalhes && l.detalhes.bairro) || ""}`) };
     if (l.fonte === "Caixa" && /apartamento/i.test(l.categoria)) {
       const q = /(\d+) qto/.exec((l.detalhes && l.detalhes.descricao) || "");
@@ -551,8 +560,8 @@ function iniciarLeiloes(dados) {
   });
 
   chips($("chips-tipo"), TIPOS, estadoLe, "tipo", () => desenharLe(true));
-  const nCidade = (c) => estadoLe.lotes.filter((l) => l._cidade === chave(c)).length;
-  chips($("chips-cidade"), [{ id: "", nome: "Todas as cidades" }, ...CIDADES_PRIORITARIAS.map((c) => ({ id: c, nome: `${c} (${nCidade(c)})` }))],
+  const nRegiao = (r) => estadoLe.lotes.filter((l) => l._regiao === r).length;
+  chips($("chips-cidade"), [{ id: "", nome: "Todas as regiões" }, ...REGIOES.map((r) => ({ id: r.nome, nome: `${r.nome} (${nRegiao(r.nome)})` }))],
     estadoLe, "cidade", () => desenharLe(true));
   const cidades = [...new Set(estadoLe.lotes.map((l) => l.cidade).filter(Boolean))].sort((a, b) => a.localeCompare(b));
   $("sugestoes").innerHTML = cidades.map((c) => `<option value="${escapar(c)}">`).join("");
