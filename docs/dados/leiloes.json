@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-10-27 07:51",
+ "atualizado_em": "2026-10-27 08:08",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 503,
-   "segundos": 512
+   "segundos": 606
   },
   "Superbid": {
    "ok": true,
    "lotes": 700,
-   "segundos": 7
+   "segundos": 10
   },
   "Caixa": {
    "ok": false,
@@ -827,7 +827,7 @@
    "id": "superbid-5063050",
    "titulo": "MACBOOK AIR DE 13 POLEGADAS 16GB (01 UN) (Ref.: SB0033919)",
    "categoria": "Informática",
-   "lance_atual": 3040,
+   "lance_atual": 3240,
    "encerramento": "2026-10-27 16:32",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -839,7 +839,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
