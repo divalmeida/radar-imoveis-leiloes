@@ -20,9 +20,11 @@ on:
 permissions:
   contents: write
 
-# Uma coleta por vez; se chegar outra, ela espera a atual terminar
+# Uma coleta por vez de cada tipo (horário, botão, envio de código).
+# Tipos diferentes não se cancelam: o botão "Run workflow" nunca é descartado
+# por causa de um envio de código. A gravação dos dados já evita conflito.
 concurrency:
-  group: coleta
+  group: coleta-${{ github.event_name }}
   cancel-in-progress: false
 
 jobs:
