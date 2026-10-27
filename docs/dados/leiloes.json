@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-10-27 10:26",
+ "atualizado_em": "2026-10-27 13:06",
  "fontes": {
   "Receita Federal": {
    "ok": true,
-   "lotes": 503,
-   "segundos": 618
+   "lotes": 482,
+   "segundos": 453
   },
   "Superbid": {
    "ok": true,
-   "lotes": 702,
-   "segundos": 10
+   "lotes": 749,
+   "segundos": 7
   },
   "Caixa": {
    "ok": false,
@@ -20,474 +20,6 @@
   }
  },
  "lotes": [
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-1",
-   "titulo": "MGC VTL-6P VENTILADOR DE TETO, 6 PAS, 65W, IP-45, C/ LAMPADA LED, CONTROLE REMOTO",
-   "categoria": "ELETRODOMÉSTICO",
-   "lance_atual": 168000,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/1",
-   "valor_avaliacao": 430400,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/700100/13/foto_pq_700100_2026_13_1_552407_82aec57f747497f8abeea92168dbe31f.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-2",
-   "titulo": "CAPA DE CELULAR S/REF. S/REF. 1 CAIXA",
-   "categoria": "CELULAR/ACESSÓRIO",
-   "lance_atual": 1100,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/2",
-   "valor_avaliacao": 2762.1,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/700100/13/foto_pq_700100_2026_13_2_552408_e3b54328887c2e8388cc1c1aa7599b71.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-4",
-   "titulo": "VENTILADOR PORTATIL - USB 71007-A 26 CAIXAS (e mais 5 itens)",
-   "categoria": "ELETRODOMÉSTICO",
-   "lance_atual": 7490,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/4",
-   "valor_avaliacao": 202018.4,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-5",
-   "titulo": "CABO USB V8, S/REF. N11 1 CAIXA (e mais 10 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 89300,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/5",
-   "valor_avaliacao": 228742.9,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/700100/13/foto_pq_700100_2026_13_5_552419_9de30419491a4ba3d59ad5ae1c9dc0d7.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-7",
-   "titulo": "FONE DE OUVIDO 5G-DM AURICULAR 18 CAIXAS",
-   "categoria": "CELULAR/ACESSÓRIO",
-   "lance_atual": 3680,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/7",
-   "valor_avaliacao": 99180,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/700100/13/foto_pq_700100_2026_13_7_552425_5db45d7c7c34cadea28e5150bc3ccc62.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-8",
-   "titulo": "CAPA DE CELULAR S/REF. MADE IN CHINA A10S 20 CAIXAS (e mais 91 itens)",
-   "categoria": "CELULAR/ACESSÓRIO",
-   "lance_atual": 445700,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/8",
-   "valor_avaliacao": 1142061.9,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/700100/13/foto_pq_700100_2026_13_8_552426_92145953a57a4a90c489ba7b96c2b9ae.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-26",
-   "titulo": "MAQUINA DE COSTURA MINI SEWING MACHINE SM202A CHINA (e mais 13 itens)",
-   "categoria": "ELETRODOMÉSTICO",
-   "lance_atual": 500,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/26",
-   "valor_avaliacao": 1293.39,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-27",
-   "titulo": "CANHAO DE LUZ APUTURE 120 DII 6CD02B88542;CHINA (e mais 47 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 7880,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/27",
-   "valor_avaliacao": 269162.07,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-28",
-   "titulo": "DISPLAY LCD DE CELULAR MARCA YGX MODELOS DIVERSOS COR PRETA ORIGEM CHINA (e mais 11 itens)",
-   "categoria": "CELULAR/ACESSÓRIO",
-   "lance_atual": 4650,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/28",
-   "valor_avaliacao": 125227.14,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-30",
-   "titulo": "DISPLAY LCD DE CELULAR G31 IN 12 NOTE 6 PRO 6 DIVERSOS SEM ORIGEM (e mais 35 itens)",
-   "categoria": "CELULAR/ACESSÓRIO",
-   "lance_atual": 5970,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/30",
-   "valor_avaliacao": 160939.12,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-31",
-   "titulo": "CAIXA ACUSTICA FABRICADO NA CHINA MINI S/MARCA WIRELESS REF.:SS-60112 70G 3W (e mais 1 itens)",
-   "categoria": "APARELHO DE SOM/ACESSÓRIO",
-   "lance_atual": 60,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/31",
-   "valor_avaliacao": 4343.99,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-33",
-   "titulo": "TECLADO PARA COMPUTADOR APPLE MAGIG KEYBOARD ORIGEM CHINA",
-   "categoria": "INFORMÁTICA",
-   "lance_atual": 1600,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/33",
-   "valor_avaliacao": 4300,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-35",
-   "titulo": "TECLADO PARA TABLET APPLE MAGIC KEYBOARD WITH TOUCH ID - CHINA (e mais 2 itens)",
-   "categoria": "INFORMÁTICA",
-   "lance_atual": 9300,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/35",
-   "valor_avaliacao": 26260,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-37",
-   "titulo": "RECEIVER A/V DENON S760H VIETNAN",
-   "categoria": "APARELHO DE SOM/ACESSÓRIO",
-   "lance_atual": 1300,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/37",
-   "valor_avaliacao": 3441.97,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-38",
-   "titulo": "CAMERA FOTOGRAFICA DIGIT. DJI OSMO POCKET 3 ORIGEM CHINA (e mais 4 itens)",
-   "categoria": "MÁQUINA FOTOGRÁFICA/ACESSÓRIO",
-   "lance_atual": 7300,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/38",
-   "valor_avaliacao": 20428,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-39",
-   "titulo": "ASPIRADOR DE PO XIAOMI ROBOT VACUUM S10 CHINA",
-   "categoria": "ELETRODOMÉSTICO",
-   "lance_atual": 1100,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/39",
-   "valor_avaliacao": 3000,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-40",
-   "titulo": "CAIXA ACUSTICA CAIXA ACUSTICA 5.1 P POLK BLACK STONE - CHINA (e mais 1 itens)",
-   "categoria": "APARELHO DE SOM/ACESSÓRIO",
-   "lance_atual": 2200,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/40",
-   "valor_avaliacao": 6580.98,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-41",
-   "titulo": "TECLADO PARA COMPUTADOR TECLADO E MOUSE LH MULTIDEVICE BLUETOOTH CHINA (e mais 5 itens)",
-   "categoria": "INFORMÁTICA",
-   "lance_atual": 18900,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/41",
-   "valor_avaliacao": 50745.61,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-43",
-   "titulo": "MICROFONE SHURE SM7B ORIGEM CHINA",
-   "categoria": "APARELHO DE SOM/ACESSÓRIO",
-   "lance_atual": 1500,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/43",
-   "valor_avaliacao": 4217,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-44",
-   "titulo": "NOTEBOOK APPLE MACBOOK MINI 8 GB MEMORY 256 GB SSD M2 CHIP - MALASIA",
-   "categoria": "INFORMÁTICA",
-   "lance_atual": 1900,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/44",
-   "valor_avaliacao": 5349.99,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/700100/13/foto_pq_700100_2026_13_44_552472_a3800493785093b67338934b24495e40.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-700100/13/2026-46",
-   "titulo": "DISPLAY CRISTAL LIQUIDO PARA MACBOOK SEM MARCA A 1989/A2159 2018/2019 SEM ORIGEM",
-   "categoria": "INFORMÁTICA",
-   "lance_atual": 900,
-   "encerramento": "2026-10-26 18:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/700100/13/2026/lote/46",
-   "valor_avaliacao": 2500,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5060670",
-   "titulo": "ELETRODOMESTICOS,  FREEZER,  BEBEDOR,  MAQUINA DE CAFE EXPRESSO, VENTILADOR, LIQUIDIFICADOR E OUTROS.",
-   "categoria": "Refrigeradores",
-   "lance_atual": 1800,
-   "encerramento": "2026-10-27 11:13",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/eletrodomesticos-freezer-bebedor-maquina-de-cafe-expresso-ventilador-liquidifica-5060670",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/d0b91614-ff67-415d-ab10-e6e538fa1158.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "INSIGHTS CONSULTORIAS",
-    "leilao": "Exaustor, Compressor, Torno, Prensa e outros."
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5052723",
-   "titulo": "02 IMPRESSORAS PLOTTER HP DESIGNJET 800",
-   "categoria": "Informática",
-   "lance_atual": 2000,
-   "encerramento": "2026-10-27 11:36",
-   "cidade": "Agudos",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/02-impressoras-plotter-hp-designjet-800-5052723",
-   "valor_avaliacao": null,
-   "imagem": null,
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Dexco"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
   {
    "fonte": "Superbid",
    "id": "superbid-5070734",
@@ -757,7 +289,7 @@
    "id": "superbid-5063048",
    "titulo": "SMARTPHONE SAMSUNG (USADO) (07 UN)            (Ref.: SB0033910)",
    "categoria": "Telefonia",
-   "lance_atual": 820,
+   "lance_atual": 920,
    "encerramento": "2026-10-27 16:30",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -769,7 +301,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -781,7 +313,7 @@
    "id": "superbid-5063049",
    "titulo": "SMARTPHONE SAMSUNG (USADO) (07 UN)             (Ref.: SB0033911)",
    "categoria": "Telefonia",
-   "lance_atual": 720,
+   "lance_atual": 820,
    "encerramento": "2026-10-27 16:31",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -793,7 +325,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -853,7 +385,7 @@
    "id": "superbid-5064714",
    "titulo": "IPAD PRO 12.9 256GB (USADO) (01 UN) (Ref.: SB0033918)",
    "categoria": "Informática",
-   "lance_atual": 1210,
+   "lance_atual": 1310,
    "encerramento": "2026-10-27 16:32",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -865,7 +397,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -949,7 +481,7 @@
    "id": "superbid-5064716",
    "titulo": "SMARTPHONE SAMSUNG GALAXY S23 (03 UN)  (Ref.: SB0033915)",
    "categoria": "Telefonia",
-   "lance_atual": 1450,
+   "lance_atual": 1550,
    "encerramento": "2026-10-27 16:34",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -961,7 +493,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -973,7 +505,7 @@
    "id": "superbid-5063053",
    "titulo": "SMARTPHONE SAMSUNG GALAXY A5 (USADO), SMARTPHONE SAMSUNG GALAXY A22 (USADO), SMARTPHONE SAMSUNG GALAXY A12 (USADO), SMARTPHONE SAMSUNG GALAXY A34 (USADO), SMARTPHONE SAMSUNG GALAXY A32 USADO,     (05 UN) (Ref.: SB0033916)",
    "categoria": "Telefonia",
-   "lance_atual": 700,
+   "lance_atual": 800,
    "encerramento": "2026-10-27 16:35",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -985,7 +517,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1117,7 +649,7 @@
    "id": "superbid-5063058",
    "titulo": "TABLET XIAOMI PAD 7 GRAY 8GB RAM 256GB, TABLET VAIO TL10   (02 UN)     (Ref.: SB0033924)",
    "categoria": "Informática",
-   "lance_atual": 1500,
+   "lance_atual": 1700,
    "encerramento": "2026-10-27 16:38",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1129,7 +661,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 9,
+    "lances": 10,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1141,7 +673,7 @@
    "id": "superbid-5064719",
    "titulo": "NOTEBOOK DELL INSPIRION 15 3530 (01 UN)               (Ref.: SB0033930)",
    "categoria": "Telefonia",
-   "lance_atual": 1250,
+   "lance_atual": 1350,
    "encerramento": "2026-10-27 16:39",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1153,7 +685,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1165,7 +697,7 @@
    "id": "superbid-5063059",
    "titulo": "NOTEBOOK VAIO FE 15  (01 UN)  (Ref.: SB0033929)",
    "categoria": "Telefonia",
-   "lance_atual": 1240,
+   "lance_atual": 1340,
    "encerramento": "2026-10-27 16:39",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1177,7 +709,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1309,7 +841,7 @@
    "id": "superbid-5063063",
    "titulo": "NOTEBOOK ACER NITRO V15 (USADO/SEM FONTE) (01 UN)  (Ref.: SB0033932)",
    "categoria": "Telefonia",
-   "lance_atual": 2130,
+   "lance_atual": 2330,
    "encerramento": "2026-10-27 16:42",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1321,7 +853,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 9,
+    "lances": 10,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1501,7 +1033,7 @@
    "id": "superbid-5063068",
    "titulo": "IPHONE APPLE 13 (USADO) (02) (Ref.: SB0033939)",
    "categoria": "Telefonia",
-   "lance_atual": 1430,
+   "lance_atual": 1530,
    "encerramento": "2026-10-27 16:46",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1513,7 +1045,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1813,7 +1345,7 @@
    "id": "superbid-5063074",
    "titulo": "IPHONE APPLE 12 (USADO), IPHONE APPLE 11 (USADO)\n(02 UN) (Ref.: SB0033992)",
    "categoria": "Telefonia",
-   "lance_atual": 1150,
+   "lance_atual": 1250,
    "encerramento": "2026-10-27 16:53",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1825,7 +1357,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1861,7 +1393,7 @@
    "id": "superbid-5064732",
    "titulo": "IPHONE APPLE 12 USADO (03 UN) (Ref.: SB0033994)",
    "categoria": "Telefonia",
-   "lance_atual": 1490,
+   "lance_atual": 1590,
    "encerramento": "2026-10-27 16:54",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1873,7 +1405,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1885,7 +1417,7 @@
    "id": "superbid-5064734",
    "titulo": "SMARTPHONES USADOS DIVERSAS MARCAS (USADO)      (07 UN)\n\n(Ref.: SB0033997)",
    "categoria": "Telefonia",
-   "lance_atual": 410,
+   "lance_atual": 510,
    "encerramento": "2026-10-27 16:54",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1897,7 +1429,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -11106,6 +10638,78 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5067880",
+   "titulo": "Servidor Dell PowerEdge R610",
+   "categoria": "Informática",
+   "lance_atual": 552,
+   "encerramento": "2026-11-05 14:35",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/servidor-dell-poweredge-r610-5067880",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/20707f2c-e688-4085-ab2d-5485ac9fb313.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071556",
+   "titulo": "Servidor Dell PowerEdge R610",
+   "categoria": "Informática",
+   "lance_atual": 552,
+   "encerramento": "2026-11-05 14:36",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/servidor-dell-poweredge-r610-5071556",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8240b3fb-c1de-4b08-b2c6-33649ec7d728.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067879",
+   "titulo": "Servidor Dell PowerEdge R610",
+   "categoria": "Informática",
+   "lance_atual": 552,
+   "encerramento": "2026-11-05 14:37",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/servidor-dell-poweredge-r610-5067879",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2c436e60-88d3-48e5-895c-b6104a65cf31.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5066264",
    "titulo": "APROX. 300 CABOS DE CARREGADOR DE CELULAR DIVERSOS 3M",
    "categoria": "Telefonia",
@@ -11130,6 +10734,126 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5067878",
+   "titulo": "Servidor Dell PowerEdge R610",
+   "categoria": "Informática",
+   "lance_atual": 552,
+   "encerramento": "2026-11-05 14:38",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/servidor-dell-poweredge-r610-5067878",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e36cbc0c-337e-48df-a478-3b8e80e04d6b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071555",
+   "titulo": "Servidor Dell PowerEdge R610",
+   "categoria": "Informática",
+   "lance_atual": 422,
+   "encerramento": "2026-11-05 14:39",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/servidor-dell-poweredge-r610-5071555",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/37a17af1-1d8a-44b4-be54-65466a1c38a0.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067877",
+   "titulo": "Access Point Cisco AIR 3802I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 253,
+   "encerramento": "2026-11-05 14:40",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-3802i-z-k9-5067877",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9380e184-d7c6-4bdc-a901-525ed34d838a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067876",
+   "titulo": "Access Point Cisco AIR 1832I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 234,
+   "encerramento": "2026-11-05 14:41",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-1832i-z-k9-5067876",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/691fc3df-ef2c-49fc-b080-789179c49090.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071553",
+   "titulo": "Access Point Cisco AIR 1832I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 234,
+   "encerramento": "2026-11-05 14:42",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-1832i-z-k9-5071553",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/957ee475-2e7b-4aec-b69e-08141708f3a8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5066258",
    "titulo": "50 UNIDADES DE CABOS DE FORÇA PC/AC FONTE TRIPOLAR PLUG 10 AMP 1,5 M (SEM USO)",
    "categoria": "Eletrônicos",
@@ -11148,6 +10872,30 @@
     "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071554",
+   "titulo": "Access Point Cisco AIR 2702I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 234,
+   "encerramento": "2026-11-05 14:43",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-2702i-z-k9-5071554",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/63d191ff-f826-4f72-b6f0-844c4511b16f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
    },
    "prioridade": false,
    "destaque": true
@@ -11202,6 +10950,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5071551",
+   "titulo": "Access Point Cisco AIR 2702I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 234,
+   "encerramento": "2026-11-05 14:44",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-2702i-z-k9-5071551",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5cd288de-a8c5-48b3-b739-457532f8a31b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5069713",
    "titulo": "APROX. 100 CARREGADORES + BATERIA CONTROLE VIDEO GAME XBOX (SEM USO)",
    "categoria": "Eletrônicos",
@@ -11220,6 +10992,54 @@
     "lances": 0,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071552",
+   "titulo": "Access Point Cisco AIR 2702I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 156,
+   "encerramento": "2026-11-05 14:45",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-2702i-z-k9-5071552",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c44774ea-1eac-4661-8c9c-d55d3e882316.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067875",
+   "titulo": "Access Point Cisco AIR 2702I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 156,
+   "encerramento": "2026-11-05 14:46",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-2702i-z-k9-5067875",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1d156e51-e4d9-4645-9b74-64fed43084b9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
    },
    "prioridade": false,
    "destaque": true
@@ -11298,6 +11118,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5071550",
+   "titulo": "Access Point Cisco AIR 2702I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 156,
+   "encerramento": "2026-11-05 14:47",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-2702i-z-k9-5071550",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a2e73cb9-382b-4138-8c37-cbf5ede0677c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5069710",
    "titulo": "APROX. 100 UNIDADES DE SUPORTE DE CELULAR DIVEROS MODELOS ,  SEM USO ,",
    "categoria": "Telefonia",
@@ -11346,6 +11190,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5067874",
+   "titulo": "Access Point Cisco AIR 2702I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 234,
+   "encerramento": "2026-11-05 14:48",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-2702i-z-k9-5067874",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/12702b3a-ad7f-40ff-80d2-25f656a0d7d8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5066251",
    "titulo": "50 FONTES PARA NOTEBOOK, DIVERSOS MODELOS (SEM USO)",
    "categoria": "Informática",
@@ -11364,6 +11232,30 @@
     "lances": 0,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067873",
+   "titulo": "Access Point Cisco AIR 2702I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 156,
+   "encerramento": "2026-11-05 14:49",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-2702i-z-k9-5067873",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1b22803d-8a96-4d3b-8c35-39cddf41ae07.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
    },
    "prioridade": false,
    "destaque": true
@@ -11418,6 +11310,54 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5071549",
+   "titulo": "Access Point Cisco AIR 2702I-Z-K9",
+   "categoria": "Informática",
+   "lance_atual": 156,
+   "encerramento": "2026-11-05 14:50",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-air-2702i-z-k9-5071549",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c4b95d3a-0309-46ce-9efa-9d57d2425442.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067872",
+   "titulo": "Access Point Cisco Meraki MR46",
+   "categoria": "Informática",
+   "lance_atual": 1527,
+   "encerramento": "2026-11-05 14:51",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-meraki-mr46-5067872",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e93a868a-252c-417b-965d-a74a250deef7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5069708",
    "titulo": "06 RÁDIOS COMUNICADORES BAOFENG UV 5R WALKIE-TALKIE (SEM USO)",
    "categoria": "Eletrônicos",
@@ -11466,6 +11406,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5067871",
+   "titulo": "Access Point Cisco Meraki MR46",
+   "categoria": "Informática",
+   "lance_atual": 1527,
+   "encerramento": "2026-11-05 14:52",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/access-point-cisco-meraki-mr46-5067871",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8833600c-95ca-4ce0-b51d-d1ecdfd7b733.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5069707",
    "titulo": "40 UNID. FONES DE OUVIDO BLUETOOTH SENDO: 20 UNI. MOD ST-422 + 20 UNI. MOD S930",
    "categoria": "Telefonia",
@@ -11484,6 +11448,30 @@
     "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071548",
+   "titulo": "NAS Iomega ix 4-300d",
+   "categoria": "Informática",
+   "lance_atual": 910,
+   "encerramento": "2026-11-05 14:53",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/nas-iomega-ix-4-300d-5071548",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/16ab2156-f16d-474b-b3c7-695319e14f9d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
    },
    "prioridade": false,
    "destaque": true
@@ -11514,6 +11502,54 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5067870",
+   "titulo": "NAS Seagate Blackarmor 220",
+   "categoria": "Informática",
+   "lance_atual": 305,
+   "encerramento": "2026-11-05 14:54",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/nas-seagate-blackarmor-220-5067870",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fac37c51-3f25-4c30-8b24-8fbb254bafc1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067869",
+   "titulo": "NAS Seagate Blackarmor 220",
+   "categoria": "Informática",
+   "lance_atual": 305,
+   "encerramento": "2026-11-05 14:55",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/nas-seagate-blackarmor-220-5067869",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5f33912f-7103-44ed-9e72-bcbf35020e0d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5069703",
    "titulo": "50 UNIDADES DE CABO DE FORÇA PC/AC FONTE TRIPOLAR PLUG 10 AMP 1,5 M (SEM USO)",
    "categoria": "Eletrônicos",
@@ -11532,6 +11568,126 @@
     "lances": 0,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071547",
+   "titulo": "NAS Seagate Blackarmor 220",
+   "categoria": "Informática",
+   "lance_atual": 305,
+   "encerramento": "2026-11-05 14:56",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/nas-seagate-blackarmor-220-5071547",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ea6c323b-e0af-4f2f-9859-103dfa794e6b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067868",
+   "titulo": "NAS IBM Storwize V3700 MT 2072",
+   "categoria": "Informática",
+   "lance_atual": 715,
+   "encerramento": "2026-11-05 14:57",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/nas-ibm-storwize-v3700-mt-2072-5067868",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0fb12af2-8f79-4901-bf6e-e2e8cfcf97c8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067867",
+   "titulo": "NAS Synology DS420j DS 420j",
+   "categoria": "Informática",
+   "lance_atual": 585,
+   "encerramento": "2026-11-05 14:58",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/nas-synology-ds420j-ds-420j-5067867",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6aae7952-fb97-4e67-bb0b-8a7b95eaa16a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067866",
+   "titulo": "Switch MikroTik Cloud 326-24G-2S+RM",
+   "categoria": "Informática",
+   "lance_atual": 559,
+   "encerramento": "2026-11-05 14:59",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/switch-mikrotik-cloud-326-24g-2s-rm-5067866",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/383f251d-8394-4d40-aef3-05b77a75feb6.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067865",
+   "titulo": "Switch Siemens Scalance 324-12M",
+   "categoria": "Informática",
+   "lance_atual": 1950,
+   "encerramento": "2026-11-05 15:00",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/switch-siemens-scalance-324-12m-5067865",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/011f94dd-5b3c-4826-b6ff-36f75cdb4dde.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
    },
    "prioridade": false,
    "destaque": true
@@ -11562,6 +11718,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5071546",
+   "titulo": "Mesa Wacom Intuos 660",
+   "categoria": "Informática",
+   "lance_atual": 279,
+   "encerramento": "2026-11-05 15:01",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/mesa-wacom-intuos-660-5071546",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1c7e6880-de54-4bfd-815b-90cd26fe5878.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5068854",
    "titulo": "RETIFICADORA VAPEL AC DC E FONTES RETIFICADORA (10 PÇS) (Ref.: 5)",
    "categoria": "Informática",
@@ -11580,6 +11760,102 @@
     "lances": 0,
     "leiloeiro": "SOLD",
     "leilao": "Alloha"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067863",
+   "titulo": "Mesa Wacom Intuos 660",
+   "categoria": "Informática",
+   "lance_atual": 279,
+   "encerramento": "2026-11-05 15:02",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/mesa-wacom-intuos-660-5067863",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5674ffff-eab2-4816-9e78-85f7eb06c6b2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067864",
+   "titulo": "Mesa Wacom Intuos 660",
+   "categoria": "Informática",
+   "lance_atual": 279,
+   "encerramento": "2026-11-05 15:03",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/mesa-wacom-intuos-660-5067864",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ef997b0b-cf94-4271-a378-f2d73d442793.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071545",
+   "titulo": "Mesa Wacom Intuos 660",
+   "categoria": "Informática",
+   "lance_atual": 279,
+   "encerramento": "2026-11-05 15:04",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/mesa-wacom-intuos-660-5071545",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/19fa615e-e135-4388-9a2b-94b32da55bb5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067862",
+   "titulo": "Video porteiro Intelbras IVR 1070 HR",
+   "categoria": "Informática",
+   "lance_atual": 227,
+   "encerramento": "2026-11-05 15:05",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/video-porteiro-intelbras-ivr-1070-hr-5067862",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9c954789-8601-48a2-8c16-7c05207d5845.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
    },
    "prioridade": false,
    "destaque": true
@@ -12741,7 +13017,7 @@
    "id": "superbid-5069618",
    "titulo": "APROX. 200 CARREGADORES DE CELULAR AL-9006 (SEM USO)",
    "categoria": "Telefonia",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-09 14:50",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -12753,7 +13029,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -13053,7 +13329,7 @@
    "id": "superbid-5069596",
    "titulo": "48 CABOS HDMI C/ 02 E 03 METROS",
    "categoria": "Eletrônicos",
-   "lance_atual": 100,
+   "lance_atual": 150,
    "encerramento": "2026-11-09 15:02",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -13065,7 +13341,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -13569,7 +13845,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -18244,7 +18520,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/517800/5/2026/lote/2",
    "valor_avaliacao": 1973.04,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/517800/5/foto_pq_517800_2026_5_2_554013_f9405e768b5ef61744d760a71a47686c.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -18264,7 +18540,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/517800/5/2026/lote/3",
    "valor_avaliacao": 841.5,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/517800/5/foto_pq_517800_2026_5_3_554018_452b01980f14d806a0d527e14a739166.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -18284,7 +18560,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/517800/5/2026/lote/4",
    "valor_avaliacao": 841.5,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/517800/5/foto_pq_517800_2026_5_4_554020_55fc2d63894596b998b84f185065ed9b.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -18304,7 +18580,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/517800/5/2026/lote/5",
    "valor_avaliacao": 841.5,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/517800/5/foto_pq_517800_2026_5_5_554021_188a666e96d9288f1c4f13e25c1e76fc.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -19330,54 +19606,6 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5044448",
-   "titulo": "LOTE DE: ELETROPORTÁTEIS - PANELAS E APARADORES TRAMONTINA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1300,
-   "encerramento": "2026-10-27 12:00",
-   "cidade": "Goianira",
-   "uf": "GO",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-de-eletroportateis-panelas-e-aparadores-tramontina-5044448",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/07ea535d-116f-44c8-aab5-d3e2d4b9067a.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 4,
-    "leiloeiro": "TOTAL LEILÕES",
-    "leilao": "ELETROPORTÁTEIS, EXPOSITORES, MATERIAIS DIVERSOS"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5042487",
-   "titulo": "LOTE DE: CONTADORES DE CÉDULAS - 3 UNIDADES",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1200,
-   "encerramento": "2026-10-27 12:00",
-   "cidade": "Goianira",
-   "uf": "GO",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-de-contadores-de-cedulas-3-unidades-5042487",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/fdae5296-70cb-4f0d-95d7-371a48f173ab.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "TOTAL LEILÕES",
-    "leilao": "ELETROPORTÁTEIS, EXPOSITORES, MATERIAIS DIVERSOS"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
    "id": "superbid-4999516",
    "titulo": "LOTE 01 - EQUIPAMENTOS DE SEGURANÇA, CAMERAS, DHD, DVR",
    "categoria": "Eletrônicos",
@@ -19681,7 +19909,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ANDRÉ LUIZ LEILÕES",
     "leilao": "Lga Shop Ltda"
    },
@@ -19885,7 +20113,7 @@
    "id": "superbid-5063108",
    "titulo": "15 un. de DVRs de 16 Canais",
    "categoria": "Eletrônicos",
-   "lance_atual": 590,
+   "lance_atual": 615,
    "encerramento": "2026-10-29 14:06",
    "cidade": "Jardim Alegre",
    "uf": "PR",
@@ -19897,7 +20125,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ANDRÉ LUIZ LEILÕES",
     "leilao": "Lga Shop Ltda"
    },
@@ -23870,6 +24098,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5068248",
+   "titulo": "LAVADORA DE ALTA PRESSÃO PROFIS HYDRONLUBZ MB0143",
+   "categoria": "Limpeza",
+   "lance_atual": 600,
+   "encerramento": "2026-11-05 16:35",
+   "cidade": "Itumbiara",
+   "uf": "GO",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lavadora-de-alta-pressao-profis-hydronlubz-mb0143-5068248",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a9d89af2-3510-4bfa-b21f-66a0b9f1c7d8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Empresa Vende"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5067933",
    "titulo": "10 RÁDIOS INTELBRAS - RPD8 (SEM USO)",
    "categoria": "Eletrônicos",
@@ -25426,6 +25678,486 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5067761",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 8 REVISTAS EM QUADRINHOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 50,
+   "encerramento": "2026-11-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-8-revistas-em-quadrinhos-no-estado-sem-garantia-5067761",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/043e74bc-8e46-43d5-9bda-e50e0bcde89f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067762",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 29 LPS E 25 CDS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-29-lps-e-25-cds-no-estado-sem-garantia-5067762",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fd526b59-5c7c-4f5d-99bd-68b5d9d52441.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071467",
+   "titulo": "LOTE CONTENDO 03 FONES DE OUVIDO, 01 CAIXA DE SOM E 01 TABLET - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:01",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-03-fones-de-ouvido-01-caixa-de-som-e-01-tablet-para-conserto-no-es-5071467",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0a6aa6bb-9fea-45b0-ab0c-b447747cf229.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067763",
+   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:01",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067763",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6744511f-c11b-4cf0-b464-a157f02c9244.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071468",
+   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:02",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5071468",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d4a28d0f-ee8e-4e87-b01b-0a5c29e50745.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067764",
+   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:02",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067764",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/60e40e65-8a5c-4506-85a2-1d6cbedd5abd.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067765",
+   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:03",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067765",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3d12ac2c-7530-4f78-9c01-379e71f33ffc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071469",
+   "titulo": "01 IMPRESSORA PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 240,
+   "encerramento": "2026-11-16 14:03",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-impressora-para-conserto-no-estado-sem-garantia-5071469",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a2805fda-46f2-4d09-b4a2-29c36626ef71.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071470",
+   "titulo": "01 MONITOR 29 POLEGADAS ULTRAWIDE PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 360,
+   "encerramento": "2026-11-16 14:04",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-monitor-29-polegadas-ultrawide-para-conserto-no-estado-sem-garantia-5071470",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c4868333-ce12-49c1-98e1-94416b4c7358.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067766",
+   "titulo": "LOTE CONTENDO 01 HEADSET E 01 CÂMERA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 240,
+   "encerramento": "2026-11-16 14:04",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-01-headset-e-01-camera-no-estado-sem-garantia-5067766",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/89c0004d-89e9-4d0f-bd81-7076169050e8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067767",
+   "titulo": "LOTE CONTENDO BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:05",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-no-estado-sem-garantia-5067767",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/27caee05-30c2-4080-b609-fb522677e494.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071471",
+   "titulo": "LOTE CONTENDO BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 420,
+   "encerramento": "2026-11-16 14:05",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-no-estado-sem-garantia-5071471",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cd3e13c6-7490-4a4d-9da5-7c8a7057c512.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067768",
+   "titulo": "LOTE CONTENDO BENS DIVERSOS PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:06",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-para-conserto-no-estado-sem-garantia-5067768",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c7dd4fae-7c82-4a09-bd78-2910ff199197.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067769",
+   "titulo": "LOTE CONTENDO BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 240,
+   "encerramento": "2026-11-16 14:06",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-para-conserto-no-estado-sem-garantia-5067769",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b5f0b96c-8b7c-464a-a5fa-c07543fcf8a9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071473",
+   "titulo": "01 SMARTPHONE BLU MODELO L200 PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:07",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-smartphone-blu-modelo-l200-para-conserto-no-estado-sem-garantia-5071473",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/29f7e6e1-0bee-46f1-a51b-f97fc0898c57.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071472",
+   "titulo": "LOTE CONTENDO DIVERSOS APARELHOS ELETRÔNICOS PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:07",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-diversos-aparelhos-eletronicos-para-conserto-no-estado-sem-garanti-5071472",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7892141d-fb89-4a68-a5b4-cafb07aeba0e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071475",
+   "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS E DISPOSITIVOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 240,
+   "encerramento": "2026-11-16 14:08",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-acessorios-eletronicos-e-dispositivos-no-estado-sem-garantia-5071475",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0c75c10c-6e05-41c6-8d45-3c72062c6a67.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071474",
+   "titulo": "01 MONITOR LG 24 POLEGADAS (MODELO 24MS500 - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 100,
+   "encerramento": "2026-11-16 14:08",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-monitor-lg-24-polegadas-modelo-24ms500-no-estado-sem-garantia-5071474",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e064dc1b-9018-487a-b566-75020903ece8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071476",
+   "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:09",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-acessorios-eletronicos-diversos-no-estado-sem-garantia-5071476",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/124081e0-4a69-44c2-8db3-fd94b59a3b2f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071477",
+   "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-16 14:09",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-acessorios-eletronicos-diversos-no-estado-sem-garantia-5071477",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7e05502b-559b-41d4-b018-296dafc1c36a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5067727",
    "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
@@ -26564,30 +27296,6 @@
     "lances": 0,
     "leiloeiro": "JONEY MARCELO LOPES FERREIRA",
     "leilao": "CORPORATIVO"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5038831",
-   "titulo": "Forno Industrial - marca: LIEME, modelo: B8",
-   "categoria": "Fornos e Fogões",
-   "lance_atual": 1200,
-   "encerramento": "2026-11-26 10:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/forno-industrial-marca-lieme-modelo-b8-5038831",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/58516271-f727-462e-b9f4-330b446e722d.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 6,
-    "leiloeiro": "KRON LEILÕES",
-    "leilao": "Prefeitura Municipal de São José dos Pinhais"
    },
    "prioridade": false,
    "destaque": false
