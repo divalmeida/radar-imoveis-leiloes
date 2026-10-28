@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-10-28 13:12",
+ "atualizado_em": "2026-10-28 19:02",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 482,
-   "segundos": 458
+   "segundos": 451
   },
   "Superbid": {
    "ok": true,
-   "lotes": 820,
-   "segundos": 8
+   "lotes": 1001,
+   "segundos": 10
   },
   "Caixa": {
    "ok": false,
@@ -20,126 +20,6 @@
   }
  },
  "lotes": [
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057391",
-   "titulo": "04 IMPRESSORAS MULTIFUNCIONAIS HP DESKJET INK ADVANTAGE 2060 (Ref.: MR)",
-   "categoria": "Informática",
-   "lance_atual": 150,
-   "encerramento": "2026-10-28 14:08",
-   "cidade": "São Gonçalo",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/04-impressoras-multifuncionais-hp-deskjet-ink-advantage-2060-ref-mr-5057391",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/f0f6cfb2-44c7-4f26-bfbe-07e7ff9661c9.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Brava Energia"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5060608",
-   "titulo": "04 IMPRESSORAS MULTIFUNCIONAIS HP LASERJET PRO 100 COLOR MFP M175NW, ANO: 2011 (Ref.: MS)",
-   "categoria": "Informática",
-   "lance_atual": 300,
-   "encerramento": "2026-10-28 14:08",
-   "cidade": "São Gonçalo",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/04-impressoras-multifuncionais-hp-laserjet-pro-100-color-mfp-m175nw-ano-2011-ref-5060608",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/5327ae58-0aeb-45ee-8f19-45336ef31b81.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Brava Energia"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057390",
-   "titulo": "04 IMPRESSORAS MULTIFUNCIONAIS HP LASERJET PRO 100 COLOR MFP M175NW, ANO: 2011 (Ref.: MT)",
-   "categoria": "Informática",
-   "lance_atual": 300,
-   "encerramento": "2026-10-28 14:09",
-   "cidade": "São Gonçalo",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/04-impressoras-multifuncionais-hp-laserjet-pro-100-color-mfp-m175nw-ano-2011-ref-5057390",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/8d82383d-a8dc-406f-b7f5-b70ca4fbdec4.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Brava Energia"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057389",
-   "titulo": "04 IMPRESSORAS HP (Ref.: MU)",
-   "categoria": "Informática",
-   "lance_atual": 300,
-   "encerramento": "2026-10-28 14:09",
-   "cidade": "São Gonçalo",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/04-impressoras-hp-ref-mu-5057389",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/16bcfe41-a0c6-4eba-abe2-7b2d822b8c0c.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Brava Energia"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5060607",
-   "titulo": "06 IMPRESSORAS (Ref.: MV)",
-   "categoria": "Informática",
-   "lance_atual": 400,
-   "encerramento": "2026-10-28 14:10",
-   "cidade": "São Gonçalo",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/06-impressoras-ref-mv-5060607",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/8807aeb5-2438-409c-85c0-dafe9be23056.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Brava Energia"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
   {
    "fonte": "Superbid",
    "id": "superbid-5053841",
@@ -421,7 +301,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -625,7 +505,7 @@
    "id": "superbid-5053827",
    "titulo": "08 IMPRESSORAS ZEBRA QLC420",
    "categoria": "Informática",
-   "lance_atual": 700,
+   "lance_atual": 800,
    "encerramento": "2026-10-29 11:41",
    "cidade": "Campinas",
    "uf": "SP",
@@ -637,7 +517,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -5566,6 +5446,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5072859",
+   "titulo": "3 PÇS NO BREAKS  (Ref.: 21710)",
+   "categoria": "Informática",
+   "lance_atual": 3500,
+   "encerramento": "2026-11-03 14:39",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-pcs-no-breaks-ref-21710-5072859",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6bb9b2c7-2a61-4be0-a313-860490a9ca17.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Vex Comex"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5070103",
    "titulo": "Lote com 05 notebooks S.T.I, modelo NA1402, SEM MEMÓRIA, SEM HD",
    "categoria": "Informática",
@@ -5590,6 +5494,54 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5074042",
+   "titulo": "3 PÇS NO BREAKS (Ref.: 21711)",
+   "categoria": "Informática",
+   "lance_atual": 3500,
+   "encerramento": "2026-11-03 14:40",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-pcs-no-breaks-ref-21711-5074042",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/23f17f2d-c3b4-4fa7-90d3-b7154ebe4e6b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Vex Comex"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072858",
+   "titulo": "3 PÇS NO BREAKS (Ref.: 21712)",
+   "categoria": "Informática",
+   "lance_atual": 2000,
+   "encerramento": "2026-11-03 14:40",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-pcs-no-breaks-ref-21712-5072858",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1494ca9b-d123-4b54-b69b-c80d9c0f2327.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Vex Comex"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5070104",
    "titulo": "01 notebook Dell Latitude 6430, Core i5 3ª geração, SEM MEMÓRIA, SEM HD",
    "categoria": "Informática",
@@ -5608,6 +5560,54 @@
     "lances": 0,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072857",
+   "titulo": "2 PÇS  NO-BREAKS (Ref.: 21713)",
+   "categoria": "Informática",
+   "lance_atual": 4900,
+   "encerramento": "2026-11-03 14:41",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-pcs-no-breaks-ref-21713-5072857",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1ce6f5c9-1504-4eeb-9d62-7b4dd8b22443.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Vex Comex"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072856",
+   "titulo": "3 PÇS NO BREAKS (Ref.: 21714)",
+   "categoria": "Informática",
+   "lance_atual": 3850,
+   "encerramento": "2026-11-03 14:41",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-pcs-no-breaks-ref-21714-5072856",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/da0b9eb9-2618-4d39-9449-abd335faf5ef.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Vex Comex"
    },
    "prioridade": false,
    "destaque": true
@@ -6046,6 +6046,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5072833",
+   "titulo": "3 RACKS PARA SERVIDOR COM EQUIPAMENTO  (Ref.: 21579)",
+   "categoria": "Informática",
+   "lance_atual": 3500,
+   "encerramento": "2026-11-03 14:59",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-racks-para-servidor-com-equipamento-ref-21579-5072833",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dfa2e169-9440-40b4-9361-981511bb3cc3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Vex Comex"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5070123",
    "titulo": "01 notebook Lenovo X100e, SEM MEMÓRIA, SEM HD",
    "categoria": "Informática",
@@ -6088,6 +6112,366 @@
     "lances": 0,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074338",
+   "titulo": "STARLINK MINI INTERNET VIA SATÉLITE (05 UN)     (Ref.: SB0033977)",
+   "categoria": "Informática",
+   "lance_atual": 500,
+   "encerramento": "2026-11-03 17:34",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/starlink-mini-internet-via-satelite-05-un-ref-sb0033977-5074338",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ff029a3a-5b67-4e87-ae9b-b70ccbceb38e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074339",
+   "titulo": "STARLINK MINI INTERNET VIA SATÉLITE (05 UN)  (Ref.: SB0033976)",
+   "categoria": "Informática",
+   "lance_atual": 500,
+   "encerramento": "2026-11-03 17:34",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/starlink-mini-internet-via-satelite-05-un-ref-sb0033976-5074339",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/823c6dbe-ffa8-462a-b97e-8dd1d82a31e4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074340",
+   "titulo": "STARLINK SISTEMA DE RECEPÇÃO DE INTERNET SATELITE, STARLINK MINI INTERNET VIA SATÉLITE (05 UN) (Ref.: SB0033979)",
+   "categoria": "Informática",
+   "lance_atual": 900,
+   "encerramento": "2026-11-03 17:35",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/starlink-sistema-de-recepcao-de-internet-satelite-starlink-mini-internet-via-sat-5074340",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/28ee0312-f2be-4520-8cf6-877734185f9a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074341",
+   "titulo": "STARLINK MINI ROTEADOR, STARLINK MINI INTERNET VIA SATÉLITE (06 UN) (Ref.: SB0033978)",
+   "categoria": "Informática",
+   "lance_atual": 580,
+   "encerramento": "2026-11-03 17:36",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/starlink-mini-roteador-starlink-mini-internet-via-satelite-06-un-ref-sb0033978-5074341",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5484bc25-f820-46b8-bf9c-c6cfb6722674.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073253",
+   "titulo": "ASPIRADOR SH 10000 STONE HAMMER 220V (01 UN) (Ref.: SB0034054)",
+   "categoria": "Limpeza",
+   "lance_atual": 700,
+   "encerramento": "2026-11-03 17:36",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aspirador-sh-10000-stone-hammer-220v-01-un-ref-sb0034054-5073253",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0d882489-33fc-4253-a738-45268c0ce6d8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074343",
+   "titulo": "MONITOR GAME ASUS ROG STRIX OLED 31.5\" (01 UN) (Ref.: SB0034056)",
+   "categoria": "Informática",
+   "lance_atual": 1060,
+   "encerramento": "2026-11-03 17:37",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/monitor-game-asus-rog-strix-oled-31-5-01-un-ref-sb0034056-5074343",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7b2b83cb-c79f-4a30-8c1e-cff885d3c3aa.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074345",
+   "titulo": "AR CONDICIONADO PORTATIL MIDEA TANGO USADO, UNIDADE EVAPORADORA INVERTER MIDEA R32 PARA AR CONDICIONADO, AR-CONDICIONADO DE JANELA CONSUL CCB10GB 10000 BTUS FRIO 127V BRANCO (03 UN)  (Ref.: SB0034057)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 710,
+   "encerramento": "2026-11-03 17:38",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ar-condicionado-portatil-midea-tango-usado-unidade-evaporadora-inverter-midea-r3-5074345",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c844b7b4-ad05-43c7-b7d5-27b6fd56571f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074347",
+   "titulo": "NOTEBOOK SAMSUNG USADO DIVERSOS (04 UN)           (Ref.: SB0034062)",
+   "categoria": "Informática",
+   "lance_atual": 520,
+   "encerramento": "2026-11-03 17:39",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/notebook-samsung-usado-diversos-04-un-ref-sb0034062-5074347",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6a160f0e-c1fc-4d52-88c8-84efc4284a93.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073254",
+   "titulo": "CHROMEBOOK GOOGLE PIXELBOOK USADO, NOTEBOOK ACER ASPIRE 3 15 USADO, NOTEBOOK ACER ASPIRE ONE USADO  (04 UN) (Ref.: SB0034061)",
+   "categoria": "Informática",
+   "lance_atual": 620,
+   "encerramento": "2026-11-03 17:40",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/chromebook-google-pixelbook-usado-notebook-acer-aspire-3-15-usado-notebook-acer--5073254",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/67f23983-30a5-4454-a36d-144160d4029c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074348",
+   "titulo": "NOTEBOOK DELL USADO, NOTEBOOK LENOVO USADO (03 UN) (Ref.: SB0034065)",
+   "categoria": "Informática",
+   "lance_atual": 540,
+   "encerramento": "2026-11-03 17:41",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/notebook-dell-usado-notebook-lenovo-usado-03-un-ref-sb0034065-5074348",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/78e981e8-517f-44ab-a0f2-58b216385bf4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073256",
+   "titulo": "NOTEBOOK TRINKPAD LENOVO USADO, NOTEBOOK POSITIVO USADO, NOTEBOOK POSITIVO USADO (04 UN)       (Ref.: SB0034064)",
+   "categoria": "Informática",
+   "lance_atual": 594,
+   "encerramento": "2026-11-03 17:41",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/notebook-trinkpad-lenovo-usado-notebook-positivo-usado-notebook-positivo-usado-0-5073256",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dbe3b9ff-7cf4-4b55-93ca-bee25d10eee7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073257",
+   "titulo": "MACBOOK PRO APPLE USADO, MACBOOK AIR APPLE USADO (02 UN) (Ref.: SB0034063)",
+   "categoria": "Informática",
+   "lance_atual": 920,
+   "encerramento": "2026-11-03 17:42",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/macbook-pro-apple-usado-macbook-air-apple-usado-02-un-ref-sb0034063-5073257",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1d4a7eaa-9b0c-4143-940b-6b8d94bf39c3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074349",
+   "titulo": "SMARTPHONE DIVERSOS COM AVARIA, SMARTPHONE MOTOROLA USADO, SMARTPHONE SAMSUNG USADO-DIVERSOS  (09 UN) (Ref.: SB0034067)",
+   "categoria": "Telefonia",
+   "lance_atual": 550,
+   "encerramento": "2026-11-03 17:42",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/smartphone-diversos-com-avaria-smartphone-motorola-usado-smartphone-samsung-usad-5074349",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4e3a98bf-bed8-4ff4-af97-7bbf47b13af2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073258",
+   "titulo": "NOTEBOOK COMPAQ PRESARIO 420 INTEL PENTIUM W10 4GB 120GB SSD, TABLETE SAMSUNG USADO, TABLET VAIO TL10 (BOTÃO QUEBRADO) (03 UN)(Ref.: SB0034066)",
+   "categoria": "Informática",
+   "lance_atual": 540,
+   "encerramento": "2026-11-03 17:43",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/notebook-compaq-presario-420-intel-pentium-w10-4gb-120gb-ssd-tablete-samsung-usa-5073258",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5a47cec3-3be6-461d-bf7a-1e36c56eb6ef.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073260",
+   "titulo": "PLACA DE VIDEO RADEON RX 580 AMOR X, STREAM DECK ELGATO MK.2, 15 TECLAS PERSONALIZÁVEIS DE LCD, MINERADOR BITCOIN BITAXE GAMMA 601 E OUTROS (05 UN (Ref.: SB0034072)",
+   "categoria": "Informática",
+   "lance_atual": 1130,
+   "encerramento": "2026-11-03 17:44",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/placa-de-video-radeon-rx-580-amor-x-stream-deck-elgato-mk-2-15-teclas-personaliz-5073260",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0153c18f-a5dc-416c-941a-13cb007b044d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
    },
    "prioridade": false,
    "destaque": true
@@ -14526,6 +14910,174 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5074060",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR BRANCO NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:30",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-br-5074060",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/305f057b-ad8f-4b86-bbd7-20831773df98.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073000",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR LARANJA NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:30",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-la-5073000",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5c47b5e0-cd95-48b2-b5b9-484a2e2e3655.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074049",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR LARANJA NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:31",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-la-5074049",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/10307896-9310-44fe-a2b0-212ed6282363.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074050",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR LARANJA NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:31",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-la-5074050",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/60ace53f-139c-41d9-aaa7-a670ea65ea5f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074051",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR LARANJA NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:32",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-la-5074051",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a81a79d0-18ec-474a-88c1-85f1e7c92bc8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073001",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR BLACK NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:32",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-bl-5073001",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/414c4dab-f3cb-4675-8163-0c0e1e15bd9e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072874",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR BLACK NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:33",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-bl-5072874",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/97df353f-3046-49cb-80ad-0afd989c1e2a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5067087",
    "titulo": "IMPRESSORA, NOTEBOOK, TABLET, MICROCOMPUTADOR, TELEFONES, ESTABILIZADOR E LEITOR DE CÓDIGO DE BARRAS, GARANTIA: NÃO, NECESSIDADE DE REPARO: SIM (19 PC)",
    "categoria": "Informática",
@@ -14544,6 +15096,1206 @@
     "lances": 0,
     "leiloeiro": "SOLD",
     "leilao": "Schulz"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074052",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR BLACK NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:33",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-bl-5074052",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6c306c44-5e6f-4876-8fd7-96f847e3705d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074053",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR BLACK NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:34",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-bl-5074053",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7d99f471-f97f-4129-b5cb-49bca02ce653.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072875",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR BRANCO NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:34",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-br-5072875",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/594ccefe-c06a-4ace-88ef-d50837c0fb56.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072876",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR BRANCO NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:35",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-br-5072876",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c1d00cb5-509b-4b0e-ad7e-58a058cbe531.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074054",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR BRANCO NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:35",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-br-5074054",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7149b72e-a4a3-4b31-b679-8df541813f58.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072877",
+   "titulo": "01 CELULAR SMARTPHONE HOTWAY A17 PRO MAX DUAL CHIP ANDROID 16GB RAM 256GB COR BRANCO NOVO LACRADO SELO DA ANATEL",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-10 13:36",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-celular-smartphone-hotway-a17-pro-max-dual-chip-android-16gb-ram-256gb-cor-br-5072877",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/28199946-379c-465c-8a11-5cf5ae09ac26.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072884",
+   "titulo": "LOTE COM 10 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 150,
+   "encerramento": "2026-11-10 13:36",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072884",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/326c1713-c175-4722-b3b4-6610fb78b4f4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072885",
+   "titulo": "LOTE COM 10 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 150,
+   "encerramento": "2026-11-10 13:37",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072885",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ac0a411a-991f-4a4e-a1cf-6e65ada54b61.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074061",
+   "titulo": "LOTE COM 10 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 150,
+   "encerramento": "2026-11-10 13:37",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5074061",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7e273a22-c4bc-45ea-b0a0-736a4d155fcc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072886",
+   "titulo": "LOTE COM 10 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 150,
+   "encerramento": "2026-11-10 13:38",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072886",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fa0f41bd-9fd3-4498-8901-04605b233a9e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072887",
+   "titulo": "LOTE COM 20 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-10 13:38",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-20-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072887",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1bb22767-7adb-4da3-8b3f-b97b78c3b838.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072888",
+   "titulo": "LOTE COM 20 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-10 13:39",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-20-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072888",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bdc56c0c-168f-4fdb-a0c5-5c9974f9b2ed.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074062",
+   "titulo": "LOTE COM 20 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-10 13:39",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-20-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5074062",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7f6bd9e8-8798-4e55-9719-57508eb71a50.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072889",
+   "titulo": "LOTE COM 20 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-10 13:40",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-20-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072889",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2a82919e-b798-4293-946f-e0b0d02cf1b3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074063",
+   "titulo": "LOTE COM 20 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-11-10 13:40",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-20-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5074063",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/47481248-65eb-4409-a5e5-b249e75ddf7b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072890",
+   "titulo": "LOTE COM 50 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 600,
+   "encerramento": "2026-11-10 13:41",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-50-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072890",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4f707330-b468-4d52-911f-b1d3e7a4afe0.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074064",
+   "titulo": "LOTE COM 50 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 600,
+   "encerramento": "2026-11-10 13:41",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-50-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5074064",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8e72e1ef-347a-412d-bd87-4e8d6192781a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074065",
+   "titulo": "LOTE COM 50 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 600,
+   "encerramento": "2026-11-10 13:42",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-50-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5074065",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/951af425-4bd9-4b34-910f-aba14982dcfd.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072891",
+   "titulo": "LOTE COM 50 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 600,
+   "encerramento": "2026-11-10 13:42",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-50-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072891",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2c383a36-d85d-4e86-a19c-0b541b2e37bb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072892",
+   "titulo": "LOTE COM 50 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 600,
+   "encerramento": "2026-11-10 13:43",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-50-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072892",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2305dbd6-3fb8-4914-ba95-fca087d354d2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072893",
+   "titulo": "LOTE COM 100 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-11-10 13:43",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-100-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072893",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fc42f11b-da17-4378-ac9b-4fbc01cbb8d4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072895",
+   "titulo": "LOTE COM 100 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-11-10 13:44",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-100-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072895",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9fe9f331-b608-4174-aa6d-3797258066b7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072894",
+   "titulo": "LOTE COM 100 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-11-10 13:44",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-100-caixas-de-maquina-sem-fio-modelo-dragao-recarregavel-usb-5072894",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ba6c8662-826b-4ae8-83ac-bfaafaca6fbc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072896",
+   "titulo": "KIT HIGIÊNICO COM 20 PEÇAS SENDO 10 PEÇAS DE MÁQUININHA DRAGÃO + 10 PEÇAS DE MAQUININHA APARADOR DE PÊLOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-11-10 13:45",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/kit-higienico-com-20-pecas-sendo-10-pecas-de-maquininha-dragao-10-pecas-de-maqui-5072896",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c066ae3e-98cc-4f2c-a0a9-27f74b0794d1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072897",
+   "titulo": "KIT HIGIÊNICO COM 20 PEÇAS SENDO 10 PEÇAS DE MÁQUININHA DRAGÃO + 10 PEÇAS DE MAQUININHA APARADOR DE PÊLOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-11-10 13:45",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/kit-higienico-com-20-pecas-sendo-10-pecas-de-maquininha-dragao-10-pecas-de-maqui-5072897",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/34539530-5181-40c5-b3a5-5242e266d89e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072898",
+   "titulo": "KIT HIGIÊNICO COM 20 PEÇAS SENDO 10 PEÇAS DE MÁQUININHA DRAGÃO + 10 PEÇAS DE MAQUININHA APARADOR DE PÊLOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-11-10 13:46",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/kit-higienico-com-20-pecas-sendo-10-pecas-de-maquininha-dragao-10-pecas-de-maqui-5072898",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/722876e4-3de6-4f9c-97f2-b414cc52e1dc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072899",
+   "titulo": "KIT HIGIÊNICO COM 10 PEÇAS SENDO 05 PEÇAS DE MÁQUININHA DRAGÃO + 05 PEÇAS DE MAQUININHA  APARADOR DE PÊLOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 250,
+   "encerramento": "2026-11-10 13:46",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/kit-higienico-com-10-pecas-sendo-05-pecas-de-maquininha-dragao-05-pecas-de-maqui-5072899",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/55384078-e747-42dc-a13d-d26c3e161839.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072900",
+   "titulo": "KIT HIGIÊNICO COM 10 PEÇAS SENDO 05 PEÇAS DE MÁQUININHA DRAGÃO + 05 PEÇAS DE MAQUININHA  APARADOR DE PÊLOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 250,
+   "encerramento": "2026-11-10 13:47",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/kit-higienico-com-10-pecas-sendo-05-pecas-de-maquininha-dragao-05-pecas-de-maqui-5072900",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/363763e2-d05a-4688-aa2c-b6457d10c2a5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072901",
+   "titulo": "KIT HIGIÊNICO COM 10 PEÇAS SENDO 05 PEÇAS DE MÁQUININHA DRAGÃO + 05 PEÇAS DE MAQUININHA  APARADOR DE PÊLOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 250,
+   "encerramento": "2026-11-10 13:47",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/kit-higienico-com-10-pecas-sendo-05-pecas-de-maquininha-dragao-05-pecas-de-maqui-5072901",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fbb3d0a9-9f72-431a-8883-f3c8be05ff69.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072902",
+   "titulo": "KIT HIGIÊNICO COM 50 PEÇAS SENDO 25 PEÇAS DE MÁQUININHA DRAGÃO + 25 PEÇAS DE MAQUININHA  APARADOR DE PÊLOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 900,
+   "encerramento": "2026-11-10 13:48",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/kit-higienico-com-50-pecas-sendo-25-pecas-de-maquininha-dragao-25-pecas-de-maqui-5072902",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cfa40776-9744-4275-ad11-86b9c7efd69c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072903",
+   "titulo": "KIT HIGIÊNICO COM 50 PEÇAS SENDO 25 PEÇAS DE MÁQUININHA DRAGÃO + 25 PEÇAS DE MAQUININHA  APARADOR DE PÊLOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 900,
+   "encerramento": "2026-11-10 13:48",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/kit-higienico-com-50-pecas-sendo-25-pecas-de-maquininha-dragao-25-pecas-de-maqui-5072903",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6e88088b-0077-449e-b20e-03abd9f6ac3c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072904",
+   "titulo": "KIT HIGIÊNICO COM 50 PEÇAS SENDO 25 PEÇAS DE MÁQUININHA DRAGÃO + 25 PEÇAS DE MAQUININHA  APARADOR DE PÊLOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 900,
+   "encerramento": "2026-11-10 13:49",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/kit-higienico-com-50-pecas-sendo-25-pecas-de-maquininha-dragao-25-pecas-de-maqui-5072904",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/24748a86-977b-48a7-8077-a209af1c08a9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072905",
+   "titulo": "LOTE COM 10 KITS  DE APARADOR HIGIÊNICO DE PELOS COM 3 PEÇAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 160,
+   "encerramento": "2026-11-10 13:49",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-kits-de-aparador-higienico-de-pelos-com-3-pecas-5072905",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5cce0b63-6938-498f-aeec-0b949e5aa364.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072906",
+   "titulo": "LOTE COM 10 KITS  DE APARADOR HIGIÊNICO DE PELOS COM 3 PEÇAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 160,
+   "encerramento": "2026-11-10 13:50",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-kits-de-aparador-higienico-de-pelos-com-3-pecas-5072906",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d0999fec-a528-41a7-b662-fe8d4254a359.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074066",
+   "titulo": "LOTE COM 10 KITS  DE APARADOR HIGIÊNICO DE PELOS COM 3 PEÇAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 160,
+   "encerramento": "2026-11-10 13:50",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-kits-de-aparador-higienico-de-pelos-com-3-pecas-5074066",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a95dd19f-002e-452f-97ab-8a4cf61c3bc6.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074067",
+   "titulo": "LOTE COM 10 KITS  DE APARADOR HIGIÊNICO DE PELOS COM 3 PEÇAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 160,
+   "encerramento": "2026-11-10 13:51",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-kits-de-aparador-higienico-de-pelos-com-3-pecas-5074067",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/049be2a8-bee7-4ae0-8f32-75cef72752a5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072907",
+   "titulo": "LOTE COM 10 KITS  DE APARADOR HIGIÊNICO DE PELOS COM 3 PEÇAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 160,
+   "encerramento": "2026-11-10 13:51",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-kits-de-aparador-higienico-de-pelos-com-3-pecas-5072907",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5ff7d936-0f41-465d-ae9f-ca88b7c7e995.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074068",
+   "titulo": "LOTE COM 10 KITS  DE MÁQUINA DE CORTAR CABELO COM 5 PEÇAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 200,
+   "encerramento": "2026-11-10 13:52",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-kits-de-maquina-de-cortar-cabelo-com-5-pecas-5074068",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e4a8e4ef-e5af-4ba4-8754-c70d09747b14.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074069",
+   "titulo": "LOTE COM 10 KITS  DE MÁQUINA DE CORTAR CABELO COM 5 PEÇAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 200,
+   "encerramento": "2026-11-10 13:52",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-kits-de-maquina-de-cortar-cabelo-com-5-pecas-5074069",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0140b919-377a-4ec1-9037-98eba928b53e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072908",
+   "titulo": "LOTE COM 10 KITS  DE MÁQUINA DE CORTAR CABELO COM 5 PEÇAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 200,
+   "encerramento": "2026-11-10 13:53",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-kits-de-maquina-de-cortar-cabelo-com-5-pecas-5072908",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/af3052f3-df5b-4640-bef1-e7f74fd266e1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074070",
+   "titulo": "LOTE COM 10 KITS  DE MÁQUINA DE CORTAR CABELO COM 5 PEÇAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 200,
+   "encerramento": "2026-11-10 13:53",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-kits-de-maquina-de-cortar-cabelo-com-5-pecas-5074070",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/19bbabc1-b529-48df-ac55-10dbab64fd47.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074071",
+   "titulo": "LOTE COM 10 KITS  DE MÁQUINA DE CORTAR CABELO COM 5 PEÇAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 200,
+   "encerramento": "2026-11-10 13:54",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-10-kits-de-maquina-de-cortar-cabelo-com-5-pecas-5074071",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9510ef94-3595-4c65-a6e3-6995c1f47f50.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073326",
+   "titulo": "LOTE COM 05 PEÇAS DE FONE GAMER COM LED BLUETOOTH ESTÉREO SEM FIO PREMIUM COM CARREGADOR PORTÁTIL  FOTOS REAIS DO PRODUTO  PRODUTO NOVO, VENDIDO NO ESTADO  ATENÇÃO: O PRODUTO PODERÁ SER RETIRADO OU ENVIADO PELOS CORREIOS PARA TODO O BRASIL VALOR R$ 3",
+   "categoria": "Eletrônicos",
+   "lance_atual": 120,
+   "encerramento": "2026-11-10 14:16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-05-pecas-de-fone-gamer-com-led-bluetooth-estereo-sem-fio-premium-com-ca-5073326",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/65a9d2af-8eed-4f69-bd9b-3d7fff6edcd0.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074413",
+   "titulo": "LOTE COM 05 PEÇAS DE RELÓGIO SMARTWATCH BLUETOOTH VÁRIAS FUNÇÕES INTELIGENTE IOS ANDROID COR BLACK - VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-11-10 14:16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-05-pecas-de-relogio-smartwatch-bluetooth-varias-funcoes-inteligente-ios-5074413",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6d40d02a-8734-4d97-8855-b4f1f4363fdd.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074414",
+   "titulo": "LOTE COM 05 PEÇAS DE RELÓGIO SMARTWATCH BLUETOOTH VÁRIAS FUNÇÕES INTELIGENTE IOS ANDROID COR BLACK - VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-11-10 14:17",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-05-pecas-de-relogio-smartwatch-bluetooth-varias-funcoes-inteligente-ios-5074414",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f45d5630-32f9-4c97-9bce-5a58c96f0a19.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074415",
+   "titulo": "LOTE COM 05 PEÇAS DE RELÓGIO SMARTWATCH BLUETOOTH VÁRIAS FUNÇÕES INTELIGENTE IOS ANDROID COR BLACK - VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-11-10 14:17",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-05-pecas-de-relogio-smartwatch-bluetooth-varias-funcoes-inteligente-ios-5074415",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/15fa11e3-0453-4436-871f-07f01d6eeaef.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073328",
+   "titulo": "LOTE COM 05 PEÇAS DE RELÓGIO SMARTWATCH BLUETOOTH VÁRIAS FUNÇÕES INTELIGENTE IOS ANDROID COR BLACK - VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-11-10 14:18",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-05-pecas-de-relogio-smartwatch-bluetooth-varias-funcoes-inteligente-ios-5073328",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ed47a527-3df5-4801-974f-ad562e878777.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073329",
+   "titulo": "LOTE COM 05 PEÇAS DE RELÓGIO SMARTWATCH BLUETOOTH VÁRIAS FUNÇÕES INTELIGENTE IOS ANDROID COR BLACK - VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-11-10 14:18",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-05-pecas-de-relogio-smartwatch-bluetooth-varias-funcoes-inteligente-ios-5073329",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5cb5fdd4-57bf-4d4b-8204-8dcb5c7887f1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074416",
+   "titulo": "LOTE COM 05 PEÇAS DE RELÓGIO SMARTWATCH BLUETOOTH VÁRIAS FUNÇÕES INTELIGENTE IOS ANDROID COR BLACK - VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-11-10 14:19",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-05-pecas-de-relogio-smartwatch-bluetooth-varias-funcoes-inteligente-ios-5074416",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/73ea0598-c563-4106-a298-93c8a8751e0e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074417",
+   "titulo": "LOTE COM 05 PEÇAS DE RELÓGIO SMARTWATCH BLUETOOTH VÁRIAS FUNÇÕES INTELIGENTE IOS ANDROID COR BLACK - VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-11-10 14:19",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-com-05-pecas-de-relogio-smartwatch-bluetooth-varias-funcoes-inteligente-ios-5074417",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e8836d69-ae10-450e-9531-14ad56b41cad.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
    },
    "prioridade": false,
    "destaque": true
@@ -15544,7 +17296,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/47",
    "valor_avaliacao": 20000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_47_554676_b869a4944756977bdda3aa77f1202672.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15564,7 +17316,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/48",
    "valor_avaliacao": 20000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_48_554678_e7e03bfbcaf5cd949da3b84a1405973f.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15584,7 +17336,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/49",
    "valor_avaliacao": 20000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_49_554680_3067d9d603af26a64dc2ea48a5d1fe23.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15604,7 +17356,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/50",
    "valor_avaliacao": 15000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_50_554682_81ea80fd5bbcaa340a12b1e5717d6de5.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15624,7 +17376,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/51",
    "valor_avaliacao": 18722,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_51_554684_e7800adae0e9a52043e0abbca4ed5b8d.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15644,7 +17396,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/52",
    "valor_avaliacao": 16818,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_52_554685_7cc860cf9b2223c340ce3ff6a1e1aed6.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15784,7 +17536,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/74",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_74_554691_78cc56666729a3d3c223abbc2c48683b.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15804,7 +17556,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/75",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_75_554693_707d093a3cf59aa0ecd674e39a0455ef.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15824,7 +17576,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/76",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_76_554695_7c18628e4977df8b50053f0f730d5880.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15844,7 +17596,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/77",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_77_554697_471ddf3e1b3cb1ca8c516046001d3eab.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15864,7 +17616,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/78",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_78_554699_7e15a103dea4f7b7ab08d1af7bd19355.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15884,7 +17636,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/79",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_79_554701_a7b06a508fca2d481114eee6f3b70f76.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15904,7 +17656,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/80",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_80_554703_acec98b26c81da859d4744310e61dcc4.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15924,7 +17676,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/81",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_81_554705_8bfbff53d4eca964d4165d14ea3ee61c.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15944,7 +17696,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/82",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_82_554707_e8ad7e201f66a7a0cafc0cfc626c6bc6.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15964,7 +17716,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/83",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_83_554709_d603946d5d2b3864fed3c3e681d58e8e.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -15984,7 +17736,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/84",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_84_554711_fa3fa686e32ea1783a9b74ddef7c265c.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16004,7 +17756,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/85",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_85_554713_198b3ab32bd129c84325f70ca11527bc.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16024,7 +17776,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/86",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_86_554715_e829baa74e5442e1098ffb6fced693db.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16044,7 +17796,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/87",
    "valor_avaliacao": 7318,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_87_554717_2eebd8af3f1980c788000c294e74457e.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16064,7 +17816,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/88",
    "valor_avaliacao": 6589,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_88_554719_118f3a5dea9d4f6d61e9cd4d03b41084.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16084,7 +17836,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/89",
    "valor_avaliacao": 6589,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_89_554721_70052e2d498a362f2e2b4ac88df013e5.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16104,7 +17856,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/90",
    "valor_avaliacao": 6589,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_90_554723_c6016f6e74dccce5ec06313e2c0fc478.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16124,7 +17876,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/91",
    "valor_avaliacao": 7281,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_91_554725_3b5a162c33672f6ee6cb572f6df76cee.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16144,7 +17896,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/92",
    "valor_avaliacao": 7593,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_92_554727_7b59d0c22f084caeb29f031c609ad56e.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16164,7 +17916,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/93",
    "valor_avaliacao": 7593,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_93_554729_295331d1e4c769f4f8477d6fafa6e6ef.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16184,7 +17936,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/94",
    "valor_avaliacao": 7593,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_94_554731_fe216ea6133c4755b0d1c076a56fb968.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16204,7 +17956,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/95",
    "valor_avaliacao": 7593,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_95_554733_3a3f7263133fc84ec5de2be2a3064979.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16224,7 +17976,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/96",
    "valor_avaliacao": 4602,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_96_554735_83d618b61ff61b085cdc866c4a470bed.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16244,7 +17996,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/97",
    "valor_avaliacao": 7086,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_97_554737_4b017994158315abfe33fbc9e83394d8.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16264,7 +18016,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/98",
    "valor_avaliacao": 7086,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_98_554739_2176b9433f8fa42e27c414722bb48ec4.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16284,7 +18036,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/99",
    "valor_avaliacao": 7086,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_99_554741_428897e043a0ecc623683395fc3317a4.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16304,7 +18056,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/100",
    "valor_avaliacao": 7593,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_100_554743_a65aba3a9239a917df454f0e5e07146e.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16324,7 +18076,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/101",
    "valor_avaliacao": 7593,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_101_554745_4395539a38bd7f9629dbd13c5d29b04b.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16344,7 +18096,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/102",
    "valor_avaliacao": 7593,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_102_554747_a8a7ad92ddfc34d049a1953f988bcd23.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16364,7 +18116,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/14/2026/lote/103",
    "valor_avaliacao": 7593,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/14/foto_pq_800100_2026_14_103_554749_293ef12df6890c62b5e6e394350f21f9.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -16524,6 +18276,30 @@
     "lances": 0,
     "leiloeiro": "ECKERT ASSESSORIA",
     "leilao": "Município de Águas de Chapecó/SC"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073049",
+   "titulo": "02 IMPRESSORAS HP (PLOTTER E MULTIFUNCIONAL) (Ref.: DCM)",
+   "categoria": "Informática",
+   "lance_atual": 1400,
+   "encerramento": "2026-11-13 17:09",
+   "cidade": "Sertãozinho",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/02-impressoras-hp-plotter-e-multifuncional-ref-dcm-5073049",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f9f34125-dce4-48e2-aaea-2f3afc0cfee6.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Brapan"
    },
    "prioridade": false,
    "destaque": true
@@ -19750,34 +21526,10 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5051550",
-   "titulo": "01 RACK DE INFORMÁTICA (Ref.: LIM202500678)",
-   "categoria": "Informática",
-   "lance_atual": 500,
-   "encerramento": "2026-10-28 14:02",
-   "cidade": "Cuiabá",
-   "uf": "MT",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-rack-de-informatica-ref-lim202500678-5051550",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/773798ee-2625-434f-8047-f0d41e6e35df.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Amaggi"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
    "id": "superbid-5050200",
    "titulo": "APROXIMADAMENTE 24 APARELHOS DE AR CONDICIONADO",
    "categoria": "Refrigeradores",
-   "lance_atual": 5000,
+   "lance_atual": 5400,
    "encerramento": "2026-10-29 10:55",
    "cidade": "Nova Aurora",
    "uf": "PR",
@@ -19789,7 +21541,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 12,
+    "lances": 14,
     "leiloeiro": "MILANI LEILÕES",
     "leilao": "PREFEITURA MUNICIPAL DE NOVA AURORA-PR"
    },
@@ -25952,7 +27704,7 @@
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-8-revistas-em-quadrinhos-no-estado-sem-garantia-5067761",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/043e74bc-8e46-43d5-9bda-e50e0bcde89f.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/c5c8eb48-f079-49e2-b211-89c337840702.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -26159,14 +27911,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5067766",
-   "titulo": "LOTE CONTENDO 01 HEADSET E 01 CÂMERA - NO ESTADO - SEM GARANTIA",
+   "titulo": "LOTE CONTENDO 01 HEADSET E 01 CÂMERA - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
    "lance_atual": 340,
    "encerramento": "2026-11-16 14:04",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-01-headset-e-01-camera-no-estado-sem-garantia-5067766",
+   "link": "https://www.superbid.net/oferta/lote-contendo-01-headset-e-01-camera-para-conserto-no-estado-sem-garantia-5067766",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/89c0004d-89e9-4d0f-bd81-7076169050e8.jpg",
    "observacoes": [
@@ -26183,14 +27935,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5067767",
-   "titulo": "LOTE CONTENDO 03 BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "titulo": "LOTE CONTENDO 03 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
    "lance_atual": 300,
    "encerramento": "2026-11-16 14:05",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-03-bens-diversos-no-estado-sem-garantia-5067767",
+   "link": "https://www.superbid.net/oferta/lote-contendo-03-bens-diversos-para-conserto-no-estado-sem-garantia-5067767",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/27caee05-30c2-4080-b609-fb522677e494.jpg",
    "observacoes": [
@@ -26207,14 +27959,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5071471",
-   "titulo": "LOTE CONTENDO BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "titulo": "LOTE CONTENDO BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
    "lance_atual": 420,
    "encerramento": "2026-11-16 14:05",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-no-estado-sem-garantia-5071471",
+   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-para-conserto-no-estado-sem-garantia-5071471",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/cd3e13c6-7490-4a4d-9da5-7c8a7057c512.jpg",
    "observacoes": [
@@ -26425,7 +28177,7 @@
    "id": "superbid-5067727",
    "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 150,
+   "lance_atual": 200,
    "encerramento": "2026-11-16 14:10",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -26437,7 +28189,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -27901,7 +29653,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -29006,6 +30758,1902 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-4999516",
+   "titulo": "LOTE 01 - EQUIPAMENTOS DE SEGURANÇA, CAMERAS, DHD, DVR",
+   "categoria": "Eletrônicos",
+   "lance_atual": 50000,
+   "encerramento": "2026-12-01 14:00",
+   "cidade": "Cascavel",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-01-equipamentos-de-seguranca-cameras-dhd-dvr-4999516",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/aaa23cbc-23fc-43bd-8201-091f6311fe82.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "JONEY MARCELO LOPES FERREIRA",
+    "leilao": "CORPORATIVO"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-4999518",
+   "titulo": "LOTE 03 - EQUIPAMENTOS DE SEGURANÇA - CÂMERAS, SENSORES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 45000,
+   "encerramento": "2026-12-01 14:01",
+   "cidade": "Cascavel",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-03-equipamentos-de-seguranca-cameras-sensores-4999518",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5675b87e-275f-440a-9b3d-db8febfeb16c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "JONEY MARCELO LOPES FERREIRA",
+    "leilao": "CORPORATIVO"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-4999517",
+   "titulo": "LOTE 04 - EQUIPAMENTOS DE SEGURANÇA - DVR E CAMERAS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 45000,
+   "encerramento": "2026-12-01 14:01",
+   "cidade": "Cascavel",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-04-equipamentos-de-seguranca-dvr-e-cameras-4999517",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2673f006-4b9c-42d7-9088-34cd06b0adb3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "JONEY MARCELO LOPES FERREIRA",
+    "leilao": "CORPORATIVO"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-4999525",
+   "titulo": "LOTE 08 - EQUIPAMENTOS DE SEGURANÇA - DVRS Gravadores",
+   "categoria": "Eletrônicos",
+   "lance_atual": 35000,
+   "encerramento": "2026-12-01 14:03",
+   "cidade": "Cascavel",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-08-equipamentos-de-seguranca-dvrs-gravadores-4999525",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5d88b570-7487-42d4-a45f-c800a05bc197.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "JONEY MARCELO LOPES FERREIRA",
+    "leilao": "CORPORATIVO"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-4999522",
+   "titulo": "LOTE 09 - EQUIPAMENTOS DE SEGURANÇA - SENSORES COMPATEC/ CENTRAL DE ALARME",
+   "categoria": "Eletrônicos",
+   "lance_atual": 35000,
+   "encerramento": "2026-12-01 14:04",
+   "cidade": "Cascavel",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-09-equipamentos-de-seguranca-sensores-compatec-central-de-alarme-4999522",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a461d309-d0c0-4f99-9182-125e7b7932d8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "JONEY MARCELO LOPES FERREIRA",
+    "leilao": "CORPORATIVO"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072769",
+   "titulo": "APROXIMADAMENTE 14 ITENS DIVERSOS #2",
+   "categoria": "Eletrônicos",
+   "lance_atual": 300,
+   "encerramento": "2026-12-03 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-14-itens-diversos-2-5072769",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/510debe1-971e-46c7-8b0a-5502ff8e92da.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Ferramentas Eletricas"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072922",
+   "titulo": "AIR FRYER + SECADOR DE CABELO + PISCINA INFANTIL + PRANCHA ALISADORA + BATEDEIRA + PREPARADOR DE SUCOS + LIQUIDIFICADOR + BATEDEIRA + CHALEIRA (#316MAGO)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 400,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/air-fryer-secador-de-cabelo-piscina-infantil-prancha-alisadora-batedeira-prepara-5072922",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fdb24a1a-fae7-45e0-b718-f8763b909e04.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072923",
+   "titulo": "PANELAS ELÉTRICAS + CHALEIRAS ELÉTRICAS + VENTILADOR DE TETO + CAFETEIRA + LIQUIDIFICADOR + ESPEREMEDOR DE LARANJA + BATEDEIRA (#312MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/panelas-eletricas-chaleiras-eletricas-ventilador-de-teto-cafeteira-liquidificado-5072923",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d80ff4b8-96d3-4efe-88ce-3f0b55f158f5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072924",
+   "titulo": "BATEDEIRA + ASPIRADOR DE PÓ + ROBO ASPIRADOR (#311MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 600,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/batedeira-aspirador-de-po-robo-aspirador-311mago-5072924",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e1db466e-81f3-4795-9dcb-f9625d17f148.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072925",
+   "titulo": "LIQUIDIFICADORES + PANELA DE ARROZ + CHALEIRAS ELÉTRICAS + CAFETEIRA + ESCOVA SECADORA (#277MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/liquidificadores-panela-de-arroz-chaleiras-eletricas-cafeteira-escova-secadora-2-5072925",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/932e7ef1-a134-4ce7-b94d-a69feca4b582.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072926",
+   "titulo": "COOKTOP + CHALEIRA ELÉTRICA + PRANCHA ALISADORA + FERRO A VAPOR + ASPIRADOR DE PÓ (#274MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/cooktop-chaleira-eletrica-prancha-alisadora-ferro-a-vapor-aspirador-de-po-274mag-5072926",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fefce0b5-f428-4078-b0fa-7c3a38f53864.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072927",
+   "titulo": "CHALEIRA ELÉTRICA + AIR FRYER'S + FOGÃO DE MESA + SANDUICHEIRA + PANELA DE PRESSÃO + BEBEDOURO (#275MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/chaleira-eletrica-air-fryer-s-fogao-de-mesa-sanduicheira-panela-de-pressao-bebed-5072927",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/840ada5a-5c9d-4cfc-a0d6-6ce53e606ceb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072928",
+   "titulo": "CAIXAS DE SOM PULSE, JBL E MONDIAL (#259M)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 600,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixas-de-som-pulse-jbl-e-mondial-259m-5072928",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/97472382-3ff3-4e87-8458-6bf403ef92b8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072929",
+   "titulo": "CHALEIRAS ELÉTRICAS + PANELA DE ARROZ + LIQUIDIFICADOR + FRIITADEIRA ELÉTRICA (#272MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/chaleiras-eletricas-panela-de-arroz-liquidificador-friitadeira-eletrica-272mago-5072929",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/26209e75-2b8d-4756-bc92-7d9c1309b687.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072930",
+   "titulo": "BEBEDOURO + BATEDEIRAS + BOMBA FILTRANTE + CORTADOR DE CABELO (#239MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/bebedouro-batedeiras-bomba-filtrante-cortador-de-cabelo-239mago-5072930",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e6b2a815-14ae-4704-9e5c-616e15f6187d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072931",
+   "titulo": "VENTILADORES + LIQUIDIFICADORES + AIR FRYERS + DIFUSOR E AROMATIZADOR + PURIFICADOR DE ÁGUA (#231MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-liquidificadores-air-fryers-difusor-e-aromatizador-purificador-de-a-5072931",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/923105e3-eb2b-4cef-9189-ae65ab2cfa31.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072932",
+   "titulo": "CHALEIRAS ELÉTRICAS + CHUVEIRO + LIQUIDIFICADOR + PURIFICADOR DE ÁGUA + PANELAS DE PRESSÃO (#229MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/chaleiras-eletricas-chuveiro-liquidificador-purificador-de-agua-panelas-de-press-5072932",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e8146225-7c66-4272-8bf8-aa24a7cc2595.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072933",
+   "titulo": "CHALEIRAS ELÉTRICAS + PANELA DE ARROZ + FRITADEIRAS ELÉTRICAS + LIQUIDIFICADOR + BATEDEIRA (#226MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/chaleiras-eletricas-panela-de-arroz-fritadeiras-eletricas-liquidificador-batedei-5072933",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9c42c40f-4498-4abf-b74c-208a09fecbb3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072934",
+   "titulo": "VENTILADOR + LIQUIDIFICADOR + CAFETEIRA + AIR FRYER (#198MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventilador-liquidificador-cafeteira-air-fryer-198mago-5072934",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cd281669-60a3-4526-86b8-06f631f48aac.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072935",
+   "titulo": "PANELA DE PRESSÃO ELÉTRICA + FILTRO UV + VENTILADORES + CHUVEIRO (#192MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/panela-de-pressao-eletrica-filtro-uv-ventiladores-chuveiro-192mago-5072935",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6c4adb9c-faf5-49ec-a5e7-f98d31034ca7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072936",
+   "titulo": "VENTILADORES (#183MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-183mago-5072936",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4756aabd-c04c-4548-87cd-0c12715df1b3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072937",
+   "titulo": "VENTILADORES (#182MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-182mago-5072937",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/60b790ce-388c-45b0-b26b-b2a41f18b54e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072938",
+   "titulo": "VENTILADORES + LIQUIDIFICADORES + AIR FRYER + FONE S/ FIO + DEPURADOR DE AR (#180MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-liquidificadores-air-fryer-fone-s-fio-depurador-de-ar-180mago-5072938",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fdd090a5-46ba-4105-9d1a-f89f0aa6ff51.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072939",
+   "titulo": "CILINDRO LAMINADOR + SANDUICHEIRA + BLENDER ZOOP + VENTILADOR + ESTUFA (#178MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/cilindro-laminador-sanduicheira-blender-zoop-ventilador-estufa-178mago-5072939",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8855594e-90ec-4f1e-97a6-4093b44d5303.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072940",
+   "titulo": "SANDUICHEIRA GRILL + PIPOQUEIRA + LIQUIDIFICADOR + AIR FRYER + AQUECEDOR + CHALEIRA (#177MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/sanduicheira-grill-pipoqueira-liquidificador-air-fryer-aquecedor-chaleira-177mag-5072940",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d9976145-1d74-43be-bce3-9f25cd294e52.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072941",
+   "titulo": "AIR FRYER + VENTILADORES (#176MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/air-fryer-ventiladores-176mago-5072941",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4f37fce2-09a8-4c6f-a5aa-e7b0867e480c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072942",
+   "titulo": "FERRO CADENCE + SANDUICHEIRA + PERSONAL BLENDER + AIRFRYER + VENTILADOR (#170MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ferro-cadence-sanduicheira-personal-blender-airfryer-ventilador-170mago-5072942",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/918ad67a-89ba-4ad2-aa39-05b59b21e926.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072943",
+   "titulo": "LIQUIDIFICADOR + CHALEIRA + VENTILADOR + CHALEIRAS (#153MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/liquidificador-chaleira-ventilador-chaleiras-153mago-5072943",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/28302bae-a31a-4435-81d7-94267815d303.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072944",
+   "titulo": "AQUECEDOR + INALADOR + SANDUICHEIRA + SECADORA DE CABELO + LIQUIDIFICADOR + NEBULIZADOR (#151MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aquecedor-inalador-sanduicheira-secadora-de-cabelo-liquidificador-nebulizador-15-5072944",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/01c18607-c049-4ff2-b5ef-9a0917e67d4a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072945",
+   "titulo": "LIQUIDIFICADOR + PANELA ELÉTRICA + AIR FRYER (#147MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/liquidificador-panela-eletrica-air-fryer-147mago-5072945",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/adb40e60-1106-495a-924a-6ae9ee77d992.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072946",
+   "titulo": "BALANÇA ELETRÔNICA + BLENDER + LIQUIDIFICADOR + MULTIPROCESSADOR (#143MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/balanca-eletronica-blender-liquidificador-multiprocessador-143mago-5072946",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/87834beb-b3ef-43cb-a7cc-c91433b1c6a3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072947",
+   "titulo": "LIQUIDIFICADOR + PURIFICADOR DE ÁGUA + ASPIRADOR (#136MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/liquidificador-purificador-de-agua-aspirador-136mago-5072947",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/de3a2127-c252-4cc8-9751-a10d623c24a7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072948",
+   "titulo": "PANELAS ELÉTRICAS E AIRFRYERS (#117MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/panelas-eletricas-e-airfryers-117mago-5072948",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/48b881c1-4de8-4534-a124-38228a891db4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072949",
+   "titulo": "VENTILADORES (#108MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-108mago-5072949",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/132df7b5-6940-420a-84aa-2434d1bc6d8f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072950",
+   "titulo": "VENTILADORES - (#107MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-107mago-5072950",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7f1b4e54-a0de-4e85-8bb2-ce39189523d7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072951",
+   "titulo": "VENTILADORES (#108MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-108mago-5072951",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2eb35735-23a4-460b-954b-f4b273c8419f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072952",
+   "titulo": "MIXER TURBO, FERRO A VAPOR E PRANCHA ALISADORA (#100MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 200,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/mixer-turbo-ferro-a-vapor-e-prancha-alisadora-100mago-5072952",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d4575fcb-64c9-4d62-b722-67a45c1ac75f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072953",
+   "titulo": "MULTRIPROCESSADOR + PIPOQUEIRA + TORRADEIRA + PROCESSADOR + SANDUICHEIRA ELETRICA (#93MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/multriprocessador-pipoqueira-torradeira-processador-sanduicheira-eletrica-93mago-5072953",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9407dbaa-f598-49e1-9122-37778b0f81dc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072954",
+   "titulo": "FOGÃO DE MESA + FONE DE OUVIDO + GARRAFA TÉRMICA + VENTILADOR + BAILARINA DE VIDRO + GRILL (#82MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogao-de-mesa-fone-de-ouvido-garrafa-termica-ventilador-bailarina-de-vidro-grill-5072954",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/200a6005-57f9-424a-a5fd-f0d6f6cb84e3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074094",
+   "titulo": "BATEDEIRA + FRITADEIRA ELÉTRICA + CAFETEIRA + PANELA DE PRESSÃO ELÉTRICA + CHALEIRAS ELÉTRICAS + LIQUIDIFICADOR + LAVADORA DE ALTA PRESSÃO (#314MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/batedeira-fritadeira-eletrica-cafeteira-panela-de-pressao-eletrica-chaleiras-ele-5074094",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bd51fa83-af3b-4dbf-8b72-624ac0c5d1ee.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074095",
+   "titulo": "CAIXA DE SOM JBL BOOMBOX 3 WI-FI ORIGINAL (#292M)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-jbl-boombox-3-wi-fi-original-292m-5074095",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/69b7c5a5-c4c9-4045-9eb1-2673f8ec8695.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074096",
+   "titulo": "CHALEIRA ELÉTRICA + LIQUIDIFICADORES + PANELA DE ARROZ + GRILL E SANDUICHEIRA + FERRO A VAPOR (#276MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/chaleira-eletrica-liquidificadores-panela-de-arroz-grill-e-sanduicheira-ferro-a--5074096",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/37d8cf4f-1e5f-4b13-a46c-ed7f52809d9b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074097",
+   "titulo": "FRITADEIRA ELÉTRICA + PANELA DE ARROZ + MIXER + CHALEIRA ELÉTRICA + ESCOVA ROTATIVA + LUMINÁRIA DE TETO (#273MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fritadeira-eletrica-panela-de-arroz-mixer-chaleira-eletrica-escova-rotativa-lumi-5074097",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c965f30b-aec1-4cbf-ba2f-a70241b9032f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074098",
+   "titulo": "FRITADEIRA ELGIN + CHALEIRA ELÉTRICA + ESPREMEDOR + MIXER + BATEDEIRA (#241MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fritadeira-elgin-chaleira-eletrica-espremedor-mixer-batedeira-241mago-5074098",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/71295d1c-4c06-4a3f-88b0-e1d6e81f5d85.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074099",
+   "titulo": "CHALEIRA ELETRICA + VENTILADORES + PURIFICADOR DE ÁGUA + FRITADEIRA ELÉTRICA + PANELA DE PRESSÃO + LIXEIRA ELÉTRICA (#230MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/chaleira-eletrica-ventiladores-purificador-de-agua-fritadeira-eletrica-panela-de-5074099",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/62f62408-c6c7-4af7-8992-c22cbae094e9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074100",
+   "titulo": "FRITADEIAS SEM ÓLEO + CHURRASQUEIRA ELÉTRICA + CHALEIRA ELÉTRICA + LIQUIDIFICADOR + PASSADEIRA A VAPOR + FERRO DE PASSAR A VAPOR (#225MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fritadeias-sem-oleo-churrasqueira-eletrica-chaleira-eletrica-liquidificador-pass-5074100",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/43544c84-cf76-413a-885d-e78f0ee5cbb3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074101",
+   "titulo": "VENTILADORES (#184MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-184mago-5074101",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7dec87e0-f041-4df4-8e1f-a049475da0cd.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074102",
+   "titulo": "AIR FRYER + VENTILADOR + SANDUICHEIRA (#175MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/air-fryer-ventilador-sanduicheira-175mago-5074102",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/976b899d-98e8-4da7-b61c-63edbd93e404.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074103",
+   "titulo": "FERRO A VAPOR + AIRFRYERS + CLIMATIZADOR (#174MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ferro-a-vapor-airfryers-climatizador-174mago-5074103",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b3ac7a35-2c8b-4de2-ba9f-580a3b2f60e1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074104",
+   "titulo": "VENTILADORES (#169MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-169mago-5074104",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b2c4e60c-9379-4b6e-9e3a-9342f068d081.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074105",
+   "titulo": "VENTILADORES (#164MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-164mago-5074105",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6fe99e9b-0f7c-4af3-8296-dc212ab67209.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074106",
+   "titulo": "CHURRASQUEIRA + LIQUIDIFICADOR + AIRFRYER + CAFETEIRAS + EXTRATOR DE SUCOS (#159MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/churrasqueira-liquidificador-airfryer-cafeteiras-extrator-de-sucos-159mago-5074106",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/31c4aa2a-9ad6-4749-9cee-7b2f5d475e13.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074107",
+   "titulo": "VENTILADORES DE MESA (#158MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-de-mesa-158mago-5074107",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8fb01ee5-822e-46bf-a8a6-f8932d4c6e99.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074108",
+   "titulo": "VENTILADORES (#154MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventiladores-154mago-5074108",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/58bc49d0-8775-485e-b205-ce16da47f329.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074109",
+   "titulo": "VENTILADOR + LIQUIDIFICADOR + PANELA DE ARROZ + GRILL SANDUICHEIRA (#152MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventilador-liquidificador-panela-de-arroz-grill-sanduicheira-152mago-5074109",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b711a239-8ece-49f6-b2f8-f59ce6daacee.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074110",
+   "titulo": "PROJETOR + CAFETEIRA + LIQUIDIFICADORES + MÁQUINA DE TOSAR + MÁQUINA DE WAFFLE (#148MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/projetor-cafeteira-liquidificadores-maquina-de-tosar-maquina-de-waffle-148mago-5074110",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7d67c01b-17c8-4d07-8ded-0d6277b146cc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074111",
+   "titulo": "RÁDIO AUTOMOTIVO + CORTADOR + LUMINÁRIA + INALADOR + SANDUICHEIRA + LIQUIDIFICADORES + ASPIRADORES + PATINETE (#142MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/radio-automotivo-cortador-luminaria-inalador-sanduicheira-liquidificadores-aspir-5074111",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5be39100-00ad-4e81-a5c4-c732c2ec1c22.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074112",
+   "titulo": "8 VENTILADORES DESMONTADOS (RETIRADA DE PEÇAS OU ARRUMAR) (#116MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 200,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/8-ventiladores-desmontados-retirada-de-pecas-ou-arrumar-116mago-5074112",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dec3b062-cd65-45fa-ad21-b6c2bb4a298f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074113",
+   "titulo": "PANELAS DE ARROZ ELETRICAS, PROCESSADOR DE ALIMENTOS, AQUECEDOR A ÓLEO E MAIS - (#105MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/panelas-de-arroz-eletricas-processador-de-alimentos-aquecedor-a-oleo-e-mais-105m-5074113",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/09d1d015-e41c-40e0-b6c0-60418c9ab94e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074114",
+   "titulo": "FRITADEIRA + ESPREMEDOR + CAFETEIRA + VENTILADOR + MIXER (#95MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fritadeira-espremedor-cafeteira-ventilador-mixer-95mago-5074114",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0a717681-f386-4fa3-9c07-f0d209e0f69b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074115",
+   "titulo": "CHURRASQUEIRA + SANDUICHEIRA + CHALEIRA ELÉTRICA + GRILL (#94MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/churrasqueira-sanduicheira-chaleira-eletrica-grill-94mago-5074115",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ab115537-84ed-4922-860c-98a1be3bea02.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074116",
+   "titulo": "MOEDOR DE CAFÉ + FOGÃO DE MESA + SANDUICHEIRA ELÉTRICA + CHALEIRA ELÉTRICA + FORNO E FRYER (#89MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/moedor-de-cafe-fogao-de-mesa-sanduicheira-eletrica-chaleira-eletrica-forno-e-fry-5074116",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/10ad9af5-5161-49d9-8e58-7e011a8e38e3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074117",
+   "titulo": "05 VENTILADORES (#85MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/05-ventiladores-85mago-5074117",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/94509101-8950-4533-a50c-0b259cd8b031.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074118",
+   "titulo": "CHAPAS ANTIADERENTES + CAFETEIRA + CHALEIRA + CAFETEIRA ELGIN + LIQUIDIFICADOR + PURIFICADOR DE ÁGUA (#76MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/chapas-antiaderentes-cafeteira-chaleira-cafeteira-elgin-liquidificador-purificad-5074118",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3888455d-6cbd-4527-8785-3fa18ebf6b7d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074119",
+   "titulo": "07 VENTILADORES (#78MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/07-ventiladores-78mago-5074119",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e8268388-0199-4526-8cee-fc67b473c199.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074120",
+   "titulo": "ASPIRADOR DE PÓ ELECTROLUX + MULTIPROCESSADOR PHILCO + LIQUIDIFICADOR MONDIAL + CAFETEIRA BRITÂNIA + CHURRASQUEIRA ELÉTRICA (#72MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aspirador-de-po-electrolux-multiprocessador-philco-liquidificador-mondial-cafete-5074120",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/234ccd00-999b-441f-86ed-20b81f571902.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074121",
+   "titulo": "PANELAS ELÉTRICAS, CAFETEIRAS, AIR FRYER  -(#70MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/panelas-eletricas-cafeteiras-air-fryer-70mago-5074121",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/efa0ff83-9173-4051-8940-8f19c89fa963.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074122",
+   "titulo": "VENTILADOR, ASPIRADOR, CHALEIRA E OUTROS (#66MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventilador-aspirador-chaleira-e-outros-66mago-5074122",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/91ea98ea-edcd-430a-b53f-edda8a4ffae8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074123",
+   "titulo": "VENTILADOR, FRITADEIRA, ASPIRADOR E OUTROS (#63MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 350,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventilador-fritadeira-aspirador-e-outros-63mago-5074123",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e5ebef5c-9b08-428e-8a99-03b055694e3f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074124",
+   "titulo": "FOGÕES (#61MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 200,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogoes-61mago-5074124",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f8be11bf-c1fc-4c09-869d-a7975f6a0df8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074125",
+   "titulo": "LAVADORA E TANQUINHO (#52MAGO)",
+   "categoria": "Limpeza",
+   "lance_atual": 600,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lavadora-e-tanquinho-52mago-5074125",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7f26b071-8576-4de9-ab6d-62eed0adf5bd.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074126",
+   "titulo": "LAVADORA E TANQUINHO (#48MAGO)",
+   "categoria": "Limpeza",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lavadora-e-tanquinho-48mago-5074126",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c0b757cf-5d58-45cc-9495-5e73e98a3530.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074127",
+   "titulo": "MAQUINA E TANQUINHO (#44MAGO)",
+   "categoria": "Limpeza",
+   "lance_atual": 600,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/maquina-e-tanquinho-44mago-5074127",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/034ceefe-2b7d-404d-a10e-45df7487ec0c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074128",
+   "titulo": "MAQUINA DE LAVAR E TANQUINHO (#41MAGO)",
+   "categoria": "Limpeza",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/maquina-de-lavar-e-tanquinho-41mago-5074128",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/94c674f4-32df-4cf0-9b6b-687ae11fd32b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074129",
+   "titulo": "GELADEIRA -(#16MAGO)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 700,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/geladeira-16mago-5074129",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8d2ce1c5-ace0-48e7-abde-d967d3d5036b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074130",
+   "titulo": "FREEZER FRICON (#12MAGO)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 800,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-fricon-12mago-5074130",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b5929a7f-16dd-47d2-9dfb-a0808319f2dc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074131",
+   "titulo": "FREEZER FRICON (#7MAGO)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 800,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-fricon-7mago-5074131",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6ae94b42-1640-4dd6-8718-9da31b2a8e16.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074132",
+   "titulo": "01 FREEZER COLLING + 02 TANQUINHOS PRAXIS (#1MAGO)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 900,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-freezer-colling-02-tanquinhos-praxis-1mago-5074132",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/aaa70e0e-3eb4-4950-9255-d110fc8d0f6e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074133",
+   "titulo": "LAVADORA MINI- #51",
+   "categoria": "Limpeza",
+   "lance_atual": 500,
+   "encerramento": "2026-12-04 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lavadora-mini-51-5074133",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c934d614-2f34-41e1-9113-d07c8b4b51c4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5002454",
    "titulo": "Computador LG preto, com CPU, teclado e mouse",
    "categoria": "Informática",
@@ -29072,6 +32720,702 @@
     "lances": 0,
     "leiloeiro": "KRON LEILÕES",
     "leilao": "11º Juizado Especial Cível/PR"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072983",
+   "titulo": "SUCATA DE AR CONDICIONADO (#197MAGO)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/sucata-de-ar-condicionado-197mago-5072983",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/53856d64-2e22-4fd4-899c-3ff9b6d8d659.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072984",
+   "titulo": "ITENS ELETRÔNICOS, APROXIMADAMENTE 30: LANTERNAS, BALANÇA. MULTIMETROS. MONÓCULOS, RELÓGIOS, MINI VENTILADOR, LUMINÁRIA, MASSAGEADOR, ENTRE OUTRO. (#294M)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 300,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/itens-eletronicos-aproximadamente-30-lanternas-balanca-multimetros-monoculos-rel-5072984",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/806ba576-9d46-41ae-9c9a-ace6bb7e7062.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072987",
+   "titulo": "04 COMPUTADORES SEM TESTE - 02 PC DELL INTEL CORE  DOIS DUO OPTPLEX 380  + 01 PC DELL OPTPLEX 330  + 01 PC SMD  (PRODUTOS NÃO TESTADOS)",
+   "categoria": "Informática",
+   "lance_atual": 400,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/04-computadores-sem-teste-02-pc-dell-intel-core-dois-duo-optplex-380-01-pc-dell--5072987",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c8ea6b0e-981a-49fd-b974-27fbfb32fb51.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072988",
+   "titulo": "Monitor Profissional LG 49 Polegadas - Modelo: 49UM3DG - B",
+   "categoria": "Informática",
+   "lance_atual": 1500,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/monitor-profissional-lg-49-polegadas-modelo-49um3dg-b-5072988",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9f665a52-cb1e-4fbe-a259-b8863c3dfcd8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072991",
+   "titulo": "ITENS ELETRÔNICOS DIVERSOS #27/28",
+   "categoria": "Eletrônicos",
+   "lance_atual": 400,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/itens-eletronicos-diversos-27-28-5072991",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/55e6c064-0135-47f3-b17d-8905a982fd15.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072992",
+   "titulo": "APROXIMADAMENTE 30 ITENS DIVERSOS - PRANCHA DE TIÂNIO, TECLADO SEM FIO, POWER BANK, CALCULADORA E OUTROS (PRODUTOS NÃO TESTADOS) #9",
+   "categoria": "Eletrônicos",
+   "lance_atual": 250,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-30-itens-diversos-prancha-de-tianio-teclado-sem-fio-power-bank-c-5072992",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a7d80d89-b9f5-48a6-9009-25be41589547.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072993",
+   "titulo": "APROXIMADAMENTE 70 ITENS DIVERSOS - FONE DE OUVIDO, CALCULADORA, VENTILADOR PORTÁTIL E OUTROS (PRODUTOS NÃO TESTADOS) #5",
+   "categoria": "Eletrônicos",
+   "lance_atual": 400,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-70-itens-diversos-fone-de-ouvido-calculadora-ventilador-portatil-5072993",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/95a299f7-de1b-4ceb-96c5-7bb13ea78525.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072994",
+   "titulo": "APROXIMADAMENTE 55 ITENS DIVERSO - CALCULADORA, FONE DE OUVIDO, POWER BANK E OUTROS (PRODUTOS NÃO TESTADOS) #12",
+   "categoria": "Eletrônicos",
+   "lance_atual": 300,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-55-itens-diverso-calculadora-fone-de-ouvido-power-bank-e-outros--5072994",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/de6c0d57-817e-4699-9e03-ee113b17cc75.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072995",
+   "titulo": "IMPRESSORA EPSON XP-214",
+   "categoria": "Informática",
+   "lance_atual": 100,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/impressora-epson-xp-214-5072995",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2ad5ce21-9132-4fd5-a163-35bc3915a609.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072996",
+   "titulo": "TV SAMSUNG 32\" POLEGADAS UN32D5500",
+   "categoria": "Eletrônicos",
+   "lance_atual": 200,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/tv-samsung-32-polegadas-un32d5500-5072996",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fef34467-850f-44f8-936c-0d2bbf40288f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072997",
+   "titulo": "APROX. 80 MÁQUINAS DE BARBEAR CORTAR PELOS  (PRODUTOS NÃO TESTADOS)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aprox-80-maquinas-de-barbear-cortar-pelos-produtos-nao-testados-5072997",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dda0a3f3-4924-44d9-bc03-3563f7fe8dd9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072998",
+   "titulo": "COPIADORA KONICA MINOLTA BIZHUB 363",
+   "categoria": "Informática",
+   "lance_atual": 1500,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/copiadora-konica-minolta-bizhub-363-5072998",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/00b7ec33-d8d7-45ee-bcad-40f99263a4b7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072999",
+   "titulo": "APROX. 100 CAPINHAS DE CELULAR VARIADAS, CAPINHA CARTEIRA",
+   "categoria": "Telefonia",
+   "lance_atual": 300,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aprox-100-capinhas-de-celular-variadas-capinha-carteira-5072999",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f654566d-8ce3-4fd2-bf99-efb2ff4df59a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074141",
+   "titulo": "06 CELULARES/TELEFONES + 01 MACBOOK + 01 NOTEBOOK + 02 TABLETS (SUCATA)",
+   "categoria": "Informática",
+   "lance_atual": 300,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/06-celulares-telefones-01-macbook-01-notebook-02-tablets-sucata-5074141",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6bf6bcde-bae3-4dbf-aeba-ae7ed7ff8aee.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074142",
+   "titulo": "20 LÂMPADAS COM VENTILADOR DE TETO (#293M)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/20-lampadas-com-ventilador-de-teto-293m-5074142",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2e460dbb-1229-4cac-b669-f0f59d25f71b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074143",
+   "titulo": "DRONE DJ MINI 5 PRO COM ACESSÓRIOS, 3 BATERIAS, HÉLICES PARA REPOSIÇÃO, CONTROLE COM TELA E FILTROS DE LENTE (COMPLETO)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 6000,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/drone-dj-mini-5-pro-com-acessorios-3-baterias-helices-para-reposicao-controle-co-5074143",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2a1c45d2-e5c8-48df-bc30-aac547c50f8d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074144",
+   "titulo": "MACBOOK AIR M2 - 2022 (#300M)",
+   "categoria": "Informática",
+   "lance_atual": 2500,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/macbook-air-m2-2022-300m-5074144",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9fb83886-c82b-46de-b314-c1d0e31598a9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074145",
+   "titulo": "IPHONE 13 - 128GB",
+   "categoria": "Eletrônicos",
+   "lance_atual": 1200,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/iphone-13-128gb-5074145",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4b933912-86ed-467c-94e7-38fdfbcaa142.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074146",
+   "titulo": "CAIXAS DE SOM (#232MAGO)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 500,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixas-de-som-232mago-5074146",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/842482db-5606-4588-b20f-0ff422778f20.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074147",
+   "titulo": "PRODUTOS ANTIGOS PARA DECORAÇÂO OU COLEÇÃO- #49",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 100,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/produtos-antigos-para-decoracao-ou-colecao-49-5074147",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dcb75c7e-9eb4-4b29-8aeb-0c754b2f1fcd.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074151",
+   "titulo": "ITENS ELETRÔNICOS DIVERSOS #25/26",
+   "categoria": "Eletrônicos",
+   "lance_atual": 400,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/itens-eletronicos-diversos-25-26-5074151",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2f948618-38f8-4762-a627-90e193ff4fea.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074152",
+   "titulo": "APROXIMADAMENTE 30 ITENS DIVERSOS - BALANÇA DIGITAL, RING LIGHT, RÁDIO, LUZ DE LED E OUTROS (PRODUTOS NÃO ORIGINAIS) #47",
+   "categoria": "Eletrônicos",
+   "lance_atual": 200,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-30-itens-diversos-balanca-digital-ring-light-radio-luz-de-led-e--5074152",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/148ffa29-8a57-44f3-894b-7295b7d00b2e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074153",
+   "titulo": "3 ALTO-FALANTE PORTÁTIL + 1 PROJECTOR + 2 FONES DE OUVIDO + 1 KIT ESCOVA SECADORA MODELADORA (PRODUTOS NÃO TESTADOS) #18",
+   "categoria": "Eletrônicos",
+   "lance_atual": 200,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-alto-falante-portatil-1-projector-2-fones-de-ouvido-1-kit-escova-secadora-mode-5074153",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ae19d4a9-5536-44a5-a815-43adee04a24b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074154",
+   "titulo": "APROXIMADAMENTE 20 ITENS DIVERSOS - ROTEADOR SEM FIO-N, CÂMERA SMART WIFI, MINI MASSAGEADOR, MOUSE SEM FIO E OUTROS #3",
+   "categoria": "Eletrônicos",
+   "lance_atual": 250,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-20-itens-diversos-roteador-sem-fio-n-camera-smart-wifi-mini-mass-5074154",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/adb2c41e-9d2c-4f9e-847c-77f5f0c80d23.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074155",
+   "titulo": "APROXIMADAMENTE 23 ITENS DIVERSOS - ROTEADOR SEM FIO-N, CÂMERA INTELIGENTE, LANTERNA TÁTICA, RELÓGIO E OUTROS (PRODUTOS NÃO TESTADOS) #11",
+   "categoria": "Eletrônicos",
+   "lance_atual": 200,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-23-itens-diversos-roteador-sem-fio-n-camera-inteligente-lanterna-5074155",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2b62f5aa-cd3a-47be-b5e0-7f5fb6267d3d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074156",
+   "titulo": "APROXIMADAMENTE 19 ITENS  DIVERSOS - MINI CAIXA DE SOM, RÁDIO PORTÁTIL E FONE DE OUVIDO (PRODUTOS NÃO TESTADOS) #13",
+   "categoria": "Eletrônicos",
+   "lance_atual": 300,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-19-itens-diversos-mini-caixa-de-som-radio-portatil-e-fone-de-ouv-5074156",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/410b8513-a54b-4884-9662-5e42d95c2e9a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074157",
+   "titulo": "APROXIMADAMENTE 13 ITENS - VENTILADORES, FONES DE OUVIDO, SMARTWATCHS, CARREGADORES E LANTERNA (PRODUTOS NÃO TESTADOS)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 150,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-13-itens-ventiladores-fones-de-ouvido-smartwatchs-carregadores-e-5074157",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/52d80c74-27ae-4598-b747-174d1c194f82.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074159",
+   "titulo": "APROX 12 ITENS - CONVERSOR DIGITAL, MIRA CAST, CAIXA DE SOM E OUTROS (PRODUTOS NÃO TESTADOS)",
+   "categoria": "Informática",
+   "lance_atual": 150,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aprox-12-itens-conversor-digital-mira-cast-caixa-de-som-e-outros-produtos-nao-te-5074159",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5fc4f9fe-94de-4c8d-90e1-ba8471adb9a8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074160",
+   "titulo": "APROX. 100 CAPINHAS DE CELULAR DIVERSAS, CAPINHA IPHONE, CAPA TABLET, CAPA NETBOOK",
+   "categoria": "Telefonia",
+   "lance_atual": 350,
+   "encerramento": "2026-12-05 11:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aprox-100-capinhas-de-celular-diversas-capinha-iphone-capa-tablet-capa-netbook-5074160",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6a4bd4f5-50b0-4641-95f4-af761a8ca513.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
    },
    "prioridade": false,
    "destaque": false
