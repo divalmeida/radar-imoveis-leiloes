@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-10-27 18:57",
+ "atualizado_em": "2026-10-28 07:09",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 482,
-   "segundos": 432
+   "segundos": 470
   },
   "Superbid": {
    "ok": true,
-   "lotes": 748,
-   "segundos": 10
+   "lotes": 751,
+   "segundos": 7
   },
   "Caixa": {
    "ok": false,
@@ -193,7 +193,7 @@
    "id": "superbid-5053840",
    "titulo": "09 NOTEBOOKS DELL 5480 I7",
    "categoria": "Informática",
-   "lance_atual": 1200,
+   "lance_atual": 1300,
    "encerramento": "2026-10-29 11:30",
    "cidade": "Campinas",
    "uf": "SP",
@@ -205,7 +205,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -2761,7 +2761,7 @@
    "id": "superbid-5057825",
    "titulo": "48 CAIXAS DE SOM C/ BLUETOOTH DIVERSAS",
    "categoria": "Eletrônicos",
-   "lance_atual": 600,
+   "lance_atual": 700,
    "encerramento": "2026-10-29 15:56",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -2773,7 +2773,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -12705,7 +12705,7 @@
    "id": "superbid-5069633",
    "titulo": "50 CAIXAS DE SOM USB EM FORMATO DE LATA ESTAMPAS CERVEJA/ TIME DE FUTEBOL, DIVERSAS S",
    "categoria": "Eletrônicos",
-   "lance_atual": 300,
+   "lance_atual": 400,
    "encerramento": "2026-11-09 14:41",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -12717,7 +12717,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -13773,7 +13773,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -13977,7 +13977,7 @@
    "id": "superbid-5066095",
    "titulo": "40 FONES DE OUVIDO BLUETOOTH,SENDO: 20 UNI.  ST-422 + 20 UNI. ELO S930",
    "categoria": "Telefonia",
-   "lance_atual": 500,
+   "lance_atual": 600,
    "encerramento": "2026-11-09 16:00",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -13989,7 +13989,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -19438,6 +19438,54 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5068584",
+   "titulo": "9 MEMÓRIAS RAM: 2 DE 4 GB, 5 DE 2 GB, 1 DE 1 GB E 1 COM CAPACIDADE NÃO IDENTIFICADA ¿ NÃO TESTADAS",
+   "categoria": "Informática",
+   "lance_atual": 100,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/9-memorias-ram-2-de-4-gb-5-de-2-gb-1-de-1-gb-e-1-com-capacidade-nao-identificada-5068584",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c545ab10-a7ad-4acc-b672-50d79471353d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068602",
+   "titulo": "8 Câmeras de Segurança Giga e Tecvoz para CFTV ¿ Modelos Full HD 2 MP e 800 TVL ¿ Testadas com Imagem",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/8-cameras-de-seguranca-giga-e-tecvoz-para-cftv-modelos-full-hd-2-mp-e-800-tvl-te-5068602",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9d3fcc57-6582-4aa0-ba6f-c296fe01ccab.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5070409",
    "titulo": "NOTEBOOK HP PROBOOK 4440s, INTEL CORE i5-3210M 2,50 GHz, 8 GB DE RAM E SSD DE 120 GB ¿ SEM FONTE",
    "categoria": "Informática",
@@ -19641,6 +19689,30 @@
    "link": "https://www.superbid.net/oferta/24-placas-mae-de-marcas-e-modelos-diversos-e-2-placas-eletronicas-5072031",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/c15bd32d-3d10-4391-a1c0-a51ccb260acc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072377",
+   "titulo": "8 MEMÓRIAS RAM: 1 DE 8 GB, 5 DE 2 GB, 1 DE 1 GB E 1 DE 512 MB ¿ NÃO TESTADAS, COM UMA UNIDADE MARCADA ¿RUIM¿",
+   "categoria": "Informática",
+   "lance_atual": 50,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/8-memorias-ram-1-de-8-gb-5-de-2-gb-1-de-1-gb-e-1-de-512-mb-nao-testadas-com-uma--5072377",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a01828fa-dac3-4e2f-8d27-d4c0a9807aae.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -20041,7 +20113,7 @@
    "id": "superbid-5063108",
    "titulo": "15 un. de DVRs de 16 Canais",
    "categoria": "Eletrônicos",
-   "lance_atual": 615,
+   "lance_atual": 640,
    "encerramento": "2026-10-29 14:06",
    "cidade": "Jardim Alegre",
    "uf": "PR",
@@ -20053,7 +20125,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "ANDRÉ LUIZ LEILÕES",
     "leilao": "Lga Shop Ltda"
    },
@@ -22817,7 +22889,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -22937,7 +23009,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -23081,7 +23153,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -26377,7 +26449,7 @@
    "id": "superbid-5067727",
    "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 100,
+   "lance_atual": 150,
    "encerramento": "2026-11-16 14:10",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -26389,7 +26461,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
