@@ -1,14 +1,14 @@
 {
- "atualizado_em": "2026-10-29 07:11",
+ "atualizado_em": "2026-10-29 13:16",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 482,
-   "segundos": 439
+   "segundos": 519
   },
   "Superbid": {
    "ok": true,
-   "lotes": 1005,
+   "lotes": 977,
    "segundos": 10
   },
   "Caixa": {
@@ -20,630 +20,6 @@
   }
  },
  "lotes": [
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053841",
-   "titulo": "21 NOTEBOOKS DELL 5485 I5",
-   "categoria": "Informática",
-   "lance_atual": 1400,
-   "encerramento": "2026-10-29 11:30",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/21-notebooks-dell-5485-i5-5053841",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/4a082ae6-bfd7-4bc6-b02e-da0c7a1bf9bb.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 3,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053840",
-   "titulo": "09 NOTEBOOKS DELL 5480 I7",
-   "categoria": "Informática",
-   "lance_atual": 1600,
-   "encerramento": "2026-10-29 11:30",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/09-notebooks-dell-5480-i7-5053840",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/929e19e8-ae17-4f84-adfb-3490e8179415.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 11,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055552",
-   "titulo": "17 NOTEBOOKS DELL 5490 I5",
-   "categoria": "Informática",
-   "lance_atual": 1800,
-   "encerramento": "2026-10-29 11:31",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/17-notebooks-dell-5490-i5-5055552",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0bea579a-1908-4bbf-9f26-a15ca4b1d1bb.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 4,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053839",
-   "titulo": "18 NOTEBOOKS DELL 5490 I5",
-   "categoria": "Informática",
-   "lance_atual": 1600,
-   "encerramento": "2026-10-29 11:31",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/18-notebooks-dell-5490-i5-5053839",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/f8977d51-fe59-42f7-8690-e0e5541ddefd.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 3,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053838",
-   "titulo": "NOTEBOOKS DELL E6410, HP 640 G1, HP 8540W, HP 840 G3 E OUTROS (33 UN)",
-   "categoria": "Informática",
-   "lance_atual": 1300,
-   "encerramento": "2026-10-29 11:32",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebooks-dell-e6410-hp-640-g1-hp-8540w-hp-840-g3-e-outros-33-un-5053838",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/bce8aa9f-8f1e-40df-bacc-5bb6b9870e72.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055551",
-   "titulo": "NOTEBOOKS LENOVO T420, T430, T450, T460 (22 UN)",
-   "categoria": "Informática",
-   "lance_atual": 2200,
-   "encerramento": "2026-10-29 11:32",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebooks-lenovo-t420-t430-t450-t460-22-un-5055551",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/d0fa463c-3cf3-4fb8-96f8-9423a8af1273.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 7,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053837",
-   "titulo": "NOTEBOOKS DELL LATITUDEE E5470, HP 650 G2, DELL LATITUDE E5440 E OUTROS (28 UN)",
-   "categoria": "Informática",
-   "lance_atual": 1700,
-   "encerramento": "2026-10-29 11:33",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebooks-dell-latitudee-e5470-hp-650-g2-dell-latitude-e5440-e-outros-28-un-5053837",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/35c8eafa-9920-4f1d-b9b5-16ca46be5662.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 3,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055550",
-   "titulo": "CHAVEADOR SA210, CONTROLADOR PMC2L, PROJETOR DELL 1210S E OUTROS (26 UN)",
-   "categoria": "Eletrônicos",
-   "lance_atual": 1200,
-   "encerramento": "2026-10-29 11:33",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/chaveador-sa210-controlador-pmc2l-projetor-dell-1210s-e-outros-26-un-5055550",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/3df742f1-62ec-4364-8a02-cca23f98f965.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055549",
-   "titulo": "IMPRESSORAS TÉRMICAS IFST100, MP2000THFI, PICOTADOR DE PAPEL P48C E OUTROS (15 UN)",
-   "categoria": "Informática",
-   "lance_atual": 300,
-   "encerramento": "2026-10-29 11:34",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/impressoras-termicas-ifst100-mp2000thfi-picotador-de-papel-p48c-e-outros-15-un-5055549",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/802f58c9-5932-4748-8c96-36f9bc7d6102.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053836",
-   "titulo": "18 MAQUININHAS DE CARTÃO",
-   "categoria": "Eletrônicos",
-   "lance_atual": 400,
-   "encerramento": "2026-10-29 11:34",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/18-maquininhas-de-cartao-5053836",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/4c99898b-70a6-4529-9eb1-5c6cbf5faac2.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053835",
-   "titulo": "MONITORES SAMSUNG, LENOVO, DELL, POSITIVO, HP E OUTROS (45 UN)",
-   "categoria": "Informática",
-   "lance_atual": 800,
-   "encerramento": "2026-10-29 11:35",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/monitores-samsung-lenovo-dell-positivo-hp-e-outros-45-un-5053835",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/135e564a-bc7f-4381-ab92-7e651a46f0b7.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 3,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055548",
-   "titulo": "SWITCH CISCO C2960, BLACKBOX724747, 2205WG E OUTROS (19 UN)",
-   "categoria": "Eletrônicos",
-   "lance_atual": 1000,
-   "encerramento": "2026-10-29 11:35",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/switch-cisco-c2960-blackbox724747-2205wg-e-outros-19-un-5055548",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/2cbf9ebb-d53b-4a24-bd43-bd74218773d2.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 2,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053834",
-   "titulo": "SWITCH CISCO C3925, INTELBRAS SF2400, HPJ8693A, D-LINK DES101024A E OUTROS (20 UN)",
-   "categoria": "Eletrônicos",
-   "lance_atual": 800,
-   "encerramento": "2026-10-29 11:36",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/switch-cisco-c3925-intelbras-sf2400-hpj8693a-d-link-des101024a-e-outros-20-un-5053834",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c434e7da-7a86-4fa3-97b9-a52877f7d3ed.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053833",
-   "titulo": "TABLETS SAMSUNG, APPLE IPAD, TABWEE T160 E OUTROS (29 UN)",
-   "categoria": "Informática",
-   "lance_atual": 800,
-   "encerramento": "2026-10-29 11:36",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/tablets-samsung-apple-ipad-tabwee-t160-e-outros-29-un-5053833",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/dc89bce4-f639-43fc-be26-afce41b40da4.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 2,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055547",
-   "titulo": "SWICTH CISCO 2900, FIREWALL DELL SONICWALL SOHO APL31 089, MONITOR HP 22 E OUTROS (34 UN)",
-   "categoria": "Informática",
-   "lance_atual": 1600,
-   "encerramento": "2026-10-29 11:37",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/swicth-cisco-2900-firewall-dell-sonicwall-soho-apl31-089-monitor-hp-22-e-outros--5055547",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/a16c6799-bb04-482b-913e-ff3c8f226a72.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 2,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053832",
-   "titulo": "SCANNER HP 8500 DIGITAL SENDER, HP FLOW 7000S2, HP 9500 E OUTROS (13 UN)",
-   "categoria": "Informática",
-   "lance_atual": 700,
-   "encerramento": "2026-10-29 11:37",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/scanner-hp-8500-digital-sender-hp-flow-7000s2-hp-9500-e-outros-13-un-5053832",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/809c5f2d-8c4b-4b07-8270-0bc7e9bb5a2b.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053831",
-   "titulo": "IMPRESSORAS LEXMARK MC811DE, KONICA C3350, HP DESKJET 3636 E OUTROS (16 UN)",
-   "categoria": "Informática",
-   "lance_atual": 1600,
-   "encerramento": "2026-10-29 11:38",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/impressoras-lexmark-mc811de-konica-c3350-hp-deskjet-3636-e-outros-16-un-5053831",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ae8dd588-567a-4b66-ad27-46364c5a24a5.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053830",
-   "titulo": "IMPRESSORA KONICA C3350, 4700P, LEXMARK MX711DE, CX510DE E OUTROS (17 UN)",
-   "categoria": "Informática",
-   "lance_atual": 1600,
-   "encerramento": "2026-10-29 11:38",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/impressora-konica-c3350-4700p-lexmark-mx711de-cx510de-e-outros-17-un-5053830",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/3336d0a0-b2e7-4923-829d-5893e70dd5f0.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 3,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053829",
-   "titulo": "MONITOR CISCO CTS, SWITCH CISCO C2960C, PROJETOR SANYO PLC WX55A E OUTROS (16 UN)",
-   "categoria": "Informática",
-   "lance_atual": 800,
-   "encerramento": "2026-10-29 11:39",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/monitor-cisco-cts-switch-cisco-c2960c-projetor-sanyo-plc-wx55a-e-outros-16-un-5053829",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/52d08fab-262f-4683-b00a-a4c965e615a5.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055546",
-   "titulo": "VÍDEO CONFERÊNCIA CISCO CTNSX10N CODEC, ROOM KIT TTC7 23 WEBEX, WORKSTATION DELL T3600 E OUTROS (27 UN)",
-   "categoria": "Informática",
-   "lance_atual": 700,
-   "encerramento": "2026-10-29 11:39",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/video-conferencia-cisco-ctnsx10n-codec-room-kit-ttc7-23-webex-workstation-dell-t-5055546",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/74c4a4a9-e9e2-415d-b446-2441c6ddb0fb.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 2,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5053827",
-   "titulo": "08 IMPRESSORAS ZEBRA QLC420",
-   "categoria": "Informática",
-   "lance_atual": 800,
-   "encerramento": "2026-10-29 11:41",
-   "cidade": "Campinas",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/08-impressoras-zebra-qlc420-5053827",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/6144c526-641e-4ea3-8066-75660f5236e5.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 2,
-    "leiloeiro": "SOLD",
-    "leilao": "Outlet Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5032155",
-   "titulo": "Infraestrutura, segurança e suprimentos",
-   "categoria": "Informática",
-   "lance_atual": 946.2,
-   "encerramento": "2026-10-29 13:00",
-   "cidade": "Santo André",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/infraestrutura-seguranca-e-suprimentos-5032155",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/eb9a76ec-56bc-42bd-8f5f-8ea029437153.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "RMoysés Leilões",
-    "leilao": "1ª Vara FRJ Central da Capital São Paulo/SP"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5032156",
-   "titulo": "Servidores",
-   "categoria": "Informática",
-   "lance_atual": 2560.4,
-   "encerramento": "2026-10-29 13:00",
-   "cidade": "Santo André",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/servidores-5032156",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/330786e0-29f1-485b-8fb1-74bcf3b63816.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "RMoysés Leilões",
-    "leilao": "1ª Vara FRJ Central da Capital São Paulo/SP"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5034154",
-   "titulo": "Infraestrutura e Acessórios de Servidores",
-   "categoria": "Informática",
-   "lance_atual": 2273.71,
-   "encerramento": "2026-10-29 13:01",
-   "cidade": "Santo André",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/infraestrutura-e-acessorios-de-servidores-5034154",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/e3f90529-9e98-4ab0-b1b9-1f9a9b02228c.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "RMoysés Leilões",
-    "leilao": "1ª Vara FRJ Central da Capital São Paulo/SP"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5032157",
-   "titulo": "Equipamentos de Rede",
-   "categoria": "Informática",
-   "lance_atual": 1446.18,
-   "encerramento": "2026-10-29 13:01",
-   "cidade": "Santo André",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/equipamentos-de-rede-5032157",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/96c1b35d-5e9f-459c-bf7b-15c75f513c60.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "RMoysés Leilões",
-    "leilao": "1ª Vara FRJ Central da Capital São Paulo/SP"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5032153",
-   "titulo": "Lote unificado, correspondente aos lotes 3, 5, 6 e 7.",
-   "categoria": "Informática",
-   "lance_atual": 7226.49,
-   "encerramento": "2026-10-29 13:02",
-   "cidade": "Santo André",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-unificado-correspondente-aos-lotes-3-5-6-e-7-5032153",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/69a0295d-8976-4ad1-b123-eeb1ddc4d902.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "RMoysés Leilões",
-    "leilao": "1ª Vara FRJ Central da Capital São Paulo/SP"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
   {
    "fonte": "Superbid",
    "id": "superbid-5063021",
@@ -4153,7 +3529,7 @@
    "id": "superbid-5059018",
    "titulo": "Lote com 145 peças, podendo ser sucatas, celulares e carregadores LG e Nokia RM-975",
    "categoria": "Informática",
-   "lance_atual": 850,
+   "lance_atual": 925,
    "encerramento": "2026-11-03 13:46",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -4165,7 +3541,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -6229,7 +5605,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -10533,7 +9909,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -12981,7 +12357,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -13545,7 +12921,7 @@
    "id": "superbid-5066145",
    "titulo": "APROX. 150 LUMINÁRIAS LED USB PORTÁTIL LEITURA NOTEBOOK (SEM USO)",
    "categoria": "Informática",
-   "lance_atual": 450,
+   "lance_atual": 500,
    "encerramento": "2026-11-09 15:08",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -13557,7 +12933,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -21622,72 +20998,24 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5050200",
-   "titulo": "APROXIMADAMENTE 24 APARELHOS DE AR CONDICIONADO",
-   "categoria": "Refrigeradores",
-   "lance_atual": 5600,
-   "encerramento": "2026-10-29 10:55",
-   "cidade": "Nova Aurora",
-   "uf": "PR",
+   "id": "superbid-5074143",
+   "titulo": "DRONE DJ MINI 5 PRO COM ACESSÓRIOS, 3 BATERIAS, HÉLICES PARA REPOSIÇÃO, CONTROLE COM TELA E FILTROS DE LENTE (COMPLETO)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 6000,
+   "encerramento": "2026-10-29 11:38",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/aproximadamente-24-aparelhos-de-ar-condicionado-5050200",
+   "link": "https://www.superbid.net/oferta/drone-dj-mini-5-pro-com-acessorios-3-baterias-helices-para-reposicao-controle-co-5074143",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/1cd16279-90e3-4d83-8adc-5614dd4d952f.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/2a1c45d2-e5c8-48df-bc30-aac547c50f8d.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 15,
-    "leiloeiro": "MILANI LEILÕES",
-    "leilao": "PREFEITURA MUNICIPAL DE NOVA AURORA-PR"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5046937",
-   "titulo": "EQUIPAMENTOS DE INFORMÁTICA E ELETRÔNICOS DIVERSOS",
-   "categoria": "Informática",
-   "lance_atual": 3400,
-   "encerramento": "2026-10-29 11:00",
-   "cidade": "Nova Aurora",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/equipamentos-de-informatica-e-eletronicos-diversos-5046937",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/81dd926c-3de5-4ea7-8f70-c6dc627be5ab.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 16,
-    "leiloeiro": "MILANI LEILÕES",
-    "leilao": "PREFEITURA MUNICIPAL DE NOVA AURORA-PR"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5046936",
-   "titulo": "EQUIPAMENTOS LINHA BRANCA DIVERSOS - APROXIMADAMENTE 65 ITENS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1200,
-   "encerramento": "2026-10-29 11:05",
-   "cidade": "Nova Aurora",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/equipamentos-linha-branca-diversos-aproximadamente-65-itens-5046936",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0f27bc25-65eb-4e15-88b8-a0ff72812b73.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 2,
-    "leiloeiro": "MILANI LEILÕES",
-    "leilao": "PREFEITURA MUNICIPAL DE NOVA AURORA-PR"
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Infermática, telefonia"
    },
    "prioridade": false,
    "destaque": false
@@ -27037,7 +26365,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "A.Yoshii Engenharia"
    },
@@ -27109,7 +26437,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -27181,7 +26509,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -27229,7 +26557,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -27445,7 +26773,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -27789,6 +27117,30 @@
    "destaque": false
   },
   {
+   "fonte": "Superbid",
+   "id": "superbid-5074681",
+   "titulo": "Apple iMac   Tela 24 polegadas,  Chip M4, 16GB de Memória e SSD 500GB",
+   "categoria": "Informática",
+   "lance_atual": 8000,
+   "encerramento": "2026-11-11 14:05",
+   "cidade": "Toledo",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/apple-imac-tela-24-polegadas-chip-m4-16gb-de-memoria-e-ssd-500gb-5074681",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/81451ff8-ff43-42f1-8810-f1e20e78561b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "JONEY MARCELO LOPES FERREIRA",
+    "leilao": "CORPORATIVO"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
    "fonte": "Receita Federal",
    "id": "receita-900100/12/2026-22",
    "titulo": "ROTEADOR HUAWEI EG8145X6-10 (e mais 170 itens)",
@@ -27800,7 +27152,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/900100/12/2026/lote/22",
    "valor_avaliacao": 256713.49,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/900100/12/foto_pq_900100_2026_12_22_555070_26230ed38f23d549c6aec883ab63ac9f.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -27820,7 +27172,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/900100/12/2026/lote/23",
    "valor_avaliacao": 244780.55,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/900100/12/foto_pq_900100_2026_12_23_555081_984548514875880a0e3dcf67d8b6ee83.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -27840,7 +27192,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/900100/12/2026/lote/24",
    "valor_avaliacao": 439884.84,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/900100/12/foto_pq_900100_2026_12_24_555085_dc879593221d6afa59ed99b571f8991f.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28200,7 +27552,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/1",
    "valor_avaliacao": 24000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_1_554796_7b414e59c011dd7597c1427e0a5a862f.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28220,7 +27572,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/4",
    "valor_avaliacao": 3200,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_4_554799_a7ed196a2714967b09d3d5a8ce865ea5.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28240,7 +27592,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/5",
    "valor_avaliacao": 1600,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_5_554800_36dc40b84f35404c5a0c910cdc2e8fc8.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28260,7 +27612,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/6",
    "valor_avaliacao": 800,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_6_554801_2fdf538b79bbab3f787e9a203b3e5b6a.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28280,7 +27632,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/7",
    "valor_avaliacao": 800,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_7_554802_6023806d033448ca3c3a97c4f7c7ba83.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28300,7 +27652,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/8",
    "valor_avaliacao": 7600,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_8_554803_231e8b9d0f4505fcab8130451440a18f.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28320,7 +27672,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/9",
    "valor_avaliacao": 3800,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_9_554804_6da3b05e8bdbb1db7b6271981aff4275.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28340,7 +27692,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/10",
    "valor_avaliacao": 4600,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_10_554805_d40468a415ebdeb5013133815c6539e4.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28360,7 +27712,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/16",
    "valor_avaliacao": 46800,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_16_554820_97c22cd886aecda8a4bc1c9f4f71a009.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28380,7 +27732,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/17",
    "valor_avaliacao": 4000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_17_554821_8d633991aa00300a69b4a9d15e15d740.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28400,7 +27752,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/18",
    "valor_avaliacao": 4000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_18_554824_6c132245c3f4855501093d2c23ad0cfc.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28420,7 +27772,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/19",
    "valor_avaliacao": 4000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_19_554825_b19342b659d4a64399a192e033f0454f.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28440,7 +27792,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/20",
    "valor_avaliacao": 4000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_20_554826_c3996428192cda55393b03e296212e75.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28460,7 +27812,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/21",
    "valor_avaliacao": 4000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_21_554828_eab5d5e5f53c8d3332af68efa7bbce3d.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28480,7 +27832,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/22",
    "valor_avaliacao": 4000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_22_554829_cb828f54e8d65099df28d2945d8cfea6.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -28500,7 +27852,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/600100/6/2026/lote/23",
    "valor_avaliacao": 4000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/600100/6/foto_pq_600100_2026_6_23_554830_d5fec143cdc10aa0580dbfe2b3c74f54.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -30998,34 +30350,10 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5074143",
-   "titulo": "DRONE DJ MINI 5 PRO COM ACESSÓRIOS, 3 BATERIAS, HÉLICES PARA REPOSIÇÃO, CONTROLE COM TELA E FILTROS DE LENTE (COMPLETO)",
-   "categoria": "Eletrônicos",
-   "lance_atual": 6000,
-   "encerramento": "2026-12-05 11:00",
-   "cidade": "Belo Horizonte",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/drone-dj-mini-5-pro-com-acessorios-3-baterias-helices-para-reposicao-controle-co-5074143",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/2a1c45d2-e5c8-48df-bc30-aac547c50f8d.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SALA DE LEILÕES",
-    "leilao": "Infermática, telefonia"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
    "id": "superbid-5074144",
    "titulo": "MACBOOK AIR M2 - 2022 (#300M)",
    "categoria": "Informática",
-   "lance_atual": 2500,
+   "lance_atual": 3500,
    "encerramento": "2026-12-05 11:00",
    "cidade": "Belo Horizonte",
    "uf": "MG",
