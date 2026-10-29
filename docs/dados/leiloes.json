@@ -1,14 +1,14 @@
 {
- "atualizado_em": "2026-10-28 19:02",
+ "atualizado_em": "2026-10-29 07:11",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 482,
-   "segundos": 451
+   "segundos": 439
   },
   "Superbid": {
    "ok": true,
-   "lotes": 1001,
+   "lotes": 1005,
    "segundos": 10
   },
   "Caixa": {
@@ -25,7 +25,7 @@
    "id": "superbid-5053841",
    "titulo": "21 NOTEBOOKS DELL 5485 I5",
    "categoria": "Informática",
-   "lance_atual": 1200,
+   "lance_atual": 1400,
    "encerramento": "2026-10-29 11:30",
    "cidade": "Campinas",
    "uf": "SP",
@@ -37,7 +37,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -49,7 +49,7 @@
    "id": "superbid-5053840",
    "titulo": "09 NOTEBOOKS DELL 5480 I7",
    "categoria": "Informática",
-   "lance_atual": 1400,
+   "lance_atual": 1600,
    "encerramento": "2026-10-29 11:30",
    "cidade": "Campinas",
    "uf": "SP",
@@ -61,7 +61,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 9,
+    "lances": 11,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -73,7 +73,7 @@
    "id": "superbid-5055552",
    "titulo": "17 NOTEBOOKS DELL 5490 I5",
    "categoria": "Informática",
-   "lance_atual": 1400,
+   "lance_atual": 1800,
    "encerramento": "2026-10-29 11:31",
    "cidade": "Campinas",
    "uf": "SP",
@@ -85,7 +85,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -97,7 +97,7 @@
    "id": "superbid-5053839",
    "titulo": "18 NOTEBOOKS DELL 5490 I5",
    "categoria": "Informática",
-   "lance_atual": 1400,
+   "lance_atual": 1600,
    "encerramento": "2026-10-29 11:31",
    "cidade": "Campinas",
    "uf": "SP",
@@ -109,7 +109,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -145,7 +145,7 @@
    "id": "superbid-5055551",
    "titulo": "NOTEBOOKS LENOVO T420, T430, T450, T460 (22 UN)",
    "categoria": "Informática",
-   "lance_atual": 2000,
+   "lance_atual": 2200,
    "encerramento": "2026-10-29 11:32",
    "cidade": "Campinas",
    "uf": "SP",
@@ -157,7 +157,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -265,7 +265,7 @@
    "id": "superbid-5053835",
    "titulo": "MONITORES SAMSUNG, LENOVO, DELL, POSITIVO, HP E OUTROS (45 UN)",
    "categoria": "Informática",
-   "lance_atual": 700,
+   "lance_atual": 800,
    "encerramento": "2026-10-29 11:35",
    "cidade": "Campinas",
    "uf": "SP",
@@ -277,7 +277,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -289,7 +289,7 @@
    "id": "superbid-5055548",
    "titulo": "SWITCH CISCO C2960, BLACKBOX724747, 2205WG E OUTROS (19 UN)",
    "categoria": "Eletrônicos",
-   "lance_atual": 800,
+   "lance_atual": 1000,
    "encerramento": "2026-10-29 11:35",
    "cidade": "Campinas",
    "uf": "SP",
@@ -301,7 +301,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -481,7 +481,7 @@
    "id": "superbid-5055546",
    "titulo": "VÍDEO CONFERÊNCIA CISCO CTNSX10N CODEC, ROOM KIT TTC7 23 WEBEX, WORKSTATION DELL T3600 E OUTROS (27 UN)",
    "categoria": "Informática",
-   "lance_atual": 600,
+   "lance_atual": 700,
    "encerramento": "2026-10-29 11:39",
    "cidade": "Campinas",
    "uf": "SP",
@@ -493,7 +493,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Outlet Informática"
    },
@@ -2617,7 +2617,7 @@
    "id": "superbid-5057825",
    "titulo": "48 CAIXAS DE SOM C/ BLUETOOTH DIVERSAS",
    "categoria": "Eletrônicos",
-   "lance_atual": 700,
+   "lance_atual": 800,
    "encerramento": "2026-10-29 15:56",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -2629,7 +2629,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -3553,7 +3553,7 @@
    "id": "superbid-5069009",
    "titulo": "MONITORES DELL (04 PÇS) (Ref.: BAH)",
    "categoria": "Informática",
-   "lance_atual": 300,
+   "lance_atual": 400,
    "encerramento": "2026-10-30 16:21",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -3565,7 +3565,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Compartilhado Industrial & Bens de Consumo"
    },
@@ -3661,7 +3661,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Compartilhado Industrial & Bens de Consumo"
    },
@@ -3997,7 +3997,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -6205,7 +6205,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -6277,7 +6277,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -6289,7 +6289,7 @@
    "id": "superbid-5074347",
    "titulo": "NOTEBOOK SAMSUNG USADO DIVERSOS (04 UN)           (Ref.: SB0034062)",
    "categoria": "Informática",
-   "lance_atual": 520,
+   "lance_atual": 620,
    "encerramento": "2026-11-03 17:39",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -6301,7 +6301,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -12753,7 +12753,7 @@
    "id": "superbid-5066450",
    "titulo": "KIT STORAGE + 2 SWITCHES",
    "categoria": "Informática",
-   "lance_atual": 1700,
+   "lance_atual": 1800,
    "encerramento": "2026-11-05 17:02",
    "cidade": "Niterói",
    "uf": "RJ",
@@ -12765,7 +12765,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Wilson Sons"
    },
@@ -13185,7 +13185,7 @@
    "id": "superbid-5069618",
    "titulo": "APROX. 200 CARREGADORES DE CELULAR AL-9006 (SEM USO)",
    "categoria": "Telefonia",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-09 14:50",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -13197,7 +13197,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -13545,7 +13545,7 @@
    "id": "superbid-5066145",
    "titulo": "APROX. 150 LUMINÁRIAS LED USB PORTÁTIL LEITURA NOTEBOOK (SEM USO)",
    "categoria": "Informática",
-   "lance_atual": 400,
+   "lance_atual": 450,
    "encerramento": "2026-11-09 15:08",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -13557,7 +13557,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -21224,7 +21224,7 @@
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/8-cameras-de-seguranca-giga-e-tecvoz-para-cftv-modelos-full-hd-2-mp-e-800-tvl-te-5068602",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/9d3fcc57-6582-4aa0-ba6f-c296fe01ccab.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/0aff4c84-6c5f-4394-91f0-9f912b98bb12.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -21478,6 +21478,102 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5073521",
+   "titulo": "16 COLETORES DE DADOS PORTÁTEIS COM LEITOR DE CÓDIGO DE BARRAS, TELA E TECLADO INTEGRADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 50,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/16-coletores-de-dados-portateis-com-leitor-de-codigo-de-barras-tela-e-teclado-in-5073521",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/368b695b-cb1c-4bc1-aee9-b008029ec1e5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5073523",
+   "titulo": "19 COLETORES DE DADOS INTERMEC, LINHA CK3, COM 5 BASES DE RECARGA E 20 BATERIAS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 50,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/19-coletores-de-dados-intermec-linha-ck3-com-5-bases-de-recarga-e-20-baterias-5073523",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d5382792-aeec-4929-9623-c644c6ec974f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074610",
+   "titulo": "FONTES DE ALIMENTAÇÃO PARA COMPUTADORES, MARCAS HP, LITEON, ACBEL, FSP E C3TECH ¿ MODELOS E POTÊNCIAS DIVERSOS",
+   "categoria": "Informática",
+   "lance_atual": 50,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fontes-de-alimentacao-para-computadores-marcas-hp-liteon-acbel-fsp-e-c3tech-mode-5074610",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/81087667-bef4-4743-b7d7-a05e38dc5bb4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5074612",
+   "titulo": "20 COLETORES DE DADOS INTERMEC, LINHA CK3, COM 5 BASES DE RECARGA E 20 BATERIAS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 50,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/20-coletores-de-dados-intermec-linha-ck3-com-5-bases-de-recarga-e-20-baterias-5074612",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d6dd48a7-9a88-4f4c-98b1-397336fad8c1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5056826",
    "titulo": "Sistema a Laser de Diodo, Icone, Galaxy Fiber EVO, 220V, em funcionamento",
    "categoria": "Eletroportáteis",
@@ -21529,7 +21625,7 @@
    "id": "superbid-5050200",
    "titulo": "APROXIMADAMENTE 24 APARELHOS DE AR CONDICIONADO",
    "categoria": "Refrigeradores",
-   "lance_atual": 5400,
+   "lance_atual": 5600,
    "encerramento": "2026-10-29 10:55",
    "cidade": "Nova Aurora",
    "uf": "PR",
@@ -21541,7 +21637,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 14,
+    "lances": 15,
     "leiloeiro": "MILANI LEILÕES",
     "leilao": "PREFEITURA MUNICIPAL DE NOVA AURORA-PR"
    },
@@ -24605,7 +24701,7 @@
    "id": "superbid-5069913",
    "titulo": "APROX. 300 FITAS LED, ROLO COM 100 METROS (Ref.: 17)",
    "categoria": "Eletrônicos",
-   "lance_atual": 1000,
+   "lance_atual": 1100,
    "encerramento": "2026-11-05 11:30",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -24617,7 +24713,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -24665,7 +24761,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -24725,7 +24821,7 @@
    "id": "superbid-5066440",
    "titulo": "65 CONTROLES PARA X-BOX ONE COM FIO (Ref.: 11)",
    "categoria": "Eletrônicos",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-05 11:34",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -24737,7 +24833,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -27109,7 +27205,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -27157,7 +27253,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -27289,7 +27385,7 @@
    "id": "superbid-5071100",
    "titulo": "FONES DE OUVIDO GAMER H-7 COM FIO (50 PÇ) (Ref.: 33)",
    "categoria": "Telefonia",
-   "lance_atual": 200,
+   "lance_atual": 300,
    "encerramento": "2026-11-11 10:46",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -27301,7 +27397,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -27688,2190 +27784,6 @@
     "lances": 0,
     "leiloeiro": "JONEY MARCELO LOPES FERREIRA",
     "leilao": "CORPORATIVO"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067761",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 8 REVISTAS EM QUADRINHOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 50,
-   "encerramento": "2026-11-16 14:00",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-8-revistas-em-quadrinhos-no-estado-sem-garantia-5067761",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c5c8eb48-f079-49e2-b211-89c337840702.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067762",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 29 LPS E 25 CDS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:00",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-29-lps-e-25-cds-no-estado-sem-garantia-5067762",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/fd526b59-5c7c-4f5d-99bd-68b5d9d52441.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071467",
-   "titulo": "LOTE CONTENDO 03 FONES DE OUVIDO, 01 CAIXA DE SOM E 01 TABLET - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:01",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-03-fones-de-ouvido-01-caixa-de-som-e-01-tablet-para-conserto-no-es-5071467",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0a6aa6bb-9fea-45b0-ab0c-b447747cf229.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067763",
-   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:01",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067763",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/6744511f-c11b-4cf0-b464-a157f02c9244.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071468",
-   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:02",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5071468",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/d4a28d0f-ee8e-4e87-b01b-0a5c29e50745.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067764",
-   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:02",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067764",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/60e40e65-8a5c-4506-85a2-1d6cbedd5abd.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067765",
-   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:03",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067765",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/3d12ac2c-7530-4f78-9c01-379e71f33ffc.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071469",
-   "titulo": "01 IMPRESSORA EPSON - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 240,
-   "encerramento": "2026-11-16 14:03",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-impressora-epson-para-conserto-no-estado-sem-garantia-5071469",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/a2805fda-46f2-4d09-b4a2-29c36626ef71.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071470",
-   "titulo": "01 MONITOR 29 POLEGADAS ULTRAWIDE PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 360,
-   "encerramento": "2026-11-16 14:04",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-monitor-29-polegadas-ultrawide-para-conserto-no-estado-sem-garantia-5071470",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c4868333-ce12-49c1-98e1-94416b4c7358.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067766",
-   "titulo": "LOTE CONTENDO 01 HEADSET E 01 CÂMERA - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 340,
-   "encerramento": "2026-11-16 14:04",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-01-headset-e-01-camera-para-conserto-no-estado-sem-garantia-5067766",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/89c0004d-89e9-4d0f-bd81-7076169050e8.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 2,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067767",
-   "titulo": "LOTE CONTENDO 03 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:05",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-03-bens-diversos-para-conserto-no-estado-sem-garantia-5067767",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/27caee05-30c2-4080-b609-fb522677e494.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071471",
-   "titulo": "LOTE CONTENDO BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 420,
-   "encerramento": "2026-11-16 14:05",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-para-conserto-no-estado-sem-garantia-5071471",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/cd3e13c6-7490-4a4d-9da5-7c8a7057c512.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067768",
-   "titulo": "LOTE CONTENDO BENS DIVERSOS PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:06",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-para-conserto-no-estado-sem-garantia-5067768",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c7dd4fae-7c82-4a09-bd78-2910ff199197.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067769",
-   "titulo": "LOTE CONTENDO BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 240,
-   "encerramento": "2026-11-16 14:06",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-para-conserto-no-estado-sem-garantia-5067769",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/b5f0b96c-8b7c-464a-a5fa-c07543fcf8a9.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071473",
-   "titulo": "01 SMARTPHONE BLU MODELO L200 PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:07",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-smartphone-blu-modelo-l200-para-conserto-no-estado-sem-garantia-5071473",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/29f7e6e1-0bee-46f1-a51b-f97fc0898c57.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071472",
-   "titulo": "LOTE CONTENDO DIVERSOS APARELHOS ELETRÔNICOS PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:07",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-diversos-aparelhos-eletronicos-para-conserto-no-estado-sem-garanti-5071472",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/7892141d-fb89-4a68-a5b4-cafb07aeba0e.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071475",
-   "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS E DISPOSITIVOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 240,
-   "encerramento": "2026-11-16 14:08",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-acessorios-eletronicos-e-dispositivos-no-estado-sem-garantia-5071475",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0c75c10c-6e05-41c6-8d45-3c72062c6a67.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071474",
-   "titulo": "01 MONITOR LG 24 POLEGADAS (MODELO 24MS500 - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 100,
-   "encerramento": "2026-11-16 14:08",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-monitor-lg-24-polegadas-modelo-24ms500-no-estado-sem-garantia-5071474",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/e064dc1b-9018-487a-b566-75020903ece8.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071476",
-   "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS DIVERSOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:09",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-acessorios-eletronicos-diversos-no-estado-sem-garantia-5071476",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/124081e0-4a69-44c2-8db3-fd94b59a3b2f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071477",
-   "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS DIVERSOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:09",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-acessorios-eletronicos-diversos-no-estado-sem-garantia-5071477",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/7e05502b-559b-41d4-b018-296dafc1c36a.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067727",
-   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 200,
-   "encerramento": "2026-11-16 14:10",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067727",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/63cc9d39-2a84-4f93-8829-66b447b69eee.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 3,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068779",
-   "titulo": "LOTE CONTENDO 4 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:10",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-4-bens-diversos-para-conserto-no-estado-sem-garantia-5068779",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/6cf4c979-3a5d-49a4-8c7e-d943862318d8.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072595",
-   "titulo": "LOTE CONTENDO 5 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:11",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-5-bens-diversos-para-conserto-no-estado-sem-garantia-5072595",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ca6f8cd7-8872-450d-90f9-82dad2ff4190.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072594",
-   "titulo": "LOTE CONTENDO 5 BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 500,
-   "encerramento": "2026-11-16 14:11",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-5-bens-diversos-no-estado-sem-garantia-5072594",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/b58484ac-9576-49e0-8915-f1446ffcf390.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072593",
-   "titulo": "01 NOBREAK SMS PAINEL RGB - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:12",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-nobreak-sms-painel-rgb-para-conserto-no-estado-sem-garantia-5072593",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/cff06ff1-5c35-4986-95db-0d5e5850415c.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072592",
-   "titulo": "LOTE CONTENDO 5 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 800,
-   "encerramento": "2026-11-16 14:12",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-5-bens-diversos-para-conserto-no-estado-sem-garantia-5072592",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/4a1dea01-14a1-4dbe-ab19-e91bbc0b6aff.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068778",
-   "titulo": "01 PDV BALCÃO DE ATENDIMENTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1000,
-   "encerramento": "2026-11-16 14:13",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-pdv-balcao-de-atendimento-no-estado-sem-garantia-5068778",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ef14aa63-be07-480b-848b-fcc7cf019a3c.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068777",
-   "titulo": "01 PDV BALCÃO DE ATENDIMENTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1000,
-   "encerramento": "2026-11-16 14:13",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-pdv-balcao-de-atendimento-no-estado-sem-garantia-5068777",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/b3ec67c9-eb31-4cd8-8723-6cc35d102397.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072591",
-   "titulo": "01 PDV BALCÃO DE ATENDIMENTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1000,
-   "encerramento": "2026-11-16 14:14",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-pdv-balcao-de-atendimento-no-estado-sem-garantia-5072591",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/d593cf5d-4501-405c-85a1-33e94f84acb9.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068776",
-   "titulo": "01 PDV BALCÃO DE ATENDIMENTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1000,
-   "encerramento": "2026-11-16 14:14",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-pdv-balcao-de-atendimento-no-estado-sem-garantia-5068776",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c5b25e9c-8f27-4574-ad9c-2aa0b3554c33.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068775",
-   "titulo": "01 BICICLETA ARO 26 - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:15",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-26-aparentemente-nova-no-estado-sem-garantia-5068775",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/6b5ef0d5-0f60-410e-b72b-f9f7a51e6638.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072590",
-   "titulo": "01 BICICLETA ARO 29 COR PRETA - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:15",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-29-cor-preta-aparentemente-nova-no-estado-sem-garantia-5072590",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/debef309-39e3-4815-bce8-91638b8637ce.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068774",
-   "titulo": "01 BICICLETA ARO 26 COR LILÁS - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:16",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-26-cor-lilas-aparentemente-nova-no-estado-sem-garantia-5068774",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/26276c1a-e24f-4522-9614-5f619c3ac9de.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072589",
-   "titulo": "01 BICICLETA ARO 29 COR VERDE - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:16",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-29-cor-verde-aparentemente-nova-no-estado-sem-garantia-5072589",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/e9f42964-6be1-4934-82f4-2efd90f44ec2.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072588",
-   "titulo": "01 BICICLETA ARO 29 CRIPTO BIKES - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:17",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-29-cripto-bikes-aparentemente-nova-no-estado-sem-garantia-5072588",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/90e4e4ee-af9a-46fb-a434-6ed22373456b.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072587",
-   "titulo": "01 BICICLETA ARO 29 HIGHLEVEL - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:17",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-29-highlevel-aparentemente-nova-no-estado-sem-garantia-5072587",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0d7d8c60-1509-49df-8161-7e4502bbd498.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068773",
-   "titulo": "01 BICICLETA ARO 20 HORUS - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:18",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-20-horus-aparentemente-nova-no-estado-sem-garantia-5068773",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/425936c4-3b6c-4486-beac-264792886903.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068772",
-   "titulo": "01 BICICLETA HORUS BEACH ARO 26 - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:18",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-horus-beach-aro-26-aparentemente-nova-no-estado-sem-garantia-5068772",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/8a15dfc9-f06d-40d1-951d-94160d4ac06b.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072586",
-   "titulo": "01 BICICLETA ARO 29 ROMA COR PRETA - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:19",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-29-roma-cor-preta-aparentemente-nova-no-estado-sem-garantia-5072586",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/a8bf6672-8641-4dad-bafb-71deece393bc.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072585",
-   "titulo": "01 BICICLETA ARO 26 SAIDX - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:19",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-26-saidx-aparentemente-nova-no-estado-sem-garantia-5072585",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/b8506839-e912-4fad-b8ec-cf0ed65ef042.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072584",
-   "titulo": "01 BICICLETA ARO 20 JUVENIL COLLI - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:20",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-20-juvenil-colli-aparentemente-nova-no-estado-sem-garantia-5072584",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/70a0a559-b313-4663-941b-5502c842ae5f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072583",
-   "titulo": "01 IMPRESSORA 3D BAMBU LAB A1 COMBO - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 2000,
-   "encerramento": "2026-11-16 14:20",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-impressora-3d-bambu-lab-a1-combo-aparentemente-nova-no-estado-sem-garantia-5072583",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/88fbb8d3-b35f-4b4c-8208-6a254317ecae.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068771",
-   "titulo": "01 BICICLETA ARO 20 - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:21",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-20-aparentemente-nova-no-estado-sem-garantia-5068771",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/629f5615-954d-4ad0-962b-afb02cf29a3f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068770",
-   "titulo": "LOTE CONTENDO 03 TURBINAS DE AR CONDICIONADO - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 250,
-   "encerramento": "2026-11-16 14:21",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-03-turbinas-de-ar-condicionado-aparentemente-nova-no-estado-sem-ga-5068770",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/74989817-8d2e-4f3c-9a5e-54c670b81011.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072582",
-   "titulo": "LOTE CONTENDO BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-11-16 14:22",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-no-estado-sem-garantia-5072582",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/368382b6-4ca3-4000-bde9-2833dc6d8ed8.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072581",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 05 MOTORES PARA AR CONDICIONADO GREE - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 700,
-   "encerramento": "2026-11-16 14:22",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-05-motores-para-ar-condicionado-gree-aparentemente-5072581",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/13999025-8614-4736-9708-43ab634b8582.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072580",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 05 BASES PARA MOTOR DO AR CONDICIONADO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 350,
-   "encerramento": "2026-11-16 14:23",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-05-bases-para-motor-do-ar-condicionado-no-estado-s-5072580",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/a9e4f38b-9481-4774-98ca-6c6361df77c3.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068769",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 05 SUPORTE DA CONDENSADORA PLACA PAC 9.000 - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 125,
-   "encerramento": "2026-11-16 14:23",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-05-suporte-da-condensadora-placa-pac-9-000-no-esta-5068769",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/50f37b9a-c45f-4c09-a1b9-aa3721d2ad80.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072579",
-   "titulo": "LOTE CONTENDO CARCAÇAS E TELAS DE NOTEBOOK DE DIVERSOS MODELOS - PARA PEÇAS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 100,
-   "encerramento": "2026-11-16 14:24",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-carcacas-e-telas-de-notebook-de-diversos-modelos-para-pecas-no-est-5072579",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/83077a8d-30b9-4c46-a43f-90ab5a4d2681.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072578",
-   "titulo": "LOTE CONTENDO CARCAÇAS E TELAS DE NOTEBOOK DE DIVERSOS MODELOS - PARA PEÇAS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 100,
-   "encerramento": "2026-11-16 14:24",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-carcacas-e-telas-de-notebook-de-diversos-modelos-para-pecas-no-est-5072578",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/9597bedc-53a7-4a35-ba2e-2329f13ae3ac.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072577",
-   "titulo": "LOTE CONTENDO CARCAÇAS E TELAS DE NOTEBOOK DE DIVERSOS MODELOS - PARA PEÇAS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 100,
-   "encerramento": "2026-11-16 14:25",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-carcacas-e-telas-de-notebook-de-diversos-modelos-para-pecas-no-est-5072577",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/943f09cf-17e5-44a4-883e-d322249e4ba1.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068768",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 05 SUPORTES METÁLICOS PARA CONDENSADORA DE 9 E 12BTUS PHILCO CONVENCIONAL - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 125,
-   "encerramento": "2026-11-16 14:25",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-05-suportes-metalicos-para-condensadora-de-9-e-12b-5068768",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ee4fe9bb-21a7-467d-80d9-0c644851efd3.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072576",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 05 SUPORTES METÁLICOS CONDENSADORA DE 9 E 12BTUS GREE INVERTER - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 125,
-   "encerramento": "2026-11-16 14:26",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-05-suportes-metalicos-condensadora-de-9-e-12btus-g-5072576",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/5a1f527a-1371-4bc1-8120-f78d3d5cb4f2.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072575",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR310 DE 30CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1000,
-   "encerramento": "2026-11-16 14:26",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr310-de-30cm-voltagem-12-5072575",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/068996eb-406f-4fea-9189-86bfd7dbfd20.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068767",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR310 DE 30CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1000,
-   "encerramento": "2026-11-16 14:27",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr310-de-30cm-voltagem-12-5068767",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ad793c5c-308c-4ed6-9f26-ad9a80412b27.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072574",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR310 DE 30CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1000,
-   "encerramento": "2026-11-16 14:27",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr310-de-30cm-voltagem-12-5072574",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c19d0f26-25f0-4978-8312-ae341ec10d14.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072573",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR310 DE 30CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1000,
-   "encerramento": "2026-11-16 14:28",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr310-de-30cm-voltagem-12-5072573",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/d1fa9bc4-4957-4873-9cee-f145f69533b1.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068766",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR410 DE 40CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1500,
-   "encerramento": "2026-11-16 14:28",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr410-de-40cm-voltagem-12-5068766",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/607d8a8c-ab03-48c5-a7a5-c0856761e9e3.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072572",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR410 DE 40CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1500,
-   "encerramento": "2026-11-16 14:29",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr410-de-40cm-voltagem-12-5072572",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/fc56eaaf-f4ff-4f0b-b135-382bad8803eb.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072571",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR410 DE 40CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1500,
-   "encerramento": "2026-11-16 14:29",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr410-de-40cm-voltagem-12-5072571",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/f112e66a-6868-44d3-9422-da0d29a17060.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068765",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR410 DE 40CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1500,
-   "encerramento": "2026-11-16 14:30",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr410-de-40cm-voltagem-12-5068765",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/e12e7061-c939-48a6-8f34-f8af8823edbe.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072570",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 10 ELETRODOMÉSTICOS PORTÁTEIS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 700,
-   "encerramento": "2026-11-16 14:30",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-10-eletrodomesticos-portateis-sem-testes-no-estado-5072570",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/345d300d-eeb6-4f00-8b06-a6ff4b9a5b98.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072569",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 12 ELETRODOMÉSTICOS PORTÁTEIS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 700,
-   "encerramento": "2026-11-16 14:31",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-12-eletrodomesticos-portateis-sem-testes-no-estado-5072569",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/cfd6536c-51b8-425a-8918-dd95130ad5b1.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068764",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 20 ELETRODOMÉSTICOS PORTÁTEIS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 400,
-   "encerramento": "2026-11-16 14:31",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-20-eletrodomesticos-portateis-sem-testes-no-estado-5068764",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/dfa0c136-d655-40ce-875b-a44ef1fe535b.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072568",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 40 ELETRODOMÉSTICOS PORTÁTIL USADOS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 990,
-   "encerramento": "2026-11-16 14:32",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-40-eletrodomesticos-portatil-usados-5072568",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/7c0072a3-4d7d-4f00-b179-b10e5695f5e8.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072567",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 12 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 600,
-   "encerramento": "2026-11-16 14:32",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-12-eletrodomesticos-portatil-no-estado-sem-garanti-5072567",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ee6d25ef-cdfa-4060-b199-54faa1820cf4.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068763",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE ONZE TVS DE 32 POLEGADAS PARA PEÇAS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 700,
-   "encerramento": "2026-11-16 14:33",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-onze-tvs-de-32-polegadas-para-pecas-no-estado-sem--5068763",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ba958e91-46e1-4800-b454-b87056bb108b.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072566",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 990,
-   "encerramento": "2026-11-16 14:33",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-eletrodomesticos-portatil-no-estado-sem-garanti-5072566",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/a50f0157-1562-431d-b29d-5496ffef26f5.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068761",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 40 CUBAS DE PIA PARA BANHEIRO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 900,
-   "encerramento": "2026-11-16 14:34",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-40-cubas-de-pia-para-banheiro-no-estado-sem-garant-5068761",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/a81f970b-8b4c-4606-accb-04c6d6eda16b.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068762",
-   "titulo": "LOTE CONTENDO PRODUTOS PARA MATÉRIA DE CONSTRUÇÃO - PRAZO DE VALIDADE VENCIDO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 600,
-   "encerramento": "2026-11-16 14:34",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-produtos-para-materia-de-construcao-prazo-de-validade-vencido-no-e-5068762",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/a7d01d3d-d363-40a1-96a8-8cd2a334c346.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072565",
-   "titulo": "LOTE CONTENDO IMPERMEABILIZANTES INCOLOR - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 700,
-   "encerramento": "2026-11-16 14:35",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-impermeabilizantes-incolor-no-estado-sem-garantia-5072565",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ba337376-3106-4707-9037-b0a579c81e66.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072563",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 45 ELETRODOMÉSTICOS PORTÁTIL USADOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 800,
-   "encerramento": "2026-11-16 14:35",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-45-eletrodomesticos-portatil-usados-no-estado-sem--5072563",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0d72597c-0d44-49b8-87f4-898a72a58bd3.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068760",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 750,
-   "encerramento": "2026-11-16 14:36",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-eletrodomesticos-portatil-no-estado-sem-garanti-5068760",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/7a6064ea-d80a-4689-889f-62d3a2e51fd1.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072562",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 11 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 600,
-   "encerramento": "2026-11-16 14:36",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-11-eletrodomesticos-portatil-no-estado-sem-garanti-5072562",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/8787547a-0e35-4ddc-a7fc-91196d7bc072.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072561",
-   "titulo": "APROXIMADAMENTE 11 LUSTRES NOVOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 900,
-   "encerramento": "2026-11-16 14:37",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/aproximadamente-11-lustres-novos-no-estado-sem-garantia-5072561",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/e571fcfb-2c50-4d64-a8f4-7defb0a1c471.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072559",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 9 EVAPORADORA MEDES E GREE PARA PEÇA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 990,
-   "encerramento": "2026-11-16 14:37",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-9-evaporadora-medes-e-gree-para-peca-no-estado-sem-5072559",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/a65f5e1e-b4e8-4859-84bc-eee80a754185.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072560",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 12 LUSTRES COM MODELOS DIFERENTES - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 900,
-   "encerramento": "2026-11-16 14:38",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-12-lustres-com-modelos-diferentes-aparentemente-no-5072560",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/2dc62754-b5b2-4836-b4f5-1b8c289d4c8f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072558",
-   "titulo": "LOTE CONTENDO PRODUTOS PARA CONSTRUÇÃO VENCIDOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 700,
-   "encerramento": "2026-11-16 14:38",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-produtos-para-construcao-vencidos-no-estado-sem-garantia-5072558",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/15ceba5a-9676-4415-bf54-681d35961c1d.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068759",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 LUSTRES COM MODELOS DIFERENTES - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 900,
-   "encerramento": "2026-11-16 14:39",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-lustres-com-modelos-diferentes-aparentemente-no-5068759",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/7fe5439f-f33c-4b96-ba55-d9c7b4c680c1.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068758",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 LUSTRES COM MODELOS DIFERENTES - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 900,
-   "encerramento": "2026-11-16 14:39",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-lustres-com-modelos-diferentes-aparentemente-no-5068758",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/07a6e89c-1c78-4598-8c77-8843b7b44188.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072557",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 13 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 800,
-   "encerramento": "2026-11-16 14:40",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-13-eletrodomesticos-portatil-no-estado-sem-garanti-5072557",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/95a168cc-53a8-429f-9f71-551fdac34a91.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068757",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 14 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 700,
-   "encerramento": "2026-11-16 14:40",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-14-eletrodomesticos-portatil-no-estado-sem-garanti-5068757",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c6266c86-c9f3-4f4b-bd2c-9c90ddcb7bda.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068756",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 650,
-   "encerramento": "2026-11-16 14:41",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-eletrodomesticos-portatil-no-estado-sem-garanti-5068756",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0900b459-64d9-4f16-a340-a170999de160.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072556",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 750,
-   "encerramento": "2026-11-16 14:41",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-eletrodomesticos-portatil-no-estado-sem-garanti-5072556",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/6df07cdb-ebee-4565-9511-3c79420b26bb.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068755",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 900,
-   "encerramento": "2026-11-16 14:42",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-eletrodomesticos-portatil-no-estado-sem-garanti-5068755",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/37e22f9f-dc88-4f96-92cb-30348a80a87f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072555",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE TVS E MONITORES PARA PEÇAS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 700,
-   "encerramento": "2026-11-16 14:42",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-tvs-e-monitores-para-pecas-no-estado-sem-garantia-5072555",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0f7442fa-6acd-4df0-bdca-d602abd1a735.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072554",
-   "titulo": "LOTE CONTENDO PRODUTOS PARA OBRA - PRAZO DE VALIDADE VENCIDO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 750,
-   "encerramento": "2026-11-16 14:43",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-produtos-para-obra-prazo-de-validade-vencido-no-estado-sem-garanti-5072554",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/d9cfd757-fa4d-4b57-8788-b8640dc49475.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072553",
-   "titulo": "LOTE CONTENDO APARENTEMENTE 24 CAIXAS DE REVESTIMENTO IMPERMEABILIZANTE - PRAZO DE VALIDADE VENCIDO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 700,
-   "encerramento": "2026-11-16 14:43",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aparentemente-24-caixas-de-revestimento-impermeabilizante-prazo-de-5072553",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0eb40ce3-70d7-47f2-9cfc-ba6a8e51a249.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072552",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 900,
-   "encerramento": "2026-11-16 14:44",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-bens-diversos-no-estado-sem-garantia-5072552",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/4a606a65-b7e4-4ff1-ab10-d67c64c2b1d0.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5072551",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 13 BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 700,
-   "encerramento": "2026-11-16 14:44",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-13-bens-diversos-no-estado-sem-garantia-5072551",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/e8f1bdca-7083-4ba7-8685-99dc895674a8.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068754",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 12 BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 850,
-   "encerramento": "2026-11-16 14:45",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-12-bens-diversos-no-estado-sem-garantia-5068754",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/53245737-075f-45d7-8645-3e18948779d5.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
    "prioridade": false,
    "destaque": false
@@ -33512,6 +31424,2190 @@
     "lances": 0,
     "leiloeiro": "KRON LEILÕES",
     "leilao": "Vara da F. P. de Sao José dos Pinhais/PR"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067727",
+   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067727",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/63cc9d39-2a84-4f93-8829-66b447b69eee.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 4,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067761",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 8 REVISTAS EM QUADRINHOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 50,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-8-revistas-em-quadrinhos-no-estado-sem-garantia-5067761",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c5c8eb48-f079-49e2-b211-89c337840702.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067762",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 29 LPS E 25 CDS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-29-lps-e-25-cds-no-estado-sem-garantia-5067762",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fd526b59-5c7c-4f5d-99bd-68b5d9d52441.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067763",
+   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067763",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6744511f-c11b-4cf0-b464-a157f02c9244.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067764",
+   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067764",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/60e40e65-8a5c-4506-85a2-1d6cbedd5abd.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067765",
+   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067765",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3d12ac2c-7530-4f78-9c01-379e71f33ffc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 2,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067766",
+   "titulo": "LOTE CONTENDO 01 HEADSET E 01 CÂMERA - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 340,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-01-headset-e-01-camera-para-conserto-no-estado-sem-garantia-5067766",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/89c0004d-89e9-4d0f-bd81-7076169050e8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 2,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067767",
+   "titulo": "LOTE CONTENDO 03 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-03-bens-diversos-para-conserto-no-estado-sem-garantia-5067767",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/27caee05-30c2-4080-b609-fb522677e494.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067768",
+   "titulo": "LOTE CONTENDO BENS DIVERSOS PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-para-conserto-no-estado-sem-garantia-5067768",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c7dd4fae-7c82-4a09-bd78-2910ff199197.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067769",
+   "titulo": "LOTE CONTENDO BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 240,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-para-conserto-no-estado-sem-garantia-5067769",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b5f0b96c-8b7c-464a-a5fa-c07543fcf8a9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068754",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 12 BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 850,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-12-bens-diversos-no-estado-sem-garantia-5068754",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/53245737-075f-45d7-8645-3e18948779d5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068755",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 900,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-eletrodomesticos-portatil-no-estado-sem-garanti-5068755",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/37e22f9f-dc88-4f96-92cb-30348a80a87f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068756",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 650,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-eletrodomesticos-portatil-no-estado-sem-garanti-5068756",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0900b459-64d9-4f16-a340-a170999de160.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068757",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 14 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-14-eletrodomesticos-portatil-no-estado-sem-garanti-5068757",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c6266c86-c9f3-4f4b-bd2c-9c90ddcb7bda.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068758",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 LUSTRES COM MODELOS DIFERENTES - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 900,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-lustres-com-modelos-diferentes-aparentemente-no-5068758",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/07a6e89c-1c78-4598-8c77-8843b7b44188.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068759",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 LUSTRES COM MODELOS DIFERENTES - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 900,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-lustres-com-modelos-diferentes-aparentemente-no-5068759",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7fe5439f-f33c-4b96-ba55-d9c7b4c680c1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068760",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 750,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-eletrodomesticos-portatil-no-estado-sem-garanti-5068760",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7a6064ea-d80a-4689-889f-62d3a2e51fd1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068761",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 40 CUBAS DE PIA PARA BANHEIRO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 900,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-40-cubas-de-pia-para-banheiro-no-estado-sem-garant-5068761",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a81f970b-8b4c-4606-accb-04c6d6eda16b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068762",
+   "titulo": "LOTE CONTENDO PRODUTOS PARA MATÉRIA DE CONSTRUÇÃO - PRAZO DE VALIDADE VENCIDO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 600,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-produtos-para-materia-de-construcao-prazo-de-validade-vencido-no-e-5068762",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a7d01d3d-d363-40a1-96a8-8cd2a334c346.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068763",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE ONZE TVS DE 32 POLEGADAS PARA PEÇAS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-onze-tvs-de-32-polegadas-para-pecas-no-estado-sem--5068763",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ba958e91-46e1-4800-b454-b87056bb108b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068764",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 20 ELETRODOMÉSTICOS PORTÁTEIS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-20-eletrodomesticos-portateis-sem-testes-no-estado-5068764",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dfa0c136-d655-40ce-875b-a44ef1fe535b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068765",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR410 DE 40CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1500,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr410-de-40cm-voltagem-12-5068765",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e12e7061-c939-48a6-8f34-f8af8823edbe.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068766",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR410 DE 40CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1500,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr410-de-40cm-voltagem-12-5068766",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/607d8a8c-ab03-48c5-a7a5-c0856761e9e3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068767",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR310 DE 30CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr310-de-30cm-voltagem-12-5068767",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ad793c5c-308c-4ed6-9f26-ad9a80412b27.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068768",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 05 SUPORTES METÁLICOS PARA CONDENSADORA DE 9 E 12BTUS PHILCO CONVENCIONAL - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 125,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-05-suportes-metalicos-para-condensadora-de-9-e-12b-5068768",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ee4fe9bb-21a7-467d-80d9-0c644851efd3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068769",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 05 SUPORTE DA CONDENSADORA PLACA PAC 9.000 - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 125,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-05-suporte-da-condensadora-placa-pac-9-000-no-esta-5068769",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/50f37b9a-c45f-4c09-a1b9-aa3721d2ad80.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068770",
+   "titulo": "LOTE CONTENDO 03 TURBINAS DE AR CONDICIONADO - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 250,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-03-turbinas-de-ar-condicionado-aparentemente-nova-no-estado-sem-ga-5068770",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/74989817-8d2e-4f3c-9a5e-54c670b81011.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068771",
+   "titulo": "01 BICICLETA ARO 20 - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-20-aparentemente-nova-no-estado-sem-garantia-5068771",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/629f5615-954d-4ad0-962b-afb02cf29a3f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068772",
+   "titulo": "01 BICICLETA HORUS BEACH ARO 26 - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-horus-beach-aro-26-aparentemente-nova-no-estado-sem-garantia-5068772",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8a15dfc9-f06d-40d1-951d-94160d4ac06b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068773",
+   "titulo": "01 BICICLETA ARO 20 HORUS - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-20-horus-aparentemente-nova-no-estado-sem-garantia-5068773",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/425936c4-3b6c-4486-beac-264792886903.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068774",
+   "titulo": "01 BICICLETA ARO 26 COR LILÁS - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-26-cor-lilas-aparentemente-nova-no-estado-sem-garantia-5068774",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/26276c1a-e24f-4522-9614-5f619c3ac9de.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068775",
+   "titulo": "01 BICICLETA ARO 26 - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-26-aparentemente-nova-no-estado-sem-garantia-5068775",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6b5ef0d5-0f60-410e-b72b-f9f7a51e6638.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068776",
+   "titulo": "01 PDV BALCÃO DE ATENDIMENTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-pdv-balcao-de-atendimento-no-estado-sem-garantia-5068776",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c5b25e9c-8f27-4574-ad9c-2aa0b3554c33.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068777",
+   "titulo": "01 PDV BALCÃO DE ATENDIMENTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-pdv-balcao-de-atendimento-no-estado-sem-garantia-5068777",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b3ec67c9-eb31-4cd8-8723-6cc35d102397.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068778",
+   "titulo": "01 PDV BALCÃO DE ATENDIMENTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-pdv-balcao-de-atendimento-no-estado-sem-garantia-5068778",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ef14aa63-be07-480b-848b-fcc7cf019a3c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068779",
+   "titulo": "LOTE CONTENDO 4 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-4-bens-diversos-para-conserto-no-estado-sem-garantia-5068779",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6cf4c979-3a5d-49a4-8c7e-d943862318d8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071467",
+   "titulo": "LOTE CONTENDO 03 FONES DE OUVIDO, 01 CAIXA DE SOM E 01 TABLET - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-03-fones-de-ouvido-01-caixa-de-som-e-01-tablet-para-conserto-no-es-5071467",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0a6aa6bb-9fea-45b0-ab0c-b447747cf229.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071468",
+   "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5071468",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d4a28d0f-ee8e-4e87-b01b-0a5c29e50745.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 2,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071469",
+   "titulo": "01 IMPRESSORA EPSON - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 240,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-impressora-epson-para-conserto-no-estado-sem-garantia-5071469",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a2805fda-46f2-4d09-b4a2-29c36626ef71.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071470",
+   "titulo": "01 MONITOR 29 POLEGADAS ULTRAWIDE PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 360,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-monitor-29-polegadas-ultrawide-para-conserto-no-estado-sem-garantia-5071470",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c4868333-ce12-49c1-98e1-94416b4c7358.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071471",
+   "titulo": "LOTE CONTENDO BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 420,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-para-conserto-no-estado-sem-garantia-5071471",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cd3e13c6-7490-4a4d-9da5-7c8a7057c512.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071472",
+   "titulo": "LOTE CONTENDO DIVERSOS APARELHOS ELETRÔNICOS PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-diversos-aparelhos-eletronicos-para-conserto-no-estado-sem-garanti-5071472",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7892141d-fb89-4a68-a5b4-cafb07aeba0e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071473",
+   "titulo": "01 SMARTPHONE BLU MODELO L200 PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-smartphone-blu-modelo-l200-para-conserto-no-estado-sem-garantia-5071473",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/29f7e6e1-0bee-46f1-a51b-f97fc0898c57.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071474",
+   "titulo": "01 MONITOR LG 24 POLEGADAS (MODELO 24MS500 - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 100,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-monitor-lg-24-polegadas-modelo-24ms500-no-estado-sem-garantia-5071474",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e064dc1b-9018-487a-b566-75020903ece8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071475",
+   "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS E DISPOSITIVOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 240,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-acessorios-eletronicos-e-dispositivos-no-estado-sem-garantia-5071475",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0c75c10c-6e05-41c6-8d45-3c72062c6a67.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071476",
+   "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-acessorios-eletronicos-diversos-no-estado-sem-garantia-5071476",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/124081e0-4a69-44c2-8db3-fd94b59a3b2f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5071477",
+   "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-acessorios-eletronicos-diversos-no-estado-sem-garantia-5071477",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7e05502b-559b-41d4-b018-296dafc1c36a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072551",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 13 BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-13-bens-diversos-no-estado-sem-garantia-5072551",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e8f1bdca-7083-4ba7-8685-99dc895674a8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072552",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 900,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-bens-diversos-no-estado-sem-garantia-5072552",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4a606a65-b7e4-4ff1-ab10-d67c64c2b1d0.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072553",
+   "titulo": "LOTE CONTENDO APARENTEMENTE 24 CAIXAS DE REVESTIMENTO IMPERMEABILIZANTE - PRAZO DE VALIDADE VENCIDO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aparentemente-24-caixas-de-revestimento-impermeabilizante-prazo-de-5072553",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0eb40ce3-70d7-47f2-9cfc-ba6a8e51a249.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072554",
+   "titulo": "LOTE CONTENDO PRODUTOS PARA OBRA - PRAZO DE VALIDADE VENCIDO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 750,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-produtos-para-obra-prazo-de-validade-vencido-no-estado-sem-garanti-5072554",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d9cfd757-fa4d-4b57-8788-b8640dc49475.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072555",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE TVS E MONITORES PARA PEÇAS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-tvs-e-monitores-para-pecas-no-estado-sem-garantia-5072555",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0f7442fa-6acd-4df0-bdca-d602abd1a735.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072556",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 750,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-eletrodomesticos-portatil-no-estado-sem-garanti-5072556",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6df07cdb-ebee-4565-9511-3c79420b26bb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072557",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 13 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 800,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-13-eletrodomesticos-portatil-no-estado-sem-garanti-5072557",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/95a168cc-53a8-429f-9f71-551fdac34a91.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072558",
+   "titulo": "LOTE CONTENDO PRODUTOS PARA CONSTRUÇÃO VENCIDOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-produtos-para-construcao-vencidos-no-estado-sem-garantia-5072558",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/15ceba5a-9676-4415-bf54-681d35961c1d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072559",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 9 EVAPORADORA MEDES E GREE PARA PEÇA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 990,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-9-evaporadora-medes-e-gree-para-peca-no-estado-sem-5072559",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a65f5e1e-b4e8-4859-84bc-eee80a754185.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072560",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 12 LUSTRES COM MODELOS DIFERENTES - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 900,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-12-lustres-com-modelos-diferentes-aparentemente-no-5072560",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2dc62754-b5b2-4836-b4f5-1b8c289d4c8f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072561",
+   "titulo": "APROXIMADAMENTE 11 LUSTRES NOVOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 900,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-11-lustres-novos-no-estado-sem-garantia-5072561",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e571fcfb-2c50-4d64-a8f4-7defb0a1c471.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072562",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 11 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 600,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-11-eletrodomesticos-portatil-no-estado-sem-garanti-5072562",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8787547a-0e35-4ddc-a7fc-91196d7bc072.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072563",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 45 ELETRODOMÉSTICOS PORTÁTIL USADOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 800,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-45-eletrodomesticos-portatil-usados-no-estado-sem--5072563",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0d72597c-0d44-49b8-87f4-898a72a58bd3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072565",
+   "titulo": "LOTE CONTENDO IMPERMEABILIZANTES INCOLOR - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-impermeabilizantes-incolor-no-estado-sem-garantia-5072565",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ba337376-3106-4707-9037-b0a579c81e66.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072566",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 15 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 990,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-15-eletrodomesticos-portatil-no-estado-sem-garanti-5072566",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a50f0157-1562-431d-b29d-5496ffef26f5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072567",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 12 ELETRODOMÉSTICOS PORTÁTIL - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 600,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-12-eletrodomesticos-portatil-no-estado-sem-garanti-5072567",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ee6d25ef-cdfa-4060-b199-54faa1820cf4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072568",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 40 ELETRODOMÉSTICOS PORTÁTIL USADOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 990,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-40-eletrodomesticos-portatil-usados-5072568",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7c0072a3-4d7d-4f00-b179-b10e5695f5e8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072569",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 12 ELETRODOMÉSTICOS PORTÁTEIS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-12-eletrodomesticos-portateis-sem-testes-no-estado-5072569",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cfd6536c-51b8-425a-8918-dd95130ad5b1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072570",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 10 ELETRODOMÉSTICOS PORTÁTEIS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-10-eletrodomesticos-portateis-sem-testes-no-estado-5072570",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/345d300d-eeb6-4f00-8b06-a6ff4b9a5b98.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072571",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR410 DE 40CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1500,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr410-de-40cm-voltagem-12-5072571",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f112e66a-6868-44d3-9422-da0d29a17060.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072572",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR410 DE 40CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1500,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr410-de-40cm-voltagem-12-5072572",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fc56eaaf-f4ff-4f0b-b135-382bad8803eb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072573",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR310 DE 30CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr310-de-30cm-voltagem-12-5072573",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d1fa9bc4-4957-4873-9cee-f145f69533b1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072574",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR310 DE 30CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr310-de-30cm-voltagem-12-5072574",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c19d0f26-25f0-4978-8312-ae341ec10d14.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072575",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 25 VENTILADORES CADENCE VTR310 DE 30CM VOLTAGEM 127 - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-25-ventiladores-cadence-vtr310-de-30cm-voltagem-12-5072575",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/068996eb-406f-4fea-9189-86bfd7dbfd20.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072576",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 05 SUPORTES METÁLICOS CONDENSADORA DE 9 E 12BTUS GREE INVERTER - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 125,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-05-suportes-metalicos-condensadora-de-9-e-12btus-g-5072576",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5a1f527a-1371-4bc1-8120-f78d3d5cb4f2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072577",
+   "titulo": "LOTE CONTENDO CARCAÇAS E TELAS DE NOTEBOOK DE DIVERSOS MODELOS - PARA PEÇAS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 100,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-carcacas-e-telas-de-notebook-de-diversos-modelos-para-pecas-no-est-5072577",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/943f09cf-17e5-44a4-883e-d322249e4ba1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072578",
+   "titulo": "LOTE CONTENDO CARCAÇAS E TELAS DE NOTEBOOK DE DIVERSOS MODELOS - PARA PEÇAS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 100,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-carcacas-e-telas-de-notebook-de-diversos-modelos-para-pecas-no-est-5072578",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9597bedc-53a7-4a35-ba2e-2329f13ae3ac.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072579",
+   "titulo": "LOTE CONTENDO CARCAÇAS E TELAS DE NOTEBOOK DE DIVERSOS MODELOS - PARA PEÇAS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 100,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-carcacas-e-telas-de-notebook-de-diversos-modelos-para-pecas-no-est-5072579",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/83077a8d-30b9-4c46-a43f-90ab5a4d2681.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072580",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 05 BASES PARA MOTOR DO AR CONDICIONADO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 350,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-05-bases-para-motor-do-ar-condicionado-no-estado-s-5072580",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a9e4f38b-9481-4774-98ca-6c6361df77c3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072581",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 05 MOTORES PARA AR CONDICIONADO GREE - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-05-motores-para-ar-condicionado-gree-aparentemente-5072581",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/13999025-8614-4736-9708-43ab634b8582.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072582",
+   "titulo": "LOTE CONTENDO BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-no-estado-sem-garantia-5072582",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/368382b6-4ca3-4000-bde9-2833dc6d8ed8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072583",
+   "titulo": "01 IMPRESSORA 3D BAMBU LAB A1 COMBO - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 2000,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-impressora-3d-bambu-lab-a1-combo-aparentemente-nova-no-estado-sem-garantia-5072583",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/88fbb8d3-b35f-4b4c-8208-6a254317ecae.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072584",
+   "titulo": "01 BICICLETA ARO 20 JUVENIL COLLI - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-20-juvenil-colli-aparentemente-nova-no-estado-sem-garantia-5072584",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/70a0a559-b313-4663-941b-5502c842ae5f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072585",
+   "titulo": "01 BICICLETA ARO 26 SAIDX - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-26-saidx-aparentemente-nova-no-estado-sem-garantia-5072585",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b8506839-e912-4fad-b8ec-cf0ed65ef042.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072586",
+   "titulo": "01 BICICLETA ARO 29 ROMA COR PRETA - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-29-roma-cor-preta-aparentemente-nova-no-estado-sem-garantia-5072586",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a8bf6672-8641-4dad-bafb-71deece393bc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072587",
+   "titulo": "01 BICICLETA ARO 29 HIGHLEVEL - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-29-highlevel-aparentemente-nova-no-estado-sem-garantia-5072587",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0d7d8c60-1509-49df-8161-7e4502bbd498.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072588",
+   "titulo": "01 BICICLETA ARO 29 CRIPTO BIKES - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-29-cripto-bikes-aparentemente-nova-no-estado-sem-garantia-5072588",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/90e4e4ee-af9a-46fb-a434-6ed22373456b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072589",
+   "titulo": "01 BICICLETA ARO 29 COR VERDE - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-29-cor-verde-aparentemente-nova-no-estado-sem-garantia-5072589",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e9f42964-6be1-4934-82f4-2efd90f44ec2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072590",
+   "titulo": "01 BICICLETA ARO 29 COR PRETA - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-bicicleta-aro-29-cor-preta-aparentemente-nova-no-estado-sem-garantia-5072590",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/debef309-39e3-4815-bce8-91638b8637ce.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072591",
+   "titulo": "01 PDV BALCÃO DE ATENDIMENTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-pdv-balcao-de-atendimento-no-estado-sem-garantia-5072591",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d593cf5d-4501-405c-85a1-33e94f84acb9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072592",
+   "titulo": "LOTE CONTENDO 5 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 800,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-5-bens-diversos-para-conserto-no-estado-sem-garantia-5072592",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4a1dea01-14a1-4dbe-ab19-e91bbc0b6aff.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072593",
+   "titulo": "01 NOBREAK SMS PAINEL RGB - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-nobreak-sms-painel-rgb-para-conserto-no-estado-sem-garantia-5072593",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cff06ff1-5c35-4986-95db-0d5e5850415c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072594",
+   "titulo": "LOTE CONTENDO 5 BENS DIVERSOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-5-bens-diversos-no-estado-sem-garantia-5072594",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b58484ac-9576-49e0-8915-f1446ffcf390.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5072595",
+   "titulo": "LOTE CONTENDO 5 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 300,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-5-bens-diversos-para-conserto-no-estado-sem-garantia-5072595",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ca6f8cd7-8872-450d-90f9-82dad2ff4190.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
    "prioridade": false,
    "destaque": false
