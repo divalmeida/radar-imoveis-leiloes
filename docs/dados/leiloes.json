@@ -1,429 +1,45 @@
 {
- "atualizado_em": "2026-10-30 07:13",
+ "atualizado_em": "2026-10-30 13:09",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 482,
-   "segundos": 503
+   "segundos": 441
   },
   "Superbid": {
    "ok": true,
-   "lotes": 954,
-   "segundos": 12
+   "lotes": 975,
+   "segundos": 9
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-10-29 19:03",
    "lotes": 755,
-   "segundos": 1
+   "segundos": 0
   }
  },
  "lotes": [
   {
    "fonte": "Superbid",
-   "id": "superbid-5057348",
-   "titulo": "NOTEBOOK DELL  3501-3510  I5 SSD240 C- W11PRO,PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO 8GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (01 PÇ)",
+   "id": "superbid-5059904",
+   "titulo": "DESKTOPS, NOTEBOOKS, MONITORES E OUTROS (25 PÇS)",
    "categoria": "Informática",
-   "lance_atual": 1690,
-   "encerramento": "2026-10-30 10:33",
-   "cidade": "Barueri",
+   "lance_atual": 3500,
+   "encerramento": "2026-10-30 14:01",
+   "cidade": "Porto Ferreira",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-dell-3501-3510-i5-ssd240-c-w11pro-processador-intel-i5-decima-geracao-8-5057348",
+   "link": "https://www.superbid.net/oferta/desktops-notebooks-monitores-e-outros-25-pcs-5059904",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/3325922c-888c-45a4-a9fb-538196f85fa4.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5060561",
-   "titulo": "NOTEBOOK DELL  3501-3510  I5 SSD240 C- W11PRO,PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO 8GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 1690,
-   "encerramento": "2026-10-30 10:33",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-dell-3501-3510-i5-ssd240-c-w11pro-processador-intel-i5-decima-geracao-8-5060561",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/6c8962fb-3e60-43d9-b9d4-856b5818f0c6.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5060560",
-   "titulo": "NOTEBOOK DELL  3501-3510  I5 SSD240 C-W11PRO, PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO 8GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 1690,
-   "encerramento": "2026-10-30 10:34",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-dell-3501-3510-i5-ssd240-c-w11pro-processador-intel-i5-decima-geracao-8-5060560",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ae94ff94-9f0e-48aa-abc6-bf6722d58c30.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057347",
-   "titulo": "NOTEBOOK DELL  3501-3510  I5 SSD240 C- W11PRO,PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO 8GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 1690,
-   "encerramento": "2026-10-30 10:34",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-dell-3501-3510-i5-ssd240-c-w11pro-processador-intel-i5-decima-geracao-8-5057347",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/14cb5eb5-8dcd-4566-b35d-ed6113458f98.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5060559",
-   "titulo": "NOTEBOOK DELL  3501-3510  I5 SSD240 C- W11PRO,PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO 8GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 1690,
-   "encerramento": "2026-10-30 10:35",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-dell-3501-3510-i5-ssd240-c-w11pro-processador-intel-i5-decima-geracao-8-5060559",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/8630be3f-fc20-451f-9287-4f1238791708.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5060558",
-   "titulo": "NOTEBOOKS DELL  3501-3510  I5 SSD240 C- W11PRO, PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO 8GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (02 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 2900,
-   "encerramento": "2026-10-30 10:35",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebooks-dell-3501-3510-i5-ssd240-c-w11pro-processador-intel-i5-decima-geracao--5060558",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/263765bc-e75e-4381-8ebe-1f602efd4d5d.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057346",
-   "titulo": "NOTEBOOKS DELL  3501-3510  I5 SSD240 C- W11PRO, PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO 8GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (02 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 2900,
-   "encerramento": "2026-10-30 10:36",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebooks-dell-3501-3510-i5-ssd240-c-w11pro-processador-intel-i5-decima-geracao--5057346",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/69383618-5e8e-4d19-83ae-a43895d8efe8.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057345",
-   "titulo": "NOTEBOOKS DELL  3501-3510  I5 SSD240 C- W11PRO, PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO 8GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (02 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 2900,
-   "encerramento": "2026-10-30 10:36",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebooks-dell-3501-3510-i5-ssd240-c-w11pro-processador-intel-i5-decima-geracao--5057345",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/8200be3e-8880-4649-afa8-87631403670e.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057344",
-   "titulo": "NOTEBOOKS DELL  3501-3510  I5 SSD240 C- W11PRO, PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO 8GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (02 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 2900,
-   "encerramento": "2026-10-30 10:37",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebooks-dell-3501-3510-i5-ssd240-c-w11pro-processador-intel-i5-decima-geracao--5057344",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/2ab94512-f7d6-4fd2-9fd4-54af38a1c8dd.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057343",
-   "titulo": "NOTEBOOKS DELL  3501-3510  I5 SSD240 C- W11PRO, PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO 8GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (02 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 2900,
-   "encerramento": "2026-10-30 10:37",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebooks-dell-3501-3510-i5-ssd240-c-w11pro-processador-intel-i5-decima-geracao--5057343",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/50b43971-6b6a-43a2-bbac-41d0c0cd39c2.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057342",
-   "titulo": "NOTEBOOK DELL 3501-3510 I5 16GB C-W11PRO, PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO, 16GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 2090,
-   "encerramento": "2026-10-30 10:38",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-dell-3501-3510-i5-16gb-c-w11pro-processador-intel-i5-decima-geracao-16g-5057342",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ebe87beb-741f-4c55-a8ce-a8596e8490cb.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057341",
-   "titulo": "NOTEBOOK DELL 3501-3510 I5 16GB C-W11PRO, PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO, 16GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 2090,
-   "encerramento": "2026-10-30 10:38",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-dell-3501-3510-i5-16gb-c-w11pro-processador-intel-i5-decima-geracao-16g-5057341",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/fdcf0969-42b0-4e7d-853e-f847ffc05807.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057340",
-   "titulo": "NOTEBOOK DELL 3501-3510 I5 16GB C-W11PRO,PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO, 16GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 2090,
-   "encerramento": "2026-10-30 10:39",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-dell-3501-3510-i5-16gb-c-w11pro-processador-intel-i5-decima-geracao-16g-5057340",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/428e29de-89b3-48b1-9e81-d410e41c6fb1.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057339",
-   "titulo": "NOTEBOOK DELL 3501-3510 I5 16GB C-W11PRO,PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO, 16GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 2090,
-   "encerramento": "2026-10-30 10:39",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-dell-3501-3510-i5-16gb-c-w11pro-processador-intel-i5-decima-geracao-16g-5057339",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/857bd76f-b2eb-4114-be90-fc2ea13c981f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057338",
-   "titulo": "NOTEBOOK DELL 3501-3510 I5 16GB C-W11PRO, PROCESSADOR INTEL I5 DÉCIMA GERAÇÃO, 16GB DE MEMÓRIA RAM, SSD 240GB, TELA DE 15,6 (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 2090,
-   "encerramento": "2026-10-30 10:40",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebook-dell-3501-3510-i5-16gb-c-w11pro-processador-intel-i5-decima-geracao-16g-5057338",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/cb661ca1-32f7-4475-ad01-e9bf2cc4114c.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5060557",
-   "titulo": "SERVIDOR DELL T 320, XEON FOUR 8GB RAM DVD RW PL RAID H310 NÍVEIS 0, 1, 5, 10, 50 (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 1250,
-   "encerramento": "2026-10-30 10:40",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/servidor-dell-t-320-xeon-four-8gb-ram-dvd-rw-pl-raid-h310-niveis-0-1-5-10-50-01--5060557",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/e78cc902-5b2b-4bf5-b2fd-e027c80746e1.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/1b4e46ed-e9b9-48a0-9dbd-d506124cd5d1.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
     "lances": 1,
     "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5060556",
-   "titulo": "SERVIDOR DELL R420 XEON SIX, 8GB DE RAM, DVD RW, PL RAID H310 NÍVEIS 0, 1, 5, 10, 50  (01 PÇ)",
-   "categoria": "Informática",
-   "lance_atual": 1450,
-   "encerramento": "2026-10-30 10:41",
-   "cidade": "Barueri",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/servidor-dell-r420-xeon-six-8gb-de-ram-dvd-rw-pl-raid-h310-niveis-0-1-5-10-50-01-5060556",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/29f48103-2849-4c9d-8295-d075d4d93765.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Sector Informática"
+    "leilao": "Verallia"
    },
    "prioridade": false,
    "destaque": true
@@ -434,7 +50,7 @@
    "titulo": "ELETRODOMESTICOS DIVERSOS, FREEZER, BEBEDOR,CAFETEIRA VENTILADOR",
    "categoria": "Refrigeradores",
    "lance_atual": 1300,
-   "encerramento": "2026-10-30 13:06",
+   "encerramento": "2026-10-30 15:06",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -458,7 +74,7 @@
    "titulo": "2 MAQUINA DE LAVAR LOUÇAS E 1 FOGÃO",
    "categoria": "Limpeza",
    "lance_atual": 500,
-   "encerramento": "2026-10-30 13:09",
+   "encerramento": "2026-10-30 15:09",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -472,78 +88,6 @@
     "lances": 0,
     "leiloeiro": "INSIGHTS CONSULTORIAS",
     "leilao": "GUILHOTINA, MANCAIS,BOMBAS DE VACUO E OUTROS."
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055818",
-   "titulo": "DVD, VIDEO CASETES, 3 EM 1 DATA SHOW , TOCA CD  E KARAOKE 13 APARELHOS E 22 CONTROLES REMOTOS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 2200,
-   "encerramento": "2026-10-30 13:12",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/dvd-video-casetes-3-em-1-data-show-toca-cd-e-karaoke-13-aparelhos-e-22-controles-5055818",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/2b989bc0-763f-4fcd-b77d-bf7fcbe9f6ff.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "INSIGHTS CONSULTORIAS",
-    "leilao": "GUILHOTINA, MANCAIS,BOMBAS DE VACUO E OUTROS."
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055817",
-   "titulo": "INVERSORES DE FREQUENCIA 4 PEÇAS",
-   "categoria": "Eletrônicos",
-   "lance_atual": 780,
-   "encerramento": "2026-10-30 13:13",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/inversores-de-frequencia-4-pecas-5055817",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/396101b8-92f8-4e0f-9782-bce41f29d186.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "INSIGHTS CONSULTORIAS",
-    "leilao": "GUILHOTINA, MANCAIS,BOMBAS DE VACUO E OUTROS."
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5059904",
-   "titulo": "DESKTOPS, NOTEBOOKS, MONITORES E OUTROS (25 PÇS)",
-   "categoria": "Informática",
-   "lance_atual": 3500,
-   "encerramento": "2026-10-30 14:01",
-   "cidade": "Porto Ferreira",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/desktops-notebooks-monitores-e-outros-25-pcs-5059904",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/1b4e46ed-e9b9-48a0-9dbd-d506124cd5d1.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Verallia"
    },
    "prioridade": false,
    "destaque": true
@@ -640,6 +184,54 @@
     "lances": 0,
     "leiloeiro": "SOLD",
     "leilao": "Boehringer"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5055818",
+   "titulo": "DVD, VIDEO CASETES, 3 EM 1 DATA SHOW , TOCA CD  E KARAOKE 13 APARELHOS E 22 CONTROLES REMOTOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 2200,
+   "encerramento": "2026-10-30 15:12",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/dvd-video-casetes-3-em-1-data-show-toca-cd-e-karaoke-13-aparelhos-e-22-controles-5055818",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2b989bc0-763f-4fcd-b77d-bf7fcbe9f6ff.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "INSIGHTS CONSULTORIAS",
+    "leilao": "GUILHOTINA, MANCAIS,BOMBAS DE VACUO E OUTROS."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5055817",
+   "titulo": "INVERSORES DE FREQUENCIA 4 PEÇAS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 780,
+   "encerramento": "2026-10-30 15:12",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/inversores-de-frequencia-4-pecas-5055817",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/396101b8-92f8-4e0f-9782-bce41f29d186.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "INSIGHTS CONSULTORIAS",
+    "leilao": "GUILHOTINA, MANCAIS,BOMBAS DE VACUO E OUTROS."
    },
    "prioridade": false,
    "destaque": true
@@ -829,7 +421,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Compartilhado Industrial & Bens de Consumo"
    },
@@ -1189,7 +781,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -3529,7 +3121,7 @@
    "id": "superbid-5073253",
    "titulo": "ASPIRADOR SH 10000 STONE HAMMER 220V (01 UN) (Ref.: SB0034054)",
    "categoria": "Limpeza",
-   "lance_atual": 700,
+   "lance_atual": 1100,
    "encerramento": "2026-11-03 17:36",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -3541,7 +3133,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -5577,7 +5169,7 @@
    "id": "superbid-5057719",
    "titulo": "APROX. 300 UNIDADES DE CABO DE CELULAR APROX. 01 M - SEM USO (Ref.: ren 485 2026031220485)",
    "categoria": "Telefonia",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-05 13:22",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -5589,7 +5181,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -5721,7 +5313,7 @@
    "id": "superbid-5057784",
    "titulo": "APROX. 200 CARREGADOR DE TOMADA UNIVERSAL BATERIA DE TEL+ 01 USB, DISPLAY LCD - SEM USO (Ref.: ren 791 2026031220791)",
    "categoria": "Telefonia",
-   "lance_atual": 750,
+   "lance_atual": 800,
    "encerramento": "2026-11-05 13:54",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -5733,7 +5325,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 8,
+    "lances": 9,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -6093,7 +5685,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Informatica"
    },
@@ -6117,7 +5709,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Informatica"
    },
@@ -6141,7 +5733,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Informatica"
    },
@@ -6165,7 +5757,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Informatica"
    },
@@ -6573,7 +6165,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Informatica"
    },
@@ -7653,7 +7245,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9285,7 +8877,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Informatica"
    },
@@ -9792,6 +9384,30 @@
     "lances": 0,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075572",
+   "titulo": "NO-BREAKS  (Ref.: 21722)",
+   "categoria": "Informática",
+   "lance_atual": 3600,
+   "encerramento": "2026-11-05 16:16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/no-breaks-ref-21722-5075572",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/95935ee1-f78b-4503-8303-c38e41c6c7ba.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Vex Comex"
    },
    "prioridade": false,
    "destaque": true
@@ -14502,6 +14118,126 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5075393",
+   "titulo": "CAIXA DE SOM PORTÁTIL COR BLACK MULTIMÍDIA BLUETOOTH RÁDIO , PRODUTO NOVO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 60,
+   "encerramento": "2026-11-10 15:06",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-portatil-cor-black-multimidia-bluetooth-radio-produto-novo-no-estad-5075393",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5733af10-1740-4625-b6ef-5e812c2e8873.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079318",
+   "titulo": "CAIXA DE SOM PORTÁTIL COR BLACK MULTIMÍDIA BLUETOOTH RÁDIO , PRODUTO NOVO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 60,
+   "encerramento": "2026-11-10 15:07",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-portatil-cor-black-multimidia-bluetooth-radio-produto-novo-no-estad-5079318",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c7920fdc-1ac9-4e6d-a258-185eb7ef2d8a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075391",
+   "titulo": "CAIXA DE SOM PORTÁTIL COR BLACK MULTIMÍDIA BLUETOOTH RÁDIO , PRODUTO NOVO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 60,
+   "encerramento": "2026-11-10 15:07",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-portatil-cor-black-multimidia-bluetooth-radio-produto-novo-no-estad-5075391",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9edeb559-dded-4164-8c60-d027eaeacb06.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075392",
+   "titulo": "CAIXA DE SOM PORTÁTIL COR BLACK MULTIMÍDIA BLUETOOTH RÁDIO , PRODUTO NOVO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 60,
+   "encerramento": "2026-11-10 15:08",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-portatil-cor-black-multimidia-bluetooth-radio-produto-novo-no-estad-5075392",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a718dc2b-e57d-409e-92c5-a2aa77db64aa.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075390",
+   "titulo": "CAIXA DE SOM PORTÁTIL COR BLACK MULTIMÍDIA BLUETOOTH RÁDIO , PRODUTO NOVO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 60,
+   "encerramento": "2026-11-10 15:08",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-portatil-cor-black-multimidia-bluetooth-radio-produto-novo-no-estad-5075390",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f7712f6f-eb83-434f-ae67-82f7ec4f53ca.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5065857",
    "titulo": "ASPIRADORES DE PÓ INDUSTRIAIS GE/QUALIDADE (02 PÇ) (Ref.: JAC)",
    "categoria": "Limpeza",
@@ -14520,6 +14256,30 @@
     "lances": 0,
     "leiloeiro": "SOLD",
     "leilao": "Unipar"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079324",
+   "titulo": "GELADEIRA ELECTROLUX RE31 USADA 220V (01 UN) (Ref.: SB0034218)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 100,
+   "encerramento": "2026-11-10 17:03",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/geladeira-electrolux-re31-usada-220v-01-un-ref-sb0034218-5079324",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/466dc38a-9cb6-4ec9-9ba5-9b2954463e1d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Empresa Vende"
    },
    "prioridade": false,
    "destaque": true
@@ -16458,6 +16218,486 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5079608",
+   "titulo": "FOGÃO 5B DE PISO ATLAS, FOGÃO 5B PISO ELECTROLUX E OUTROS  (06) (Ref.: SB0027879)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 1000,
+   "encerramento": "2026-11-11 16:31",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogao-5b-de-piso-atlas-fogao-5b-piso-electrolux-e-outros-06-ref-sb0027879-5079608",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4b9c7cf3-efd6-4c2d-a7b7-801a3637f33d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079610",
+   "titulo": "FOGÃO 5B ATLAS DAKO, FOGÃO 4B ELECTROLUX, FOGÃO 4B ATLAS PISO AGILE INOX E OUTROS  (06 UN)      (Ref.: SB0027897)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 880,
+   "encerramento": "2026-11-11 16:32",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogao-5b-atlas-dako-fogao-4b-electrolux-fogao-4b-atlas-piso-agile-inox-e-outros--5079610",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/051fffe5-b772-4bca-add7-063a791f0f5b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079612",
+   "titulo": "FOGÕES DIVERSAS MARCAS (APROX. 6 UN) (Ref.: SB0027795)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 530,
+   "encerramento": "2026-11-11 16:33",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogoes-diversas-marcas-aprox-6-un-ref-sb0027795-5079612",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3fd7ddcf-7aa4-4308-b7e3-b1e424838d57.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079613",
+   "titulo": "FOGÕES DIVERSAS MARCAS (APROX. 6 UN) (Ref.: SB0027800)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 910,
+   "encerramento": "2026-11-11 16:34",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogoes-diversas-marcas-aprox-6-un-ref-sb0027800-5079613",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1c19440a-6a7b-4bc1-a75c-17c3f1ce4677.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075653",
+   "titulo": "FOGÕES (APROX. 06 UN) (Ref.: SB0027798)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 1290,
+   "encerramento": "2026-11-11 16:34",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogoes-aprox-06-un-ref-sb0027798-5075653",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e9c15a3e-c165-4331-bd8b-5123ca09b49c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079614",
+   "titulo": "FOGÕES (APROX. 06 UN) (Ref.: SB0027810)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 820,
+   "encerramento": "2026-11-11 16:35",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogoes-aprox-06-un-ref-sb0027810-5079614",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/152882d7-a926-4078-8b6d-7ad29abb3676.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075654",
+   "titulo": "FOGÕES MARCAS DIVERSAS (APROX. 6 UN) (Ref.: SB0027811)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 1250,
+   "encerramento": "2026-11-11 16:35",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogoes-marcas-diversas-aprox-6-un-ref-sb0027811-5075654",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/108b4164-beb1-49de-9349-ac4c1d24c65c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075656",
+   "titulo": "FOGÕES 4 BOCAS E FOGÕES 5 BOCAS (APROX. 5UN) (Ref.: SB0027877)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 810,
+   "encerramento": "2026-11-11 16:37",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogoes-4-bocas-e-fogoes-5-bocas-aprox-5un-ref-sb0027877-5075656",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/534aa264-7c12-4808-9906-e5d8956e2b84.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075649",
+   "titulo": "PANELA DE PRESSÃO MONDIAL 5L DIGITAL PE-38 110V, PANELA ELÉTRICA MONDIAL PE-43 6XIC PT/INOX 220V, PANELA ELÉTRICA MONDIAL BIANCA RICE PE-10 10 XÍCARAS BR 110V E OUTROS (25 UN)  (Ref.: SB0029256)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 3400,
+   "encerramento": "2026-11-11 16:37",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/panela-de-pressao-mondial-5l-digital-pe-38-110v-panela-eletrica-mondial-pe-43-6x-5075649",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fbad20fd-d470-4709-88bb-de7a1cb236bf.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075648",
+   "titulo": "MIXER MONDIAL PRATIC M-15-B 200W PT 110V, MULTIPROCESSADOR ARNO MP72 1000W 24FUN PT 127V, LIQUIDIFICADOR 12VEL BRITÂNIA BLQ1300P TURBO 1400W PTO 220V E OUTROS (26 UN) (Ref.: SB0029259)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 3218,
+   "encerramento": "2026-11-11 16:38",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/mixer-mondial-pratic-m-15-b-200w-pt-110v-multiprocessador-arno-mp72-1000w-24fun--5075648",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9464fe1e-4559-4dc2-9119-7215eda1e2b1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079603",
+   "titulo": "FRITADEIRA ELÉTRICA MONDIAL AFN40-BI FAMILY 4L PT/INOX 110V, FRITADEIRA ELÉTRICA MONDIAL AFN60 6L PT/INOX 110V, FRITADEIRA ELÉTRICA OVEN, BRITÂNIA BAF16A 16L INX/PTO 220V E OUTROS (14 UN)        (Ref.: SB0029260)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 3807,
+   "encerramento": "2026-11-11 16:38",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fritadeira-eletrica-mondial-afn40-bi-family-4l-pt-inox-110v-fritadeira-eletrica--5079603",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/927d1eca-0ed8-4dec-856b-1947e9b41576.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075650",
+   "titulo": "VENTILADOR 40CM MS ARNO AIR FORCE VA46 6P PT 110V, VENTILADOR 30CM MS MONDIAL SUPER POWER VSP30B PT 220V, VENTILADOR 50CM MS MONDIAL TURBO VTX50 8P PT 220V E OUTROS (14 UN)              (Ref.: SB0029261)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 994,
+   "encerramento": "2026-11-11 16:39",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventilador-40cm-ms-arno-air-force-va46-6p-pt-110v-ventilador-30cm-ms-mondial-sup-5075650",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dd88991a-8bd8-4c3c-978d-3c94dfa0d30c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075651",
+   "titulo": "MULTIPROCESSADOR PHILCO PMP1600P 9 EM 1 PTO 110V, LIQUIDIFICADOR 3VEL MONDIAL L99 500W PTO 110V, MINI PROCESSADOR MONDIAL TURBO PRATIC MP-16 PTO 110V E OUTROS (27 UN) (Ref.: SB0029263)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 3315,
+   "encerramento": "2026-11-11 16:39",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/multiprocessador-philco-pmp1600p-9-em-1-pto-110v-liquidificador-3vel-mondial-l99-5075651",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7e9b85a4-decb-4147-9c9d-05dfb7e6a181.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079602",
+   "titulo": "VENTILADOR 30CM MS MONDIAL SUPER POWER VSP30B PT 110V, VENTILADOR 40CM COL ARNO X-TREME 2 EM 1 VE9M 9P PT 220V, VENTILADOR 40CM MS ARNO XTREME FORCE VB40 6P 110V E OUTROS (13 UN)                (Ref.: SB0029264)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 972,
+   "encerramento": "2026-11-11 16:40",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventilador-30cm-ms-mondial-super-power-vsp30b-pt-110v-ventilador-40cm-col-arno-x-5079602",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1fc7cd7b-b60e-4359-b5f1-475dc41a3d24.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079604",
+   "titulo": "MIXER MONDIAL PRATIC M-15-B 200W PT 220V, LIQUIDIFICADOR MONDIAL PERSONAL BLENDER 2CP DG01 PT 220V, LIQUIDIFICADOR 3 VEL ARNO 700W LQ19 POWER MIX 2,4L PT 127V E OUTROS (27 UN)      (Ref.: SB0029267)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 2580,
+   "encerramento": "2026-11-11 16:40",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/mixer-mondial-pratic-m-15-b-200w-pt-220v-liquidificador-mondial-personal-blender-5079604",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8aa346f4-5c5b-4662-8668-c0d565650377.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079605",
+   "titulo": "AQUECEDOR AR MONDIAL A08 1.500W CZ BR 110V, AQUECEDOR ÓLEO MONDIAL A06 1.500W PT PR 110V, SANDUICHEIRA ARNO SACB PTO 110V (12 UN)     (Ref.: SB0029269)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1764,
+   "encerramento": "2026-11-11 16:41",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aquecedor-ar-mondial-a08-1-500w-cz-br-110v-aquecedor-oleo-mondial-a06-1-500w-pt--5079605",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/50ecc09a-e40a-4506-bfec-cc343b28cd88.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079601",
+   "titulo": "FOGÕES 4 BOCAS, FOGÕES 5 BOCAS (6 UN)        (Ref.: SB0029294)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 910,
+   "encerramento": "2026-11-11 16:41",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogoes-4-bocas-fogoes-5-bocas-6-un-ref-sb0029294-5079601",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b499b34a-f620-4c3e-86e1-2b31b5244c9d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079616",
+   "titulo": "03 FOGÕES (Ref.: SB0029718)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 1500,
+   "encerramento": "2026-11-11 16:42",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/03-fogoes-ref-sb0029718-5079616",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ff7ac2fb-7efc-46e5-af03-b141866c7e86.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075657",
+   "titulo": "04 FOGÕES (Ref.: SB0029178)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 1000,
+   "encerramento": "2026-11-11 16:42",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/04-fogoes-ref-sb0029178-5075657",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6b78621c-e9c4-45c7-ba22-d751d958dab7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079309",
+   "titulo": "02 NOBREAKS (Ref.: DDA)",
+   "categoria": "Informática",
+   "lance_atual": 800,
+   "encerramento": "2026-11-12 10:02",
+   "cidade": "Guarulhos",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/02-nobreaks-ref-dda-5079309",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2b10da94-cc55-4531-80b5-b51bf3cf6608.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Ache"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5057205",
    "titulo": "DIVERSAS CAIXAS DE SOM E RÁDIO LENOXX",
    "categoria": "Eletrônicos",
@@ -17337,7 +17577,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17421,7 +17661,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 60,
+   "lance_atual": 210,
    "encerramento": "2026-11-18 12:05",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17433,7 +17673,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 4,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -20845,7 +21085,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLVED LEILÕES",
     "leilao": "Leilão de Informática, Telefonia e Mais..."
    },
@@ -20869,7 +21109,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLVED LEILÕES",
     "leilao": "Leilão de Informática, Telefonia e Mais..."
    },
@@ -20917,7 +21157,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLVED LEILÕES",
     "leilao": "Leilão de Informática, Telefonia e Mais..."
    },
@@ -21798,35 +22038,11 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5064822",
-   "titulo": "MICROOMPUTADOR E NOTEBOOKS (04 PÇS) (Ref.: MCP)",
-   "categoria": "Informática",
-   "lance_atual": 600,
-   "encerramento": "2026-10-30 12:03",
-   "cidade": "Belo Oriente",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/microomputador-e-notebooks-04-pcs-ref-mcp-5064822",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/518ec91f-87b6-4172-801b-95678bde82c5.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Cenibra"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
    "id": "superbid-5057353",
    "titulo": "NOTEBOOKS E IMPRESSORAS (04 PÇS)",
    "categoria": "Informática",
    "lance_atual": 1500,
-   "encerramento": "2026-10-30 13:07",
+   "encerramento": "2026-10-30 13:10",
    "cidade": "Vespasiano",
    "uf": "MG",
    "publico": "PF e PJ",
@@ -21840,6 +22056,30 @@
     "lances": 0,
     "leiloeiro": "SOLD",
     "leilao": "Manut"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5064822",
+   "titulo": "MICROOMPUTADOR E NOTEBOOKS (04 PÇS) (Ref.: MCP)",
+   "categoria": "Informática",
+   "lance_atual": 600,
+   "encerramento": "2026-10-30 13:15",
+   "cidade": "Belo Oriente",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/microomputador-e-notebooks-04-pcs-ref-mcp-5064822",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/518ec91f-87b6-4172-801b-95678bde82c5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Cenibra"
    },
    "prioridade": false,
    "destaque": false
@@ -24653,7 +24893,7 @@
    "id": "superbid-5063774",
    "titulo": "PEÇAS DIVERSAS: ROUTERBOARDS, SWITCHES, CONECTORES E OUTROS (APROX. 803 PÇS)",
    "categoria": "Informática",
-   "lance_atual": 600,
+   "lance_atual": 700,
    "encerramento": "2026-11-05 15:34",
    "cidade": "Teresina",
    "uf": "PI",
@@ -24665,7 +24905,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Alloha"
    },
@@ -25424,7 +25664,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/200100/2/2026/lote/100",
    "valor_avaliacao": 37290.04,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/200100/2/foto_pq_200100_2026_2_100_555168_e9cb706748723bac79095084abbeaf18.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -25870,6 +26110,270 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5075387",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 17 ITENS DE ELETRÔNICOS E ACESSÓRIOS - APARENTEMENTE SEM USO E LACRADOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 1000,
+   "encerramento": "2026-11-10 20:00",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-17-itens-de-eletronicos-e-acessorios-aparentemente-5075387",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c414fc92-87da-487c-b2cf-56ea7ec99dd0.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075385",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 13 ITENS DE ELETRÔNICOS E ACESSÓRIOS - APARENTEMENTE SEM USO E LACRADOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 900,
+   "encerramento": "2026-11-10 20:00",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-13-itens-de-eletronicos-e-acessorios-aparentemente-5075385",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/aef9081b-f125-485f-b432-ec2d90ef80be.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075386",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 26 ITENS DE ELETRÔNICOS E ACESSÓRIOS - APARENTEMENTE SEM USO E LACRADOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 1500,
+   "encerramento": "2026-11-10 20:01",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-26-itens-de-eletronicos-e-acessorios-aparentemente-5075386",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c1a375cb-1c99-4e6b-b8f9-6794180df6c2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075384",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 17 ITENS DE ELETRÔNICOS E ACESSÓRIOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 1400,
+   "encerramento": "2026-11-10 20:01",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-17-itens-de-eletronicos-e-acessorios-no-estado-sem-5075384",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/54c699e2-94fc-4d4c-9496-8e483a181e14.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075383",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 13 APARELHOS CELULARES - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 3000,
+   "encerramento": "2026-11-10 20:02",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-13-aparelhos-celulares-no-estado-sem-garantia-5075383",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ca3f8259-8320-4fdd-ab8f-e40928fbdc9b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075382",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 4 ITENS DE INFORMÁTICA - APARENTEMENTE SEM USO E LACRADOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 7500,
+   "encerramento": "2026-11-10 20:02",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-4-itens-de-informatica-aparentemente-sem-uso-e-lac-5075382",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1dc71168-cca2-4e73-b243-21f983f2ea81.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079313",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 18 ITENS DE ELETRÔNICOS E ACESSÓRIOS - APARENTEMENTE SEM USO E LACRADOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 1200,
+   "encerramento": "2026-11-10 20:03",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-18-itens-de-eletronicos-e-acessorios-aparentemente-5079313",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6660fd53-780a-4b4d-85be-5e567b37e1f9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075381",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 14 APARELHOS CELULARES - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 2700,
+   "encerramento": "2026-11-10 20:03",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-14-aparelhos-celulares-no-estado-sem-garantia-5075381",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7ee57c22-a5d6-4550-abb0-37f614bcce2a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075380",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 21 ITENS DE ELETRÔNICOS E ACESSÓRIOS - APARENTEMENTE SEM USO E LACRADOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 1700,
+   "encerramento": "2026-11-10 20:04",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-21-itens-de-eletronicos-e-acessorios-aparentemente-5075380",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6e38d0a6-baf9-4256-a52e-79cc2f3083f5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075379",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 08 APARELHOS CELULARES - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 3100,
+   "encerramento": "2026-11-10 20:04",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-08-aparelhos-celulares-no-estado-sem-garantia-5075379",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5ef4deac-f5c0-46f4-a743-dffc7326449e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079314",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 02 COMPUTADORES COMPLETOS - APARENTEMENTE SEM USO E LACRADOS - NO ESTADO - SEM GARANTIA",
+   "categoria": "Informática",
+   "lance_atual": 2000,
+   "encerramento": "2026-11-10 20:05",
+   "cidade": "Canoas",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-02-computadores-completos-aparentemente-sem-uso-e--5079314",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/88d56ed4-e4cc-4a48-ae86-ab2bfbcb5e7d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE ELETRÔNICOS E INFORMÁTICA"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5067482",
    "titulo": "FONES DE OUVIDO GAMER A-60 COM FIO (40 PÇ) (Ref.: 18)",
    "categoria": "Telefonia",
@@ -25933,7 +26437,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -25945,7 +26449,7 @@
    "id": "superbid-5067480",
    "titulo": "FONES DE OUVIDO GAMER A-60 COM FIO (40 PÇ) (Ref.: 21)",
    "categoria": "Telefonia",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-11 10:40",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -25953,30 +26457,6 @@
    "link": "https://www.superbid.net/oferta/fones-de-ouvido-gamer-a-60-com-fio-40-pc-ref-21-5067480",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/14a205cd-8b8b-44b3-a530-ce3c099bbd9c.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Comex"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067479",
-   "titulo": "FONES DE OUVIDO  BT-05 SEM FIO (APROX. 200 PÇ) (Ref.: 22)",
-   "categoria": "Telefonia",
-   "lance_atual": 600,
-   "encerramento": "2026-11-11 10:40",
-   "cidade": "Goiânia",
-   "uf": "GO",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/fones-de-ouvido-bt-05-sem-fio-aprox-200-pc-ref-22-5067479",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c380ed4a-510f-4b00-81e1-1afce5f6304e.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -25990,10 +26470,34 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5067479",
+   "titulo": "FONES DE OUVIDO  BT-05 SEM FIO (APROX. 200 PÇ) (Ref.: 22)",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-11 10:40",
+   "cidade": "Goiânia",
+   "uf": "GO",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fones-de-ouvido-bt-05-sem-fio-aprox-200-pc-ref-22-5067479",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c380ed4a-510f-4b00-81e1-1afce5f6304e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 7,
+    "leiloeiro": "SOLD",
+    "leilao": "Comex"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5067478",
    "titulo": "FONES DE OUVIDO  BT-05 SEM FIO (APROX. 200 PÇ) (Ref.: 23)",
    "categoria": "Telefonia",
-   "lance_atual": 500,
+   "lance_atual": 1100,
    "encerramento": "2026-11-11 10:41",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -26005,7 +26509,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -28421,7 +28925,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SALA DE LEILÕES",
     "leilao": "Logistica reversa"
    },
