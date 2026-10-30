@@ -1,601 +1,25 @@
 {
- "atualizado_em": "2026-10-30 13:09",
+ "atualizado_em": "2026-10-30 19:00",
  "fontes": {
   "Receita Federal": {
    "ok": true,
-   "lotes": 482,
-   "segundos": 441
+   "lotes": 466,
+   "segundos": 496
   },
   "Superbid": {
    "ok": true,
-   "lotes": 975,
-   "segundos": 9
+   "lotes": 978,
+   "segundos": 14
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-10-29 19:03",
    "lotes": 755,
-   "segundos": 0
+   "segundos": 1
   }
  },
  "lotes": [
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5059904",
-   "titulo": "DESKTOPS, NOTEBOOKS, MONITORES E OUTROS (25 PÇS)",
-   "categoria": "Informática",
-   "lance_atual": 3500,
-   "encerramento": "2026-10-30 14:01",
-   "cidade": "Porto Ferreira",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/desktops-notebooks-monitores-e-outros-25-pcs-5059904",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/1b4e46ed-e9b9-48a0-9dbd-d506124cd5d1.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Verallia"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055823",
-   "titulo": "ELETRODOMESTICOS DIVERSOS, FREEZER, BEBEDOR,CAFETEIRA VENTILADOR",
-   "categoria": "Refrigeradores",
-   "lance_atual": 1300,
-   "encerramento": "2026-10-30 15:06",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/eletrodomesticos-diversos-freezer-bebedor-cafeteira-ventilador-5055823",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/d91deba4-c583-4b13-8a41-05ec967b3e8e.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "INSIGHTS CONSULTORIAS",
-    "leilao": "GUILHOTINA, MANCAIS,BOMBAS DE VACUO E OUTROS."
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055819",
-   "titulo": "2 MAQUINA DE LAVAR LOUÇAS E 1 FOGÃO",
-   "categoria": "Limpeza",
-   "lance_atual": 500,
-   "encerramento": "2026-10-30 15:09",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/2-maquina-de-lavar-loucas-e-1-fogao-5055819",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/561b2f8d-8d70-46b5-9897-9dd777d16d1d.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "INSIGHTS CONSULTORIAS",
-    "leilao": "GUILHOTINA, MANCAIS,BOMBAS DE VACUO E OUTROS."
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5064252",
-   "titulo": "51 SWITCHS (FUNCIONANDO)",
-   "categoria": "Informática",
-   "lance_atual": 110000,
-   "encerramento": "2026-10-30 15:10",
-   "cidade": "Paulínia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/51-switchs-funcionando-5064252",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/351c1a81-5bfb-4e06-a62b-a1649f1e9202.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Boehringer"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5064253",
-   "titulo": "04 FIREWALLS (FUNCIONANDO)",
-   "categoria": "Informática",
-   "lance_atual": 13000,
-   "encerramento": "2026-10-30 15:10",
-   "cidade": "Paulínia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/04-firewalls-funcionando-5064253",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/b75e67d2-3813-421e-b556-f55aaf222ee9.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Boehringer"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5062622",
-   "titulo": "04 CONTROLADORAS DE WIFI (FUNCIONANDO)",
-   "categoria": "Informática",
-   "lance_atual": 5000,
-   "encerramento": "2026-10-30 15:11",
-   "cidade": "Paulínia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/04-controladoras-de-wifi-funcionando-5062622",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c465d0f1-76f2-4136-9549-a01d8e6a2a43.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Boehringer"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5064251",
-   "titulo": "04 AUDIO CODES (FUNCIONANDO)",
-   "categoria": "Eletrônicos",
-   "lance_atual": 3000,
-   "encerramento": "2026-10-30 15:11",
-   "cidade": "Paulínia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/04-audio-codes-funcionando-5064251",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/6812fad5-3aa5-45ec-909e-ca31be6aaab2.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Boehringer"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055818",
-   "titulo": "DVD, VIDEO CASETES, 3 EM 1 DATA SHOW , TOCA CD  E KARAOKE 13 APARELHOS E 22 CONTROLES REMOTOS",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 2200,
-   "encerramento": "2026-10-30 15:12",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/dvd-video-casetes-3-em-1-data-show-toca-cd-e-karaoke-13-aparelhos-e-22-controles-5055818",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/2b989bc0-763f-4fcd-b77d-bf7fcbe9f6ff.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "INSIGHTS CONSULTORIAS",
-    "leilao": "GUILHOTINA, MANCAIS,BOMBAS DE VACUO E OUTROS."
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5055817",
-   "titulo": "INVERSORES DE FREQUENCIA 4 PEÇAS",
-   "categoria": "Eletrônicos",
-   "lance_atual": 780,
-   "encerramento": "2026-10-30 15:12",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/inversores-de-frequencia-4-pecas-5055817",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/396101b8-92f8-4e0f-9782-bce41f29d186.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "INSIGHTS CONSULTORIAS",
-    "leilao": "GUILHOTINA, MANCAIS,BOMBAS DE VACUO E OUTROS."
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5061277",
-   "titulo": "02 FORNOS VIPÃO, ANO: 2008 (Ref.: Loja 1877)",
-   "categoria": "Fornos e Fogões",
-   "lance_atual": 900,
-   "encerramento": "2026-10-30 15:33",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/02-fornos-vipao-ano-2008-ref-loja-1877-5061277",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/6343c5ea-540c-41f8-92e3-a9f7b0dd586f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "GPA"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5058024",
-   "titulo": "FORNO A GÁS, FORNO VIPINHO (03 UN) (Ref.: LOJA 8789)",
-   "categoria": "Fornos e Fogões",
-   "lance_atual": 2500,
-   "encerramento": "2026-10-30 15:34",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/forno-a-gas-forno-vipinho-03-un-ref-loja-8789-5058024",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/6d6a0a41-3ace-485f-bdf2-f797a37c19d0.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "GPA"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5061275",
-   "titulo": "05 ILHAS DE CONGELADOS SELF-SERVICE (SUCATAS) (Ref.: LOJA 1801)",
-   "categoria": "Refrigeradores",
-   "lance_atual": 2000,
-   "encerramento": "2026-10-30 15:34",
-   "cidade": "Petrópolis",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/05-ilhas-de-congelados-self-service-sucatas-ref-loja-1801-5061275",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/70844b1c-f67d-4b12-984a-ea64955d00d3.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "GPA"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5060612",
-   "titulo": "ASPIRADOR DE PÓ INDUSTRIAL ASPANTEC ASPAN 7",
-   "categoria": "Limpeza",
-   "lance_atual": 1000,
-   "encerramento": "2026-10-30 16:01",
-   "cidade": "Piracicaba",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/aspirador-de-po-industrial-aspantec-aspan-7-5060612",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/31a6d63c-9256-4f51-a8d5-ef53a91e38c0.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5065603",
-   "titulo": "NOTEBOOKS (06 PÇS) (Ref.: BAB)",
-   "categoria": "Informática",
-   "lance_atual": 1000,
-   "encerramento": "2026-10-30 16:19",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebooks-06-pcs-ref-bab-5065603",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/91891436-4ae3-47f8-9ba3-e35d337359aa.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5065604",
-   "titulo": "MONITORES (05 PÇS) (Ref.: BAD)",
-   "categoria": "Informática",
-   "lance_atual": 250,
-   "encerramento": "2026-10-30 16:19",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/monitores-05-pcs-ref-bad-5065604",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/f78b1218-175e-4a61-bf14-5ec902678f18.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5069011",
-   "titulo": "MONITORES (05 PÇS) (Ref.: BAE)",
-   "categoria": "Informática",
-   "lance_atual": 150,
-   "encerramento": "2026-10-30 16:20",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/monitores-05-pcs-ref-bae-5069011",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/2b5ac1ed-d8b1-4697-b860-217617bbea7a.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5069010",
-   "titulo": "MONITORES (05 PÇS) (Ref.: BAF)",
-   "categoria": "Informática",
-   "lance_atual": 150,
-   "encerramento": "2026-10-30 16:20",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/monitores-05-pcs-ref-baf-5069010",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/79fcdaa6-4edb-4746-bc01-8f75109a5bcc.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5065602",
-   "titulo": "MONITORES (04 PÇS) (Ref.: BAG)",
-   "categoria": "Informática",
-   "lance_atual": 100,
-   "encerramento": "2026-10-30 16:21",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/monitores-04-pcs-ref-bag-5065602",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/7ef1b51e-e458-416c-a8ed-f18b84e90769.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5069009",
-   "titulo": "MONITORES DELL (04 PÇS) (Ref.: BAH)",
-   "categoria": "Informática",
-   "lance_atual": 400,
-   "encerramento": "2026-10-30 16:21",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/monitores-dell-04-pcs-ref-bah-5069009",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/1eb82a1a-b7c0-4a94-8e25-721fd538df24.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 2,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5065601",
-   "titulo": "SERVIDORES (06 PÇS) (Ref.: BAK)",
-   "categoria": "Informática",
-   "lance_atual": 3000,
-   "encerramento": "2026-10-30 16:22",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/servidores-06-pcs-ref-bak-5065601",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/aaf8ab93-d2b6-4f12-99f3-e79da6330c17.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5069008",
-   "titulo": "MICROFONES POLY EX-MIC (02 PÇS) (Ref.: BAR)",
-   "categoria": "Informática",
-   "lance_atual": 350,
-   "encerramento": "2026-10-30 16:22",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/microfones-poly-ex-mic-02-pcs-ref-bar-5069008",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0d58d585-f37f-476e-b1fa-275b86399e0e.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5069007",
-   "titulo": "TECLADOS S/FIO (APROX. 30 PÇS) (Ref.: BAP)",
-   "categoria": "Informática",
-   "lance_atual": 150,
-   "encerramento": "2026-10-30 16:23",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/teclados-s-fio-aprox-30-pcs-ref-bap-5069007",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/1e6423df-6abc-4fe9-bf14-035ee9ee4ba5.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5065600",
-   "titulo": "DESKTOPS (APROX. 19 PÇS) (Ref.: BAQ)",
-   "categoria": "Informática",
-   "lance_atual": 1500,
-   "encerramento": "2026-10-30 16:23",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/desktops-aprox-19-pcs-ref-baq-5065600",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/5fa50b5a-9a28-421c-9e78-e9ee8573cb98.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067324",
-   "titulo": "RACKS E TELAS PROJETORAS (08 PÇS)",
-   "categoria": "Informática",
-   "lance_atual": 250,
-   "encerramento": "2026-10-30 16:24",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/racks-e-telas-projetoras-08-pcs-5067324",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/46f8257e-b13e-42c0-97cb-b872a617ad43.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 2,
-    "leiloeiro": "SOLD",
-    "leilao": "Compartilhado Industrial & Bens de Consumo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
   {
    "fonte": "Superbid",
    "id": "superbid-5065378",
@@ -1729,7 +1153,7 @@
    "id": "superbid-5059004",
    "titulo": "01 notebook Dell Latitude 7400, Core i7, com carregador, sem memória e sem HD",
    "categoria": "Informática",
-   "lance_atual": 510,
+   "lance_atual": 555,
    "encerramento": "2026-11-03 14:14",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -1741,7 +1165,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -3121,7 +2545,7 @@
    "id": "superbid-5073253",
    "titulo": "ASPIRADOR SH 10000 STONE HAMMER 220V (01 UN) (Ref.: SB0034054)",
    "categoria": "Limpeza",
-   "lance_atual": 1100,
+   "lance_atual": 1200,
    "encerramento": "2026-11-03 17:36",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -3133,7 +2557,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -5361,7 +4785,7 @@
    "id": "superbid-5061033",
    "titulo": "APROX. 200 CARREGADOR DE TOMADA UNIVERSAL BATERIA DE TEL+ 01 USB, DISPLAY LCD - SEM USO (Ref.: ren 840 2026031220840)",
    "categoria": "Telefonia",
-   "lance_atual": 750,
+   "lance_atual": 800,
    "encerramento": "2026-11-05 13:58",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -5373,7 +4797,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 12,
+    "lances": 13,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9394,7 +8818,7 @@
    "titulo": "NO-BREAKS  (Ref.: 21722)",
    "categoria": "Informática",
    "lance_atual": 3600,
-   "encerramento": "2026-11-05 16:16",
+   "encerramento": "2026-11-05 16:18",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -13605,7 +13029,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -14277,9 +13701,609 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Empresa Vende"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5075987",
+   "titulo": "TABUA ACACIA 47CM HOME STYLE, GALHETA HOLY 145ML INCOLOR, FACA ELÉTRICA BLACK DECKER PRETO Qtde. 64 (Ref.: SB0014120)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 2400,
+   "encerramento": "2026-11-10 17:04",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/tabua-acacia-47cm-home-style-galheta-holy-145ml-incolor-faca-eletrica-black-deck-5075987",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/27a54c0b-2381-4a80-aac0-b64d0284133e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
     "lances": 0,
     "leiloeiro": "SOLD",
     "leilao": "Empresa Vende"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080023",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080023",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f0cb627c-d863-43ea-9ada-ac4924ac7bf4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080024",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:17",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080024",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/692114f9-a90d-4ef0-b71a-180e2023d96e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080025",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:17",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080025",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/557905b9-99e2-45b8-af60-9fee95acad0b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080026",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:18",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080026",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/95d478d3-e985-4cef-83f1-dc955afb7911.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080027",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:18",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080027",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2f708c3a-1688-40e2-9fc8-bafc756f895a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080028",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:19",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080028",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7608f1e2-c336-4811-b7a5-eaf6b0d2f4c5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080029",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:19",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080029",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cd3290f8-357d-41d8-a7f7-ef6f49742b61.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076110",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:20",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5076110",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/746e26be-46b4-48c7-b995-5b8e00b217e3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080030",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:20",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080030",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6ad03d29-84ee-4588-9242-08cd4b561c71.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080031",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:21",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080031",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f6f4620f-493f-4bdc-828b-33d07676cbe4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076111",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:21",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5076111",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/60f93c3c-7746-41d0-b7d1-1f0a02f58dd4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080032",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM AZUL  PRODUTO NOVO, VENDIDO NO ESTADO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:22",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080032",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0be07ae3-a3b0-4b88-862f-da395aaeb110.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076112",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:22",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5076112",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/55077283-eaf4-48db-9af7-445f30b23708.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076113",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:23",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5076113",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0eaec629-3762-4166-a9b9-08cfc8022929.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080033",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:23",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080033",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/03f42338-3535-4483-8b6f-5602778142c3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076114",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:24",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5076114",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0f0a84c2-549d-4286-8b3e-4f69f5f2612d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076115",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:24",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5076115",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/34213b0c-06b9-484a-b1f9-7c3bfc32f6f8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080034",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:25",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080034",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9de411dd-0561-47de-9cdc-45859ce7da2d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076116",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:25",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5076116",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c39c1d13-4de9-4b49-be18-538a11ed9f71.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076117",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:26",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5076117",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f7b2cdef-1f3d-44a2-908f-085ba3dd11d4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080035",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:26",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080035",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4e325568-a3c2-4a14-b43f-040995801ed2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076118",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:27",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5076118",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/75ace6d9-a243-4bbf-b9bd-296b640e95d5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076119",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:27",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5076119",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a3e7ce4f-3b8a-4921-9f56-5fa3db45a53a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080036",
+   "titulo": "HEADSET GAMER MODELO CAMUFLADO, COM MICROFONE, REGULADOR DE VOLUME, USB E P2, COM LUZES EM LED, NOVO  OBS: PODENDO SER USADOS EM PC, NOTEBOOKS, SMARTPHONES, ENTRE OUTROS  PRODUTO NOVO NA CAIXA  COR: CAMUFLADO COM VERMELHO  PRODUTO NOVO, VENDIDO NO ES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 40,
+   "encerramento": "2026-11-10 17:28",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/headset-gamer-modelo-camuflado-com-microfone-regulador-de-volume-usb-e-p2-com-lu-5080036",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/21208b70-848a-4926-bd1e-49ebc0a23239.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Relógios e Eletrônicos"
    },
    "prioridade": false,
    "destaque": true
@@ -16209,9 +16233,33 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "RMoysés Leilões",
     "leilao": "7ª Vara Cível de Santana -  Capital/SP"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076125",
+   "titulo": "TV LG 55LW540S (Ref.: RV 1146)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 150,
+   "encerramento": "2026-11-11 15:02",
+   "cidade": "Alumínio",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/tv-lg-55lw540s-ref-rv-1146-5076125",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/50d18464-151d-498c-ab22-cf089669165f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "CBA"
    },
    "prioridade": false,
    "destaque": true
@@ -16617,7 +16665,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -16689,7 +16737,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Ache"
    },
@@ -16836,6 +16884,30 @@
     "lances": 0,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Máquinas e equipamentos"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076120",
+   "titulo": "NOTEBOOKS E COMPUTADORES DELL (APROX. 19 PÇS) (Ref.: lote01)",
+   "categoria": "Informática",
+   "lance_atual": 3000,
+   "encerramento": "2026-11-13 16:30",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/notebooks-e-computadores-dell-aprox-19-pcs-ref-lote01-5076120",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/75a14e37-99db-450d-bd42-6b9ae44a09b0.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Compartilhado Industrial & Bens de Consumo"
    },
    "prioridade": false,
    "destaque": true
@@ -17337,7 +17409,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -19752,7 +19824,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/15/2026/lote/278",
    "valor_avaliacao": 4380,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/15/foto_pq_800100_2026_15_264_555169_ebdf9b478c518350dc19c32e7943b4a5.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -19772,7 +19844,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/15/2026/lote/279",
    "valor_avaliacao": 4380,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/15/foto_pq_800100_2026_15_285_555174_e67c9eed4e544ffc4c82c9fb72717573.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -19792,7 +19864,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/15/2026/lote/280",
    "valor_avaliacao": 4380,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/15/foto_pq_800100_2026_15_280_555179_b38a339e7fe3784ac9b91c2db79da108.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -19812,7 +19884,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/15/2026/lote/281",
    "valor_avaliacao": 5520,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/15/foto_pq_800100_2026_15_281_555183_ef8bab8f7d1f8b45f973b438560f7746.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -19832,7 +19904,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/15/2026/lote/283",
    "valor_avaliacao": 690,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/15/foto_pq_800100_2026_15_283_555215_8fbc4724c8968ae20d536934b643111f.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -19852,7 +19924,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/800100/15/2026/lote/285",
    "valor_avaliacao": 10440,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/800100/15/foto_pq_800100_2026_15_301_555220_9d4cbc432b752fdc49ee022ba24babc5.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -21358,326 +21430,6 @@
   },
   {
    "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-9",
-   "titulo": "GABINETE ATX GABINETE ATX SAN-24501020101 (e mais 33 itens)",
-   "categoria": "INFORMÁTICA",
-   "lance_atual": 2900,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/9",
-   "valor_avaliacao": 10000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_28_553284_fe74e4ce1f58fb414242733bd261cbe8.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-14",
-   "titulo": "PANELA BELLA CAPRI ORIGEM: DESCONHECIDA, JOGO COM 22 PECAS (e mais 10 itens)",
-   "categoria": "ELETRODOMÉSTICO",
-   "lance_atual": 15000,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/14",
-   "valor_avaliacao": 70000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_26_550260_e603a3ab4ba94fbccbf95fd5214bcb8c.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-15",
-   "titulo": "VESTUARIO FEMININO BERMUDA CLASSIC FIT 6 POL ORIGEM: SRI LANKA (e mais 47 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 25000,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/15",
-   "valor_avaliacao": 65000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_25_550263_c8b9887f5394236f0adf25d53a06a6b4.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-16",
-   "titulo": "PLACA DE REDE SEM FIO LINKSYS WMP54G-LA ORIGEM: CHINA (e mais 75 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 8500,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/16",
-   "valor_avaliacao": 23000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_24_550289_afdf1d0aa188025fa335c458d6600fca.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-18",
-   "titulo": "CAIXA ACUSTICA INTELIGENTE ALEXA ECHO DOT ORIGEM: VIETNAM (e mais 7 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 3100,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "PF e PJ",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/18",
-   "valor_avaliacao": 8000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_14_552496_bd529836068842ffa3aac00e485f41e1.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-19",
-   "titulo": "SMARTWATCH (RELOG.INTLG.) AMAZFIT BIP 6 ORIGEM: CHINA - SN: 24357542637711, 24357541626618 (e mais 4 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 3000,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "PF e PJ",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/19",
-   "valor_avaliacao": 8000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_15_552498_2e79785057cb7d666e05f56121fc03d2.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-20",
-   "titulo": "PATINETE ELETRICO HONEYWHALE G4 MAX ORIGEM CHINA SN: H0PSKD7C8SC029131 (e mais 2 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 4990,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "PF e PJ",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/20",
-   "valor_avaliacao": 17000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_19_552500_05bcba8a33adbaa9575dd58fdb3054e3.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-21",
-   "titulo": "ASPIRADOR DE PO ORIGEM: CHINA; SN:59069;DUAA8F5T100894, 59069;DUAA8F5SX00140, 59069/DUAA8F5TY00868, 59069;DUAA8F5T100965/XIAOMI/ROBOT VACUUM X20 MAX (e mais 58 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 19000,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/21",
-   "valor_avaliacao": 64000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_17_550382_d841c49975656954e2207cea7adc3513.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-22",
-   "titulo": "CONTROLE DE VIDEO GAME MICROSOFT XBOX CARBON BLACK ORIGEM CHINA (e mais 74 itens)",
-   "categoria": "FILMADORA/ACESSÓRIO",
-   "lance_atual": 31000,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/22",
-   "valor_avaliacao": 80000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_18_550391_33711567ba7c72d8ae2e1368a586b273.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-23",
-   "titulo": "SMARTWATCH (RELOG.INTLG.) ULTRAMAX WXH 8 ULTRA CHINA (e mais 50 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 16000,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/23",
-   "valor_avaliacao": 78000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_16_550423_c268c7c5b713d0377e2094b7ed932c2f.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-24",
-   "titulo": "ENDOSCOPIO ROHS BOROSCOPIO BI-DIRECIONAL COM ILUMINACAO LED 4.3 8. ORIGEM: CHINA (e mais 59 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 17000,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/24",
-   "valor_avaliacao": 56000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_20_550433_083ead1cccc9abfa9ca41e8d56b156b1.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-28",
-   "titulo": "COPO PLASTICO S/ MARCA (e mais 397 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 65000,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/28",
-   "valor_avaliacao": 490000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_22_553312_0c868b79bf23eafa984395c0509864ae.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-29",
-   "titulo": "CABO USB DANX LIGHTNING 1M ORIGEM CHINA (e mais 201 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 49000,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/29",
-   "valor_avaliacao": 250000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_21_553313_11c7a8be88aee8745cb464cec558e8b6.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-30",
-   "titulo": "BICICLETA ELETRICA TOMATE MBE-Z6 ORIGEM: CHINA; SN: 908227208908 (e mais 24 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 12400,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/30",
-   "valor_avaliacao": 40000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_2_553314_0bd13bad7a809fd88854cdf5c0005dc8.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-31",
-   "titulo": "TELA PARA TELEFONE CELULAR H2O TELA FRONTAL TOUCH P/ MOTO G10, G20 E G30 ORIGEM: CHINA (e mais 147 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 28800,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/31",
-   "valor_avaliacao": 80000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/727600/3/foto_pq_727600_2026_3_1_553322_c96f4d11d1b935da6d0693ac69401714.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-727600/3/2026-35",
-   "titulo": "ASPIRADOR DE PO DREAME D10 PLUS GEN 2 ORIGEM CHINA SN: R9457B57VBR5481801 (e mais 9 itens)",
-   "categoria": "ELETRODOMÉSTICO",
-   "lance_atual": 6900,
-   "encerramento": "2026-10-29 18:00",
-   "cidade": "Vitória",
-   "uf": "ES",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/727600/3/2026/lote/35",
-   "valor_avaliacao": 16000,
-   "imagem": null,
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
    "id": "receita-400100/2/2026-6",
    "titulo": "ASPIRADOR DE PO XIAOMI ROBOT VACUUM X20 PRO D102GL - COR BRANCO S/N: 57873DUAABF5QP10344-ORIGEM: CHINA-RM MP08-02-026 (e mais 77 itens)",
    "categoria": "ELETRODOMÉSTICO",
@@ -22033,54 +21785,6 @@
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
    "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5057353",
-   "titulo": "NOTEBOOKS E IMPRESSORAS (04 PÇS)",
-   "categoria": "Informática",
-   "lance_atual": 1500,
-   "encerramento": "2026-10-30 13:10",
-   "cidade": "Vespasiano",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/notebooks-e-impressoras-04-pcs-5057353",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/e5192a1e-1a03-45d6-bd9b-e0d720d9f5fe.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Manut"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5064822",
-   "titulo": "MICROOMPUTADOR E NOTEBOOKS (04 PÇS) (Ref.: MCP)",
-   "categoria": "Informática",
-   "lance_atual": 600,
-   "encerramento": "2026-10-30 13:15",
-   "cidade": "Belo Oriente",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/microomputador-e-notebooks-04-pcs-ref-mcp-5064822",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/518ec91f-87b6-4172-801b-95678bde82c5.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Cenibra"
-   },
    "prioridade": false,
    "destaque": false
   },
@@ -26449,7 +26153,7 @@
    "id": "superbid-5067480",
    "titulo": "FONES DE OUVIDO GAMER A-60 COM FIO (40 PÇ) (Ref.: 21)",
    "categoria": "Telefonia",
-   "lance_atual": 250,
+   "lance_atual": 500,
    "encerramento": "2026-11-11 10:40",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -26461,7 +26165,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -28088,6 +27792,54 @@
     "lances": 0,
     "leiloeiro": "JONEY MARCELO LOPES FERREIRA",
     "leilao": "CORPORATIVO"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076097",
+   "titulo": "1(uma) Caixa de Som da Marca Ecopower",
+   "categoria": "Eletrônicos",
+   "lance_atual": 150,
+   "encerramento": "2026-12-01 15:10",
+   "cidade": "Andirá",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/1-uma-caixa-de-som-da-marca-ecopower-5076097",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/70a04a6b-f961-4581-b4c5-b699825cbf10.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "KRON LEILÕES",
+    "leilao": "Vara Única Fazenda Pública de Andirá/Paraná"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080013",
+   "titulo": "1(uma) Maquininha de Cartão Moderna Smart Usada",
+   "categoria": "Eletrônicos",
+   "lance_atual": 800,
+   "encerramento": "2026-12-01 15:10",
+   "cidade": "Andirá",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/1-uma-maquininha-de-cartao-moderna-smart-usada-5080013",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/35dbd5b6-1add-4cdc-bbac-e402871ce6ab.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "KRON LEILÕES",
+    "leilao": "Vara Única Fazenda Pública de Andirá/Paraná"
    },
    "prioridade": false,
    "destaque": false
@@ -30773,7 +30525,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -30785,7 +30537,7 @@
    "id": "superbid-5067763",
    "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 300,
+   "lance_atual": 400,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -30797,7 +30549,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -30833,7 +30585,7 @@
    "id": "superbid-5067765",
    "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 400,
+   "lance_atual": 500,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -30845,7 +30597,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -31601,7 +31353,7 @@
    "id": "superbid-5071468",
    "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 400,
+   "lance_atual": 500,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -31613,7 +31365,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -31697,7 +31449,7 @@
    "id": "superbid-5071472",
    "titulo": "LOTE CONTENDO DIVERSOS APARELHOS ELETRÔNICOS PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 300,
+   "lance_atual": 400,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -31709,7 +31461,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -32813,7 +32565,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
