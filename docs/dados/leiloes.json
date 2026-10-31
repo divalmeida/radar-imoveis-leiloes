@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-10-31 07:01",
+ "atualizado_em": "2026-10-31 12:56",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 466,
-   "segundos": 482
+   "segundos": 428
   },
   "Superbid": {
    "ok": true,
    "lotes": 978,
-   "segundos": 10
+   "segundos": 12
   },
   "Caixa": {
    "ok": false,
@@ -2569,7 +2569,7 @@
    "id": "superbid-5074343",
    "titulo": "MONITOR GAME ASUS ROG STRIX OLED 31.5\" (01 UN) (Ref.: SB0034056)",
    "categoria": "Informática",
-   "lance_atual": 1160,
+   "lance_atual": 1260,
    "encerramento": "2026-11-03 17:37",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2581,7 +2581,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2749,7 +2749,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -16941,7 +16941,7 @@
    "id": "superbid-5073780",
    "titulo": "FILTRO DE ÁGUA ( NATURAL E GELADA ) EVEREST SPFT PLUS  - CÓDIGO: 14616 - 15 - LOCAL: SALA 1",
    "categoria": "Eletroportáteis",
-   "lance_atual": 50,
+   "lance_atual": 100,
    "encerramento": "2026-11-18 10:35",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -16953,7 +16953,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17001,7 +17001,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -26117,7 +26117,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -26261,7 +26261,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
