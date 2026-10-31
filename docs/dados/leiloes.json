@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-10-31 12:56",
+ "atualizado_em": "2026-10-31 18:56",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 466,
-   "segundos": 428
+   "segundos": 409
   },
   "Superbid": {
    "ok": true,
    "lotes": 978,
-   "segundos": 12
+   "segundos": 8
   },
   "Caixa": {
    "ok": false,
@@ -865,7 +865,7 @@
    "id": "superbid-5059010",
    "titulo": "Lote com 03 motores trifásicos e 02 disjuntores e contatoras",
    "categoria": "Informática",
-   "lance_atual": 297.5,
+   "lance_atual": 323.75,
    "encerramento": "2026-11-03 14:02",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -877,7 +877,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -16329,7 +16329,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -16893,7 +16893,7 @@
    "id": "superbid-5076120",
    "titulo": "NOTEBOOKS E COMPUTADORES DELL (APROX. 19 PÇS) (Ref.: lote01)",
    "categoria": "Informática",
-   "lance_atual": 3250,
+   "lance_atual": 3500,
    "encerramento": "2026-11-13 16:30",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -16905,7 +16905,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Compartilhado Industrial & Bens de Consumo"
    },
@@ -17733,7 +17733,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 210,
+   "lance_atual": 260,
    "encerramento": "2026-11-18 12:05",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17745,7 +17745,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -31353,7 +31353,7 @@
    "id": "superbid-5071468",
    "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 600,
+   "lance_atual": 700,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -31365,7 +31365,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
