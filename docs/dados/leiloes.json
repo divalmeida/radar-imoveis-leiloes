@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-01 07:04",
+ "atualizado_em": "2026-11-01 12:56",
  "fontes": {
   "Receita Federal": {
    "ok": true,
@@ -9,7 +9,7 @@
   "Superbid": {
    "ok": true,
    "lotes": 978,
-   "segundos": 6
+   "segundos": 8
   },
   "Caixa": {
    "ok": false,
@@ -5697,7 +5697,7 @@
    "id": "superbid-5056470",
    "titulo": "Aprox. 10 Peças: Air Fryer Multi 4,2L GO252 - Liquidificador Black & Decker - Liquidificador Philco PH900 - Panela de Arroz Multi GO003 - Ventilador Britânia BVT491 ETC - CLIQUE NO ANEXO PARA VER AS INFORMAÇÕES COMPLETAS DO LOTE",
    "categoria": "Eletroportáteis",
-   "lance_atual": 500,
+   "lance_atual": 580,
    "encerramento": "2026-11-05 14:30",
    "cidade": "Piracicaba",
    "uf": "SP",
@@ -5709,7 +5709,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "Logística Reversa"
    },
@@ -5745,7 +5745,7 @@
    "id": "superbid-5059694",
    "titulo": "Aprox. 10 Peças: Air Fryer Forno Multi 10L GO257 - Espremedor de Frutas Mondial E-02 - Liquidificador Mondial L-550-B - Mini Processador Mallory HDBPA - Sanduicheira Mickey Mouse Mallory ETC - CLIQUE NO ANEXO PARA VER AS INFORMAÇÕES COMPLETAS DO LOTE",
    "categoria": "Eletroportáteis",
-   "lance_atual": 500,
+   "lance_atual": 580,
    "encerramento": "2026-11-05 14:30",
    "cidade": "Piracicaba",
    "uf": "SP",
@@ -5757,7 +5757,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "Logística Reversa"
    },
@@ -9105,7 +9105,7 @@
    "id": "superbid-5066450",
    "titulo": "KIT STORAGE + 2 SWITCHES",
    "categoria": "Informática",
-   "lance_atual": 1800,
+   "lance_atual": 1900,
    "encerramento": "2026-11-05 17:02",
    "cidade": "Niterói",
    "uf": "RJ",
@@ -9117,7 +9117,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Wilson Sons"
    },
@@ -9189,7 +9189,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Savegnago"
    },
@@ -13689,7 +13689,7 @@
    "id": "superbid-5079324",
    "titulo": "GELADEIRA ELECTROLUX RE31 USADA 220V (01 UN) (Ref.: SB0034218)",
    "categoria": "Refrigeradores",
-   "lance_atual": 150,
+   "lance_atual": 200,
    "encerramento": "2026-11-10 17:03",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -13701,7 +13701,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Empresa Vende"
    },
@@ -17445,7 +17445,7 @@
    "id": "superbid-5073770",
    "titulo": "LAVA E SECA MIDEA 11 KG  - CÓDIGO: 14649 - 48",
    "categoria": "Limpeza",
-   "lance_atual": 400,
+   "lance_atual": 500,
    "encerramento": "2026-11-18 11:13",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17457,7 +17457,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
