@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-10-31 18:56",
+ "atualizado_em": "2026-11-01 07:04",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 466,
-   "segundos": 409
+   "segundos": 463
   },
   "Superbid": {
    "ok": true,
    "lotes": 978,
-   "segundos": 8
+   "segundos": 6
   },
   "Caixa": {
    "ok": false,
@@ -793,7 +793,7 @@
    "id": "superbid-5059012",
    "titulo": "Lote com 11 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 99,
+   "lance_atual": 109,
    "encerramento": "2026-11-03 13:59",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -805,7 +805,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 11,
+    "lances": 12,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -2485,7 +2485,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2569,7 +2569,7 @@
    "id": "superbid-5074343",
    "titulo": "MONITOR GAME ASUS ROG STRIX OLED 31.5\" (01 UN) (Ref.: SB0034056)",
    "categoria": "Informática",
-   "lance_atual": 1260,
+   "lance_atual": 1360,
    "encerramento": "2026-11-03 17:37",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2581,7 +2581,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2653,7 +2653,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2677,7 +2677,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2701,7 +2701,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2713,7 +2713,7 @@
    "id": "superbid-5073257",
    "titulo": "MACBOOK PRO APPLE USADO, MACBOOK AIR APPLE USADO (02 UN) (Ref.: SB0034063)",
    "categoria": "Informática",
-   "lance_atual": 920,
+   "lance_atual": 1020,
    "encerramento": "2026-11-03 17:42",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2725,7 +2725,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -5577,7 +5577,7 @@
    "id": "superbid-5067823",
    "titulo": "02 RADIOS VHF MOTOROLA PRO 5150 NO ESTADO  (LT2)",
    "categoria": "Informática",
-   "lance_atual": 100,
+   "lance_atual": 120,
    "encerramento": "2026-11-05 14:25",
    "cidade": "Santo André",
    "uf": "SP",
@@ -5589,7 +5589,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Informatica"
    },
@@ -9393,7 +9393,7 @@
    "id": "superbid-5066157",
    "titulo": "50 CAIXAS DE SOM USB EM FORMATO DE LATA ESTAMPAS CERVEJA/ TIME DE FUTEBOL, DIVERSAS S",
    "categoria": "Eletrônicos",
-   "lance_atual": 350,
+   "lance_atual": 400,
    "encerramento": "2026-11-09 14:41",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -9405,7 +9405,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9537,7 +9537,7 @@
    "id": "superbid-5069618",
    "titulo": "APROX. 200 CARREGADORES DE CELULAR AL-9006 (SEM USO)",
    "categoria": "Telefonia",
-   "lance_atual": 300,
+   "lance_atual": 350,
    "encerramento": "2026-11-09 14:50",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -9549,7 +9549,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9561,7 +9561,7 @@
    "id": "superbid-5069617",
    "titulo": "APROX. 100 CARREGADORES DE CELULAR DIVERSOS (SEM USO)",
    "categoria": "Telefonia",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-09 14:51",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -9573,7 +9573,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9693,7 +9693,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9777,7 +9777,7 @@
    "id": "superbid-5069600",
    "titulo": "APROX. 150 CARREGADORES DE CELULAR C/ CABO TIPO-C + 90 CABOS CARREGADORE IPHONE",
    "categoria": "Telefonia",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-09 14:59",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -9789,7 +9789,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -17709,7 +17709,7 @@
    "id": "superbid-5074935",
    "titulo": "FREEZER VERTICAL TRIPLA AÇÃO 569 LITROS FRICON  - CÓDIGO: 14670 - 69",
    "categoria": "Refrigeradores",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-18 11:44",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17721,7 +17721,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17733,7 +17733,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 260,
+   "lance_atual": 360,
    "encerramento": "2026-11-18 12:05",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17745,7 +17745,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 7,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17889,7 +17889,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -28149,7 +28149,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SALA DE LEILÕES",
     "leilao": "Logistica reversa"
    },
