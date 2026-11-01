@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-01 12:56",
+ "atualizado_em": "2026-11-01 18:57",
  "fontes": {
   "Receita Federal": {
    "ok": true,
@@ -8,8 +8,8 @@
   },
   "Superbid": {
    "ok": true,
-   "lotes": 978,
-   "segundos": 8
+   "lotes": 1046,
+   "segundos": 9
   },
   "Caixa": {
    "ok": false,
@@ -20,30 +20,6 @@
   }
  },
  "lotes": [
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5065378",
-   "titulo": "Lote de Calculadoras Antigas com Impressora - Colecionáveis",
-   "categoria": "Informática",
-   "lance_atual": 300,
-   "encerramento": "2026-11-01 14:04",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-de-calculadoras-antigas-com-impressora-colecionaveis-5065378",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/37d78361-59c4-4dcb-9596-e2e85c0a9623.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "INSIGHTS CONSULTORIAS",
-    "leilao": "Antiguidades Artes & Colecionismo"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
   {
    "fonte": "Superbid",
    "id": "superbid-5067046",
@@ -481,7 +457,7 @@
    "id": "superbid-5059018",
    "titulo": "Lote com 145 peças, podendo ser sucatas, celulares e carregadores LG e Nokia RM-975",
    "categoria": "Informática",
-   "lance_atual": 925,
+   "lance_atual": 1000,
    "encerramento": "2026-11-03 13:46",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -493,7 +469,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -865,7 +841,7 @@
    "id": "superbid-5059010",
    "titulo": "Lote com 03 motores trifásicos e 02 disjuntores e contatoras",
    "categoria": "Informática",
-   "lance_atual": 323.75,
+   "lance_atual": 350,
    "encerramento": "2026-11-03 14:02",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -877,7 +853,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -2449,7 +2425,7 @@
    "id": "superbid-5074338",
    "titulo": "STARLINK MINI INTERNET VIA SATÉLITE (05 UN)     (Ref.: SB0033977)",
    "categoria": "Informática",
-   "lance_atual": 500,
+   "lance_atual": 700,
    "encerramento": "2026-11-03 17:34",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2461,7 +2437,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2473,7 +2449,7 @@
    "id": "superbid-5074339",
    "titulo": "STARLINK MINI INTERNET VIA SATÉLITE (05 UN)  (Ref.: SB0033976)",
    "categoria": "Informática",
-   "lance_atual": 500,
+   "lance_atual": 600,
    "encerramento": "2026-11-03 17:34",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2485,7 +2461,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2617,7 +2593,7 @@
    "id": "superbid-5074347",
    "titulo": "NOTEBOOK SAMSUNG USADO DIVERSOS (04 UN)           (Ref.: SB0034062)",
    "categoria": "Informática",
-   "lance_atual": 620,
+   "lance_atual": 720,
    "encerramento": "2026-11-03 17:39",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2629,7 +2605,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2737,7 +2713,7 @@
    "id": "superbid-5074349",
    "titulo": "SMARTPHONE DIVERSOS COM AVARIA, SMARTPHONE MOTOROLA USADO, SMARTPHONE SAMSUNG USADO-DIVERSOS  (09 UN) (Ref.: SB0034067)",
    "categoria": "Telefonia",
-   "lance_atual": 550,
+   "lance_atual": 650,
    "encerramento": "2026-11-03 17:42",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2749,7 +2725,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -4593,7 +4569,7 @@
    "id": "superbid-5057719",
    "titulo": "APROX. 300 UNIDADES DE CABO DE CELULAR APROX. 01 M - SEM USO (Ref.: ren 485 2026031220485)",
    "categoria": "Telefonia",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-05 13:22",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -4605,7 +4581,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -4833,7 +4809,7 @@
    "id": "superbid-5057777",
    "titulo": "APROX. 100 UNIDADES DE SUPORTE DE CELULAR MODELOS - SEM USO (Ref.: ren 852 2026031220852)",
    "categoria": "Telefonia",
-   "lance_atual": 400,
+   "lance_atual": 500,
    "encerramento": "2026-11-05 14:00",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -4845,7 +4821,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -6561,7 +6537,7 @@
    "id": "superbid-5069709",
    "titulo": "APROX. 300 UNID. CABO CARREGADOR USB 03M DE COMPRIMENTO (SEM USO)",
    "categoria": "Telefonia",
-   "lance_atual": 400,
+   "lance_atual": 500,
    "encerramento": "2026-11-05 14:49",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -6573,7 +6549,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9537,7 +9513,7 @@
    "id": "superbid-5069618",
    "titulo": "APROX. 200 CARREGADORES DE CELULAR AL-9006 (SEM USO)",
    "categoria": "Telefonia",
-   "lance_atual": 350,
+   "lance_atual": 400,
    "encerramento": "2026-11-09 14:50",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -9549,7 +9525,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9561,7 +9537,7 @@
    "id": "superbid-5069617",
    "titulo": "APROX. 100 CARREGADORES DE CELULAR DIVERSOS (SEM USO)",
    "categoria": "Telefonia",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-09 14:51",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -9573,7 +9549,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9777,7 +9753,7 @@
    "id": "superbid-5069600",
    "titulo": "APROX. 150 CARREGADORES DE CELULAR C/ CABO TIPO-C + 90 CABOS CARREGADORE IPHONE",
    "categoria": "Telefonia",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-09 14:59",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -9789,7 +9765,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9849,7 +9825,7 @@
    "id": "superbid-5069596",
    "titulo": "48 CABOS HDMI C/ 02 E 03 METROS",
    "categoria": "Eletrônicos",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-09 15:02",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -9861,7 +9837,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -10737,7 +10713,7 @@
    "id": "superbid-5069532",
    "titulo": "APROX. 500 CARREGADORES DE CELULAR COM 02 ENTRADAS USB , ELO 3.1 (SEM USO)",
    "categoria": "Telefonia",
-   "lance_atual": 700,
+   "lance_atual": 800,
    "encerramento": "2026-11-09 16:07",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -10749,7 +10725,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -11637,7 +11613,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -11709,7 +11685,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -12405,7 +12381,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -12501,7 +12477,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -12525,7 +12501,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -12597,7 +12573,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -13581,7 +13557,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -17709,7 +17685,7 @@
    "id": "superbid-5074935",
    "titulo": "FREEZER VERTICAL TRIPLA AÇÃO 569 LITROS FRICON  - CÓDIGO: 14670 - 69",
    "categoria": "Refrigeradores",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-18 11:44",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17721,7 +17697,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17733,7 +17709,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 360,
+   "lance_atual": 410,
    "encerramento": "2026-11-18 12:05",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17745,7 +17721,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -20257,7 +20233,7 @@
    "id": "superbid-5065092",
    "titulo": "EQUIPAMENTOS DE INFORMÁTICA",
    "categoria": "Informática",
-   "lance_atual": 800,
+   "lance_atual": 850,
    "encerramento": "2026-11-25 14:16",
    "cidade": "Biguaçu",
    "uf": "SC",
@@ -20269,7 +20245,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECKERT ASSESSORIA",
     "leilao": "Leilão Corporativo - Ativos de Vendas"
    },
@@ -20509,7 +20485,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLVED LEILÕES",
     "leilao": "Leilão de Informática, Telefonia e Mais..."
    },
@@ -20533,7 +20509,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLVED LEILÕES",
     "leilao": "Leilão de Informática, Telefonia e Mais..."
    },
@@ -20917,7 +20893,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLVED LEILÕES",
     "leilao": "Leilão de Informática, Telefonia e Mais..."
    },
@@ -20989,7 +20965,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLVED LEILÕES",
     "leilao": "Leilão de Informática, Telefonia e Mais..."
    },
@@ -23421,7 +23397,7 @@
    "id": "superbid-5069912",
    "titulo": "APROX. 500 CARREGADORES TIPO USB-C 20W POWER ADAPTER (SEM USO) (Ref.: 21)",
    "categoria": "Telefonia",
-   "lance_atual": 700,
+   "lance_atual": 800,
    "encerramento": "2026-11-05 11:30",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -23433,7 +23409,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -23445,7 +23421,7 @@
    "id": "superbid-5066444",
    "titulo": "APROX. 500 CARREGADORES TIPO USB-C 20W POWER ADAPTER (SEM USO) (Ref.: 22)",
    "categoria": "Telefonia",
-   "lance_atual": 700,
+   "lance_atual": 1000,
    "encerramento": "2026-11-05 11:31",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -23457,7 +23433,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -23481,7 +23457,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -30360,6 +30336,1662 @@
     "lances": 0,
     "leiloeiro": "SALA DE LEILÕES",
     "leilao": "Infermática, telefonia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076281",
+   "titulo": "01 APPLE WATCH SERIES 3 38MM  ALUMÍNIO CINZA-ESPACIAL  GPS   - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 500,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-series-3-38mm-aluminio-cinza-espacial-gps-com-possiveis-restricoe-5076281",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/23dd7b50-3c26-45ec-ae66-99c1a01fe931.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076282",
+   "titulo": "01 APPLE WATCH SERIES 7 45MM  AÇO INOXIDÁVEL GRAFITE  GPS + CELLULAR- QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-series-7-45mm-aco-inoxidavel-grafite-gps-cellular-quando-desmobil-5076282",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/91f27424-7163-4684-9691-73391a16434d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076283",
+   "titulo": "01 APPLE WATCH SERIES 10 46MM  PRETO  GPS  - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1400,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-series-10-46mm-preto-gps-quando-desmobilizado-apresentava-funcion-5076283",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e2ee259c-c474-4f4b-ab64-4fc4a1cdea94.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076284",
+   "titulo": "01 APPLE AIRPODS 4 GERAÇÃO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 590,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-airpods-4-geracao-quando-desmobilizado-apresentava-funcionamento-no-est-5076284",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/12e087ad-2b36-41b8-9ddd-9eca2e0f6cfc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076285",
+   "titulo": "01 APPLE AIRPODS PRO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-airpods-pro-quando-desmobilizado-apresentava-funcionamento-no-estado-se-5076285",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/133a4e77-ce2b-45eb-83f7-f2a73eadc312.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076286",
+   "titulo": "01 IPHONE 17 PRO MAX 256GB - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 2800,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-iphone-17-pro-max-256gb-com-possiveis-restricoes-de-uso-para-pecas-sem-testes-5076286",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7545f0ab-816f-4bc8-9e78-ba8109047ca1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076287",
+   "titulo": "01 APPLE IPHONE 16 128GB - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-iphone-16-128gb-com-possiveis-restricoes-de-uso-para-pecas-sem-testes-n-5076287",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/718fe530-90e5-4f50-aa7a-4d5dbc2c03b8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076288",
+   "titulo": "01 APPLE IPHONE 16 PRO 128GB - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-iphone-16-pro-128gb-com-possiveis-restricoes-de-uso-para-pecas-sem-test-5076288",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6583a696-bd61-4da2-81d8-8588beb23eb7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076289",
+   "titulo": "01 APPLE MACBOOK AIR 15 M4  16GB RAM  SSD 256GB - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3500,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-air-15-m4-16gb-ram-ssd-256gb-com-possiveis-restricoes-de-uso-pa-5076289",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f552e926-a5c7-4c51-bc78-47fb50d8c239.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076290",
+   "titulo": "01 APPLE MACBOOK AIR 13 M3  8GB RAM  SSD 256GB  APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 5200,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-air-13-m3-8gb-ram-ssd-256gb-aparentemente-sem-uso-quando-desmob-5076290",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/95c6ffa9-c30b-441a-b540-7c1b98a1f69f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076291",
+   "titulo": "01 APPLE MACBOOK AIR 13 M3  8GB RAM  SSD 256GB - APARENTEMENTE NOVO E LACRADO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 5900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-air-13-m3-8gb-ram-ssd-256gb-aparentemente-novo-e-lacrado-sem-te-5076291",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/72a6733e-851e-4bbb-8af8-1726f60927c7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076292",
+   "titulo": "01 FONE APPLE AIRPODS MAX ROSA (PINK) COM ARCO VERMELHO - MOD A2096 - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-fone-apple-airpods-max-rosa-pink-com-arco-vermelho-mod-a2096-aparentemente-se-5076292",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b486ba50-618e-4233-bfea-0fc0c8fdc816.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076293",
+   "titulo": "01 MOUSE APPLE MAGIC MOUSE USB-C BRANCO - MODELO A3204 - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 290,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-mouse-apple-magic-mouse-usb-c-branco-modelo-a3204-aparentemente-sem-uso-quand-5076293",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/87f0e21c-bda8-477e-8689-109d599e20e7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076321",
+   "titulo": "01 MOUSE APPLE MAGIC MOUSE 2 SEM FIO - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 290,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-mouse-apple-magic-mouse-2-sem-fio-aparentemente-sem-uso-quando-desmobilizado--5076321",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fb653703-ced8-4630-ada3-4014827b8c8e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076322",
+   "titulo": "01 IPAD APPLE A16 11ª GERAÇÃO 128GB WI-FI AZUL- QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-ipad-apple-a16-11-geracao-128gb-wi-fi-azul-quando-desmobilizado-apresentava-f-5076322",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/542ee03b-f6cc-4ad3-9044-b60a15ce358f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076323",
+   "titulo": "01 RELÓGIO SMARTWATCH POLAR PACER GPS - APARENTEMENTE NOVO E LACRADO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-relogio-smartwatch-polar-pacer-gps-aparentemente-novo-e-lacrado-sem-testes-no-5076323",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dfd14ff9-584b-4046-b090-be0d31b00665.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076324",
+   "titulo": "01 IPHONE 16 PRO 128GB - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3700,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-iphone-16-pro-128gb-aparentemente-sem-uso-quando-desmobilizado-apresentava-fu-5076324",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3d08ddc1-80c5-4426-9aed-75ad60d2abb9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080202",
+   "titulo": "01 APPLE WATCH SERIES 3 38MM  ALUMÍNIO CINZA-ESPACIAL  GPS - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 500,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-series-3-38mm-aluminio-cinza-espacial-gps-com-possiveis-restricoe-5080202",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/35867a3c-aea6-4cea-aea1-9c40c0fe7d3f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080203",
+   "titulo": "01 APPLE WATCH SERIES 3 38MM  ALUMÍNIO PRATEADO  GPS - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 250,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-series-3-38mm-aluminio-prateado-gps-com-possiveis-restricoes-de-u-5080203",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f058031d-7dd8-4606-9009-2c3c94a2e3b1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080204",
+   "titulo": "01 APPLE WATCH SERIES 7 45MM  AÇO INOXIDÁVEL GRAFITE  GPS + CELLULAR - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1100,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-series-7-45mm-aco-inoxidavel-grafite-gps-cellular-quando-desmobil-5080204",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4d16a4d2-07b4-41a2-aede-91750363ecc5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080205",
+   "titulo": "01 APPLE PENCIL 2ª GERAÇÃO  MODELO A2051  BRANCO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 350,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-pencil-2-geracao-modelo-a2051-branco-sem-testes-no-estado-sem-garantias-5080205",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a5a27f2b-90d4-4b35-948b-1f29601e2b50.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080206",
+   "titulo": "01 APPLE PENCIL USB-C  MODELO A3085  BRANCO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 350,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-pencil-usb-c-modelo-a3085-branco-sem-testes-no-estado-sem-garantias-5080206",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bdf6a20b-bf7c-46dd-a1fd-a3b3948bab08.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080207",
+   "titulo": "01 APPLE PENCIL PRO  MODELO A2538  BRANCO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 350,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-pencil-pro-modelo-a2538-branco-sem-testes-no-estado-sem-garantias-5080207",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cea04ad8-43d8-4c13-8034-9c500f093978.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080208",
+   "titulo": "01 APPLE PENCIL 2ª GERAÇÃO  MODELO A2051  BRANCO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 450,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-pencil-2-geracao-modelo-a2051-branco-sem-testes-no-estado-sem-garantias-5080208",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cd72f526-111b-48e9-8b35-334702820696.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080209",
+   "titulo": "01 APPLE PENCIL PRO  MODELO A2538  BRANCO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 450,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-pencil-pro-modelo-a2538-branco-para-pecas-sem-testes-no-estado-sem-gara-5080209",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6a33319f-027e-4ce3-bbe5-16b45d03f177.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080210",
+   "titulo": "01 APPLE PENCIL PRO  MODELO A2538  BRANCO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 450,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-pencil-pro-modelo-a2538-branco-para-pecas-sem-testes-no-estado-sem-gara-5080210",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f536d63c-4b6c-4b57-9a1d-9c5491400717.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080211",
+   "titulo": "01 APPLE WATCH ULTRA 2 49MM - REF. MRFC3CH/A - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1200,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-ultra-2-49mm-ref-mrfc3ch-a-com-possiveis-restricoes-de-uso-para-p-5080211",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cc2b21d5-55cc-4dcb-a3ca-c2e4c1b44389.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080212",
+   "titulo": "01 APPLE WATCH ULTRA 2 49MM  TITÂNIO  GPS + CELLULAR - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-ultra-2-49mm-titanio-gps-cellular-com-possiveis-restricoes-de-uso-5080212",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8ed9bd33-f517-4d12-909e-c73b343a3fc2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080213",
+   "titulo": "01 APPLE WATCH SE 2ª GERAÇÃO 40MM  MEIA-NOITE  GPS - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 400,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-se-2-geracao-40mm-meia-noite-gps-com-possiveis-restricoes-de-uso--5080213",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/311eb34c-16af-4e8f-98a5-0aeeb35dcc4e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080214",
+   "titulo": "01 APPLE WATCH ULTRA 2 49MM  TITÂNIO PRETO  GPS + CELLULAR - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1200,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-ultra-2-49mm-titanio-preto-gps-cellular-com-possiveis-restricoes--5080214",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/05ba5b00-62e5-4859-af27-3720767a5b48.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080215",
+   "titulo": "01 APPLE WATCH ULTRA 2 49MM - GPS + CELLULAR - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3400,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-ultra-2-49mm-gps-cellular-quando-desmobilizado-apresentava-funcio-5080215",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fce8114a-fb18-4068-9aae-af57b53eecda.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080216",
+   "titulo": "01 APPLE WATCH ULTRA 2 49MM - GPS + CELLULAR - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3400,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-ultra-2-49mm-gps-cellular-quando-desmobilizado-apresentava-funcio-5080216",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/795f544a-c065-4367-9682-75357f886467.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080217",
+   "titulo": "01 APPLE WATCH ULTRA 2 49MM  TITÂNIO  GPS + CELLULAR  - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3400,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-ultra-2-49mm-titanio-gps-cellular-quando-desmobilizado-apresentav-5080217",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fe17d25d-fec0-4133-bbaf-f8cd8d99b66f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080218",
+   "titulo": "01 APPLE MACBOOK AIR 15 M3  24GB RAM  SSD 512GB - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 8500,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-air-15-m3-24gb-ram-ssd-512gb-quando-desmobilizado-apresentava-f-5080218",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6a834dab-22bc-47f8-8140-e14c729cf347.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080219",
+   "titulo": "01 APPLE MACBOOK PRO 16 M4 PRO  24GB RAM  SSD 512GB  - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 12000,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-pro-16-m4-pro-24gb-ram-ssd-512gb-quando-desmobilizado-apresenta-5080219",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ed3c4230-32db-4fc1-b551-c38248d1a775.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080220",
+   "titulo": "01 APPLE MACBOOK PRO 14 M3  8GB RAM  SSD 1TB  - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 6000,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-pro-14-m3-8gb-ram-ssd-1tb-quando-desmobilizado-apresentava-func-5080220",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5ad45cb4-185c-49c2-ac68-5753f7a8494f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080221",
+   "titulo": "01 APPLE MACBOOK PRO 14 M4  16GB RAM  SSD 512GB - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 9000,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-pro-14-m4-16gb-ram-ssd-512gb-quando-desmobilizado-apresentava-f-5080221",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a1033dfe-dafa-40a8-aa40-923577704258.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080222",
+   "titulo": "01 APPLE MACBOOK PRO 14 M3  8GB RAM  SSD 512GB - BATERIA NÃO SEGURA CARGA - QUANDO DESMOBILIZADO APRESENTAVA APENAS FUNCIONAMENTO PARCIAL - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 4000,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-pro-14-m3-8gb-ram-ssd-512gb-bateria-nao-segura-carga-quando-des-5080222",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fb8d08f8-7d98-4c9f-b843-9f512b77f951.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080223",
+   "titulo": "01 APPLE MACBOOK AIR 13,3 M1  8GB RAM  SSD 256GB - APARENTEMENTE NOVO E LACRADO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-air-13-3-m1-8gb-ram-ssd-256gb-aparentemente-novo-e-lacrado-sem--5080223",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1e40c15a-d71d-4365-8ea1-2780a378fc28.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080224",
+   "titulo": "01 APPLE WATCH SERIES 9 41MM  PRATA - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-series-9-41mm-prata-quando-desmobilizado-apresentava-funcionament-5080224",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0a89ec23-aa15-491b-9020-811da9e94e66.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080225",
+   "titulo": "01 APPLE WATCH SERIES 9 45MM  STARLIGHT (ESTELAR)  GPS - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1000,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-series-9-45mm-starlight-estelar-gps-quando-desmobilizado-apresent-5080225",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9a771f24-e0c1-41dd-8056-a3141a87e410.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080226",
+   "titulo": "01 APPLE WATCH SERIES 10 46MM  ROSE GOLD  GPS - APARENTEMENTE NOVO E LACRADO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1590,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-watch-series-10-46mm-rose-gold-gps-aparentemente-novo-e-lacrado-sem-tes-5080226",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/10988a71-e72b-4b1b-afee-5045e6adabab.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080227",
+   "titulo": "01 APPLE AIRPODS 4 GERAÇÃO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 590,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-airpods-4-geracao-quando-desmobilizado-apresentava-funcionamento-no-est-5080227",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3e58ef3c-1efc-4747-b591-13e64dc2ff9d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080228",
+   "titulo": "01 APPLE AIRPODS PRO 3ª GERAÇÃO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-airpods-pro-3-geracao-quando-desmobilizado-apresentava-funcionamento-no-5080228",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/00507288-59b6-44cb-8d89-75279fd433a3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080229",
+   "titulo": "01 APPLE AIRPODS 3ª GERAÇÃO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 550,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-airpods-3-geracao-quando-desmobilizado-apresentava-funcionamento-no-est-5080229",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/87c01607-456b-4160-8ac0-c1ae26e48039.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080230",
+   "titulo": "01 IPHONE 16 256GB - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1300,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-iphone-16-256gb-com-possiveis-restricoes-de-uso-para-pecas-sem-testes-no-esta-5080230",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/94999895-9f20-4f4f-9071-5b9f51bdb127.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080231",
+   "titulo": "01 APPLE IPHONE 16 PRO 128GB - SEM TELA - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 300,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-iphone-16-pro-128gb-sem-tela-com-possiveis-restricoes-de-uso-para-pecas-5080231",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/063fd57c-6870-430f-87ea-53235e3dfe95.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080232",
+   "titulo": "01 APPLE IPHONE 16E 128GB - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1200,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-iphone-16e-128gb-com-possiveis-restricoes-de-uso-para-pecas-sem-testes--5080232",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/19b7f057-39c1-4987-8720-7352f20d19f5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080233",
+   "titulo": "01 APPLE IPHONE 16 128GB - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1400,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-iphone-16-128gb-com-possiveis-restricoes-de-uso-para-pecas-sem-testes-n-5080233",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/51e74c2d-6160-4390-ab17-3f8725fed2b0.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080234",
+   "titulo": "01 APPLE MACBOOK AIR 13 M1  8GB RAM  SSD 256GB  BATERIA NÃO SEGURA CARGA  QUANDO DESMOBILIZADO APRESENTAVA APENAS FUNCIONAMENTO PARCIAL - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 2900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-air-13-m1-8gb-ram-ssd-256gb-bateria-nao-segura-carga-quando-des-5080234",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9cbc10da-d5a0-4528-bab4-2be10a8d1747.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080235",
+   "titulo": "01 APPLE MACBOOK AIR 13 M1  8GB RAM  SSD 256GB  BATERIA NÃO SEGURA CARGA  QUANDO DESMOBILIZADO APRESENTAVA APENAS FUNCIONAMENTO PARCIAL - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 2900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-air-13-m1-8gb-ram-ssd-256gb-bateria-nao-segura-carga-quando-des-5080235",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3765ddef-2352-4d86-95e7-9a1047e46395.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080236",
+   "titulo": "01 APPLE MACBOOK AIR 13 M3  8GB RAM  SSD 256GB - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 4500,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-macbook-air-13-m3-8gb-ram-ssd-256gb-aparentemente-sem-uso-quando-desmob-5080236",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/306d478f-655b-4af5-9e6c-bb3476e167c4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080237",
+   "titulo": "01 FONE APPLE AIRPODS MAX USB-C STARLIGHT (ESTELAR) - APARENTEMENTE SEM USO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-fone-apple-airpods-max-usb-c-starlight-estelar-aparentemente-sem-uso-no-estad-5080237",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1cee1c65-a441-454d-a002-d3d446821d7c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080238",
+   "titulo": "01 FONE APPLE AIRPODS MAX SPACE GRAY - APARENTEMENTE NOVO E LACRADO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 2100,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-fone-apple-airpods-max-space-gray-aparentemente-novo-e-lacrado-sem-testes-no--5080238",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fe96fbc3-8ebf-4d86-902a-f4084d001f9f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080262",
+   "titulo": "01 MOUSE APPLE MAGIC MOUSE 2 SEM FIO - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 290,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-mouse-apple-magic-mouse-2-sem-fio-aparentemente-sem-uso-quando-desmobilizado--5080262",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/099ad6cd-f0d9-4803-96af-9d0114b073df.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080263",
+   "titulo": "01 IPAD APPLE 10ª GERAÇÃO 64GB WI-FI ROSA (PINK) - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1790,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-ipad-apple-10-geracao-64gb-wi-fi-rosa-pink-quando-desmobilizado-apresentava-f-5080263",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4caf9f00-e82f-4194-88da-74244b8fa19e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080264",
+   "titulo": "01 IPAD APPLE 10ª GERAÇÃO 64GB WI-FI+CELLULAR 5G AZUL - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 2100,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-ipad-apple-10-geracao-64gb-wi-fi-cellular-5g-azul-quando-desmobilizado-aprese-5080264",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/439bdcac-a8bd-4d78-ae6d-c31ad245aa85.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080265",
+   "titulo": "01 IPAD APPLE 10ª GERAÇÃO 64GB WI-FI PRATA - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 1790,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-ipad-apple-10-geracao-64gb-wi-fi-prata-quando-desmobilizado-apresentava-funci-5080265",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fcd3a366-75cb-429d-81a3-6bde83ab1e78.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080266",
+   "titulo": "01 RELÓGIO SMARTWATCH POLAR PACER GPS - APARENTEMENTE NOVO E LACRADO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-relogio-smartwatch-polar-pacer-gps-aparentemente-novo-e-lacrado-sem-testes-no-5080266",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c6f1735d-f352-46ad-afcf-d7e3d8e165d6.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080267",
+   "titulo": "01 RELÓGIO SMARTWATCH POLAR PACER GPS - APARENTEMENTE NOVO E LACRADO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-relogio-smartwatch-polar-pacer-gps-aparentemente-novo-e-lacrado-sem-testes-no-5080267",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dbdc81e6-4f82-48e6-905d-4b7aa74ea949.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080268",
+   "titulo": "01 RELÓGIO SMARTWATCH POLAR PACER GPS - APARENTEMENTE NOVO E LACRADO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-relogio-smartwatch-polar-pacer-gps-aparentemente-novo-e-lacrado-sem-testes-no-5080268",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/38cf16a3-9b7a-40f9-a750-a9c8d472cc9d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080269",
+   "titulo": "01 RELÓGIO SMARTWATCH POLAR PACER GPS - APARENTEMENTE NOVO E LACRADO - SEM TESTES - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-relogio-smartwatch-polar-pacer-gps-aparentemente-novo-e-lacrado-sem-testes-no-5080269",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/530f4ff8-5faf-45c5-875a-c55238376641.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080270",
+   "titulo": "01 IPHONE 17 PRO 256GB - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 4900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-iphone-17-pro-256gb-aparentemente-sem-uso-quando-desmobilizado-apresentava-fu-5080270",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/75d0e100-9652-4cfc-a7e7-49d592417c2c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080271",
+   "titulo": "01 IPHONE 16 PRO 128GB - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3700,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-iphone-16-pro-128gb-quando-desmobilizado-apresentava-funcionamento-no-estado--5080271",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/90fb6b59-a4a7-4124-a4bf-e1f730002e4e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080272",
+   "titulo": "01 IPHONE 16 PRO 512GB - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-iphone-16-pro-512gb-quando-desmobilizado-apresentava-funcionamento-no-estado--5080272",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6a8c7346-d2bf-40dc-b8fb-ab1095b0f6e1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080273",
+   "titulo": "01 IPHONE 16 PRO 512GB - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3900,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-iphone-16-pro-512gb-aparentemente-sem-uso-quando-desmobilizado-apresentava-fu-5080273",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5999ba37-54c0-4932-b4b5-2656a6144bb2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080274",
+   "titulo": "01 APPLE IPHONE 16 PRO 512GB - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3990,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-apple-iphone-16-pro-512gb-quando-desmobilizado-apresentava-funcionamento-no-e-5080274",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/628558b4-a389-4246-bbe4-06f69e757975.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080275",
+   "titulo": "01 IPHONE 16 PRO 128GB - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3790,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-iphone-16-pro-128gb-aparentemente-sem-uso-quando-desmobilizado-apresentava-fu-5080275",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/39a40f98-a1dd-4e54-a5f7-bc2b47a57f05.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080276",
+   "titulo": "01 IPHONE 16 PLUS 128GB - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "categoria": "Telefonia",
+   "lance_atual": 3400,
+   "encerramento": "2026-12-10 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-iphone-16-plus-128gb-aparentemente-sem-uso-quando-desmobilizado-apresentava-f-5080276",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/93bc8fc4-dd11-4b5a-a41d-a682216368d4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "GRANDE LEILÃO APPLE"
    },
    "prioridade": false,
    "destaque": false
