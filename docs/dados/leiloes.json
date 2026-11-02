@@ -1,22 +1,22 @@
 {
- "atualizado_em": "2026-11-02 07:28",
+ "atualizado_em": "2026-11-02 13:23",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 466,
-   "segundos": 406
+   "segundos": 430
   },
   "Superbid": {
    "ok": true,
    "lotes": 1046,
-   "segundos": 11
+   "segundos": 14
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-10-29 19:03",
    "lotes": 755,
-   "segundos": 0
+   "segundos": 1
   }
  },
  "lotes": [
@@ -1609,7 +1609,7 @@
    "id": "superbid-5059492",
    "titulo": "02 Optiplex 3070, 01 Optiplex 3080, 01 B11S, 01 coletor de dados e 13 monitores. Obs: sucatas",
    "categoria": "Informática",
-   "lance_atual": 430,
+   "lance_atual": 460,
    "encerramento": "2026-11-03 14:34",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -1621,7 +1621,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -11253,7 +11253,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -11325,7 +11325,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -11781,7 +11781,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -13665,7 +13665,7 @@
    "id": "superbid-5079324",
    "titulo": "GELADEIRA ELECTROLUX RE31 USADA 220V (01 UN) (Ref.: SB0034218)",
    "categoria": "Refrigeradores",
-   "lance_atual": 200,
+   "lance_atual": 300,
    "encerramento": "2026-11-10 17:03",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -13677,7 +13677,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Empresa Vende"
    },
@@ -31845,7 +31845,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "GRANDE LEILÃO APPLE"
    },
