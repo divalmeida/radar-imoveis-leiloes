@@ -1,22 +1,22 @@
 {
- "atualizado_em": "2026-11-02 13:23",
+ "atualizado_em": "2026-11-02 19:03",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 466,
-   "segundos": 430
+   "segundos": 485
   },
   "Superbid": {
    "ok": true,
    "lotes": 1046,
-   "segundos": 14
+   "segundos": 11
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-10-29 19:03",
    "lotes": 755,
-   "segundos": 1
+   "segundos": 12
   }
  },
  "lotes": [
@@ -841,7 +841,7 @@
    "id": "superbid-5059010",
    "titulo": "Lote com 03 motores trifásicos e 02 disjuntores e contatoras",
    "categoria": "Informática",
-   "lance_atual": 350,
+   "lance_atual": 376.25,
    "encerramento": "2026-11-03 14:02",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -853,7 +853,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -1129,7 +1129,7 @@
    "id": "superbid-5059004",
    "titulo": "01 notebook Dell Latitude 7400, Core i7, com carregador, sem memória e sem HD",
    "categoria": "Informática",
-   "lance_atual": 555,
+   "lance_atual": 600,
    "encerramento": "2026-11-03 14:14",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -1141,7 +1141,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -1153,7 +1153,7 @@
    "id": "superbid-5059003",
    "titulo": "01 notebook Dell Latitude 3400, Core i5, com carregador, 4GB de RAM, sem HD",
    "categoria": "Informática",
-   "lance_atual": 510,
+   "lance_atual": 555,
    "encerramento": "2026-11-03 14:15",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -1165,7 +1165,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -2497,7 +2497,7 @@
    "id": "superbid-5074341",
    "titulo": "STARLINK MINI ROTEADOR, STARLINK MINI INTERNET VIA SATÉLITE (06 UN) (Ref.: SB0033978)",
    "categoria": "Informática",
-   "lance_atual": 680,
+   "lance_atual": 980,
    "encerramento": "2026-11-03 17:36",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2509,7 +2509,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2521,7 +2521,7 @@
    "id": "superbid-5073253",
    "titulo": "ASPIRADOR SH 10000 STONE HAMMER 220V (01 UN) (Ref.: SB0034054)",
    "categoria": "Limpeza",
-   "lance_atual": 1200,
+   "lance_atual": 1300,
    "encerramento": "2026-11-03 17:36",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2533,7 +2533,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2641,7 +2641,7 @@
    "id": "superbid-5074348",
    "titulo": "NOTEBOOK DELL USADO, NOTEBOOK LENOVO USADO (03 UN) (Ref.: SB0034065)",
    "categoria": "Informática",
-   "lance_atual": 540,
+   "lance_atual": 640,
    "encerramento": "2026-11-03 17:41",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2653,7 +2653,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -8829,7 +8829,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Leadec"
    },
@@ -8853,7 +8853,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Leadec"
    },
@@ -8877,7 +8877,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Leadec"
    },
@@ -8901,7 +8901,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Leadec"
    },
@@ -11649,7 +11649,7 @@
    "id": "superbid-5072886",
    "titulo": "LOTE COM 10 CAIXAS DE MÁQUINA SEM FIO MODELO DRAGÃO RECARREGAVEL USB",
    "categoria": "Eletroportáteis",
-   "lance_atual": 150,
+   "lance_atual": 160,
    "encerramento": "2026-11-10 13:38",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -11661,7 +11661,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -13617,7 +13617,7 @@
    "id": "superbid-5075390",
    "titulo": "CAIXA DE SOM PORTÁTIL COR BLACK MULTIMÍDIA BLUETOOTH RÁDIO , PRODUTO NOVO NO ESTADO",
    "categoria": "Eletrônicos",
-   "lance_atual": 60,
+   "lance_atual": 70,
    "encerramento": "2026-11-10 15:08",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -13629,7 +13629,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Relógios e Eletrônicos"
    },
@@ -16257,7 +16257,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -16425,7 +16425,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -17421,7 +17421,7 @@
    "id": "superbid-5073770",
    "titulo": "LAVA E SECA MIDEA 11 KG  - CÓDIGO: 14649 - 48",
    "categoria": "Limpeza",
-   "lance_atual": 500,
+   "lance_atual": 550,
    "encerramento": "2026-11-18 11:13",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17433,7 +17433,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -24573,7 +24573,7 @@
    "id": "superbid-5063774",
    "titulo": "PEÇAS DIVERSAS: ROUTERBOARDS, SWITCHES, CONECTORES E OUTROS (APROX. 803 PÇS)",
    "categoria": "Informática",
-   "lance_atual": 700,
+   "lance_atual": 800,
    "encerramento": "2026-11-05 15:34",
    "cidade": "Teresina",
    "uf": "PI",
@@ -24585,7 +24585,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Alloha"
    },
@@ -26441,7 +26441,7 @@
    "id": "superbid-5071097",
    "titulo": "CARREGADORES VEICULARES MOBILE COM 2 SAÍDAS USB  (APROX. 344 PÇ ) (Ref.: 37)",
    "categoria": "Eletrônicos",
-   "lance_atual": 800,
+   "lance_atual": 900,
    "encerramento": "2026-11-11 10:48",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -26453,7 +26453,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -28173,7 +28173,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SALA DE LEILÕES",
     "leilao": "Logistica reversa"
    },
@@ -32241,7 +32241,7 @@
    "id": "superbid-5067766",
    "titulo": "LOTE CONTENDO 01 HEADSET E 01 CÂMERA - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 340,
+   "lance_atual": 640,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -32249,6 +32249,30 @@
    "link": "https://www.superbid.net/oferta/lote-contendo-01-headset-e-01-camera-para-conserto-no-estado-sem-garantia-5067766",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/89c0004d-89e9-4d0f-bd81-7076169050e8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 5,
+    "leiloeiro": "NP LEILÕES",
+    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5067767",
+   "titulo": "LOTE CONTENDO 03 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-12-16 14:00",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-contendo-03-bens-diversos-para-conserto-no-estado-sem-garantia-5067767",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/27caee05-30c2-4080-b609-fb522677e494.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -32262,34 +32286,10 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5067767",
-   "titulo": "LOTE CONTENDO 03 BENS DIVERSOS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 300,
-   "encerramento": "2026-12-16 14:00",
-   "cidade": "Porto Alegre",
-   "uf": "RS",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-03-bens-diversos-para-conserto-no-estado-sem-garantia-5067767",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/27caee05-30c2-4080-b609-fb522677e494.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "NP LEILÕES",
-    "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
    "id": "superbid-5067768",
    "titulo": "LOTE CONTENDO BENS DIVERSOS PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 300,
+   "lance_atual": 400,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -32301,7 +32301,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -33069,7 +33069,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -33081,7 +33081,7 @@
    "id": "superbid-5071472",
    "titulo": "LOTE CONTENDO DIVERSOS APARELHOS ELETRÔNICOS PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 400,
+   "lance_atual": 500,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -33093,7 +33093,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -34245,7 +34245,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
