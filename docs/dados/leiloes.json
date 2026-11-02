@@ -1,22 +1,22 @@
 {
- "atualizado_em": "2026-11-01 18:57",
+ "atualizado_em": "2026-11-02 07:28",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 466,
-   "segundos": 463
+   "segundos": 406
   },
   "Superbid": {
    "ok": true,
    "lotes": 1046,
-   "segundos": 9
+   "segundos": 11
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-10-29 19:03",
    "lotes": 755,
-   "segundos": 1
+   "segundos": 0
   }
  },
  "lotes": [
@@ -865,7 +865,7 @@
    "id": "superbid-5059009",
    "titulo": "Lote com 40 barras de perfil de alumínio, 1m, para pequenos projetos",
    "categoria": "Informática",
-   "lance_atual": 127.5,
+   "lance_atual": 138.75,
    "encerramento": "2026-11-03 14:03",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -877,7 +877,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -1609,7 +1609,7 @@
    "id": "superbid-5059492",
    "titulo": "02 Optiplex 3070, 01 Optiplex 3080, 01 B11S, 01 coletor de dados e 13 monitores. Obs: sucatas",
    "categoria": "Informática",
-   "lance_atual": 340,
+   "lance_atual": 430,
    "encerramento": "2026-11-03 14:34",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -1621,7 +1621,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 4,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -2425,7 +2425,7 @@
    "id": "superbid-5074338",
    "titulo": "STARLINK MINI INTERNET VIA SATÉLITE (05 UN)     (Ref.: SB0033977)",
    "categoria": "Informática",
-   "lance_atual": 700,
+   "lance_atual": 800,
    "encerramento": "2026-11-03 17:34",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2437,7 +2437,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2449,7 +2449,7 @@
    "id": "superbid-5074339",
    "titulo": "STARLINK MINI INTERNET VIA SATÉLITE (05 UN)  (Ref.: SB0033976)",
    "categoria": "Informática",
-   "lance_atual": 600,
+   "lance_atual": 800,
    "encerramento": "2026-11-03 17:34",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2461,7 +2461,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2497,7 +2497,7 @@
    "id": "superbid-5074341",
    "titulo": "STARLINK MINI ROTEADOR, STARLINK MINI INTERNET VIA SATÉLITE (06 UN) (Ref.: SB0033978)",
    "categoria": "Informática",
-   "lance_atual": 580,
+   "lance_atual": 680,
    "encerramento": "2026-11-03 17:36",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2509,7 +2509,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2545,7 +2545,7 @@
    "id": "superbid-5074343",
    "titulo": "MONITOR GAME ASUS ROG STRIX OLED 31.5\" (01 UN) (Ref.: SB0034056)",
    "categoria": "Informática",
-   "lance_atual": 1360,
+   "lance_atual": 1460,
    "encerramento": "2026-11-03 17:37",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2557,7 +2557,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2761,7 +2761,7 @@
    "id": "superbid-5073260",
    "titulo": "PLACA DE VIDEO RADEON RX 580 AMOR X, STREAM DECK ELGATO MK.2, 15 TECLAS PERSONALIZÁVEIS DE LCD, MINERADOR BITCOIN BITAXE GAMMA 601 E OUTROS (05 UN (Ref.: SB0034072)",
    "categoria": "Informática",
-   "lance_atual": 1130,
+   "lance_atual": 1330,
    "encerramento": "2026-11-03 17:44",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2773,7 +2773,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -16293,7 +16293,7 @@
    "id": "superbid-5079612",
    "titulo": "FOGÕES DIVERSAS MARCAS (APROX. 6 UN) (Ref.: SB0027795)",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 530,
+   "lance_atual": 630,
    "encerramento": "2026-11-11 16:33",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -16305,7 +16305,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -16917,7 +16917,7 @@
    "id": "superbid-5073780",
    "titulo": "FILTRO DE ÁGUA ( NATURAL E GELADA ) EVEREST SPFT PLUS  - CÓDIGO: 14616 - 15 - LOCAL: SALA 1",
    "categoria": "Eletroportáteis",
-   "lance_atual": 100,
+   "lance_atual": 150,
    "encerramento": "2026-11-18 10:35",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -16929,7 +16929,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17397,7 +17397,7 @@
    "id": "superbid-5073798",
    "titulo": "FREEZER VERTICAL EXPOSITOR 569 LITROS FRICON  - CÓDIGO: 14669 - 68",
    "categoria": "Refrigeradores",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-18 11:12",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17409,7 +17409,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17709,7 +17709,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 410,
+   "lance_atual": 460,
    "encerramento": "2026-11-18 12:05",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17721,7 +17721,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 8,
+    "lances": 9,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
