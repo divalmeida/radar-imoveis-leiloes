@@ -1,22 +1,22 @@
 {
- "atualizado_em": "2026-11-02 19:03",
+ "atualizado_em": "2026-11-03 07:16",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 466,
-   "segundos": 485
+   "segundos": 453
   },
   "Superbid": {
    "ok": true,
-   "lotes": 1046,
-   "segundos": 11
+   "lotes": 1052,
+   "segundos": 15
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-10-29 19:03",
    "lotes": 755,
-   "segundos": 12
+   "segundos": 1
   }
  },
  "lotes": [
@@ -673,7 +673,7 @@
    "id": "superbid-5055691",
    "titulo": "01 aparelho Samsung Galaxy Tab A8, sem bateria, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 297.5,
+   "lance_atual": 323.75,
    "encerramento": "2026-11-03 13:55",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -685,7 +685,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -697,7 +697,7 @@
    "id": "superbid-5055690",
    "titulo": "01 aparelho Samsung Galaxy Tab A8, sem bateria, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 297.5,
+   "lance_atual": 323.75,
    "encerramento": "2026-11-03 13:56",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -709,7 +709,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -733,7 +733,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -769,7 +769,7 @@
    "id": "superbid-5059012",
    "titulo": "Lote com 11 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 109,
+   "lance_atual": 119,
    "encerramento": "2026-11-03 13:59",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -781,7 +781,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 12,
+    "lances": 13,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -1981,7 +1981,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -2197,7 +2197,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -2497,7 +2497,7 @@
    "id": "superbid-5074341",
    "titulo": "STARLINK MINI ROTEADOR, STARLINK MINI INTERNET VIA SATÉLITE (06 UN) (Ref.: SB0033978)",
    "categoria": "Informática",
-   "lance_atual": 980,
+   "lance_atual": 1180,
    "encerramento": "2026-11-03 17:36",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2509,7 +2509,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2569,7 +2569,7 @@
    "id": "superbid-5074345",
    "titulo": "AR CONDICIONADO PORTATIL MIDEA TANGO USADO, UNIDADE EVAPORADORA INVERTER MIDEA R32 PARA AR CONDICIONADO, AR-CONDICIONADO DE JANELA CONSUL CCB10GB 10000 BTUS FRIO 127V BRANCO (03 UN)  (Ref.: SB0034057)",
    "categoria": "Refrigeradores",
-   "lance_atual": 910,
+   "lance_atual": 1010,
    "encerramento": "2026-11-03 17:38",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2581,7 +2581,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2737,7 +2737,7 @@
    "id": "superbid-5073258",
    "titulo": "NOTEBOOK COMPAQ PRESARIO 420 INTEL PENTIUM W10 4GB 120GB SSD, TABLETE SAMSUNG USADO, TABLET VAIO TL10 (BOTÃO QUEBRADO) (03 UN)(Ref.: SB0034066)",
    "categoria": "Informática",
-   "lance_atual": 540,
+   "lance_atual": 640,
    "encerramento": "2026-11-03 17:43",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2749,7 +2749,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2761,7 +2761,7 @@
    "id": "superbid-5073260",
    "titulo": "PLACA DE VIDEO RADEON RX 580 AMOR X, STREAM DECK ELGATO MK.2, 15 TECLAS PERSONALIZÁVEIS DE LCD, MINERADOR BITCOIN BITAXE GAMMA 601 E OUTROS (05 UN (Ref.: SB0034072)",
    "categoria": "Informática",
-   "lance_atual": 1330,
+   "lance_atual": 1730,
    "encerramento": "2026-11-03 17:44",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -2773,7 +2773,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -4437,7 +4437,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -4509,7 +4509,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -6333,7 +6333,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -6705,7 +6705,7 @@
    "id": "superbid-5069707",
    "titulo": "40 UNID. FONES DE OUVIDO BLUETOOTH SENDO: 20 UNI. MOD ST-422 + 20 UNI. MOD S930",
    "categoria": "Telefonia",
-   "lance_atual": 500,
+   "lance_atual": 600,
    "encerramento": "2026-11-05 14:52",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -6717,7 +6717,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -16389,7 +16389,7 @@
    "id": "superbid-5075654",
    "titulo": "FOGÕES MARCAS DIVERSAS (APROX. 6 UN) (Ref.: SB0027811)",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 1250,
+   "lance_atual": 1550,
    "encerramento": "2026-11-11 16:35",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -16401,7 +16401,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -16869,7 +16869,7 @@
    "id": "superbid-5076120",
    "titulo": "NOTEBOOKS E COMPUTADORES DELL (APROX. 19 PÇS) (Ref.: lote01)",
    "categoria": "Informática",
-   "lance_atual": 3500,
+   "lance_atual": 3750,
    "encerramento": "2026-11-13 16:30",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -16881,7 +16881,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Compartilhado Industrial & Bens de Consumo"
    },
@@ -17397,7 +17397,7 @@
    "id": "superbid-5073798",
    "titulo": "FREEZER VERTICAL EXPOSITOR 569 LITROS FRICON  - CÓDIGO: 14669 - 68",
    "categoria": "Refrigeradores",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-18 11:12",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17409,7 +17409,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -21190,6 +21190,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5074611",
+   "titulo": "16 COLETORES DE DADOS INTERMEC CK3a, COM 5 BASES DE RECARGA E 20 BATERIAS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 50,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/16-coletores-de-dados-intermec-ck3a-com-5-bases-de-recarga-e-20-baterias-5074611",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/75679c38-c3f6-416b-9b0d-389132936c52.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5074612",
    "titulo": "20 COLETORES DE DADOS INTERMEC, LINHA CK3, COM 5 BASES DE RECARGA E 20 BATERIAS",
    "categoria": "Eletrônicos",
@@ -21262,6 +21286,54 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5076368",
+   "titulo": "2 UNIDADES DE IMPRESSORAS DE ETIQUETAS BIXOLON SLP-T400, COM 2 FONTES DE ALIMENTAÇÃO  IMPRESSÃO DEMONSTRADA EM TESTE",
+   "categoria": "Informática",
+   "lance_atual": 300,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-unidades-de-impressoras-de-etiquetas-bixolon-slp-t400-com-2-fontes-de-alimenta-5076368",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9f59cc17-9b23-455e-8eae-8e426e9a1055.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076374",
+   "titulo": "2 UNIDADES DE IMPRESSORAS DE ETIQUETAS BIXOLON SLP-T400, COM 1 FONTE DE ALIMENTAÇÃO ¿ IMPRESSÃO DEMONSTRADA EM TESTE",
+   "categoria": "Informática",
+   "lance_atual": 250,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-unidades-de-impressoras-de-etiquetas-bixolon-slp-t400-com-1-fonte-de-alimentac-5076374",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/335cc423-a938-4678-87a1-d72ab825823c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5079217",
    "titulo": "SUCATA DE 42 CÂMERAS DE SEGURANÇA INTELBRAS, GIGA E DYNNO, COM 9 CAIXAS DE PROTEÇÃO E ACESSÓRIOS",
    "categoria": "Eletrônicos",
@@ -21273,6 +21345,30 @@
    "link": "https://www.superbid.net/oferta/sucata-de-42-cameras-de-seguranca-intelbras-giga-e-dynno-com-9-caixas-de-proteca-5079217",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/da0c01ed-240b-4d45-8974-81311e6bf472.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5079226",
+   "titulo": "19 COLETORES DE DADOS, INCLUINDO DATALOGIC FALCON E UNITE, COM BASES INTERMEC E ACESSÓRIOS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 50,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/19-coletores-de-dados-incluindo-datalogic-falcon-e-unite-com-bases-intermec-e-ac-5079226",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/91fab4e8-bfd9-4cbe-a1db-ec5fc2f818a7.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -21321,6 +21417,54 @@
    "link": "https://www.superbid.net/oferta/5-processadores-intel-sendo-2-unidades-core-i5-de-10-geracao-2-unidades-core-i5--5079243",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/bea6abf5-232a-440e-9638-fe0b97947bc1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080304",
+   "titulo": "2 UNIDADES DE IMPRESSORAS DE ETIQUETAS BIXOLON SLP-T400, COM 2 FONTES DE ALIMENTAÇÃO ¿ IMPRESSÃO DEMONSTRADA EM TESTE",
+   "categoria": "Informática",
+   "lance_atual": 300,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-unidades-de-impressoras-de-etiquetas-bixolon-slp-t400-com-2-fontes-de-alimenta-5080304",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2dbc6fd1-500b-4e81-a150-0afb204d9ad6.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080309",
+   "titulo": "3 UNIDADES DE IMPRESSORAS DE ETIQUETAS BIXOLON, SENDO 2 UNIDADES SLP-TX400 E 1 UNIDADE SLP-T400 ¿ SEM COMPROVAÇÃO DE IMPRESSÃO",
+   "categoria": "Informática",
+   "lance_atual": 350,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-unidades-de-impressoras-de-etiquetas-bixolon-sendo-2-unidades-slp-tx400-e-1-un-5080309",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cab69fc5-1651-4025-a0ce-648588fe4eaa.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -24682,7 +24826,7 @@
    ],
    "detalhes": {
     "lances": 0,
-    "leiloeiro": "Grupo Neoenergia",
+    "leiloeiro": "SOLD",
     "leilao": "Nexa"
    },
    "prioridade": false,
@@ -26297,7 +26441,7 @@
    "id": "superbid-5071101",
    "titulo": "FONES DE OUVIDO GAMER H-7 COM FIO (50 PÇ) (Ref.: 31)",
    "categoria": "Telefonia",
-   "lance_atual": 200,
+   "lance_atual": 300,
    "encerramento": "2026-11-11 10:45",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -26309,7 +26453,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -26381,7 +26525,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -33153,7 +33297,7 @@
    "id": "superbid-5071475",
    "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS E DISPOSITIVOS - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 240,
+   "lance_atual": 340,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -33165,7 +33309,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
