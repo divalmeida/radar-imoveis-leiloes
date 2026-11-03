@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-11-03 07:16",
+ "atualizado_em": "2026-11-03 13:15",
  "fontes": {
   "Receita Federal": {
    "ok": true,
-   "lotes": 466,
-   "segundos": 453
+   "lotes": 448,
+   "segundos": 467
   },
   "Superbid": {
    "ok": true,
-   "lotes": 1052,
-   "segundos": 15
+   "lotes": 1115,
+   "segundos": 16
   },
   "Caixa": {
    "ok": false,
@@ -20,54 +20,6 @@
   }
  },
  "lotes": [
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067046",
-   "titulo": "MAQUINA DE LAVAR E CENTRIFUGAR INDUSTRIAL SUZUKI",
-   "categoria": "Limpeza",
-   "lance_atual": 6900,
-   "encerramento": "2026-11-03 12:08",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/maquina-de-lavar-e-centrifugar-industrial-suzuki-5067046",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/2188560e-1e17-47bd-9b63-5aadc4467014.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": null,
-    "leilao": "Furadeira, Motoredutor, Serra Circular e outros."
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5070624",
-   "titulo": "DETECTOR DE METAIS BRAPENTA",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 380,
-   "encerramento": "2026-11-03 12:18",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/detector-de-metais-brapenta-5070624",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/1bbad93c-a970-4aff-82a7-3608cc63fdf9.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": null,
-    "leilao": "Furadeira, Motoredutor, Serra Circular e outros."
-   },
-   "prioridade": false,
-   "destaque": true
-  },
   {
    "fonte": "Superbid",
    "id": "superbid-5055706",
@@ -121,7 +73,7 @@
    "id": "superbid-5059023",
    "titulo": "01 nobreak SMS de 1000W, 220V",
    "categoria": "Informática",
-   "lance_atual": 110.5,
+   "lance_atual": 120.25,
    "encerramento": "2026-11-03 13:32",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -133,7 +85,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -481,7 +433,7 @@
    "id": "superbid-5059017",
    "titulo": "Lote com 05 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 765,
+   "lance_atual": 500,
    "encerramento": "2026-11-03 13:47",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -505,7 +457,7 @@
    "id": "superbid-5055694",
    "titulo": "Lote com 05 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 765,
+   "lance_atual": 500,
    "encerramento": "2026-11-03 13:48",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -529,7 +481,7 @@
    "id": "superbid-5055695",
    "titulo": "Lote com 05 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 765,
+   "lance_atual": 500,
    "encerramento": "2026-11-03 13:49",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -553,7 +505,7 @@
    "id": "superbid-5059016",
    "titulo": "Lote com 05 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 765,
+   "lance_atual": 500,
    "encerramento": "2026-11-03 13:50",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -577,7 +529,7 @@
    "id": "superbid-5055692",
    "titulo": "Lote com 05 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 765,
+   "lance_atual": 500,
    "encerramento": "2026-11-03 13:51",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -601,7 +553,7 @@
    "id": "superbid-5055693",
    "titulo": "Lote com 05 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 765,
+   "lance_atual": 500,
    "encerramento": "2026-11-03 13:52",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -625,7 +577,7 @@
    "id": "superbid-5059015",
    "titulo": "Lote com 05 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 765,
+   "lance_atual": 500,
    "encerramento": "2026-11-03 13:53",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -649,7 +601,7 @@
    "id": "superbid-5059014",
    "titulo": "Lote com 05 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 765,
+   "lance_atual": 500,
    "encerramento": "2026-11-03 13:54",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -769,7 +721,7 @@
    "id": "superbid-5059012",
    "titulo": "Lote com 11 aparelhos Galaxy Tab SM-T295, sem baterias, sem acessórios",
    "categoria": "Informática",
-   "lance_atual": 119,
+   "lance_atual": 139,
    "encerramento": "2026-11-03 13:59",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -781,7 +733,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 13,
+    "lances": 15,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -1357,7 +1309,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -1609,7 +1561,7 @@
    "id": "superbid-5059492",
    "titulo": "02 Optiplex 3070, 01 Optiplex 3080, 01 B11S, 01 coletor de dados e 13 monitores. Obs: sucatas",
    "categoria": "Informática",
-   "lance_atual": 460,
+   "lance_atual": 520,
    "encerramento": "2026-11-03 14:34",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -1621,7 +1573,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 7,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -1645,7 +1597,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletronicos e equipamentos"
    },
@@ -2485,7 +2437,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -5673,7 +5625,7 @@
    "id": "superbid-5056470",
    "titulo": "Aprox. 10 Peças: Air Fryer Multi 4,2L GO252 - Liquidificador Black & Decker - Liquidificador Philco PH900 - Panela de Arroz Multi GO003 - Ventilador Britânia BVT491 ETC - CLIQUE NO ANEXO PARA VER AS INFORMAÇÕES COMPLETAS DO LOTE",
    "categoria": "Eletroportáteis",
-   "lance_atual": 580,
+   "lance_atual": 660,
    "encerramento": "2026-11-05 14:30",
    "cidade": "Piracicaba",
    "uf": "SP",
@@ -5685,7 +5637,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "ECONEXSI",
     "leilao": "Logística Reversa"
    },
@@ -6928,7 +6880,7 @@
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/bosch-videojet-decoder-8000-5068327",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/96c0573e-c5d0-4975-8ca7-3b3c6fcbe2f9.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/3c144e67-2d0f-40ea-835f-47a8b037c8b2.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -6952,7 +6904,7 @@
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/bosch-videojet-decoder-8000-5068326",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/60aa38a4-057c-415f-b49e-fd5e83c58656.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/d4d7160f-6b92-4eaa-8cd1-ce0bbbbe837d.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -6976,7 +6928,7 @@
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/bosch-videojet-decoder-8000-5068328",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c7bc45cf-c691-408c-9425-e94754310450.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/62b0ac35-48c2-4de3-8d5e-df4e06b3cba4.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7014,24 +6966,24 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5068854",
-   "titulo": "RETIFICADORA VAPEL AC DC E FONTES RETIFICADORA (10 PÇS) (Ref.: 5)",
+   "id": "superbid-5076478",
+   "titulo": "Bosch VIDEOJET decoder 8000",
    "categoria": "Informática",
-   "lance_atual": 800,
-   "encerramento": "2026-11-05 15:01",
-   "cidade": "Carmo",
-   "uf": "RJ",
+   "lance_atual": 552,
+   "encerramento": "2026-11-05 15:02",
+   "cidade": "Jundiaí",
+   "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/retificadora-vapel-ac-dc-e-fontes-retificadora-10-pcs-ref-5-5068854",
+   "link": "https://www.superbid.net/oferta/bosch-videojet-decoder-8000-5076478",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/b4f466e0-258f-4c36-a772-955f4fbbb91b.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/a8c356be-bbbf-46b6-86ce-7759c8c1f9a9.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
     "lances": 0,
-    "leiloeiro": "SOLD",
-    "leilao": "Alloha"
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
    },
    "prioridade": false,
    "destaque": true
@@ -7042,13 +6994,13 @@
    "titulo": "Bosch VIDEOJET decoder 8000",
    "categoria": "Informática",
    "lance_atual": 552,
-   "encerramento": "2026-11-05 15:02",
+   "encerramento": "2026-11-05 15:03",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/bosch-videojet-decoder-8000-5068325",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/aa5857a0-87a3-4193-b429-cb5a8acd09e6.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/2a4a370e-486d-4375-98de-1429760c1fcf.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7066,13 +7018,13 @@
    "titulo": "Bosch VIDEOJET decoder 8000",
    "categoria": "Informática",
    "lance_atual": 552,
-   "encerramento": "2026-11-05 15:03",
+   "encerramento": "2026-11-05 15:04",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/bosch-videojet-decoder-8000-5068324",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/725f0a91-7006-4c04-9393-bae9372053ea.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/dab23535-0614-4307-84bb-34211fe833c1.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7090,13 +7042,13 @@
    "titulo": "Bosch VIDEOJET decoder 8000",
    "categoria": "Informática",
    "lance_atual": 552,
-   "encerramento": "2026-11-05 15:04",
+   "encerramento": "2026-11-05 15:05",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/bosch-videojet-decoder-8000-5072046",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ecf3cb8c-64a5-4c1b-8722-71534661b52a.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/3111c7c4-c60e-454c-b2aa-e523760a1a26.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7114,13 +7066,13 @@
    "titulo": "Bosch VIDEOJET decoder 8000",
    "categoria": "Informática",
    "lance_atual": 552,
-   "encerramento": "2026-11-05 15:05",
+   "encerramento": "2026-11-05 15:06",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/bosch-videojet-decoder-8000-5072045",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/08eff8f8-8886-4d57-b45b-b5b90b9ed06d.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/6ded512f-db91-42d0-8396-02d8f3bf2b6f.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7138,7 +7090,7 @@
    "titulo": "Switch MikroTik Cloud 326-24G-2S+RM",
    "categoria": "Informática",
    "lance_atual": 559,
-   "encerramento": "2026-11-05 15:06",
+   "encerramento": "2026-11-05 15:07",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -7162,7 +7114,7 @@
    "titulo": "Switch Siemens Scalance 324-12M",
    "categoria": "Informática",
    "lance_atual": 1950,
-   "encerramento": "2026-11-05 15:07",
+   "encerramento": "2026-11-05 15:08",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -7186,7 +7138,7 @@
    "titulo": "Cisco Catalyst 2960-CX",
    "categoria": "Informática",
    "lance_atual": 910,
-   "encerramento": "2026-11-05 15:08",
+   "encerramento": "2026-11-05 15:09",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -7210,7 +7162,7 @@
    "titulo": "Roteador MikroTik RB1100AHx2",
    "categoria": "Informática",
    "lance_atual": 520,
-   "encerramento": "2026-11-05 15:09",
+   "encerramento": "2026-11-05 15:10",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -7234,7 +7186,7 @@
    "titulo": "Mesa Wacom Intuos 660",
    "categoria": "Informática",
    "lance_atual": 279,
-   "encerramento": "2026-11-05 15:10",
+   "encerramento": "2026-11-05 15:11",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -7258,7 +7210,7 @@
    "titulo": "Mesa Wacom Intuos 660",
    "categoria": "Informática",
    "lance_atual": 279,
-   "encerramento": "2026-11-05 15:11",
+   "encerramento": "2026-11-05 15:12",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -7282,37 +7234,13 @@
    "titulo": "Mesa Wacom Intuos 660",
    "categoria": "Informática",
    "lance_atual": 279,
-   "encerramento": "2026-11-05 15:12",
+   "encerramento": "2026-11-05 15:13",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/mesa-wacom-intuos-660-5067864",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/ef997b0b-cf94-4271-a378-f2d73d442793.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NEXT LEILÕES",
-    "leilao": "Leilão de Informatica"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071545",
-   "titulo": "Mesa Wacom Intuos 660",
-   "categoria": "Informática",
-   "lance_atual": 279,
-   "encerramento": "2026-11-05 15:13",
-   "cidade": "Jundiaí",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/mesa-wacom-intuos-660-5071545",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/19fa615e-e135-4388-9a2b-94b32da55bb5.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7350,17 +7278,17 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5067862",
-   "titulo": "Video porteiro Intelbras IVR 1070 HR",
+   "id": "superbid-5071545",
+   "titulo": "Mesa Wacom Intuos 660",
    "categoria": "Informática",
-   "lance_atual": 227,
+   "lance_atual": 279,
    "encerramento": "2026-11-05 15:14",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/video-porteiro-intelbras-ivr-1070-hr-5067862",
+   "link": "https://www.superbid.net/oferta/mesa-wacom-intuos-660-5071545",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/9c954789-8601-48a2-8c16-7c05207d5845.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/19fa615e-e135-4388-9a2b-94b32da55bb5.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7398,17 +7326,17 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5068322",
-   "titulo": "Samsung Galaxy S21 FE 5G",
+   "id": "superbid-5067862",
+   "titulo": "Video porteiro Intelbras IVR 1070 HR",
    "categoria": "Informática",
-   "lance_atual": 315,
+   "lance_atual": 227,
    "encerramento": "2026-11-05 15:15",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/samsung-galaxy-s21-fe-5g-5068322",
+   "link": "https://www.superbid.net/oferta/video-porteiro-intelbras-ivr-1070-hr-5067862",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/38111791-3a5a-43ee-b7d3-5cb96c13facb.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/9c954789-8601-48a2-8c16-7c05207d5845.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7470,17 +7398,17 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5072043",
-   "titulo": "Samsung Galaxy S10 Plus",
+   "id": "superbid-5068322",
+   "titulo": "Samsung Galaxy S21 FE 5G",
    "categoria": "Informática",
-   "lance_atual": 157,
+   "lance_atual": 315,
    "encerramento": "2026-11-05 15:16",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/samsung-galaxy-s10-plus-5072043",
+   "link": "https://www.superbid.net/oferta/samsung-galaxy-s21-fe-5g-5068322",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/6c6ff348-e5c6-431b-9ea5-807f2b62ac00.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/38111791-3a5a-43ee-b7d3-5cb96c13facb.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7518,17 +7446,17 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5068321",
-   "titulo": "Cooler Master N200 Mini Tower com Fonte de 600W",
+   "id": "superbid-5072043",
+   "titulo": "Samsung Galaxy S10 Plus",
    "categoria": "Informática",
-   "lance_atual": 455,
+   "lance_atual": 157,
    "encerramento": "2026-11-05 15:17",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/cooler-master-n200-mini-tower-com-fonte-de-600w-5068321",
+   "link": "https://www.superbid.net/oferta/samsung-galaxy-s10-plus-5072043",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/35d27124-b3ed-4983-9abf-c920be27ad3b.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/6c6ff348-e5c6-431b-9ea5-807f2b62ac00.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7590,17 +7518,17 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5068320",
-   "titulo": "Conversores de Mídia FlexMedia (02 Unidades)",
+   "id": "superbid-5068321",
+   "titulo": "Cooler Master N200 Mini Tower com Fonte de 600W",
    "categoria": "Informática",
-   "lance_atual": 71,
+   "lance_atual": 455,
    "encerramento": "2026-11-05 15:18",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/conversores-de-midia-flexmedia-02-unidades-5068320",
+   "link": "https://www.superbid.net/oferta/cooler-master-n200-mini-tower-com-fonte-de-600w-5068321",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/016e082b-d805-4590-b00e-d074c4411470.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/35d27124-b3ed-4983-9abf-c920be27ad3b.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7662,7 +7590,7 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5072042",
+   "id": "superbid-5068320",
    "titulo": "Conversores de Mídia FlexMedia (02 Unidades)",
    "categoria": "Informática",
    "lance_atual": 71,
@@ -7670,9 +7598,9 @@
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/conversores-de-midia-flexmedia-02-unidades-5072042",
+   "link": "https://www.superbid.net/oferta/conversores-de-midia-flexmedia-02-unidades-5068320",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/12ac41c1-a9a3-48fc-82a0-4ff49cf39ef2.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/016e082b-d805-4590-b00e-d074c4411470.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7734,7 +7662,7 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5068319",
+   "id": "superbid-5072042",
    "titulo": "Conversores de Mídia FlexMedia (02 Unidades)",
    "categoria": "Informática",
    "lance_atual": 71,
@@ -7742,9 +7670,9 @@
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/conversores-de-midia-flexmedia-02-unidades-5068319",
+   "link": "https://www.superbid.net/oferta/conversores-de-midia-flexmedia-02-unidades-5072042",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/a264073a-4add-4d7e-8f0d-8357706009c1.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/12ac41c1-a9a3-48fc-82a0-4ff49cf39ef2.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7806,7 +7734,7 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5068318",
+   "id": "superbid-5068319",
    "titulo": "Conversores de Mídia FlexMedia (02 Unidades)",
    "categoria": "Informática",
    "lance_atual": 71,
@@ -7814,9 +7742,9 @@
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/conversores-de-midia-flexmedia-02-unidades-5068318",
+   "link": "https://www.superbid.net/oferta/conversores-de-midia-flexmedia-02-unidades-5068319",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/93043535-3e39-46dc-9ba1-96d978f0ac7a.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/a264073a-4add-4d7e-8f0d-8357706009c1.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7878,7 +7806,7 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5068317",
+   "id": "superbid-5068318",
    "titulo": "Conversores de Mídia FlexMedia (02 Unidades)",
    "categoria": "Informática",
    "lance_atual": 71,
@@ -7886,9 +7814,9 @@
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/conversores-de-midia-flexmedia-02-unidades-5068317",
+   "link": "https://www.superbid.net/oferta/conversores-de-midia-flexmedia-02-unidades-5068318",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/5d5d6b09-1b19-45f4-99f8-adcdbb9635e0.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/93043535-3e39-46dc-9ba1-96d978f0ac7a.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -7950,17 +7878,17 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5072041",
-   "titulo": "Ventoinha (Cooler) Noctua",
+   "id": "superbid-5068317",
+   "titulo": "Conversores de Mídia FlexMedia (02 Unidades)",
    "categoria": "Informática",
-   "lance_atual": 78,
+   "lance_atual": 71,
    "encerramento": "2026-11-05 15:23",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/ventoinha-cooler-noctua-5072041",
+   "link": "https://www.superbid.net/oferta/conversores-de-midia-flexmedia-02-unidades-5068317",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/2404489f-26d5-4620-8499-93d14fe80b38.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/5d5d6b09-1b19-45f4-99f8-adcdbb9635e0.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -8022,7 +7950,7 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5072040",
+   "id": "superbid-5072041",
    "titulo": "Ventoinha (Cooler) Noctua",
    "categoria": "Informática",
    "lance_atual": 78,
@@ -8030,9 +7958,9 @@
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/ventoinha-cooler-noctua-5072040",
+   "link": "https://www.superbid.net/oferta/ventoinha-cooler-noctua-5072041",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/decd48ba-b644-457c-8276-d2bf83b294ef.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/2404489f-26d5-4620-8499-93d14fe80b38.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -8094,7 +8022,7 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5072039",
+   "id": "superbid-5072040",
    "titulo": "Ventoinha (Cooler) Noctua",
    "categoria": "Informática",
    "lance_atual": 78,
@@ -8102,9 +8030,9 @@
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/ventoinha-cooler-noctua-5072039",
+   "link": "https://www.superbid.net/oferta/ventoinha-cooler-noctua-5072040",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/bec52fa6-68a6-4e87-b555-f41d52f8ffd5.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/decd48ba-b644-457c-8276-d2bf83b294ef.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -8166,11 +8094,35 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5068316",
+   "id": "superbid-5072039",
    "titulo": "Ventoinha (Cooler) Noctua",
    "categoria": "Informática",
    "lance_atual": 78,
    "encerramento": "2026-11-05 15:26",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ventoinha-cooler-noctua-5072039",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bec52fa6-68a6-4e87-b555-f41d52f8ffd5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068316",
+   "titulo": "Ventoinha (Cooler) Noctua",
+   "categoria": "Informática",
+   "lance_atual": 78,
+   "encerramento": "2026-11-05 15:27",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8194,7 +8146,7 @@
    "titulo": "Ventoinha (Cooler) Noctua",
    "categoria": "Informática",
    "lance_atual": 78,
-   "encerramento": "2026-11-05 15:27",
+   "encerramento": "2026-11-05 15:28",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8218,7 +8170,7 @@
    "titulo": "Notebook Sony Vaio",
    "categoria": "Informática",
    "lance_atual": 247,
-   "encerramento": "2026-11-05 15:28",
+   "encerramento": "2026-11-05 15:29",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8242,7 +8194,7 @@
    "titulo": "Placa-mãe Asus B150",
    "categoria": "Informática",
    "lance_atual": 208,
-   "encerramento": "2026-11-05 15:29",
+   "encerramento": "2026-11-05 15:30",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8266,7 +8218,7 @@
    "titulo": "Soundbar Samsung A555",
    "categoria": "Informática",
    "lance_atual": 585,
-   "encerramento": "2026-11-05 15:30",
+   "encerramento": "2026-11-05 15:31",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8290,37 +8242,13 @@
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:31",
+   "encerramento": "2026-11-05 15:32",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/lote-de-5-monitores-marca-elo-touchscreen-openframe-15-polegadas-industrial-com--5068330",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/868c6395-0f18-4ad4-bbc6-b76bfa1ff17a.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "NEXT LEILÕES",
-    "leilao": "Leilão de Informatica"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068331",
-   "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
-   "categoria": "Informática",
-   "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:32",
-   "cidade": "São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-de-5-monitores-marca-elo-touchscreen-openframe-15-polegadas-industrial-com--5068331",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/9f0665c1-01f6-45be-bee0-d598d00e321d.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -8358,7 +8286,7 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5072048",
+   "id": "superbid-5068331",
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
@@ -8366,9 +8294,9 @@
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-de-5-monitores-marca-elo-touchscreen-openframe-15-polegadas-industrial-com--5072048",
+   "link": "https://www.superbid.net/oferta/lote-de-5-monitores-marca-elo-touchscreen-openframe-15-polegadas-industrial-com--5068331",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/58fc5da4-996f-4a6b-b5f5-6e55ed1d1946.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/9f0665c1-01f6-45be-bee0-d598d00e321d.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -8406,7 +8334,7 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5072049",
+   "id": "superbid-5072048",
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
@@ -8414,9 +8342,9 @@
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-de-5-monitores-marca-elo-touchscreen-openframe-15-polegadas-industrial-com--5072049",
+   "link": "https://www.superbid.net/oferta/lote-de-5-monitores-marca-elo-touchscreen-openframe-15-polegadas-industrial-com--5072048",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/515251a2-bea8-421e-b2e0-8fdb4dd6563c.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/58fc5da4-996f-4a6b-b5f5-6e55ed1d1946.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -8430,7 +8358,7 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5072050",
+   "id": "superbid-5072049",
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
@@ -8438,9 +8366,9 @@
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-de-5-monitores-marca-elo-touchscreen-openframe-15-polegadas-industrial-com--5072050",
+   "link": "https://www.superbid.net/oferta/lote-de-5-monitores-marca-elo-touchscreen-openframe-15-polegadas-industrial-com--5072049",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/0c85c793-1da2-4a63-bae1-53fe6eb06c7c.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/515251a2-bea8-421e-b2e0-8fdb4dd6563c.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -8478,11 +8406,35 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5068332",
+   "id": "superbid-5072050",
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
    "encerramento": "2026-11-05 15:36",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-de-5-monitores-marca-elo-touchscreen-openframe-15-polegadas-industrial-com--5072050",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0c85c793-1da2-4a63-bae1-53fe6eb06c7c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5068332",
+   "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
+   "categoria": "Informática",
+   "lance_atual": 552.5,
+   "encerramento": "2026-11-05 15:37",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8506,7 +8458,7 @@
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:37",
+   "encerramento": "2026-11-05 15:38",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8530,7 +8482,7 @@
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:38",
+   "encerramento": "2026-11-05 15:39",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8554,7 +8506,7 @@
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:39",
+   "encerramento": "2026-11-05 15:40",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8578,7 +8530,7 @@
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:40",
+   "encerramento": "2026-11-05 15:41",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8602,7 +8554,7 @@
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:41",
+   "encerramento": "2026-11-05 15:42",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8626,7 +8578,7 @@
    "titulo": "Lote de 5 Monitores Marca ELO Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:42",
+   "encerramento": "2026-11-05 15:43",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8650,7 +8602,7 @@
    "titulo": "Lote de 5 Monitores Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:43",
+   "encerramento": "2026-11-05 15:44",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8674,7 +8626,7 @@
    "titulo": "Lote de 5 Monitores Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:44",
+   "encerramento": "2026-11-05 15:45",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8698,7 +8650,7 @@
    "titulo": "Lote de 5 Monitores Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:45",
+   "encerramento": "2026-11-05 15:46",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8722,7 +8674,7 @@
    "titulo": "Lote de 5 Monitores Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:46",
+   "encerramento": "2026-11-05 15:47",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8746,7 +8698,7 @@
    "titulo": "Lote de 5 Monitores Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:47",
+   "encerramento": "2026-11-05 15:48",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -8770,13 +8722,277 @@
    "titulo": "Lote de 5 Monitores Touchscreen openframe 15 polegadas Industrial com USB e RJ45",
    "categoria": "Informática",
    "lance_atual": 552.5,
-   "encerramento": "2026-11-05 15:48",
+   "encerramento": "2026-11-05 15:49",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/lote-de-5-monitores-touchscreen-openframe-15-polegadas-industrial-com-usb-e-rj45-5068341",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/01823d3c-d939-4310-8a51-1cd52a595d27.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076497",
+   "titulo": "Abajur de mesa",
+   "categoria": "Informática",
+   "lance_atual": 182,
+   "encerramento": "2026-11-05 15:51",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/abajur-de-mesa-5076497",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8b27cf31-547a-4edd-8c05-b2284fa1c74a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080430",
+   "titulo": "Abajur de mesa",
+   "categoria": "Informática",
+   "lance_atual": 182,
+   "encerramento": "2026-11-05 15:52",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/abajur-de-mesa-5080430",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/293f599e-819c-4d95-939b-1caff1bb198e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080432",
+   "titulo": "Puff redondo",
+   "categoria": "Informática",
+   "lance_atual": 351,
+   "encerramento": "2026-11-05 15:53",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/puff-redondo-5080432",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7bd7f705-a8fd-4e34-ab0a-9759f73d0680.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076499",
+   "titulo": "Puff redondo",
+   "categoria": "Informática",
+   "lance_atual": 351,
+   "encerramento": "2026-11-05 15:54",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/puff-redondo-5076499",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/894c23f8-093c-40b3-b7f8-b202dc20586e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076498",
+   "titulo": "Puff redondo",
+   "categoria": "Informática",
+   "lance_atual": 351,
+   "encerramento": "2026-11-05 15:55",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/puff-redondo-5076498",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/46c11a7c-99be-41b4-a7d5-563b91315895.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080431",
+   "titulo": "Memória RAM 16GB DDR4 Corsair",
+   "categoria": "Informática",
+   "lance_atual": 455,
+   "encerramento": "2026-11-05 15:56",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/memoria-ram-16gb-ddr4-corsair-5080431",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a9104772-9dda-43da-9e6c-207d367891fa.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076496",
+   "titulo": "Memória RAM 16GB DDR4 GEIL",
+   "categoria": "Informática",
+   "lance_atual": 390,
+   "encerramento": "2026-11-05 15:57",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/memoria-ram-16gb-ddr4-geil-5076496",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d07ae2c2-e686-4241-a7b0-71adee3fbab5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076495",
+   "titulo": "Processador Intel",
+   "categoria": "Informática",
+   "lance_atual": 487,
+   "encerramento": "2026-11-05 15:58",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/processador-intel-5076495",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bca9935d-ca22-4524-8284-53f82b5449aa.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076494",
+   "titulo": "Memória RAM 16GB DDR3 (02 pentes 08GB)",
+   "categoria": "Informática",
+   "lance_atual": 182,
+   "encerramento": "2026-11-05 15:59",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/memoria-ram-16gb-ddr3-02-pentes-08gb-5076494",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/045046d9-eb09-447b-abd3-01b9792f1be4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080429",
+   "titulo": "Intel Xeon E5-2637 v4 e Intel Xeon E5-2637 v3",
+   "categoria": "Informática",
+   "lance_atual": 188,
+   "encerramento": "2026-11-05 16:00",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/intel-xeon-e5-2637-v4-e-intel-xeon-e5-2637-v3-5080429",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e6e19f52-fbfa-4779-9fd8-b51ea0c8f8d9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "NEXT LEILÕES",
+    "leilao": "Leilão de Informatica"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080428",
+   "titulo": "Placa mãe + Gabinete + Fonte",
+   "categoria": "Informática",
+   "lance_atual": 585,
+   "encerramento": "2026-11-05 16:01",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/placa-mae-gabinete-fonte-5080428",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3cbe5f98-b182-48f1-8ada-f80b5de26f5e.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -9249,7 +9465,7 @@
    "id": "superbid-5069643",
    "titulo": "01 TV SAMSUNG 85 POL Q LED E QN85Q70 , VERSÃO QAQ70 (SEM USO)",
    "categoria": "Eletrônicos",
-   "lance_atual": 3600,
+   "lance_atual": 3800,
    "encerramento": "2026-11-09 14:32",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -9261,7 +9477,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -9825,7 +10041,7 @@
    "id": "superbid-5069596",
    "titulo": "48 CABOS HDMI C/ 02 E 03 METROS",
    "categoria": "Eletrônicos",
-   "lance_atual": 300,
+   "lance_atual": 350,
    "encerramento": "2026-11-09 15:02",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -9837,7 +10053,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -16363,14 +16579,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5079614",
-   "titulo": "FOGÕES (APROX. 06 UN) (Ref.: SB0027810)",
+   "titulo": "FOGÕES (APROX. 05 UN) (Ref.: SB0027810)",
    "categoria": "Fornos e Fogões",
    "lance_atual": 1020,
    "encerramento": "2026-11-11 16:35",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/fogoes-aprox-06-un-ref-sb0027810-5079614",
+   "link": "https://www.superbid.net/oferta/fogoes-aprox-05-un-ref-sb0027810-5079614",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/152882d7-a926-4078-8b6d-7ad29abb3676.jpg",
    "observacoes": [
@@ -16650,11 +16866,875 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5076568",
+   "titulo": "FG 4B PISO BRASTEMP BFO4NBR CLEAN BIV INX, FG 4B PISO ELECTROLUX FE4GB BIV PTO, FG 4B PISO ATLAS AGILE UP GLASS BIV PTO (06 UN) (Ref.: SB0029297)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 755,
+   "encerramento": "2026-11-11 16:42",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fg-4b-piso-brastemp-bfo4nbr-clean-biv-inx-fg-4b-piso-electrolux-fe4gb-biv-pto-fg-5076568",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5d0a20f2-0407-4b00-b289-decaeed78e0d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080513",
+   "titulo": "FG 5B PISO ATLAS DAKO MAGISTER GLASS BIV PTO, FG 5B PISO ATLAS MONACO PLUS BIV PTO, FG 5B PISO ATLAS AGILE UP GLASS BIV PTO E OUTROS (07 UN) (Ref.: SB0029298)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 1030,
+   "encerramento": "2026-11-11 16:42",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fg-5b-piso-atlas-dako-magister-glass-biv-pto-fg-5b-piso-atlas-monaco-plus-biv-pt-5080513",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9505c6e3-73bc-4a4d-aff2-cfea8bda8d16.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080512",
+   "titulo": "FG 4B PISO CONSUL CFO4NAB BIV BCO, FG 4B PISO CONTINENTAL FC4GB BIVOLT PRETO, FG 4B ATLAS DAKO SUPREME BRANCO BIV   (06 UN) (Ref.: SB0029299)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 685,
+   "encerramento": "2026-11-11 16:43",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fg-4b-piso-consul-cfo4nab-biv-bco-fg-4b-piso-continental-fc4gb-bivolt-preto-fg-4-5080512",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a92f63cf-bd87-45c7-9fac-99dcce5a4677.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080515",
+   "titulo": "FG 4B PISO ATLAS MONACO TOP GLASS BIV PTO, FG 4B PISO CONSUL CFO4NAB BIV BCO, FG 4B PISO CONTINENTAL FC4GB BIVOLT PRETO\nE OUTROS (06 UN) (Ref.: SB0029300)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 630,
+   "encerramento": "2026-11-11 16:43",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fg-4b-piso-atlas-monaco-top-glass-biv-pto-fg-4b-piso-consul-cfo4nab-biv-bco-fg-4-5080515",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a2683cf1-705f-499a-b4cc-2a2d2e4e8e07.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076569",
+   "titulo": "FG 5B PISO CONSUL CFS5VAE MESA VD BIV PTO, FG 5B PISO BRASTEMP BFS5NCR BIV INOX, FG 5B PISO CONSUL CFS5VAR VIDRO BIV E OUTROS (07 UN)                    (Ref.: SB0029301)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 5978.05,
+   "encerramento": "2026-11-11 16:44",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fg-5b-piso-consul-cfs5vae-mesa-vd-biv-pto-fg-5b-piso-brastemp-bfs5ncr-biv-inox-f-5076569",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6e657f42-d833-426e-a65b-97faf5728ec4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080514",
+   "titulo": "FG 5B PISO ATLAS DAKO MAGISTER GLASS BIV PTO, FG 4B ATLAS PISO AGILE INOX/BCO BIV, FG 4B ATLAS DAKO SUPREME BRANCO BIV E OUTROS  (05 UN)   (Ref.: SB0029302)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 685,
+   "encerramento": "2026-11-11 16:44",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fg-5b-piso-atlas-dako-magister-glass-biv-pto-fg-4b-atlas-piso-agile-inox-bco-biv-5080514",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/57a04379-1f9c-4738-b329-3c98d55dee80.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080518",
+   "titulo": "FG 4B PISO ATLAS COLISEUM PLUS BCO, \t\nFG 5B PISO ATLAS DAKO MAGISTER GLASS BIV PTO, FG 5B ATLAS DAKO SUPREME GLASS PRETO BIV E OUTROS   (12 UN) (Ref.: SB0029303)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 1190,
+   "encerramento": "2026-11-11 16:45",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fg-4b-piso-atlas-coliseum-plus-bco-fg-5b-piso-atlas-dako-magister-glass-biv-pto--5080518",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/007c118a-c14c-4150-a708-b3a1d1b42183.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080511",
+   "titulo": "LAV 10KG SUGGAR NEO ECO 220V PRETA, LAV 10KG SUGGAR NEO ECO BR 220V, LAV 15K SUGGAR LAVAMAX ECO LE1521PR 110V PRATA E OUTROS (10 UN)                  (Ref.: SB0029304)",
+   "categoria": "Limpeza",
+   "lance_atual": 720,
+   "encerramento": "2026-11-11 16:45",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lav-10kg-suggar-neo-eco-220v-preta-lav-10kg-suggar-neo-eco-br-220v-lav-15k-sugga-5080511",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/73b5978e-38f5-413d-9d91-40ae0455dfd4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080517",
+   "titulo": "LAV 14KG BRASTEMP BWF14AB 220V BRANCA, LAV 14KG BRASTEMP BWF14AB 110V BRANCA E OUTROS  (04 UN) (Ref.: SB0029305)",
+   "categoria": "Limpeza",
+   "lance_atual": 880,
+   "encerramento": "2026-11-11 16:46",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lav-14kg-brastemp-bwf14ab-220v-branca-lav-14kg-brastemp-bwf14ab-110v-branca-e-ou-5080517",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b84fa54f-d477-4112-9da4-9d7bb408fcd2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076570",
+   "titulo": "LAV 13KG ELECTROLUX LDA13 220V BC, LAV 13KG ELECTROLUX LDA13 110V BC, LAV 14,5 KG ELECTROLUX LEE15 220V BRANCA (04 UN) (Ref.: SB0029306)",
+   "categoria": "Limpeza",
+   "lance_atual": 820,
+   "encerramento": "2026-11-11 16:46",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lav-13kg-electrolux-lda13-220v-bc-lav-13kg-electrolux-lda13-110v-bc-lav-14-5-kg--5076570",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bc75699c-cb0c-4fd7-b765-577b587406bd.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080516",
+   "titulo": "SEC PISO 20KG SAMSUNG DV20B9750CV/AZ 220V BLACK\n(01 UN) (Ref.: SB0029307)",
+   "categoria": "Limpeza",
+   "lance_atual": 1045,
+   "encerramento": "2026-11-11 16:47",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/sec-piso-20kg-samsung-dv20b9750cv-az-220v-black-01-un-ref-sb0029307-5080516",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8ef12207-2a12-425b-96cb-e0b0bdf62372.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076573",
+   "titulo": "LAV 14KG MIDEA MA512W140A/WK-04 127V BRANCA, LAV 14KG BRASTEMP BWJ14A9 110V CINZA PLATINUM, LAV 15KG MIDEA MA512W150A/WK05 220V BRANCA, LAV 15KG MIDEA MA512W150A/WK05 220V BRANCA (04 UN) \n(Ref.: SB0029308)",
+   "categoria": "Limpeza",
+   "lance_atual": 735,
+   "encerramento": "2026-11-11 16:47",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lav-14kg-midea-ma512w140a-wk-04-127v-branca-lav-14kg-brastemp-bwj14a9-110v-cinza-5076573",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0063af2f-b5c8-4c69-b12f-c10f16500f06.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080519",
+   "titulo": "LAV 17KG SAMSUNG SMART WA17CG PRETO 127V, LAVA E SECA 11KG TCL C311WDW1 127V BC (02 UN)          (Ref.: SB0029309)",
+   "categoria": "Limpeza",
+   "lance_atual": 615,
+   "encerramento": "2026-11-11 16:48",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lav-17kg-samsung-smart-wa17cg-preto-127v-lava-e-seca-11kg-tcl-c311wdw1-127v-bc-0-5080519",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/adc7d558-7e0a-44e5-a373-c08d1fb14759.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076572",
+   "titulo": "LAVA E SECA 14KG LG SMART VC4 CV5014WC4 127V BC, LAVA E SECA 12KG LG SMART VC4 CV5012PC4A 220V INOX LOOK (02 UN) (Ref.: SB0029310)",
+   "categoria": "Limpeza",
+   "lance_atual": 1005,
+   "encerramento": "2026-11-11 16:48",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lava-e-seca-14kg-lg-smart-vc4-cv5014wc4-127v-bc-lava-e-seca-12kg-lg-smart-vc4-cv-5076572",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6aefdfa9-d0fe-4896-b53e-8e2e40a45022.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076571",
+   "titulo": "LAV 13KG CONSUL CWH13AB 110V BRANCO, LAV 10KG CONSUL CWB10BB 220V BC, LAV 13KG CONSUL CWH13AB 110V BRANCO (03 UN) (Ref.: SB0029311)",
+   "categoria": "Limpeza",
+   "lance_atual": 620,
+   "encerramento": "2026-11-11 16:49",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lav-13kg-consul-cwh13ab-110v-branco-lav-10kg-consul-cwb10bb-220v-bc-lav-13kg-con-5076571",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/06254c5d-8426-4521-b4df-85fb64986889.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080523",
+   "titulo": "LAV 18 KG ELECTROLUX LEE18 220V BRANCA, LAV 18KG BRASTEMP BWF18AB 110V BC, LAV 18 KG ELECTROLUX LEE18 110V BRANCA, LAV 13KG BRASTEMP BWK13AB 110V BRANCA (04 UN) (Ref.: SB0029312)",
+   "categoria": "Limpeza",
+   "lance_atual": 1040,
+   "encerramento": "2026-11-11 16:49",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lav-18-kg-electrolux-lee18-220v-branca-lav-18kg-brastemp-bwf18ab-110v-bc-lav-18--5080523",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/20a54336-832b-4dd8-8f5f-67793a76be64.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080521",
+   "titulo": "F MIC 36L ELECTROLUX ME36B 220V BCO, F MIC 32L BRASTEMP BMS46AR 220V INX, F MIC 32L BRASTEMP BMS46AR 110V INX E OUTROS  (11 UN)                   (Ref.: SB0029314)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 805,
+   "encerramento": "2026-11-11 16:50",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/f-mic-36l-electrolux-me36b-220v-bco-f-mic-32l-brastemp-bms46ar-220v-inx-f-mic-32-5080521",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/aeecbacb-f866-4013-8346-6a368a7eb892.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080520",
+   "titulo": "F MIC 36L ELECTROLUX ME36B 127V BCO, F MIC 23L ELECTROLUX ME23P 220V PT, F MIC 30L LG MS3091BC EASYCLEAN 127V BC, F MIC 32L CONSUL CMS46AR 220V INX (11 UN) (Ref.: SB0029315)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 765,
+   "encerramento": "2026-11-11 16:51",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/f-mic-36l-electrolux-me36b-127v-bco-f-mic-23l-electrolux-me23p-220v-pt-f-mic-30l-5080520",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9aa043ea-0426-4fef-8ac3-12c45d2462ca.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080524",
+   "titulo": "F MIC 23L ELECTROLUX ME23B 127V BCO, F MIC 23L ELECTROLUX ME23S 127V PRATA, F MIC 36L ELECTROLUX ME36S 127V PTA, F MIC 32L CONSUL CMS46AB 110V BC\n(11 UN)(Ref.: SB0029316)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 780,
+   "encerramento": "2026-11-11 16:51",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/f-mic-23l-electrolux-me23b-127v-bco-f-mic-23l-electrolux-me23s-127v-prata-f-mic--5080524",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/61759b54-2f16-4bbe-934f-c2eddc09261d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076567",
+   "titulo": "FG 5B COOKTOP ATLAS DAKO SUPREME BIV PTO,FG 4B COOKTOP ATLAS DAKO SUPREME BIV PTO E OUTROS (06 UN) (Ref.: SB0029319)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 365,
+   "encerramento": "2026-11-11 16:53",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fg-5b-cooktop-atlas-dako-supreme-biv-pto-fg-4b-cooktop-atlas-dako-supreme-biv-pt-5076567",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2ba28ed9-8e91-4501-b872-5c9d9881f786.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080525",
+   "titulo": "REF FF 377L CONSUL CRM44MB 110V BC, REF FF 377L, CONSUL CRM44MB 220V BC E OUTROS (04 UN)          (Ref.: SB0029320)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 1060,
+   "encerramento": "2026-11-11 16:53",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-377l-consul-crm44mb-110v-bc-ref-ff-377l-consul-crm44mb-220v-bc-e-outros-0-5080525",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/329da3bd-f5e7-47d5-a3cf-149ae75dc006.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080529",
+   "titulo": "REF FF 340L CONSUL CRM39AKANA 110V EVOX, REF FF 340L CONSUL CRM39ABANA 110V BR (02 UN)          (Ref.: SB0029321)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 575,
+   "encerramento": "2026-11-11 16:54",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-340l-consul-crm39akana-110v-evox-ref-ff-340l-consul-crm39abana-110v-br-02-5080529",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7ad56922-96c8-49e1-842d-2b8ab712e3fb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076576",
+   "titulo": "REF FF DUPLEX 394L MIDEA MD-RT533EVD461 127V INOX, REF FF DUPLEX 394L MIDEA MD-RT533EVD012 220V BC (02 UN) (Ref.: SB0029323)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 415,
+   "encerramento": "2026-11-11 16:54",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-duplex-394l-midea-md-rt533evd461-127v-inox-ref-ff-duplex-394l-midea-md-rt-5076576",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/384512b3-2471-49d0-8017-1bef4f9d90e2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080527",
+   "titulo": "REF FF 385L BRASTEMP BRM46MK 110V INOX, REF FF 385L BRASTEMP BRM46MK 110V INOX  (02 UN)    (Ref.: SB0029324)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 590,
+   "encerramento": "2026-11-11 16:55",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-385l-brastemp-brm46mk-110v-inox-ref-ff-385l-brastemp-brm46mk-110v-inox-02-5080527",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5f91a097-7551-41e7-8e73-a65c7059b55f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080526",
+   "titulo": "REF FF 480L ELECTROLUX TF71B BLACK INOX 220V, REF FF 480L ELECTROLUX TF71S INOX LOOK 220V, REF FF 480L ELECTROLUX TF71B BLACK INOX 220V (03 UN) (Ref.: SB0029325)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 1160,
+   "encerramento": "2026-11-11 16:55",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-480l-electrolux-tf71b-black-inox-220v-ref-ff-480l-electrolux-tf71s-inox-l-5080526",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/771ee372-6946-428d-9b6d-b565b76396fb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076577",
+   "titulo": "REF FF 490L ELECTROLUX INVERSE IB7S 110V INOX, REF FF 490L ELECTROLUX INVERSE IB7 110V BRANCO  (02 UN) (Ref.: SB0029327)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 810,
+   "encerramento": "2026-11-11 16:56",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-490l-electrolux-inverse-ib7s-110v-inox-ref-ff-490l-electrolux-inverse-ib7-5076577",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2a077f4b-cd40-48aa-94e0-480f99ff4cb3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080532",
+   "titulo": "REF DUP 332L CONSUL CRD37MB 220V BC, REF DUP 332L CONSUL CRD37MB 110V BC, REF FF 455L CONSUL CRM53MB BRANCA 220V (03 UN) (Ref.: SB0029328)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 710,
+   "encerramento": "2026-11-11 16:56",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-dup-332l-consul-crd37mb-220v-bc-ref-dup-332l-consul-crd37mb-110v-bc-ref-ff-4-5080532",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/01463a0b-c5f3-401a-9864-43b31f52032d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080530",
+   "titulo": "REF 590L ELECTROLUX IM8S 127V INOX (01 UN)   (Ref.: SB0029329)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 670,
+   "encerramento": "2026-11-11 16:57",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-590l-electrolux-im8s-127v-inox-01-un-ref-sb0029329-5080530",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d4207bba-70b1-4469-9f43-bf9451e31935.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080531",
+   "titulo": "REF FDR 559L BRASTEMP BRO85MK 110V INOX (01 UN) (Ref.: SB0029330)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 675,
+   "encerramento": "2026-11-11 16:57",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-fdr-559l-brastemp-bro85mk-110v-inox-01-un-ref-sb0029330-5080531",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ce3c55f5-ac92-48e8-bcfb-bca74dd3fbe9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080535",
+   "titulo": "REF FF 377L CONSUL CRM44MK 220V INX, REF FF 377L CONSUL CRM44MK 220V INX (02 UN) (Ref.: SB0029331)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 570,
+   "encerramento": "2026-11-11 16:58",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-377l-consul-crm44mk-220v-inx-ref-ff-377l-consul-crm44mk-220v-inx-02-un-re-5080535",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8633a5db-fee9-4a17-96b0-1da07db8f8ac.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076578",
+   "titulo": "REF 590L ELECTROLUX IM8S 220V INOX (01 UN) (Ref.: SB0029332)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 670,
+   "encerramento": "2026-11-11 16:58",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-590l-electrolux-im8s-220v-inox-01-un-ref-sb0029332-5076578",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/396e19c1-3dfd-4cb6-a108-4eea6060da04.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080534",
+   "titulo": "REF FF INVERTER 526L ELECTROLUX ES5GB SBS PTO 220V\n(01 UN) (Ref.: SB0029333)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 525,
+   "encerramento": "2026-11-11 16:59",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-inverter-526l-electrolux-es5gb-sbs-pto-220v-01-un-ref-sb0029333-5080534",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9c5e11b7-90bd-4e91-aad7-4474b4eb0938.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076582",
+   "titulo": "REF FDR 559L BRASTEMP BRO85MK 220V INOX (01 UN) (Ref.: SB0029334)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 675,
+   "encerramento": "2026-11-11 16:59",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-fdr-559l-brastemp-bro85mk-220v-inox-01-un-ref-sb0029334-5076582",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/24ba1f43-268f-4e4a-a057-d82520fa5a4a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076581",
+   "titulo": "REF FF 385L BRASTEMP BRM46MK 220V INOX,  REF FF 385L BRASTEMP BRM46MB 110V BCO, REF FF 385L BRASTEMP BRM46MB 220V BCO (03 UN)                   (Ref.: SB0029335)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 4286.7,
+   "encerramento": "2026-11-11 17:00",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-385l-brastemp-brm46mk-220v-inox-ref-ff-385l-brastemp-brm46mb-110v-bco-ref-5076581",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b383610a-aa43-499f-89cb-ab205e14a63a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080536",
+   "titulo": "REF FF 380L ELECTROLUX INVERTER IF41 110V BRANCO, REF FF 480L ELECTROLUX TF71 BC 127V (02 UN)           (Ref.: SB0029336)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 585,
+   "encerramento": "2026-11-11 17:00",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-380l-electrolux-inverter-if41-110v-branco-ref-ff-480l-electrolux-tf71-bc--5080536",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b162c586-b7eb-41a8-9979-9c045651aca5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076579",
+   "titulo": "REF FF 447L BRASTEMP BRE57FK INVERSE 110V INOX, REF DUPLEX 375L LG GN-B372PQW 127V BRANCA, REF FF 512L BRASTEMP BRM62AK INOX BIV (03 UN) \n(Ref.: SB0029338)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 1180,
+   "encerramento": "2026-11-11 17:01",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-447l-brastemp-bre57fk-inverse-110v-inox-ref-duplex-375l-lg-gn-b372pqw-127-5076579",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/44b3d6bd-9d13-4f06-9e64-39334ce8b8e9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5079616",
    "titulo": "03 FOGÕES (Ref.: SB0029718)",
    "categoria": "Fornos e Fogões",
    "lance_atual": 1500,
-   "encerramento": "2026-11-11 16:42",
+   "encerramento": "2026-11-11 17:02",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -16678,7 +17758,7 @@
    "titulo": "04 FOGÕES (Ref.: SB0029178)",
    "categoria": "Fornos e Fogões",
    "lance_atual": 1000,
-   "encerramento": "2026-11-11 16:42",
+   "encerramento": "2026-11-11 17:02",
    "cidade": "Jundiaí",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -16690,6 +17770,54 @@
    ],
    "detalhes": {
     "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080528",
+   "titulo": "REF FF 512L BRASTEMP BRM62AB BRANCO BIV, REF FF 500L BRASTEMP BRE66AK INVERSE INOX BIV  (02 UN)\n(Ref.: SB0029322)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 810,
+   "encerramento": "2026-11-11 17:03",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-512l-brastemp-brm62ab-branco-biv-ref-ff-500l-brastemp-bre66ak-inverse-ino-5080528",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a0e6c2d4-2926-40eb-acf0-e2f64d25d977.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080533",
+   "titulo": "REF FF 380L ELECTROLUX INVERTER IF41S 220V INOX, REF FF 380L ELECTROLUX INVERTER IF41S 220V INOX\n(02 UN) (Ref.: SB0029326)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 565,
+   "encerramento": "2026-11-11 17:03",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-380l-electrolux-inverter-if41s-220v-inox-ref-ff-380l-electrolux-inverter--5080533",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/36a6d004-529e-463c-af97-be116a0ba17c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -17097,7 +18225,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17145,7 +18273,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17313,7 +18441,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17337,7 +18465,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17421,7 +18549,7 @@
    "id": "superbid-5073770",
    "titulo": "LAVA E SECA MIDEA 11 KG  - CÓDIGO: 14649 - 48",
    "categoria": "Limpeza",
-   "lance_atual": 550,
+   "lance_atual": 600,
    "encerramento": "2026-11-18 11:13",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17433,7 +18561,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17457,7 +18585,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17964,6 +19092,222 @@
     "lances": 0,
     "leiloeiro": "RMoysés Leilões",
     "leilao": "1ª V. Reg. Empresarial e Arbitragem Campinas/SP"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076437",
+   "titulo": "04 GAVETAS DE ARMAZENAMENTO STORAGE NETAPP DS2246 NAJ-1001 C/ 24 BAIAS (Ref.: DD)",
+   "categoria": "Informática",
+   "lance_atual": 15000,
+   "encerramento": "2026-11-19 16:02",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/04-gavetas-de-armazenamento-storage-netapp-ds2246-naj-1001-c-24-baias-ref-dd-5076437",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fe8bcf10-7815-48ce-9394-ff469366e60a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Compartilhado Industrial & Bens de Consumo"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080368",
+   "titulo": "CHASSI C/ SERVIDORES HP E SERVIDOR DE BACKUP EMC (02 PÇS) (Ref.: DH)",
+   "categoria": "Informática",
+   "lance_atual": 500,
+   "encerramento": "2026-11-19 16:03",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/chassi-c-servidores-hp-e-servidor-de-backup-emc-02-pcs-ref-dh-5080368",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/969c4faa-d59b-400c-a9a7-a0815c17abfc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Compartilhado Industrial & Bens de Consumo"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076436",
+   "titulo": "02 SMART GLASSES (ÓCULOS DE REALIDADE ASSISTIDA) XPERTEYE REALWEAR HMT-1 (Ref.: DI)",
+   "categoria": "Informática",
+   "lance_atual": 1500,
+   "encerramento": "2026-11-19 16:03",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/02-smart-glasses-oculos-de-realidade-assistida-xperteye-realwear-hmt-1-ref-di-5076436",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/30101aa4-2613-400f-8b74-1331e53f3a90.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Compartilhado Industrial & Bens de Consumo"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076435",
+   "titulo": "02 SMART GLASSES (ÓCULOS DE REALIDADE ASSISTIDA) XPERTEYE REALWEAR HMT-1 (Ref.: DI)",
+   "categoria": "Informática",
+   "lance_atual": 1500,
+   "encerramento": "2026-11-19 16:04",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/02-smart-glasses-oculos-de-realidade-assistida-xperteye-realwear-hmt-1-ref-di-5076435",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ebaf8d12-ea32-4da4-8969-588c79519cd7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Compartilhado Industrial & Bens de Consumo"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080367",
+   "titulo": "02 SMART GLASSES (ÓCULOS DE REALIDADE ASSISTIDA) XPERTEYE REALWEAR HMT-1 (Ref.: DJ)",
+   "categoria": "Informática",
+   "lance_atual": 1500,
+   "encerramento": "2026-11-19 16:04",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/02-smart-glasses-oculos-de-realidade-assistida-xperteye-realwear-hmt-1-ref-dj-5080367",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/26d7aa09-4874-4d43-81de-fca58c337dc2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Compartilhado Industrial & Bens de Consumo"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080366",
+   "titulo": "02 SMART GLASSES (ÓCULOS DE REALIDADE ASSISTIDA) XPERTEYE REALWEAR HMT-1 (Ref.: DJ)",
+   "categoria": "Informática",
+   "lance_atual": 1500,
+   "encerramento": "2026-11-19 16:05",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/02-smart-glasses-oculos-de-realidade-assistida-xperteye-realwear-hmt-1-ref-dj-5080366",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/020ccf98-d3d3-4056-8a49-e2e159b6991a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Compartilhado Industrial & Bens de Consumo"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080365",
+   "titulo": "04 CONSOLES DE VIDEOCONFERÊNCIA LENOVO THINKSMART HUB 500 (Ref.: DL)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 1400,
+   "encerramento": "2026-11-19 16:05",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/04-consoles-de-videoconferencia-lenovo-thinksmart-hub-500-ref-dl-5080365",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/47db8b7b-9f42-41e8-9bc4-3005f0e9bfea.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Compartilhado Industrial & Bens de Consumo"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080364",
+   "titulo": "03 CONSOLES DE VIDEOCONFERÊNCIA LENOVO THINKSMART HUB 500 (Ref.: DL)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 1050,
+   "encerramento": "2026-11-19 16:06",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/03-consoles-de-videoconferencia-lenovo-thinksmart-hub-500-ref-dl-5080364",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8cca9c20-3b10-47f2-bb1b-62230ffd6444.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Compartilhado Industrial & Bens de Consumo"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076434",
+   "titulo": "03 CONSOLES DE VIDEOCONFERÊNCIA LENOVO THINKSMART HUB 500 (Ref.: DL)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 1050,
+   "encerramento": "2026-11-19 16:06",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/03-consoles-de-videoconferencia-lenovo-thinksmart-hub-500-ref-dl-5076434",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/592aabfe-0058-4728-811b-d4ebe5ea6246.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Compartilhado Industrial & Bens de Consumo"
    },
    "prioridade": false,
    "destaque": true
@@ -21549,362 +22893,26 @@
    "destaque": false
   },
   {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-6",
-   "titulo": "ASPIRADOR DE PO XIAOMI ROBOT VACUUM X20 PRO D102GL - COR BRANCO S/N: 57873DUAABF5QP10344-ORIGEM: CHINA-RM MP08-02-026 (e mais 77 itens)",
-   "categoria": "ELETRODOMÉSTICO",
-   "lance_atual": 80000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/6",
-   "valor_avaliacao": 200000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_56_548884_4574b32bd06003c4ffd3045aa5e96dc8.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-7",
-   "titulo": "CAIXA ACUSTICA HMASTON KARAOKE COM 2 MICROFONES RN04 ORIGEM: CHINA MP 08-01-005 (e mais 246 itens)",
-   "categoria": "APARELHO DE SOM/ACESSÓRIO",
-   "lance_atual": 50000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/7",
-   "valor_avaliacao": 170000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_57_548885_81fd0bb1ee3e82ad85147482bdd9ed40.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-10",
-   "titulo": "CAMERA DE SEGURANCA JORTAN JT-8276QJ ORIGEM CHINA MP04-05-017 (e mais 265 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 30000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/10",
-   "valor_avaliacao": 130000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_60_548888_656335866b54347598f02f0d3fcedfba.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-11",
-   "titulo": "PROJETOR DE IMAGEM HY320 ORIGEM CHINA MP09-04.013 (e mais 216 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 50000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/11",
-   "valor_avaliacao": 250000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_61_548889_50cd053d49241862b8d23da7158af594.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-12",
-   "titulo": "CAMERA DE SEGURANCA WIFI SMART SKU:G1 MADE IN CHINA MP08-04.002 (e mais 268 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 30000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/12",
-   "valor_avaliacao": 160000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_62_548890_52cb87e06894aa43ce17e8302b50bce0.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-15",
-   "titulo": "FLASH ELETRONICO YONGNUO YN24EX NOCL3736182 (e mais 70 itens)",
-   "categoria": "MÁQUINA FOTOGRÁFICA/ACESSÓRIO",
-   "lance_atual": 100000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/15",
-   "valor_avaliacao": 250000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_65_548893_a57b03b88e70d3af342a69477590a39f.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-17",
-   "titulo": "MONITOR - OUTROS ACER EI242QR (e mais 2 itens)",
-   "categoria": "INFORMÁTICA",
-   "lance_atual": 5000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
+   "fonte": "Superbid",
+   "id": "superbid-5074132",
+   "titulo": "01 FREEZER COLLING + 02 TANQUINHOS PRAXIS (#1MAGO)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 900,
+   "encerramento": "2026-11-03 08:46",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
    "publico": "PF e PJ",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/17",
-   "valor_avaliacao": 20000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_67_548895_87a1e2e31c9fdfe493071ab013e2709b.jpg",
+   "link": "https://www.superbid.net/oferta/01-freezer-colling-02-tanquinhos-praxis-1mago-5074132",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/aaa70e0e-3eb4-4950-9255-d110fc8d0f6e.jpg",
    "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
+    "Confirme nas condições do leilão se aceita pessoa física"
    ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-20",
-   "titulo": "CAMERA FOTOGRAFICA SONY ZV-E10 NS:7666543 (e mais 22 itens)",
-   "categoria": "MÁQUINA FOTOGRÁFICA/ACESSÓRIO",
-   "lance_atual": 30000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/20",
-   "valor_avaliacao": 60000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_70_548899_13f032305d6c6f3e7d90c645e5e7246d.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-21",
-   "titulo": "ASPIRADOR DE PO XIAOMI ROBOT VACUUM S10 41721;BFACXF3Z104116 41721;BFACXF3Z102664 41721;BFACXF3Z104074 (e mais 1 itens)",
-   "categoria": "ELETRODOMÉSTICO",
-   "lance_atual": 3000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "PF e PJ",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/21",
-   "valor_avaliacao": 8000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_71_548900_9a18d27c99a43aceff7d82f0013fd1d4.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-23",
-   "titulo": "PELICULA DE VIDRO PARA CELULAR AVELAS ORIGEM CHINA",
-   "categoria": "CELULAR/ACESSÓRIO",
-   "lance_atual": 10000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/23",
-   "valor_avaliacao": 50000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_73_552523_aa8808bdb57778798392eea97203e98a.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-24",
-   "titulo": "VIDEO GAME STICK LITE 4K 2.4G WIRELESS CONTROLLER GAMEPAD 2.4G ORIGEM CHINA MP08-04.065 (e mais 51 itens)",
-   "categoria": "VIDEOGAME",
-   "lance_atual": 50000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/24",
-   "valor_avaliacao": 80000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_74_548904_01f381f6c1218430ac17609afc6ece03.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-25",
-   "titulo": "CAMERA FOTOGRAFICA TOUP TEK LENTE ASTRONOMICA DSO COOLING CP26-087 (e mais 44 itens)",
-   "categoria": "MÁQUINA FOTOGRÁFICA/ACESSÓRIO",
-   "lance_atual": 70000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/25",
-   "valor_avaliacao": 140000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_75_548905_a11f0c021fade58aa9cebd0b0a3d0f37.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-27",
-   "titulo": "ASPIRADOR DE PO XIAOMI ROBOT VACCUM X20 MAX MADE IN CHINA MP08-04.444 (e mais 83 itens)",
-   "categoria": "ELETRODOMÉSTICO",
-   "lance_atual": 80000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/27",
-   "valor_avaliacao": 160000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_77_548907_0ca7ddd9785b87219a3844180bd88215.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-31",
-   "titulo": "MICROFONE SEM FIO HOLLYLAND LARK M2 MP09-03.012 (e mais 98 itens)",
-   "categoria": "APARELHO DE SOM/ACESSÓRIO",
-   "lance_atual": 60000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/31",
-   "valor_avaliacao": 100000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_81_548911_ff29d205cd3c7b5a38ce0cf321cfeeb5.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-37",
-   "titulo": "BATERIA DEJI MODELO DIVERSOS MADE IN CHINA CP41-036 (e mais 20 itens)",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 40000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/37",
-   "valor_avaliacao": 70000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_87_548921_50711a91c236f0e71fb450f55aa9fe1e.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-39",
-   "titulo": "TINTA DE IMPRESSORA TEROS PRINT DTF INK TEXTIL WHITE 1L MADE IN CHINA CP35-010 (e mais 13 itens)",
-   "categoria": "INFORMÁTICA",
-   "lance_atual": 8000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/39",
-   "valor_avaliacao": 15000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_89_548922_25a1f718ba3f6ed6d45d3b929b9fce8a.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-63",
-   "titulo": "MESA DE SOM/MIXER/CONTROLE",
-   "categoria": "ELETRÔNICO/ÁUDIO/VÍDEO",
-   "lance_atual": 5000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/63",
-   "valor_avaliacao": 10000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_113_549229_e049693884afc323d366a32b6c7add0d.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Receita Federal",
-   "id": "receita-400100/2/2026-65",
-   "titulo": "ASPIRADOR DE PO XIAOMI ROBOT VACUUM S20 TR09-01.002 (e mais 11 itens)",
-   "categoria": "ELETRODOMÉSTICO",
-   "lance_atual": 5000,
-   "encerramento": "2026-10-29 21:00",
-   "cidade": "Recife",
-   "uf": "PE",
-   "publico": "Só PJ (CNPJ)",
-   "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/400100/2/2026/lote/65",
-   "valor_avaliacao": 18000,
-   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/400100/2/foto_pq_400100_2026_2_115_549233_3857f01c86ca1730174b83ac2ccb11fb.jpg",
-   "observacoes": [
-    "Proposta fechada: valor mostrado é o lance mínimo"
-   ],
-   "detalhes": {},
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Logistica reversa"
+   },
    "prioridade": false,
    "destaque": false
   },
@@ -24717,7 +25725,7 @@
    "id": "superbid-5063774",
    "titulo": "PEÇAS DIVERSAS: ROUTERBOARDS, SWITCHES, CONECTORES E OUTROS (APROX. 803 PÇS)",
    "categoria": "Informática",
-   "lance_atual": 800,
+   "lance_atual": 1000,
    "encerramento": "2026-11-05 15:34",
    "cidade": "Teresina",
    "uf": "PI",
@@ -24729,7 +25737,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Alloha"
    },
@@ -25833,6 +26841,102 @@
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
    "detalhes": {},
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076514",
+   "titulo": "01 (um) aparelho de televisão, marca Samsung, 40 (quarenta) polegadas,  sem modelo ou número de série aparente, com controle remoto e em funcionamento.",
+   "categoria": "Refrigeradores",
+   "lance_atual": 600,
+   "encerramento": "2026-11-10 13:01",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-um-aparelho-de-televisao-marca-samsung-40-quarenta-polegadas-sem-modelo-ou-nu-5076514",
+   "valor_avaliacao": null,
+   "imagem": null,
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Leilão da 1ª Vara do  Trabalho de Três Lagoas"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080448",
+   "titulo": "01 (um) aparelho de ar-condicionado, marca LG, capacidade de 7.000 BTUs,  sem número de série aparente, em funcionamento, tratando-se de aparelho antigo.",
+   "categoria": "Refrigeradores",
+   "lance_atual": 850,
+   "encerramento": "2026-11-10 13:01",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-um-aparelho-de-ar-condicionado-marca-lg-capacidade-de-7-000-btus-sem-numero-d-5080448",
+   "valor_avaliacao": null,
+   "imagem": null,
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Leilão da 1ª Vara do  Trabalho de Três Lagoas"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080445",
+   "titulo": ": 01 (um) aparelho de ar-condicionado, marca Rheem, capacidade de 12.000  BTUs, com controle remoto, em funcionamento.",
+   "categoria": "Refrigeradores",
+   "lance_atual": 1000,
+   "encerramento": "2026-11-10 13:02",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-um-aparelho-de-ar-condicionado-marca-rheem-capacidade-de-12-000-btus-com-cont-5080445",
+   "valor_avaliacao": null,
+   "imagem": null,
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Leilão da 1ª Vara do  Trabalho de Três Lagoas"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076517",
+   "titulo": "01 (um) refrigerador (geladeira), marca Continental, capacidade de 270  (duzentos e setenta) litros,",
+   "categoria": "Refrigeradores",
+   "lance_atual": 450,
+   "encerramento": "2026-11-10 13:03",
+   "cidade": "Campo Grande",
+   "uf": "MS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/01-um-refrigerador-geladeira-marca-continental-capacidade-de-270-duzentos-e-sete-5076517",
+   "valor_avaliacao": null,
+   "imagem": null,
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": null,
+    "leilao": "Leilão da 1ª Vara do  Trabalho de Três Lagoas"
+   },
    "prioridade": false,
    "destaque": false
   },
@@ -27966,30 +29070,6 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5072769",
-   "titulo": "APROXIMADAMENTE 14 ITENS DIVERSOS #2",
-   "categoria": "Eletrônicos",
-   "lance_atual": 300,
-   "encerramento": "2026-12-03 11:00",
-   "cidade": "Belo Horizonte",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/aproximadamente-14-itens-diversos-2-5072769",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/510debe1-971e-46c7-8b0a-5502ff8e92da.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SALA DE LEILÕES",
-    "leilao": "Ferramentas Eletricas"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
    "id": "superbid-5072922",
    "titulo": "AIR FRYER + SECADOR DE CABELO + PISCINA INFANTIL + PRANCHA ALISADORA + BATEDEIRA + PREPARADOR DE SUCOS + LIQUIDIFICADOR + BATEDEIRA + CHALEIRA (#316MAGO)",
    "categoria": "Eletrônicos",
@@ -29681,30 +30761,6 @@
    "link": "https://www.superbid.net/oferta/freezer-fricon-7mago-5074131",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/6ae94b42-1640-4dd6-8718-9da31b2a8e16.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SALA DE LEILÕES",
-    "leilao": "Logistica reversa"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5074132",
-   "titulo": "01 FREEZER COLLING + 02 TANQUINHOS PRAXIS (#1MAGO)",
-   "categoria": "Refrigeradores",
-   "lance_atual": 900,
-   "encerramento": "2026-12-04 11:00",
-   "cidade": "Belo Horizonte",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-freezer-colling-02-tanquinhos-praxis-1mago-5074132",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/aaa70e0e-3eb4-4950-9255-d110fc8d0f6e.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -32709,7 +33765,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -32805,7 +33861,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -34422,6 +35478,78 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5076398",
+   "titulo": "183 Caixas de Aparelhos de Barbear Gold Blade",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 45000,
+   "encerramento": "2026-12-17 10:00",
+   "cidade": "Arcos",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/183-caixas-de-aparelhos-de-barbear-gold-blade-5076398",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1f852b0c-4973-4f1c-9c4f-65d5b5e6b101.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ADRIANO LEILOEIRO",
+    "leilao": "183 Caixas de Aparelhos de Barbear Gold Blade"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5076415",
+   "titulo": "APARELHOS ELÉTRICOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1200,
+   "encerramento": "2026-12-30 10:00",
+   "cidade": "Água Clara",
+   "uf": "MS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aparelhos-eletricos-5076415",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/12e40d8a-65c1-4cf5-9778-33bcd1833dd8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "KRON LEILÕES",
+    "leilao": "Prefeitura Municipal de Água Clara/MS"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080359",
+   "titulo": "APARELHOS ELETRÔNICOS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 900,
+   "encerramento": "2026-12-30 10:00",
+   "cidade": "Água Clara",
+   "uf": "MS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aparelhos-eletronicos-5080359",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ab8c8289-745b-4632-a8d0-6ddba2a05f54.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "KRON LEILÕES",
+    "leilao": "Prefeitura Municipal de Água Clara/MS"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5057568",
    "titulo": "2 computadores marca Dell",
    "categoria": "Informática",
@@ -34584,6 +35712,30 @@
     "lances": 0,
     "leiloeiro": "SCHERER LEILÕES",
     "leilao": "02ª Vara Cível da Comarca de Foz do Iguaçu/PR"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5080450",
+   "titulo": "Leilão Judicial: Geladeira Duplex Cyclic Defrost em Colombo/PR",
+   "categoria": "Refrigeradores",
+   "lance_atual": 900,
+   "encerramento": "2027-03-04 09:10",
+   "cidade": "Colombo",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/leilao-judicial-geladeira-duplex-cyclic-defrost-em-colombo-pr-5080450",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/362c6cbb-b652-48b5-8c13-9843694118af.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "KRON LEILÕES",
+    "leilao": "08° JUIZADO ESPECIAL CÍVEL DE CURITIBA/PARANÁ"
    },
    "prioridade": false,
    "destaque": false
