@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-11-04 19:12",
+ "atualizado_em": "2026-11-05 07:30",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 775,
-   "segundos": 774
+   "segundos": 692
   },
   "Superbid": {
    "ok": true,
-   "lotes": 1128,
-   "segundos": 14
+   "lotes": 1236,
+   "segundos": 12
   },
   "Caixa": {
    "ok": false,
@@ -4677,7 +4677,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Informatica"
    },
@@ -7401,7 +7401,7 @@
    "id": "superbid-5069596",
    "titulo": "48 CABOS HDMI C/ 02 E 03 METROS",
    "categoria": "Eletrônicos",
-   "lance_atual": 400,
+   "lance_atual": 450,
    "encerramento": "2026-11-09 15:02",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -7413,7 +7413,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -18009,7 +18009,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18057,7 +18057,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18081,7 +18081,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18141,7 +18141,7 @@
    "id": "superbid-5076573",
    "titulo": "LAV 14KG MIDEA MA512W140A/WK-04 127V BRANCA, LAV 14KG BRASTEMP BWJ14A9 110V CINZA PLATINUM, LAV 15KG MIDEA MA512W150A/WK05 220V BRANCA, LAV 15KG MIDEA MA512W150A/WK05 220V BRANCA (04 UN) \n(Ref.: SB0029308)",
    "categoria": "Limpeza",
-   "lance_atual": 735,
+   "lance_atual": 935,
    "encerramento": "2026-11-11 16:48",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18153,7 +18153,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18165,7 +18165,7 @@
    "id": "superbid-5080519",
    "titulo": "LAV 17KG SAMSUNG SMART WA17CG PRETO 127V, LAVA E SECA 11KG TCL C311WDW1 127V BC (02 UN)          (Ref.: SB0029309)",
    "categoria": "Limpeza",
-   "lance_atual": 715,
+   "lance_atual": 915,
    "encerramento": "2026-11-11 16:48",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18177,7 +18177,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18225,7 +18225,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18249,7 +18249,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18285,7 +18285,7 @@
    "id": "superbid-5080520",
    "titulo": "F MIC 36L ELECTROLUX ME36B 127V BCO, F MIC 23L ELECTROLUX ME23P 220V PT, F MIC 30L LG MS3091BC EASYCLEAN 127V BC, F MIC 32L CONSUL CMS46AR 220V INX (11 UN) (Ref.: SB0029315)",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 765,
+   "lance_atual": 865,
    "encerramento": "2026-11-11 16:51",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18297,7 +18297,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18357,7 +18357,7 @@
    "id": "superbid-5080525",
    "titulo": "REF FF 377L CONSUL CRM44MB 110V BC, REF FF 377L, CONSUL CRM44MB 220V BC E OUTROS (04 UN)          (Ref.: SB0029320)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1060,
+   "lance_atual": 1160,
    "encerramento": "2026-11-11 16:54",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18369,7 +18369,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18429,7 +18429,7 @@
    "id": "superbid-5080527",
    "titulo": "REF FF 385L BRASTEMP BRM46MK 110V INOX, REF FF 385L BRASTEMP BRM46MK 110V INOX  (02 UN)    (Ref.: SB0029324)",
    "categoria": "Refrigeradores",
-   "lance_atual": 790,
+   "lance_atual": 890,
    "encerramento": "2026-11-11 16:55",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18441,7 +18441,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18477,7 +18477,7 @@
    "id": "superbid-5076577",
    "titulo": "REF FF 490L ELECTROLUX INVERSE IB7S 110V INOX, REF FF 490L ELECTROLUX INVERSE IB7 110V BRANCO  (02 UN) (Ref.: SB0029327)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1010,
+   "lance_atual": 1110,
    "encerramento": "2026-11-11 16:56",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18489,7 +18489,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18549,7 +18549,7 @@
    "id": "superbid-5080531",
    "titulo": "REF FDR 559L BRASTEMP BRO85MK 110V INOX (01 UN) (Ref.: SB0029330)",
    "categoria": "Refrigeradores",
-   "lance_atual": 975,
+   "lance_atual": 1075,
    "encerramento": "2026-11-11 16:58",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18561,7 +18561,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18597,7 +18597,7 @@
    "id": "superbid-5076578",
    "titulo": "REF 590L ELECTROLUX IM8S 220V INOX (01 UN) (Ref.: SB0029332)",
    "categoria": "Refrigeradores",
-   "lance_atual": 770,
+   "lance_atual": 970,
    "encerramento": "2026-11-11 16:59",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18605,30 +18605,6 @@
    "link": "https://www.superbid.net/oferta/ref-590l-electrolux-im8s-220v-inox-01-un-ref-sb0029332-5076578",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/396e19c1-3dfd-4cb6-a108-4eea6060da04.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 2,
-    "leiloeiro": "SOLD",
-    "leilao": "Casas Bahia"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5080534",
-   "titulo": "REF FF INVERTER 526L ELECTROLUX ES5GB SBS PTO 220V\n(01 UN) (Ref.: SB0029333)",
-   "categoria": "Refrigeradores",
-   "lance_atual": 925,
-   "encerramento": "2026-11-11 16:59",
-   "cidade": "Jundiaí",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/ref-ff-inverter-526l-electrolux-es5gb-sbs-pto-220v-01-un-ref-sb0029333-5080534",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/9c5e11b7-90bd-4e91-aad7-4474b4eb0938.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -18642,10 +18618,34 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5080534",
+   "titulo": "REF FF INVERTER 526L ELECTROLUX ES5GB SBS PTO 220V\n(01 UN) (Ref.: SB0029333)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 1025,
+   "encerramento": "2026-11-11 16:59",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-ff-inverter-526l-electrolux-es5gb-sbs-pto-220v-01-un-ref-sb0029333-5080534",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9c5e11b7-90bd-4e91-aad7-4474b4eb0938.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 5,
+    "leiloeiro": "SOLD",
+    "leilao": "Casas Bahia"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5076582",
    "titulo": "REF FDR 559L BRASTEMP BRO85MK 220V INOX (01 UN) (Ref.: SB0029334)",
    "categoria": "Refrigeradores",
-   "lance_atual": 675,
+   "lance_atual": 775,
    "encerramento": "2026-11-11 17:00",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18657,7 +18657,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18693,7 +18693,7 @@
    "id": "superbid-5080536",
    "titulo": "REF FF 380L ELECTROLUX INVERTER IF41 110V BRANCO, REF FF 480L ELECTROLUX TF71 BC 127V (02 UN)           (Ref.: SB0029336)",
    "categoria": "Refrigeradores",
-   "lance_atual": 685,
+   "lance_atual": 785,
    "encerramento": "2026-11-11 17:01",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18705,7 +18705,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18717,7 +18717,7 @@
    "id": "superbid-5076579",
    "titulo": "REF FF 447L BRASTEMP BRE57FK INVERSE 110V INOX, REF DUPLEX 375L LG GN-B372PQW 127V BRANCA, REF FF 512L BRASTEMP BRM62AK INOX BIV (03 UN) \n(Ref.: SB0029338)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1280,
+   "lance_atual": 1380,
    "encerramento": "2026-11-11 17:02",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -18729,7 +18729,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18813,7 +18813,7 @@
    "id": "superbid-5080533",
    "titulo": "REF FF 380L ELECTROLUX INVERTER IF41S 220V INOX, REF FF 380L ELECTROLUX INVERTER IF41S 220V INOX\n(02 UN) (Ref.: SB0029326)",
    "categoria": "Refrigeradores",
-   "lance_atual": 865,
+   "lance_atual": 965,
    "encerramento": "2026-11-11 17:04",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18825,7 +18825,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -19137,7 +19137,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Dexco"
    },
@@ -19281,7 +19281,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Dexco"
    },
@@ -20205,7 +20205,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 510,
+   "lance_atual": 560,
    "encerramento": "2026-11-16 12:35",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -20217,7 +20217,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 10,
+    "lances": 11,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -23265,6 +23265,2574 @@
    "destaque": true
   },
   {
+   "fonte": "Superbid",
+   "id": "superbid-5077946",
+   "titulo": "EXPOSITOR REFRIGERADO FRICON - MEDIDAS APROX.: 1950X660MM - CÓDIGO: 14927 - LOCAL.: F",
+   "categoria": "Refrigeradores",
+   "lance_atual": 840,
+   "encerramento": "2026-11-24 13:30",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/expositor-refrigerado-fricon-medidas-aprox-1950x660mm-codigo-14927-local-f-5077946",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3df00c1a-5a8b-497e-a770-c08b5f686a7b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082046",
+   "titulo": "FREEZER HORIZONTAL 2 PORTAS METALFRIO - MEDIDAS APROX.: 1660X630MM - CÓDIGO: 14859 - LOCAL.: B",
+   "categoria": "Refrigeradores",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 13:32",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-2-portas-metalfrio-medidas-aprox-1660x630mm-codigo-14859-loca-5082046",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5dfb5598-2fbd-40c6-95c9-f31950218613.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082054",
+   "titulo": "FORNO 2 CÂMARAS PROMAQ - MEDIDAS APROX.: 1100X630X900MM - CÓDIGO: 14875 - LOCAL.: B",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 13:34",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/forno-2-camaras-promaq-medidas-aprox-1100x630x900mm-codigo-14875-local-b-5082054",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bb4b907d-0169-4736-8f68-7b246bd629b7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082045",
+   "titulo": "FREEZER HORIZONTAL 1 PORTA ELECTROLUX - MODELO H330 - MEDIDAS APROX.: 1050X700MM - CÓDIGO: 14884 - LOCAL.: C",
+   "categoria": "Refrigeradores",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 13:34",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-1-porta-electrolux-modelo-h330-medidas-aprox-1050x700mm-codig-5082045",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3b928ca4-6aeb-4555-8e98-899647a562ad.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077968",
+   "titulo": "FORNO INDUSTRIAL PRÁTICA TECHNICOOK TS - MODELO TSC20V + CARRINHO PARA GNS - MEDIDAS APROX.: 1920X1030X700MM - CÓDIGO: 14943 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 7000,
+   "encerramento": "2026-11-24 13:37",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/forno-industrial-pratica-technicook-ts-modelo-tsc20v-carrinho-para-gns-medidas-a-5077968",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/be76ae00-2ddd-4088-9fd5-43f6a48d3811.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077967",
+   "titulo": "2 PEÇAS: 1 SUCATA DE FOGÃO INDUSTRIAL 4 BOCAS + 1 SUCATA DE FOGÃO INDUSTRIAL 6 BOCAS - CÓDIGO: 14951 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 13:37",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-pecas-1-sucata-de-fogao-industrial-4-bocas-1-sucata-de-fogao-industrial-6-boca-5077967",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9bb33eb5-636d-4002-ba75-a3eb7ad690bb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077945",
+   "titulo": "PISTA FRIA COM MOTOR - MEDIDAS APROX.: 1070X690MM - CÓDIGO: 14953 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 13:38",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/pista-fria-com-motor-medidas-aprox-1070x690mm-codigo-14953-local-ah-5077945",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c4eb20bb-dc1a-4f4d-b551-50e31c038831.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082044",
+   "titulo": "REFRIGERADOR INOX 4 PORTAS - SEM MOTOR - MEDIDAS APROX.: 1820X1240X580MM - CÓDIGO: 14959 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 240,
+   "encerramento": "2026-11-24 13:38",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/refrigerador-inox-4-portas-sem-motor-medidas-aprox-1820x1240x580mm-codigo-14959--5082044",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ea474f9d-9205-4e4d-8297-a8be204b52fb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082043",
+   "titulo": "10 PEÇAS: CONDENSADORAS PARA FREEZER - CÓDIGO: 14991 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 200,
+   "encerramento": "2026-11-24 13:41",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/10-pecas-condensadoras-para-freezer-codigo-14991-local-ah-5082043",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3bc19a9f-39ef-42e0-824e-9294784a9abf.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077944",
+   "titulo": "CÂMARA CLIMÁTICA DE FERMENTAÇÃO DE PÃES - MEDIDAS APROX.: 2100X720X880MM - CÓDIGO: 15006 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 840,
+   "encerramento": "2026-11-24 13:43",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/camara-climatica-de-fermentacao-de-paes-medidas-aprox-2100x720x880mm-codigo-1500-5077944",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a26e9ce0-873f-4411-9bb1-93814277464c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077966",
+   "titulo": "FORNO A GÁS 870X610MM + CUBA DUPLA 700X500MM - (MEDIDAS APROX.:)  - CÓDIGO: 14848 - LOCAL.: B",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 240,
+   "encerramento": "2026-11-24 13:46",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/forno-a-gas-870x610mm-cuba-dupla-700x500mm-medidas-aprox-codigo-14848-local-b-5077966",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2af9bd30-1c8d-4952-a7e2-040b693534eb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082042",
+   "titulo": "FREEZER HORIZONTAL 2 PORTAS - MEDIDAS APROX.: 1200X700MM - CÓDIGO: 14868 - LOCAL.: B",
+   "categoria": "Refrigeradores",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 13:47",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-2-portas-medidas-aprox-1200x700mm-codigo-14868-local-b-5082042",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/853e6e4c-43fb-483c-a27d-6183870ae58a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077965",
+   "titulo": "FOGÃO INDUSTRIAL 4 BOCAS - MEDIDAS APROX.: 1000X1000MM - CÓDIGO: 14905 - LOCAL.: D",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 13:50",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogao-industrial-4-bocas-medidas-aprox-1000x1000mm-codigo-14905-local-d-5077965",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/73c5c624-9e2f-4573-b8f8-e0398e2afa53.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077943",
+   "titulo": "REFRIGERADOR CERVEJEIRA - MEDIDAS APROX.: 2000X700MM - CÓDIGO: 14928 - LOCAL.: F",
+   "categoria": "Refrigeradores",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 13:51",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/refrigerador-cervejeira-medidas-aprox-2000x700mm-codigo-14928-local-f-5077943",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b779a1b6-2119-45fc-b4f0-533ea29a5b19.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077942",
+   "titulo": "FREEZER HORIZONTAL CONSUL - MEDIDAS APROX.: 1480X700MM - CÓDIGO: 14933 - LOCAL.: F",
+   "categoria": "Refrigeradores",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 13:52",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-consul-medidas-aprox-1480x700mm-codigo-14933-local-f-5077942",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/22062d56-069c-4fb0-a922-1697dfd822a4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077941",
+   "titulo": "REFRIGERADOR INOX 4 PORTAS - SEM MOTOR - MEDIDAS APROX.: 1940X1200X630MM - CÓDIGO: 14949 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 240,
+   "encerramento": "2026-11-24 13:54",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/refrigerador-inox-4-portas-sem-motor-medidas-aprox-1940x1200x630mm-codigo-14949--5077941",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/45af5263-3c17-4f03-98c0-b0e59027eafb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082041",
+   "titulo": "FREEZER VERTICAL METALFRIO - MODELO VF55FT - MEDIDAS APROX.: 1880X680X870MM - CÓDIGO: 14958 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 1050,
+   "encerramento": "2026-11-24 13:54",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-vertical-metalfrio-modelo-vf55ft-medidas-aprox-1880x680x870mm-codigo-149-5082041",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bc206776-eb42-4538-ac0d-4d3d7f331aea.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077964",
+   "titulo": "2 PEÇAS: FOGÕES INDUSTRIAIS 2 BOCAS DIVERSOS - CÓDIGO: 14998 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 450,
+   "encerramento": "2026-11-24 13:58",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-pecas-fogoes-industriais-2-bocas-diversos-codigo-14998-local-ah-5077964",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8d6cb936-d047-45fd-a8ca-e899fe0bd315.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077963",
+   "titulo": "FORNO MICRO-ONDAS INOX ELECTROLUX - MODELO MEX55 127V - CÓDIGO: 15019 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 320,
+   "encerramento": "2026-11-24 13:59",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/forno-micro-ondas-inox-electrolux-modelo-mex55-127v-codigo-15019-local-ah-5077963",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b7611a7d-c29b-4c33-b2bc-8748cd97d0b8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077940",
+   "titulo": "PISTA FRIA COM MOTOR - MEDIDAS APROX.: 830X820X930MM - CÓDIGO: 15031 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 14:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/pista-fria-com-motor-medidas-aprox-830x820x930mm-codigo-15031-local-ah-5077940",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/46b47231-4971-4aef-9a25-26f487837e7f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077939",
+   "titulo": "PISTA FRIA - MEDIDAS APROX.: 860X700MM - CÓDIGO: 14842 - LOCAL.: A",
+   "categoria": "Refrigeradores",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 14:02",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/pista-fria-medidas-aprox-860x700mm-codigo-14842-local-a-5077939",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2c7d8fd8-a5d2-42e2-9555-5fef02fd441e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082186",
+   "titulo": "LOTE DE DISCOS RÍGIDOS (HDS) INTERNOS  MARCAS E CAPACIDADES DIVERSAS",
+   "categoria": "Informática",
+   "lance_atual": 300,
+   "encerramento": "2026-11-24 14:02",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/lote-de-discos-rigidos-hds-internos-marcas-e-capacidades-diversas-5082186",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/801f4e45-c3f8-4811-8f50-bf5819b01ee2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077962",
+   "titulo": "FORNO A GÁS FRITOMAQ 900X800MM + CUBA INOX 650X390MM - (MEDIDAS APROX.:)  - CÓDIGO: 14854 - LOCAL.: B",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 675,
+   "encerramento": "2026-11-24 14:03",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/forno-a-gas-fritomaq-900x800mm-cuba-inox-650x390mm-medidas-aprox-codigo-14854-lo-5077962",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b4d7b1ab-1325-429f-abfa-9f317b27527f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077938",
+   "titulo": "FREEZER 2 PORTAS FRICON - MEDIDAS APROX.: 1500X640MM - CÓDIGO: 14862 - LOCAL.: B",
+   "categoria": "Refrigeradores",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 14:03",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-2-portas-fricon-medidas-aprox-1500x640mm-codigo-14862-local-b-5077938",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f25b00a0-f4df-4e3f-9882-9f6a278ab5c1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077961",
+   "titulo": "FOGÃO INDUSTRIAL 6 BOCAS - INCOMPLETO + FORNO - MEDIDAS APROX.: 1500X1030MM - CÓDIGO: 14877 - LOCAL.: C",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 840,
+   "encerramento": "2026-11-24 14:05",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogao-industrial-6-bocas-incompleto-forno-medidas-aprox-1500x1030mm-codigo-14877-5077961",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/641c5243-c28f-4b63-b359-30499b30fb22.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077937",
+   "titulo": "FREEZER HORIZONTAL 2 PORTAS - MEDIDAS APROX.: 1250X630MM - CÓDIGO: 14883 - LOCAL.: C",
+   "categoria": "Refrigeradores",
+   "lance_atual": 450,
+   "encerramento": "2026-11-24 14:05",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-2-portas-medidas-aprox-1250x630mm-codigo-14883-local-c-5077937",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/41160594-8568-4459-890b-5137994a4f46.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5078032",
+   "titulo": "MÁQUINA DE GASEIFICAR ÁGUA SODASTREAM ART  PRETA  NOVO",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-11-24 14:06",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/maquina-de-gaseificar-agua-sodastream-art-preta-novo-5078032",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cb6f057b-2cd6-4f6d-8b2f-d49e49f58274.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5078038",
+   "titulo": "COMBO COM 52 EQUIPAMENTOS DE REDE E SEGURANÇA  FORTINET, WATCHGUARD E TP-LINK",
+   "categoria": "Informática",
+   "lance_atual": 2000,
+   "encerramento": "2026-11-24 14:07",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/combo-com-52-equipamentos-de-rede-e-seguranca-fortinet-watchguard-e-tp-link-5078038",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2ae04a84-b9c6-4d96-8def-1e8c964de13e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082187",
+   "titulo": "CONJUNTO DE ACESSÓRIOS DE INFORMÁTICA, REDE E ARMAZENAMENTO",
+   "categoria": "Informática",
+   "lance_atual": 300,
+   "encerramento": "2026-11-24 14:07",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/conjunto-de-acessorios-de-informatica-rede-e-armazenamento-5082187",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e38b9778-2355-4f21-ba2f-a6aca4545288.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082167",
+   "titulo": "EQUIPAMENTOS DE TELEFONIA, MONITORAMENTO E REDE  INTELBRAS, TP-LINK E D-LINK",
+   "categoria": "Telefonia",
+   "lance_atual": 200,
+   "encerramento": "2026-11-24 14:08",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/equipamentos-de-telefonia-monitoramento-e-rede-intelbras-tp-link-e-d-link-5082167",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/35ae994f-7219-4b16-86c3-502b5a31a290.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077936",
+   "titulo": "FREEZER HORIZONTAL ELECTROLUX - H440 - MEDIDAS APROX.: 1300X700MM - CÓDIGO: 14929 - LOCAL.: F",
+   "categoria": "Refrigeradores",
+   "lance_atual": 1400,
+   "encerramento": "2026-11-24 14:08",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-electrolux-h440-medidas-aprox-1300x700mm-codigo-14929-local-f-5077936",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a01a37d6-4129-4dbb-989e-5a73213bb75c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082188",
+   "titulo": "CONJUNTO DE EQUIPAMENTOS DE REDE, CABOS E FONTES  LINKSYS, TP-LINK E D-LINK",
+   "categoria": "Informática",
+   "lance_atual": 150,
+   "encerramento": "2026-11-24 14:08",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/conjunto-de-equipamentos-de-rede-cabos-e-fontes-linksys-tp-link-e-d-link-5082188",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9990b3f0-df7d-4833-97f0-178292f30327.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5078039",
+   "titulo": "RACK DE SERVIDORES COM IBM SYSTEM X3630 M4, SWITCH HP, NOBREAK APC E ACESSÓRIOS DE REDE",
+   "categoria": "Informática",
+   "lance_atual": 1000,
+   "encerramento": "2026-11-24 14:10",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/rack-de-servidores-com-ibm-system-x3630-m4-switch-hp-nobreak-apc-e-acessorios-de-5078039",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cc84e41c-ef55-42e2-8307-1a5c08e491e8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077935",
+   "titulo": "REFRIGERADOR EXPOSITOR 2 PORTAS - SEM MOTOR - MEDIDAS APROX.: 2060X1500X600MM - CÓDIGO: 14999 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 14:11",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/refrigerador-expositor-2-portas-sem-motor-medidas-aprox-2060x1500x600mm-codigo-1-5077935",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ec9229b2-4e3b-417b-bf29-853dcdafdf0f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077959",
+   "titulo": "4 PEÇAS: FORNOS PARA FOGÃO INDUSTRIAL DIVERSOS - CÓDIGO: 15002 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 14:11",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/4-pecas-fornos-para-fogao-industrial-diversos-codigo-15002-local-ah-5077959",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/71fbe045-2bb5-444e-94a7-f1bb5be79b3d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077960",
+   "titulo": "3 PEÇAS: FORNOS PARA FOGÃO INDUSTRIAL DIVERSOS - CÓDIGO: 15009 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 525,
+   "encerramento": "2026-11-24 14:12",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-pecas-fornos-para-fogao-industrial-diversos-codigo-15009-local-ah-5077960",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2a1e6fe6-959b-40f8-94b9-1f355772b4d7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082189",
+   "titulo": "CONJUNTO DE ALICATE AMPERÍMETRO LIGHTEX, CASE PARA HD EXBOM E ACESSÓRIO MULTILASER",
+   "categoria": "Informática",
+   "lance_atual": 50,
+   "encerramento": "2026-11-24 14:13",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/conjunto-de-alicate-amperimetro-lightex-case-para-hd-exbom-e-acessorio-multilase-5082189",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c4defeba-b518-4575-b595-8f97ca88aac9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5081995",
+   "titulo": "3 MONITORES 19\" - POSITIVO - CÓDIGO: 15038 - LOCAL.: AH",
+   "categoria": "Informática",
+   "lance_atual": 240,
+   "encerramento": "2026-11-24 14:14",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-monitores-19-positivo-codigo-15038-local-ah-5081995",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f0b47277-7b8c-46bb-b57f-910d2309af2f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077922",
+   "titulo": "7 REPRODUTORES DE DVD DIVERSOS - CÓDIGO: 15039 - LOCAL.: AH",
+   "categoria": "Eletrônicos",
+   "lance_atual": 200,
+   "encerramento": "2026-11-24 14:14",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/7-reprodutores-de-dvd-diversos-codigo-15039-local-ah-5077922",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bab8a98d-40ee-4690-b78d-c79686eb51a7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082112",
+   "titulo": "CÂMERA FOTOGRÁFICA INSTANTÂNEA POLAROID 636 CLOSEUP  COM CAIXA ORIGINAL",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-11-24 14:14",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/camera-fotografica-instantanea-polaroid-636-closeup-com-caixa-original-5082112",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b7be8eb6-1cf3-44ba-9b47-7a7b55dd6308.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5081994",
+   "titulo": "2 PEÇAS: MONITOR LG 20\" + REPRODUTOR DE DVD LG - CÓDIGO: 15041 - LOCAL.: AH",
+   "categoria": "Informática",
+   "lance_atual": 100,
+   "encerramento": "2026-11-24 14:15",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-pecas-monitor-lg-20-reprodutor-de-dvd-lg-codigo-15041-local-ah-5081994",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cdf38e9d-a284-4085-9ed4-da2e1db905cf.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082111",
+   "titulo": "CÂMERA FOTOGRÁFICA ANALÓGICA VINTAGE KAPSA VASCROMAT 110 MM",
+   "categoria": "Eletrônicos",
+   "lance_atual": 200,
+   "encerramento": "2026-11-24 14:15",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/camera-fotografica-analogica-vintage-kapsa-vascromat-110-mm-5082111",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2dbdd420-7261-480a-bdd2-28806cf96bdf.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082056",
+   "titulo": "SECADORA BRASTEMP INTELIGENT - MEDIDAS APROX.: 600X540MM - CÓDIGO: 14833 - LOCAL.: A",
+   "categoria": "Limpeza",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 14:15",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/secadora-brastemp-inteligent-medidas-aprox-600x540mm-codigo-14833-local-a-5082056",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f9434aa7-f649-4782-aafe-5b34fd4cba67.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077958",
+   "titulo": "FOGÃO INDUSTRIAL 8 BOCAS - INCOMPLETO - MEDIDAS APROX.: 2100X1250MM - CÓDIGO: 14838 - LOCAL.: A",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 675,
+   "encerramento": "2026-11-24 14:16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogao-industrial-8-bocas-incompleto-medidas-aprox-2100x1250mm-codigo-14838-local-5077958",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c650cc87-8a39-4f12-b1ee-83b877223aad.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5078028",
+   "titulo": "TELEFONE IP SIP PANASONIC KX-HDV130X  PRETO, COM CAIXA E ACESSÓRIOS",
+   "categoria": "Telefonia",
+   "lance_atual": 100,
+   "encerramento": "2026-11-24 14:16",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/telefone-ip-sip-panasonic-kx-hdv130x-preto-com-caixa-e-acessorios-5078028",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3eecac55-4f0b-4627-a209-88804b2d7053.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077934",
+   "titulo": "REFRIGERADOR INOX 1 PORTA - SEM MOTOR - MEDIDAS APROX.: 2000X700X820MM - CÓDIGO: 14878 - LOCAL.: C",
+   "categoria": "Refrigeradores",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 14:18",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/refrigerador-inox-1-porta-sem-motor-medidas-aprox-2000x700x820mm-codigo-14878-lo-5077934",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/250028be-598b-4411-b43a-2af27bd86926.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077933",
+   "titulo": "FREEZER HORIZONTAL 2 PORTAS - MEDIDAS APROX.: 1480X700MM - CÓDIGO: 14882 - LOCAL.: C",
+   "categoria": "Refrigeradores",
+   "lance_atual": 450,
+   "encerramento": "2026-11-24 14:18",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-2-portas-medidas-aprox-1480x700mm-codigo-14882-local-c-5077933",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/addf7cf2-aa2c-40a9-b13a-92177bfe1c52.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077932",
+   "titulo": "PISTA FRIA - SEM MOTOR - CÓDIGO: 14890 - LOCAL.: C",
+   "categoria": "Refrigeradores",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 14:19",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/pista-fria-sem-motor-codigo-14890-local-c-5077932",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/268497a3-8c68-4de5-9927-f21e6db8a0e3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077931",
+   "titulo": "FREEZER HORIZONTAL METALFRIO - INVERTER - MEDIDAS APROX.: 1350X650MM - CÓDIGO: 14930 - LOCAL.: F",
+   "categoria": "Refrigeradores",
+   "lance_atual": 1400,
+   "encerramento": "2026-11-24 14:23",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-metalfrio-inverter-medidas-aprox-1350x650mm-codigo-14930-loca-5077931",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/26ba02ac-e697-45a6-a012-387f60dd2bdd.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077930",
+   "titulo": "FREEZER EXPOSITOR HORIZONTAL 2 PORTAS - FRICON - MEDIDAS APROX.: 1550X580MM - CÓDIGO: 14939 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 14:24",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-expositor-horizontal-2-portas-fricon-medidas-aprox-1550x580mm-codigo-149-5077930",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bf4c26a3-c91a-4183-b27e-059be28cb4da.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082109",
+   "titulo": "CONJUNTO DE EQUIPAMENTOS DE SEGURANÇA, MONITORAMENTO E CONTROLE DE PONTO  08 PEÇAS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 200,
+   "encerramento": "2026-11-24 14:24",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/conjunto-de-equipamentos-de-seguranca-monitoramento-e-controle-de-ponto-08-pecas-5082109",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c7b00b61-c8d5-4180-b83e-a6b8a959792a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077957",
+   "titulo": "COIFA INOX - MEDIDAS APROX.: 500X1500X1200MM - CÓDIGO: 14957 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 14:25",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/coifa-inox-medidas-aprox-500x1500x1200mm-codigo-14957-local-ah-5077957",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f53e26d3-1151-402e-bc0f-31fab086cd95.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082110",
+   "titulo": "PROJETOR MULTIMÍDIA CANON LV-7392A",
+   "categoria": "Eletrônicos",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 14:26",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/projetor-multimidia-canon-lv-7392a-5082110",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d4be5b33-8ad2-45a1-8092-c93986c145cf.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082190",
+   "titulo": "CONJUNTO DE EQUIPAMENTOS DE REDE E ACESSÓRIOS  DELL, WATCHGUARD FIREBOX E FEASSO",
+   "categoria": "Informática",
+   "lance_atual": 200,
+   "encerramento": "2026-11-24 14:27",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/conjunto-de-equipamentos-de-rede-e-acessorios-dell-watchguard-firebox-e-feasso-5082190",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f2727eb1-88fc-4e44-996a-2384c14fb084.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082108",
+   "titulo": "MINIPROJETOR DELL M109S DLP COM BOLSA",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-11-24 14:27",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/miniprojetor-dell-m109s-dlp-com-bolsa-5082108",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b3e9329a-bdba-4a2b-889f-2e26bc909ed6.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5078040",
+   "titulo": "CONJUNTO DE 5 FONTES LENOVO, ADAPTADOR WI-FI ALFA E CANETA ESPIÃ",
+   "categoria": "Informática",
+   "lance_atual": 100,
+   "encerramento": "2026-11-24 14:28",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/conjunto-de-5-fontes-lenovo-adaptador-wi-fi-alfa-e-caneta-espia-5078040",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/04048131-7350-4eb5-8485-1d5015c6f3f5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077929",
+   "titulo": "2 PEÇAS: PISTA FRIA COM MOTOR (1020X570MM) + PISTA FRIA COM MOTOR (1300X500MM) - (MEDIDAS APROX.:)  - CÓDIGO: 15027 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 14:28",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-pecas-pista-fria-com-motor-1020x570mm-pista-fria-com-motor-1300x500mm-medidas--5077929",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1a312b08-51d5-4453-99cb-02fe92041b46.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082191",
+   "titulo": "CONJUNTO DE MEMÓRIAS RAM E HD SEAGATE 750 GB",
+   "categoria": "Informática",
+   "lance_atual": 200,
+   "encerramento": "2026-11-24 14:28",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/conjunto-de-memorias-ram-e-hd-seagate-750-gb-5082191",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7250dafa-d550-4223-914c-d9d2f7969ef5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082192",
+   "titulo": "CONJUNTO DE PEÇAS DE INFORMÁTICA  PL FINAL: -MÃE DELL, GPU NVIDIA, HD E BATERIAS",
+   "categoria": "Informática",
+   "lance_atual": 150,
+   "encerramento": "2026-11-24 14:29",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/conjunto-de-pecas-de-informatica-pl-final-mae-dell-gpu-nvidia-hd-e-baterias-5082192",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/077d8cdd-07f8-4901-9d5d-30ec42fd5ed8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077956",
+   "titulo": "FORNO COMBINADO PRÁTICA TECHNICOOK - MODELO EC20 - CÓDIGO: 15030 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 5000,
+   "encerramento": "2026-11-24 14:29",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/forno-combinado-pratica-technicook-modelo-ec20-codigo-15030-local-ah-5077956",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ca10d499-8ef8-4dad-bb60-7ea6f41565c4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077928",
+   "titulo": "FREEZER HORIZONTAL 1 PORTA - MEDIDAS APROX.: 1050X680MM - CÓDIGO: 14858 - LOCAL.: B",
+   "categoria": "Refrigeradores",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 14:31",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-1-porta-medidas-aprox-1050x680mm-codigo-14858-local-b-5077928",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ee1bddfc-4988-40d4-820c-ff5dc25b201b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082193",
+   "titulo": "CONJUNTO COM 05 NOTEBOOKS DE MARCAS DIVERSAS  SONY VAIO, HP PAVILION, ACER E GATEWAY",
+   "categoria": "Informática",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 14:31",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/conjunto-com-05-notebooks-de-marcas-diversas-sony-vaio-hp-pavilion-acer-e-gatewa-5082193",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6bc2c459-7872-4050-8114-9e767631b87d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5078041",
+   "titulo": "CONJUNTO DE 6 NOTEBOOKS USADOS  LG, AMAZON PC, TOSHIBA, ACER, SAMSUNG E DELL",
+   "categoria": "Informática",
+   "lance_atual": 500,
+   "encerramento": "2026-11-24 14:31",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/conjunto-de-6-notebooks-usados-lg-amazon-pc-toshiba-acer-samsung-e-dell-5078041",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b1be7764-c334-487d-bce0-3d662ad002c8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082040",
+   "titulo": "REFRIGERADOR INOX 1 PORTA - SEM MOTOR - MEDIDAS APROX.: 2000X700X820MM - CÓDIGO: 14879 - LOCAL.: C",
+   "categoria": "Refrigeradores",
+   "lance_atual": 750,
+   "encerramento": "2026-11-24 14:33",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/refrigerador-inox-1-porta-sem-motor-medidas-aprox-2000x700x820mm-codigo-14879-lo-5082040",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e9927a87-2b15-4824-afdb-21507fa29eda.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082175",
+   "titulo": "EQUIPAMENTO PROFISSIONAL DE ESTÉTICA VALMATEC  110 V",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 200,
+   "encerramento": "2026-11-24 14:33",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/equipamento-profissional-de-estetica-valmatec-110-v-5082175",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9334d7af-a18c-4153-a683-d94cbbd02e73.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082039",
+   "titulo": "PISTA FRIA - SEM MOTOR - MEDIDAS APROX.: 1000X760MM - CÓDIGO: 14894 - LOCAL.: C",
+   "categoria": "Refrigeradores",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 14:33",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/pista-fria-sem-motor-medidas-aprox-1000x760mm-codigo-14894-local-c-5082039",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/98f0c520-d174-4313-9add-1a549b90c21b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077927",
+   "titulo": "FREEZER HORIZONTAL 2 PORTAS - MEDIDAS APROX.: 1550X680MM - CÓDIGO: 14895 - LOCAL.: C",
+   "categoria": "Refrigeradores",
+   "lance_atual": 240,
+   "encerramento": "2026-11-24 14:34",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-2-portas-medidas-aprox-1550x680mm-codigo-14895-local-c-5077927",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1ffb80ea-7f92-4115-aa02-b44d1a76c670.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082038",
+   "titulo": "2 SUCATAS BALCÃO REFRIGERADO + FOGÃO INDUSTRIAL - CÓDIGO: 14910 - LOCAL.: D",
+   "categoria": "Refrigeradores",
+   "lance_atual": 200,
+   "encerramento": "2026-11-24 14:34",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-sucatas-balcao-refrigerado-fogao-industrial-codigo-14910-local-d-5082038",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/79d9d8ab-c6d0-48d6-852d-09378794475f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082053",
+   "titulo": "FOGÃO INDUSTRIAL 8 BOCAS - INCOMPLETO (2000X1220MM) + ESQUELETO PARA FOGÃO INDUSTRIAL 6 BOCAS (1070X840MM) - (MEDIDAS APROX.:)  - CÓDIGO: 14924 - LOCAL.: F",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 100,
+   "encerramento": "2026-11-24 14:35",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogao-industrial-8-bocas-incompleto-2000x1220mm-esqueleto-para-fogao-industrial--5082053",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/98ce5c8d-9e85-4a3d-acd1-79c2b9c32e5e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077955",
+   "titulo": "FORNO DE CONVECÇÃO HPE80 - PRÁTICA TECHNICOOK - MEDIDAS APROX.: 900X800MM - CÓDIGO: 14925 - LOCAL.: F",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 2800,
+   "encerramento": "2026-11-24 14:36",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/forno-de-conveccao-hpe80-pratica-technicook-medidas-aprox-900x800mm-codigo-14925-5077955",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fe9ef410-ef79-4f4d-8df5-c679b2cddb1b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082037",
+   "titulo": "FREEZER HORIZONTAL METALFRIO - MEDIDAS APROX.: 1350X660MM - CÓDIGO: 14932 - LOCAL.: F",
+   "categoria": "Refrigeradores",
+   "lance_atual": 840,
+   "encerramento": "2026-11-24 14:37",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-metalfrio-medidas-aprox-1350x660mm-codigo-14932-local-f-5082037",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/69ad6e7d-5004-4ab6-8d22-2b1c3d19f62d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077954",
+   "titulo": "8 PEÇAS: FORNOS A GÁS DIVERSOS PARA FOGÃO INDUSTRIAL - CÓDIGO: 14947 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 1050,
+   "encerramento": "2026-11-24 14:38",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/8-pecas-fornos-a-gas-diversos-para-fogao-industrial-codigo-14947-local-ah-5077954",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/088c0e68-5404-4e1b-907c-7cef7d17ee4c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082107",
+   "titulo": "CÂMERA FOTOGRÁFICA INSTANTÂNEA FUJIFILM INSTAX MINI 7+ COM ESTOJO, ÁLBUM E FILMES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 14:42",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/camera-fotografica-instantanea-fujifilm-instax-mini-7-com-estojo-album-e-filmes-5082107",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7a0d1839-724e-4883-a8bb-d0380d8f5dbb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082036",
+   "titulo": "FREEZER HORIZONTAL 1 PORTA - MEDIDAS APROX.: 650X650MM - CÓDIGO: 14840 - LOCAL.: A",
+   "categoria": "Refrigeradores",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 14:46",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-1-porta-medidas-aprox-650x650mm-codigo-14840-local-a-5082036",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9bf7c639-4a07-4fd6-a163-67e7a99ecd54.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077953",
+   "titulo": "FOGÃO INOX INDUSTRIAL 4 BOCAS - INCOMPLETO - MEDIDAS APROX.: 1050X1050MM - CÓDIGO: 14873 - LOCAL.: B",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 840,
+   "encerramento": "2026-11-24 14:47",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogao-inox-industrial-4-bocas-incompleto-medidas-aprox-1050x1050mm-codigo-14873--5077953",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/933d6a6e-5240-4f02-a0a5-c2a9cf91c502.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077926",
+   "titulo": "FREEZER HORIZONTAL 2 PORTAS - METALFRIO - MEDIDAS APROX.: 1320X640MM - CÓDIGO: 14881 - LOCAL.: C",
+   "categoria": "Refrigeradores",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 14:48",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-2-portas-metalfrio-medidas-aprox-1320x640mm-codigo-14881-loca-5077926",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/63096a5d-33f2-43f6-a062-be5282f39fa6.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082035",
+   "titulo": "PISTA FRIA (860X710MM) + PISTA QUENTE (1500X700MM) - (MEDIDAS APROX.:)  - CÓDIGO: 14886 - LOCAL.: C",
+   "categoria": "Refrigeradores",
+   "lance_atual": 450,
+   "encerramento": "2026-11-24 14:49",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/pista-fria-860x710mm-pista-quente-1500x700mm-medidas-aprox-codigo-14886-local-c-5082035",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/50d370fc-1b61-4d7d-b81b-8123b8885fff.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082106",
+   "titulo": "CONTROLE ARCADE FIGHTING STICK V  JOYSTICK COM 8 BOTÕES",
+   "categoria": "Eletrônicos",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 14:49",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/controle-arcade-fighting-stick-v-joystick-com-8-botoes-5082106",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ca9f20c4-f120-48c2-a178-20ec49ed4c88.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082034",
+   "titulo": "EXPOSITOR REFRIGERADO IMBERA - MEDIDAS APROX.: 180X480MM - CÓDIGO: 14926 - LOCAL.: F",
+   "categoria": "Refrigeradores",
+   "lance_atual": 840,
+   "encerramento": "2026-11-24 14:51",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/expositor-refrigerado-imbera-medidas-aprox-180x480mm-codigo-14926-local-f-5082034",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/99a49e8a-3578-4021-bbc9-9d0151f291c2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082033",
+   "titulo": "FREEZER HORIZONTAL METALFRIO - SEM TAMPA - CÓDIGO: 15003 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 320,
+   "encerramento": "2026-11-24 14:51",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-metalfrio-sem-tampa-codigo-15003-local-ah-5082033",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cb9cddce-1b50-4ebb-a51d-79f4dff281a3.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082032",
+   "titulo": "FREEZER HORIZONTAL METALFRIO - MEDIDAS APROX.: 1680X630MM - CÓDIGO: 14937 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 200,
+   "encerramento": "2026-11-24 14:52",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-metalfrio-medidas-aprox-1680x630mm-codigo-14937-local-ah-5082032",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f747643f-4abb-4ea5-bd91-5bbfaf11fb58.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082105",
+   "titulo": "COMBO DE ELETRÔNICOS, CARREGADORES E ACESSÓRIOS DIVERSOS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 800,
+   "encerramento": "2026-11-24 14:52",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/combo-de-eletronicos-carregadores-e-acessorios-diversos-5082105",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b4a6952f-4957-4eb1-9df4-7f32153c8075.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082031",
+   "titulo": "REFRIGERADOR INOX 2 PORTAS - SEM MOTOR - MEDIDAS APROX.: 1980X700X700MM - CÓDIGO: 14948 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 525,
+   "encerramento": "2026-11-24 14:53",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/refrigerador-inox-2-portas-sem-motor-medidas-aprox-1980x700x700mm-codigo-14948-l-5082031",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/be842336-b170-4a31-83d5-7f443a0ae6a9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082194",
+   "titulo": "COMBO COM APROX. 250 PELÍCULAS PROTETORAS PARA TABLETS  MODELOS DIVERSOS",
+   "categoria": "Informática",
+   "lance_atual": 500,
+   "encerramento": "2026-11-24 14:53",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/combo-com-aprox-250-peliculas-protetoras-para-tablets-modelos-diversos-5082194",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/65b5f7c4-1522-49ed-83f4-28030891c9e7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082169",
+   "titulo": "COMBO DE EQUIPAMENTOS INFORMÁTICA  COMPUTADORES, ALL IN ONE, MONITORES, IMPRESSORAS E PERIFÉRICOS",
+   "categoria": "Informática",
+   "lance_atual": 4500,
+   "encerramento": "2026-11-24 14:54",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/combo-de-equipamentos-informatica-computadores-all-in-one-monitores-impressoras--5082169",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b9c1122f-0810-4ab1-a2cb-4906c9ab63d7.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082104",
+   "titulo": "AMPLIFICADOR DE SOM AMBIENTE LOUD APL-450  200 W RMS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 14:55",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/amplificador-de-som-ambiente-loud-apl-450-200-w-rms-5082104",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f3b415a1-f3a1-4c4f-b6d4-4bfa0b3d5bea.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082103",
+   "titulo": "INTERFACE DE ÁUDIO PROFISSIONAL DIGIDESIGN 003 RACK+",
+   "categoria": "Eletrônicos",
+   "lance_atual": 500,
+   "encerramento": "2026-11-24 14:56",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/interface-de-audio-profissional-digidesign-003-rack-5082103",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9437017b-eeed-4424-93bc-26e0941cc654.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077952",
+   "titulo": "2 SUCATAS DE FOGÕES DIVERSOS - CÓDIGO: 15000 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 525,
+   "encerramento": "2026-11-24 14:57",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-sucatas-de-fogoes-diversos-codigo-15000-local-ah-5077952",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/87fde5cf-9b8f-4bad-85dc-036b5751f833.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5078029",
+   "titulo": "COMPUTADOR APPLE IMAC ALL-IN-ONE  MODELO A1195  17 POLEGADAS",
+   "categoria": "Informática",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 14:57",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/computador-apple-imac-all-in-one-modelo-a1195-17-polegadas-5078029",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b336d625-f9b7-4195-9e93-0e46aea7f545.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077951",
+   "titulo": "3 SUCATAS DE FOGÕES INDUSTRIAIS DIVERSOS - CÓDIGO: 15011 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 14:58",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-sucatas-de-fogoes-industriais-diversos-codigo-15011-local-ah-5077951",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/32714aa6-38ca-4f7c-a06d-b20c20ea9a6e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082176",
+   "titulo": "EQUIPAMENTO PROFISSIONAL DE CARBOXITERAPIA CARBOXIDE COM CILINDRO DE CO, REGULADOR E GABINETE COM RODÍZIOS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1200,
+   "encerramento": "2026-11-24 14:58",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/equipamento-profissional-de-carboxiterapia-carboxide-com-cilindro-de-co-regulado-5082176",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/50cf95c0-d8e7-41bf-8b01-c6391430005d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082052",
+   "titulo": "FORNO DE LASTRO - VENÂNCIO - MEDIDAS APROX.: 450X1200X1150MM - CÓDIGO: 15022 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 320,
+   "encerramento": "2026-11-24 14:59",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/forno-de-lastro-venancio-medidas-aprox-450x1200x1150mm-codigo-15022-local-ah-5082052",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fde966b2-55fc-4192-a03c-beb0a7bf05a1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077914",
+   "titulo": "3 PEÇAS: 2 ROTEADORES D-LINK DWL-8500AP + 1 MASTERTIME - CÓDIGO: 15040 - LOCAL.: AH",
+   "categoria": "Informática",
+   "lance_atual": 50,
+   "encerramento": "2026-11-24 15:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-pecas-2-roteadores-d-link-dwl-8500ap-1-mastertime-codigo-15040-local-ah-5077914",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/25d06ebc-73b7-4d95-8bc7-17f356519a2b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082030",
+   "titulo": "FREEZER HORIZONTAL 1 PORTA - MIDEA - MEDIDAS APROX.: 630X540MM - CÓDIGO: 14834 - LOCAL.: A",
+   "categoria": "Refrigeradores",
+   "lance_atual": 525,
+   "encerramento": "2026-11-24 15:00",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-1-porta-midea-medidas-aprox-630x540mm-codigo-14834-local-a-5082030",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9a89326b-5e1c-4700-8a31-4e7528ec0378.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5078033",
+   "titulo": "CAFETEIRA NESPRESSO LATTISSIMA ONE",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-11-24 15:01",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/cafeteira-nespresso-lattissima-one-5078033",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f803c432-d385-436b-8ba9-5d0d57317413.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077925",
+   "titulo": "EXPOSITORA REFRIGERADA - MEDIDAS APROX.: 800X530MM - CÓDIGO: 14861 - LOCAL.: B",
+   "categoria": "Refrigeradores",
+   "lance_atual": 450,
+   "encerramento": "2026-11-24 15:02",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/expositora-refrigerada-medidas-aprox-800x530mm-codigo-14861-local-b-5077925",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/24a6df44-7e2b-4015-9dbf-a0e242df03c1.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077950",
+   "titulo": "FOGÃO INOX INDUSTRIAL 4 BOCAS - MEDIDAS APROX.: 1050X1050MM - CÓDIGO: 14871 - LOCAL.: B",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 840,
+   "encerramento": "2026-11-24 15:03",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/fogao-inox-industrial-4-bocas-medidas-aprox-1050x1050mm-codigo-14871-local-b-5077950",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/636642fd-e08f-4c6a-8df8-37de06413858.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082029",
+   "titulo": "ILHA DE CONGELADOS - MEDIDAS APROX.: 2100X860MM - CÓDIGO: 14906 - LOCAL.: D",
+   "categoria": "Refrigeradores",
+   "lance_atual": 240,
+   "encerramento": "2026-11-24 15:04",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ilha-de-congelados-medidas-aprox-2100x860mm-codigo-14906-local-d-5082029",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1dacaedd-b3f9-477d-b38f-64664374f3fe.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082028",
+   "titulo": "REFRIGERADOR INOX 4 PORTAS - MEDIDAS APROX.: 2150X1250X800MM - CÓDIGO: 14931 - LOCAL.: F",
+   "categoria": "Refrigeradores",
+   "lance_atual": 1050,
+   "encerramento": "2026-11-24 15:06",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/refrigerador-inox-4-portas-medidas-aprox-2150x1250x800mm-codigo-14931-local-f-5082028",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/99b51152-9b37-43cf-9628-57b3f0a21546.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082051",
+   "titulo": "FORNO INDUSTRIAL A GÁS 2 CÂMARAS - MEDIDAS APROX.: 1500X910X750MM - CÓDIGO: 14942 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 15:06",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/forno-industrial-a-gas-2-camaras-medidas-aprox-1500x910x750mm-codigo-14942-local-5082051",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0ac8219d-ba65-41bd-a231-74b45e53df5a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082050",
+   "titulo": "BASE PARA FORNO COM 14 SUPORTES PARA GNS - MEDIDAS APROX.: 720X790X640MM - CÓDIGO: 14952 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 400,
+   "encerramento": "2026-11-24 15:07",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/base-para-forno-com-14-suportes-para-gns-medidas-aprox-720x790x640mm-codigo-1495-5082050",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b70bafd8-f13b-4831-9d58-23fd54da502d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082102",
+   "titulo": "VIDEOGAME SONY PLAYSTATION 2 SLIM  MODELO SCPH-90010  COM CONTROLE E ACESSÓRIOS",
+   "categoria": "Eletrônicos",
+   "lance_atual": 500,
+   "encerramento": "2026-11-24 15:07",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/videogame-sony-playstation-2-slim-modelo-scph-90010-com-controle-e-acessorios-5082102",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4f794cb1-516d-4c32-9d36-8fc69fcde47e.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "TRIPOLONI LEILÕES",
+    "leilao": "LEILÃO DE ITENS DIVERSOS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077924",
+   "titulo": "FREEZER HORIZONTAL 2 PORTAS ELECTROLUX - H500 - MEDIDAS APROX.: 890X1560X700MM - CÓDIGO: 14954 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 320,
+   "encerramento": "2026-11-24 15:07",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-2-portas-electrolux-h500-medidas-aprox-890x1560x700mm-codigo--5077924",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f29b1b6d-300d-40d6-bba4-ad38978ff48a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077949",
+   "titulo": "2 SUCATAS DE PASS THROUGH DIVERSOS - CÓDIGO: 15001 - LOCAL.: AH",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 600,
+   "encerramento": "2026-11-24 15:11",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-sucatas-de-pass-through-diversos-codigo-15001-local-ah-5077949",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1aeb18b1-4d30-478a-97fe-b0d1e940791a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082027",
+   "titulo": "FREEZER HORIZONTAL METALFRIO - MODELO DA550 - CÓDIGO: 15004 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 320,
+   "encerramento": "2026-11-24 15:11",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/freezer-horizontal-metalfrio-modelo-da550-codigo-15004-local-ah-5082027",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a334bbfb-a9d1-4f13-a0e7-51bfe1642615.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077923",
+   "titulo": "SUCATA DE REFRIGERADOR INDUSTRIAL INOX - SEM MOTOR - MEDIDAS APROX.: 2020X1400X800MM - CÓDIGO: 15010 - LOCAL.: AH",
+   "categoria": "Refrigeradores",
+   "lance_atual": 320,
+   "encerramento": "2026-11-24 15:12",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/sucata-de-refrigerador-industrial-inox-sem-motor-medidas-aprox-2020x1400x800mm-c-5077923",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2accb03d-03f2-49b8-a367-72ab1b4b31f9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082026",
+   "titulo": "TV 42\" LED - AOC - CÓDIGO: 15037 - LOCAL.: AH",
+   "categoria": "Eletrônicos",
+   "lance_atual": 320,
+   "encerramento": "2026-11-24 15:14",
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/tv-42-led-aoc-codigo-15037-local-ah-5082026",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6b932c12-6646-42d2-a0f7-2c52c3d44251.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "ECONEXSI",
+    "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
    "fonte": "Receita Federal",
    "id": "receita-517800/5/2026-1",
    "titulo": "CAIXA ACUSTICA INTELIGENTE AMAZON ALEXA, C2H4R9, ECHO POP, VIETNAM, SERIAL: G8M2HQ04402703JU, S25-027",
@@ -24075,7 +26643,7 @@
    "categoria": "Informática",
    "lance_atual": 350,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/notebook-hp-probook-4320s-intel-core-i5-m-540-2-53-ghz-4-gb-de-ram-e-ssd-de-120--5066855",
@@ -24099,7 +26667,7 @@
    "categoria": "Informática",
    "lance_atual": 300,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/notebook-dell-inspiron-n5010-intel-core-i3-m-350-2-27-ghz-6-gb-de-ram-e-ssd-de-1-5067018",
@@ -24123,7 +26691,7 @@
    "categoria": "Informática",
    "lance_atual": 300,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/notebook-hp-probook-4320s-intel-core-i3-m370-2-40-ghz-4-gb-de-ram-e-ssd-de-120-g-5067065",
@@ -24147,7 +26715,7 @@
    "categoria": "Informática",
    "lance_atual": 150,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/4-ssds-1-kingston-de-240-gb-e-3-colorful-de-120-gb-cada-acessados-em-teste-5067724",
@@ -24171,7 +26739,7 @@
    "categoria": "Informática",
    "lance_atual": 150,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/4-ssds-1-kingston-de-240-gb-e-3-colorful-de-120-gb-cada-acessados-em-teste-5067725",
@@ -24195,7 +26763,7 @@
    "categoria": "Informática",
    "lance_atual": 150,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/4-ssds-1-kingston-de-240-gb-e-3-keepdata-de-120-gb-cada-acessados-em-teste-5067726",
@@ -24219,7 +26787,7 @@
    "categoria": "Informática",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/lote-18-kit-com-9-memorias-ram-kingston-e-smart-de-1-gb-a-4-gb-ddr2-e-ddr3-nao-t-5068551",
@@ -24243,7 +26811,7 @@
    "categoria": "Informática",
    "lance_atual": 100,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/9-memorias-ram-2-de-4-gb-5-de-2-gb-1-de-1-gb-e-1-com-capacidade-nao-identificada-5068584",
@@ -24267,7 +26835,7 @@
    "categoria": "Eletrônicos",
    "lance_atual": 100,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/8-cameras-de-seguranca-giga-e-tecvoz-para-cftv-modelos-full-hd-2-mp-e-800-tvl-te-5068602",
@@ -24291,7 +26859,7 @@
    "categoria": "Informática",
    "lance_atual": 250,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/notebook-hp-probook-4440s-intel-core-i5-3210m-2-50-ghz-8-gb-de-ram-e-ssd-de-120--5070409",
@@ -24315,7 +26883,7 @@
    "categoria": "Informática",
    "lance_atual": 350,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/notebook-hp-probook-640-g2-intel-core-i5-6300u-2-40-ghz-8-gb-de-ram-e-ssd-de-240-5070410",
@@ -24339,7 +26907,7 @@
    "categoria": "Informática",
    "lance_atual": 350,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/notebook-lenovo-thinkpad-t430-intel-core-i5-3320m-2-60-ghz-4-gb-de-ram-e-hd-de-5-5070427",
@@ -24363,7 +26931,7 @@
    "categoria": "Telefonia",
    "lance_atual": 350,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/10-smartphones-lg-g2-mini-d625-4g-expansiveis-via-microsd-com-caixas-e-baterias--5070737",
@@ -24387,7 +26955,7 @@
    "categoria": "Telefonia",
    "lance_atual": 350,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/10-smartphones-lg-g2-mini-d625-4g-expansiveis-via-microsd-com-caixas-e-baterias--5070819",
@@ -24411,7 +26979,7 @@
    "categoria": "Informática",
    "lance_atual": 100,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/4-ssds-kingston-de-120-gb-cada-acessados-em-teste-5071419",
@@ -24435,7 +27003,7 @@
    "categoria": "Informática",
    "lance_atual": 100,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/4-ssds-kingston-de-120-gb-cada-acessados-em-teste-5071420",
@@ -24459,7 +27027,7 @@
    "categoria": "Informática",
    "lance_atual": 100,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/4-ssds-2-kingston-de-120-gb-1-crucial-de-120-gb-e-1-winmemory-de-128-gb-acessado-5071421",
@@ -24483,7 +27051,7 @@
    "categoria": "Informática",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/24-placas-mae-de-marcas-e-modelos-diversos-e-2-placas-eletronicas-5072031",
@@ -24507,7 +27075,7 @@
    "categoria": "Informática",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/8-memorias-ram-1-de-8-gb-5-de-2-gb-1-de-1-gb-e-1-de-512-mb-nao-testadas-com-uma--5072377",
@@ -24517,7 +27085,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLVED LEILÕES",
     "leilao": "Leilão de Informática, Telefonia e Mais..."
    },
@@ -24531,7 +27099,7 @@
    "categoria": "Eletrônicos",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/16-coletores-de-dados-portateis-com-leitor-de-codigo-de-barras-tela-e-teclado-in-5073521",
@@ -24555,7 +27123,7 @@
    "categoria": "Eletrônicos",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/19-coletores-de-dados-intermec-linha-ck3-com-5-bases-de-recarga-e-20-baterias-5073523",
@@ -24579,7 +27147,7 @@
    "categoria": "Informática",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/fontes-de-alimentacao-para-computadores-marcas-hp-liteon-acbel-fsp-e-c3tech-mode-5074610",
@@ -24603,7 +27171,7 @@
    "categoria": "Eletrônicos",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/16-coletores-de-dados-intermec-ck3a-com-5-bases-de-recarga-e-20-baterias-5074611",
@@ -24627,7 +27195,7 @@
    "categoria": "Eletrônicos",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/20-coletores-de-dados-intermec-linha-ck3-com-5-bases-de-recarga-e-20-baterias-5074612",
@@ -24651,7 +27219,7 @@
    "categoria": "Eletrônicos",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/19-coletores-de-dados-intermec-linha-ck3-com-5-bases-de-recarga-e-20-baterias-5075284",
@@ -24675,7 +27243,7 @@
    "categoria": "Informática",
    "lance_atual": 300,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/5-processadores-intel-sendo-2-unidades-core-i5-de-10-geracao-1-unidade-core-i5-d-5075324",
@@ -24699,7 +27267,7 @@
    "categoria": "Informática",
    "lance_atual": 300,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/2-unidades-de-impressoras-de-etiquetas-bixolon-slp-t400-com-2-fontes-de-alimenta-5076368",
@@ -24723,7 +27291,7 @@
    "categoria": "Informática",
    "lance_atual": 250,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/2-unidades-de-impressoras-de-etiquetas-bixolon-slp-t400-com-1-fonte-de-alimentac-5076374",
@@ -24747,12 +27315,36 @@
    "categoria": "Eletrônicos",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/sucata-de-coletores-de-dados-incluindo-equipamentos-intermec-telas-placas-eletro-5076893",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/9a655e47-03e5-4d28-ad42-09378c91ce75.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 1,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5078005",
+   "titulo": "2 UNIDADES DE COMPUTADORES HP COMPAQ 4000 PRO SFF, INTEL CORE 2 DUO E7500 2,93 GHz, 4 GB DE RAM E HD SATA DE 500 GB CADA, COM 2 MONITORES, 2 TECLADOS E 2 MOUSES ¿ ACESSO À BIOS",
+   "categoria": "Informática",
+   "lance_atual": 100,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "Louveira",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-unidades-de-computadores-hp-compaq-4000-pro-sff-intel-core-2-duo-e7500-2-93-gh-5078005",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/286a0a2e-0f18-45ff-a83b-75c7c5cff724.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -24771,7 +27363,7 @@
    "categoria": "Eletrônicos",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/sucata-de-42-cameras-de-seguranca-intelbras-giga-e-dynno-com-9-caixas-de-proteca-5079217",
@@ -24795,7 +27387,7 @@
    "categoria": "Eletrônicos",
    "lance_atual": 50,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/19-coletores-de-dados-incluindo-datalogic-falcon-e-unite-com-bases-intermec-e-ac-5079226",
@@ -24819,7 +27411,7 @@
    "categoria": "Informática",
    "lance_atual": 300,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/5-processadores-intel-sendo-3-unidades-core-i5-de-10-geracao-1-unidade-core-i3-d-5079242",
@@ -24843,7 +27435,7 @@
    "categoria": "Informática",
    "lance_atual": 300,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/5-processadores-intel-sendo-2-unidades-core-i5-de-10-geracao-2-unidades-core-i5--5079243",
@@ -24867,7 +27459,7 @@
    "categoria": "Informática",
    "lance_atual": 300,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/2-unidades-de-impressoras-de-etiquetas-bixolon-slp-t400-com-2-fontes-de-alimenta-5080304",
@@ -24891,7 +27483,7 @@
    "categoria": "Informática",
    "lance_atual": 350,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/3-unidades-de-impressoras-de-etiquetas-bixolon-sendo-2-unidades-slp-tx400-e-1-un-5080309",
@@ -24915,12 +27507,36 @@
    "categoria": "Informática",
    "lance_atual": 80,
    "encerramento": "2026-12-12 10:00",
-   "cidade": "São Paulo",
+   "cidade": "Louveira",
    "uf": "SP",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/8-unidades-de-hds-western-digital-wd-blue-de-500-gb-cada-acesso-a-arquivos-em-ve-5080847",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/6de2e0ab-a57f-4670-a4a3-3ea655706b8b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5082093",
+   "titulo": "2 UNIDADES DE COMPUTADORES HP COM INTEL CORE 2 DUO E7500, HD DE 500 GB CADA, MONITORES SAMSUNG, TECLADOS E MOUSES ¿ SEM CABOS VGA E DE FORÇA",
+   "categoria": "Informática",
+   "lance_atual": 100,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "Louveira",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-unidades-de-computadores-hp-com-intel-core-2-duo-e7500-hd-de-500-gb-cada-monit-5082093",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e44624fb-a7ad-44e7-99f9-4f9eb8b33936.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -25000,30 +27616,6 @@
     "lances": 0,
     "leiloeiro": "SALA DE LEILÕES",
     "leilao": "Infermática, telefonia"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5074132",
-   "titulo": "01 FREEZER COLLING + 02 TANQUINHOS PRAXIS (#1MAGO)",
-   "categoria": "Refrigeradores",
-   "lance_atual": 900,
-   "encerramento": "2026-11-03 08:46",
-   "cidade": "Belo Horizonte",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-freezer-colling-02-tanquinhos-praxis-1mago-5074132",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/aaa70e0e-3eb4-4950-9255-d110fc8d0f6e.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "SALA DE LEILÕES",
-    "leilao": "Logistica reversa"
    },
    "prioridade": false,
    "destaque": false
@@ -26565,7 +29157,7 @@
    "id": "superbid-5069913",
    "titulo": "APROX. 300 FITAS LED, ROLO COM 100 METROS (Ref.: 17)",
    "categoria": "Eletrônicos",
-   "lance_atual": 1300,
+   "lance_atual": 1400,
    "encerramento": "2026-11-05 11:30",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -26577,7 +29169,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -26661,7 +29253,7 @@
    "id": "superbid-5069910",
    "titulo": "APROX. 420 FONES DE OUVIDO WIRELES SEM FIO BT-950, DIVERSAS CORES (Ref.: 12)",
    "categoria": "Telefonia",
-   "lance_atual": 500,
+   "lance_atual": 700,
    "encerramento": "2026-11-05 11:33",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -26673,7 +29265,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -26685,7 +29277,7 @@
    "id": "superbid-5066440",
    "titulo": "65 CONTROLES PARA X-BOX ONE COM FIO (Ref.: 11)",
    "categoria": "Eletrônicos",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-05 11:34",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -26697,7 +29289,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -26733,7 +29325,7 @@
    "id": "superbid-5069907",
    "titulo": "APROX. 3150 PINCÉIS PARA MAQUIAGEM PONTA FINA (Ref.: 16)",
    "categoria": "Eletroportáteis",
-   "lance_atual": 250,
+   "lance_atual": 350,
    "encerramento": "2026-11-05 11:35",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -26745,7 +29337,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -26853,7 +29445,7 @@
    "id": "superbid-5066434",
    "titulo": "APROX. 552 PINCÉIS PARA MAQUIAGEM PEQUENO 11CM (Ref.: 9)",
    "categoria": "Eletroportáteis",
-   "lance_atual": 50,
+   "lance_atual": 150,
    "encerramento": "2026-11-05 11:40",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -26865,7 +29457,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -38121,7 +40713,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SALA DE LEILÕES",
     "leilao": "Infermática, telefonia"
    },
@@ -38505,7 +41097,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "GRANDE LEILÃO APPLE"
    },
@@ -38733,7 +41325,7 @@
    "id": "superbid-5076322",
    "titulo": "01 IPAD APPLE A16 11ª GERAÇÃO 128GB WI-FI AZUL- QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
    "categoria": "Telefonia",
-   "lance_atual": 1900,
+   "lance_atual": 2100,
    "encerramento": "2026-12-10 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -38745,7 +41337,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "NP LEILÕES",
     "leilao": "GRANDE LEILÃO APPLE"
    },
