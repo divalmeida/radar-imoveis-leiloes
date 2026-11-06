@@ -1,73 +1,25 @@
 {
- "atualizado_em": "2026-11-06 07:27",
+ "atualizado_em": "2026-11-06 13:11",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 626,
-   "segundos": 556
+   "segundos": 576
   },
   "Superbid": {
    "ok": true,
-   "lotes": 1038,
-   "segundos": 13
+   "lotes": 1118,
+   "segundos": 12
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-11-03 19:06",
    "lotes": 727,
-   "segundos": 0
+   "segundos": 1
   }
  },
  "lotes": [
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5068105",
-   "titulo": "LAVA-LOUÇAS INDUSTRIAL DE CAPOTA EM AÇO INOX",
-   "categoria": "Limpeza",
-   "lance_atual": 2000,
-   "encerramento": "2026-11-06 10:24",
-   "cidade": "Sertãozinho",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lava-loucas-industrial-de-capota-em-aco-inox-5068105",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/c63a95da-d691-4c66-be10-cfcf4d19704a.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Savegnago"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071795",
-   "titulo": "LAVA-LOUÇAS INDUSTRIAL DE CAPOTA EM AÇO INOX",
-   "categoria": "Limpeza",
-   "lance_atual": 2000,
-   "encerramento": "2026-11-06 10:24",
-   "cidade": "Sertãozinho",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lava-loucas-industrial-de-capota-em-aco-inox-5071795",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/4a3b9e5b-0a16-4052-a9a5-74b44742f5c0.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Savegnago"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
   {
    "fonte": "Superbid",
    "id": "superbid-5051113",
@@ -745,7 +697,7 @@
    "id": "superbid-5069596",
    "titulo": "48 CABOS HDMI C/ 02 E 03 METROS",
    "categoria": "Eletrônicos",
-   "lance_atual": 450,
+   "lance_atual": 500,
    "encerramento": "2026-11-09 15:02",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -757,7 +709,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 8,
+    "lances": 9,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -1093,7 +1045,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1237,7 +1189,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1777,7 +1729,7 @@
    "id": "superbid-5082826",
    "titulo": "ITENS DE COSMÉTICOS: PRINCIPIA, GRAMADO,LOLA ILIKE, WELLA, HIDRATEI, LOREAL, TRUSS, PAYOT E OUTROS (APROX .700 UN) (Ref.: SB0033972)",
    "categoria": "Eletroportáteis",
-   "lance_atual": 5900,
+   "lance_atual": 6200,
    "encerramento": "2026-11-09 15:49",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1789,7 +1741,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1801,7 +1753,7 @@
    "id": "superbid-5078537",
    "titulo": "ITENS DE COSMÉTICOS: HIDRABENE, HIDRATEI, YBERA, MIO CAPELLI, O BOTICARIO, REXONA, NIVEA E OUTROS (APROX. 600 UN)                      (Ref.: SB0033973)",
    "categoria": "Eletroportáteis",
-   "lance_atual": 5000,
+   "lance_atual": 5300,
    "encerramento": "2026-11-09 15:50",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1813,7 +1765,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1897,7 +1849,7 @@
    "id": "superbid-5078538",
    "titulo": "IPHONE APPLE 13 (USADO) (01 UN) (Ref.: SB0033983)",
    "categoria": "Telefonia",
-   "lance_atual": 820,
+   "lance_atual": 920,
    "encerramento": "2026-11-09 15:51",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1909,7 +1861,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1945,7 +1897,7 @@
    "id": "superbid-5078539",
    "titulo": "IPHONE APPLE 16 PRO MAX 256GB (01 UN)         (Ref.: SB0033985)",
    "categoria": "Telefonia",
-   "lance_atual": 3560,
+   "lance_atual": 3760,
    "encerramento": "2026-11-09 15:52",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1957,7 +1909,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 16,
+    "lances": 17,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -2425,7 +2377,7 @@
    "id": "superbid-5069514",
    "titulo": "APROX. 300 CABOS DE CARREGADOR 25W  TYPE-C / IPHONE / V8 (SEM USO)",
    "categoria": "Telefonia",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-09 16:23",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -2437,7 +2389,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -11797,7 +11749,7 @@
    "id": "superbid-5080519",
    "titulo": "LAV 17KG SAMSUNG SMART WA17CG PRETO 127V, LAVA E SECA 11KG TCL C311WDW1 127V BC (02 UN)          (Ref.: SB0029309)",
    "categoria": "Limpeza",
-   "lance_atual": 1115,
+   "lance_atual": 1215,
    "encerramento": "2026-11-11 16:48",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11809,7 +11761,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11821,7 +11773,7 @@
    "id": "superbid-5076572",
    "titulo": "LAVA E SECA 14KG LG SMART VC4 CV5014WC4 127V BC, LAVA E SECA 12KG LG SMART VC4 CV5012PC4A 220V INOX LOOK (02 UN) (Ref.: SB0029310)",
    "categoria": "Limpeza",
-   "lance_atual": 1105,
+   "lance_atual": 1205,
    "encerramento": "2026-11-11 16:49",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11833,7 +11785,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12037,7 +11989,7 @@
    "id": "superbid-5076576",
    "titulo": "REF FF DUPLEX 394L MIDEA MD-RT533EVD461 127V INOX, REF FF DUPLEX 394L MIDEA MD-RT533EVD012 220V BC (02 UN) (Ref.: SB0029323)",
    "categoria": "Refrigeradores",
-   "lance_atual": 915,
+   "lance_atual": 1015,
    "encerramento": "2026-11-11 16:55",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12049,7 +12001,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12085,7 +12037,7 @@
    "id": "superbid-5080526",
    "titulo": "REF FF 480L ELECTROLUX TF71B BLACK INOX 220V, REF FF 480L ELECTROLUX TF71S INOX LOOK 220V, REF FF 480L ELECTROLUX TF71B BLACK INOX 220V (03 UN) (Ref.: SB0029325)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1460,
+   "lance_atual": 1560,
    "encerramento": "2026-11-11 16:56",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12097,7 +12049,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12109,7 +12061,7 @@
    "id": "superbid-5076577",
    "titulo": "REF FF 490L ELECTROLUX INVERSE IB7S 110V INOX, REF FF 490L ELECTROLUX INVERSE IB7 110V BRANCO  (02 UN) (Ref.: SB0029327)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1110,
+   "lance_atual": 1210,
    "encerramento": "2026-11-11 16:56",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12121,7 +12073,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12181,7 +12133,7 @@
    "id": "superbid-5080531",
    "titulo": "REF FDR 559L BRASTEMP BRO85MK 110V INOX (01 UN) (Ref.: SB0029330)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1075,
+   "lance_atual": 1175,
    "encerramento": "2026-11-11 16:58",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12193,7 +12145,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12253,7 +12205,7 @@
    "id": "superbid-5080534",
    "titulo": "REF FF INVERTER 526L ELECTROLUX ES5GB SBS PTO 220V\n(01 UN) (Ref.: SB0029333)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1225,
+   "lance_atual": 1325,
    "encerramento": "2026-11-11 16:59",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12265,7 +12217,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12277,7 +12229,7 @@
    "id": "superbid-5076582",
    "titulo": "REF FDR 559L BRASTEMP BRO85MK 220V INOX (01 UN) (Ref.: SB0029334)",
    "categoria": "Refrigeradores",
-   "lance_atual": 975,
+   "lance_atual": 1075,
    "encerramento": "2026-11-11 17:00",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12289,7 +12241,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12445,7 +12397,7 @@
    "id": "superbid-5080533",
    "titulo": "REF FF 380L ELECTROLUX INVERTER IF41S 220V INOX, REF FF 380L ELECTROLUX INVERTER IF41S 220V INOX\n(02 UN) (Ref.: SB0029326)",
    "categoria": "Refrigeradores",
-   "lance_atual": 965,
+   "lance_atual": 1065,
    "encerramento": "2026-11-11 17:04",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12457,7 +12409,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -14065,7 +14017,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -14413,7 +14365,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 660,
+   "lance_atual": 710,
    "encerramento": "2026-11-16 12:35",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -14425,7 +14377,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 13,
+    "lances": 14,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -14962,6 +14914,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5083460",
+   "titulo": "CLUSTER DE SERVIDORES SUPERMICRO COM 2 RACKS, 64 SERVIDORES, 127 DISCOS E 2 SWITCHES MELLANOX",
+   "categoria": "Informática",
+   "lance_atual": 36300,
+   "encerramento": "2026-11-18 14:00",
+   "cidade": "Belford Roxo",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/cluster-de-servidores-supermicro-com-2-racks-64-servidores-127-discos-e-2-switch-5083460",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9593a960-af21-45b4-b66f-2ed1617e1456.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "Petrobras",
+    "leilao": "Petrobras - PEA0436240"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5055874",
    "titulo": "Equipamentos digitais e informática",
    "categoria": "Informática",
@@ -15230,7 +15206,7 @@
    "titulo": "04 OLT MAXFIBER G16641BG MAXPRINT (Ref.: 68000185)",
    "categoria": "Eletrônicos",
    "lance_atual": 4000,
-   "encerramento": "2026-11-19 16:18",
+   "encerramento": "2026-11-19 16:20",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15254,7 +15230,7 @@
    "titulo": "387 CAIXA DE TERMINACAO OTICA 16F CORDOALHA MAXPRINT (Ref.: 68000187)",
    "categoria": "Eletrônicos",
    "lance_atual": 3400,
-   "encerramento": "2026-11-19 16:19",
+   "encerramento": "2026-11-19 16:20",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15278,7 +15254,7 @@
    "titulo": "83 IDENTIFICADOR DE FIBRA OPTICA MAXPRINT (Ref.: 68000121)",
    "categoria": "Eletrônicos",
    "lance_atual": 2000,
-   "encerramento": "2026-11-19 16:19",
+   "encerramento": "2026-11-19 16:21",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15302,7 +15278,7 @@
    "titulo": "EQPTOS E PEÇAS LBRX TELECOM INDUSTRIA E COMERCIO LTDA: TUBOS ESPIRAIS E ELEMENTOS DE SUSTENTAÇÃO DE CABOS (APROX. 105 PÇS)",
    "categoria": "Eletrônicos",
    "lance_atual": 500,
-   "encerramento": "2026-11-19 16:20",
+   "encerramento": "2026-11-19 16:21",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15326,7 +15302,7 @@
    "titulo": "EQPTOS E PEÇAS MAXPRINT: SPLITER ÓPTICOS, CABOS DE FIBRA E CABOS ÓPTICOS (APROX. 10783 PÇS)",
    "categoria": "Eletrônicos",
    "lance_atual": 4500,
-   "encerramento": "2026-11-19 16:20",
+   "encerramento": "2026-11-19 16:22",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15350,7 +15326,7 @@
    "titulo": "EQPTOS E PEÇAS MAXPRINT: SPLITER E CABOS ÓPTICOS  (APROX. 10.464 PÇS)",
    "categoria": "Eletrônicos",
    "lance_atual": 4000,
-   "encerramento": "2026-11-19 16:21",
+   "encerramento": "2026-11-19 16:22",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15374,7 +15350,7 @@
    "titulo": "EQPTOS E PEÇAS MAXPRINT E SUMEC: CABOS ÓPTICOS, ROTEADORES, MEDIDORES, ONU E OUTROS (APROX. 1.604 PÇS)",
    "categoria": "Eletrônicos",
    "lance_atual": 4000,
-   "encerramento": "2026-11-19 16:21",
+   "encerramento": "2026-11-19 16:23",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15398,7 +15374,7 @@
    "titulo": "EQPTOS E PEÇAS MAXPRINT E HUAWEI: MÓDULOS, FONTES, MICROSCÓPIOS, ELETRODOS, SOFTWARES E OUTROS (APROX. 1.891 PÇS)",
    "categoria": "Eletrônicos",
    "lance_atual": 4000,
-   "encerramento": "2026-11-19 16:22",
+   "encerramento": "2026-11-19 16:23",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15422,7 +15398,7 @@
    "titulo": "EQPTOS E PEÇAS FIBERSUL, GLADDEN FIBER E HUAVEI (APROX. 513 PÇS)",
    "categoria": "Eletrônicos",
    "lance_atual": 600,
-   "encerramento": "2026-11-19 16:22",
+   "encerramento": "2026-11-19 16:24",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15446,7 +15422,7 @@
    "titulo": "EQPTOS HUAWEI: ONT GPON E SOFTWARES (39 PÇS)",
    "categoria": "Eletrônicos",
    "lance_atual": 500,
-   "encerramento": "2026-11-19 16:23",
+   "encerramento": "2026-11-19 16:24",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15470,7 +15446,7 @@
    "titulo": "EQPTOS HUAWEI: SWITCH E FONTES (17 PÇS)",
    "categoria": "Eletrônicos",
    "lance_atual": 1800,
-   "encerramento": "2026-11-19 16:23",
+   "encerramento": "2026-11-19 16:25",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15494,7 +15470,7 @@
    "titulo": "EQPTOS HUAWEI: SWITCH E FONTE (2 PÇS)",
    "categoria": "Eletrônicos",
    "lance_atual": 1200,
-   "encerramento": "2026-11-19 16:24",
+   "encerramento": "2026-11-19 16:25",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15518,7 +15494,7 @@
    "titulo": "EQPTOS HUAWEI: ROTEADORES, PLACA, SOFTWARES E OUTROS (24 PÇS)",
    "categoria": "Eletrônicos",
    "lance_atual": 3000,
-   "encerramento": "2026-11-19 16:24",
+   "encerramento": "2026-11-19 16:26",
    "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
@@ -15532,6 +15508,870 @@
     "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Compartilhado Industrial & Bens de Consumo"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084503",
+   "titulo": "REF 2066: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 310,
+   "encerramento": "2026-11-20 14:00",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2066-eletroportateis-5084503",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b70cdafa-4c74-47d3-b700-944208de5571.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084504",
+   "titulo": "REF 2064: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 645,
+   "encerramento": "2026-11-20 14:00",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2064-eletroportateis-5084504",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a622f70c-f327-4fc7-91b0-6b8e6bbe72e8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083843",
+   "titulo": "REF 2063: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 450,
+   "encerramento": "2026-11-20 14:01",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2063-eletroportateis-5083843",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3e7fb36d-8f1a-4302-b379-4b4cc7921285.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084505",
+   "titulo": "REF 2060: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 460,
+   "encerramento": "2026-11-20 14:01",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2060-eletroportateis-5084505",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dd1d7c65-da5f-4a22-ad36-e850b45c894a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083844",
+   "titulo": "REF 2065: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 398,
+   "encerramento": "2026-11-20 14:02",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2065-eletroportateis-5083844",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8e4d153d-ce64-4e52-9d9e-cab6f28ffa64.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084506",
+   "titulo": "REF 2062: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 410,
+   "encerramento": "2026-11-20 14:02",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2062-eletroportateis-5084506",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2ff7c363-993c-4153-9949-d4ffc217a3fd.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083845",
+   "titulo": "REF 2058: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 450,
+   "encerramento": "2026-11-20 14:03",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2058-eletroportateis-5083845",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/442e32ca-2ee5-4cee-a0e0-38d85531fc3f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084507",
+   "titulo": "REF 2057: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 450,
+   "encerramento": "2026-11-20 14:03",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2057-eletroportateis-5084507",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7d46bc64-9256-4b62-addc-65b5a013786c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084508",
+   "titulo": "REF 2055: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 485,
+   "encerramento": "2026-11-20 14:04",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2055-eletroportateis-5084508",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/13f7ed0c-683c-4c69-b12e-c43cad848602.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084509",
+   "titulo": "REF 2054: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 330,
+   "encerramento": "2026-11-20 14:04",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2054-eletroportateis-5084509",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/128f6dd7-f074-4568-8371-0d95df68b011.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084510",
+   "titulo": "REF 2053: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 398,
+   "encerramento": "2026-11-20 14:05",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2053-eletroportateis-5084510",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/a44d0b9e-9a01-42d6-b814-54e53228e321.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084511",
+   "titulo": "REF 2052: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 450,
+   "encerramento": "2026-11-20 14:05",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2052-eletroportateis-5084511",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dab5afda-3426-4480-ab8b-ba89ff70e8ec.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083846",
+   "titulo": "REF 2050: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 298,
+   "encerramento": "2026-11-20 14:06",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2050-eletroportateis-5083846",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/75e0db4d-d0cb-4b86-aac5-d2ac1d06d165.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084512",
+   "titulo": "REF 2049: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 598,
+   "encerramento": "2026-11-20 14:06",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2049-eletroportateis-5084512",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3cdc8a6b-d1b0-460e-9745-ea0af11fcc3d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084513",
+   "titulo": "REF 2048: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 310,
+   "encerramento": "2026-11-20 14:07",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2048-eletroportateis-5084513",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2af64577-86ca-41dc-b1fe-6017aba0d724.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083847",
+   "titulo": "REF 2047: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 410,
+   "encerramento": "2026-11-20 14:07",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2047-eletroportateis-5083847",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/60d1e635-67cb-4abd-8a05-5a86d808983d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084514",
+   "titulo": "REF 2046: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 415,
+   "encerramento": "2026-11-20 14:08",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2046-eletroportateis-5084514",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f4cf46b6-3d98-4d32-a251-d5094819d722.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084515",
+   "titulo": "REF 2045: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 440,
+   "encerramento": "2026-11-20 14:08",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2045-eletroportateis-5084515",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b82ccce6-9de5-4607-8807-0b710063632a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084516",
+   "titulo": "REF 2044: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 450,
+   "encerramento": "2026-11-20 14:09",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2044-eletroportateis-5084516",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/772c4598-8ce2-437a-8026-f77adf78c88c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084517",
+   "titulo": "REF 2043: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 398,
+   "encerramento": "2026-11-20 14:09",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2043-eletroportateis-5084517",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/353c0b5a-130b-423b-8dfe-fab397345441.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083848",
+   "titulo": "REF 2042: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 498,
+   "encerramento": "2026-11-20 14:10",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2042-eletroportateis-5083848",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/774916f5-7a77-4c69-8ce1-553a3bc96a91.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5088849",
+   "titulo": "REF 2040: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 450,
+   "encerramento": "2026-11-20 14:10",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2040-eletroportateis-5088849",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8e9c220f-45e8-4aea-85b4-8e9826495c53.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084518",
+   "titulo": "REF 2041: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 395,
+   "encerramento": "2026-11-20 14:11",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2041-eletroportateis-5084518",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8b94e330-8ee0-493e-ad31-a2692c2f1f42.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5088850",
+   "titulo": "REF 2037: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 730,
+   "encerramento": "2026-11-20 14:11",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2037-eletroportateis-5088850",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1b49fd27-dc61-4ee7-9b5d-11ce3248cbee.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084519",
+   "titulo": "REF 2036: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 450,
+   "encerramento": "2026-11-20 14:12",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2036-eletroportateis-5084519",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/7fc530c1-1336-4019-a4c9-d9068a977c6c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084520",
+   "titulo": "REF 2035: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 440,
+   "encerramento": "2026-11-20 14:12",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2035-eletroportateis-5084520",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/be5aac0f-6066-469d-a301-1df568bcfc61.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5088851",
+   "titulo": "REF 2034: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 470,
+   "encerramento": "2026-11-20 14:13",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2034-eletroportateis-5088851",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/cf397d3f-5c88-4c47-a4ae-0d5b9ace5de6.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084521",
+   "titulo": "REF 2031: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 420,
+   "encerramento": "2026-11-20 14:13",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2031-eletroportateis-5084521",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9eba0322-8f8a-4b5d-a555-43631d4a2af6.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084522",
+   "titulo": "REF 2032: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 598,
+   "encerramento": "2026-11-20 14:14",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2032-eletroportateis-5084522",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e4038abd-db41-402d-87d5-5037ce54148b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5088852",
+   "titulo": "REF 2030: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 440,
+   "encerramento": "2026-11-20 14:14",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2030-eletroportateis-5088852",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e46651b2-b329-4a2b-a3e6-b5ffdec60961.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084523",
+   "titulo": "REF 2029: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 450,
+   "encerramento": "2026-11-20 14:15",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2029-eletroportateis-5084523",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e1b0d61f-1c1e-4d00-8d97-be9ba171b6f6.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084524",
+   "titulo": "REF 2026: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-11-20 14:15",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2026-eletroportateis-5084524",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/ba842ecf-2cf7-4276-b3ab-819eadd68af4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5088853",
+   "titulo": "REF 2028: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 435,
+   "encerramento": "2026-11-20 14:16",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2028-eletroportateis-5088853",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2a620a68-9717-4ab3-b920-04fdf8158e4b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084525",
+   "titulo": "REF 2020: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 330,
+   "encerramento": "2026-11-20 14:16",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2020-eletroportateis-5084525",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c90f43d9-b527-4a31-a6dd-0de401ea49fb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084526",
+   "titulo": "REF 2018: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 460,
+   "encerramento": "2026-11-20 14:17",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2018-eletroportateis-5084526",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6468cd8f-9151-4cea-a8a3-3f7f736adf99.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5088854",
+   "titulo": "REF 2025: ELETROPORTÁTEIS",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 410,
+   "encerramento": "2026-11-20 14:17",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/ref-2025-eletroportateis-5088854",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d2153f8e-0937-46e7-a6a3-ab88551de73c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE ELETROPORTÁTEIS"
    },
    "prioridade": false,
    "destaque": true
@@ -17681,7 +18521,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
    },
@@ -17801,7 +18641,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
    },
@@ -20654,54 +21494,6 @@
   },
   {
    "fonte": "Superbid",
-   "id": "superbid-5042789",
-   "titulo": "Climatizador Ventisol Cli 70 Pro2",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 250,
-   "encerramento": "2026-12-06 10:45",
-   "cidade": "Águas de Chapecó",
-   "uf": "SC",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/climatizador-ventisol-cli-70-pro2-5042789",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/9a6aa533-ad72-40dc-ad4c-c2ff9224ae4b.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "KRON LEILÕES",
-    "leilao": "Just do Trab Central Apoio à Exec de Chapecó/SC"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5044686",
-   "titulo": "Dois freezers verticais expositores",
-   "categoria": "Eletroportáteis",
-   "lance_atual": 1500,
-   "encerramento": "2026-12-06 10:45",
-   "cidade": "Águas de Chapecó",
-   "uf": "SC",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/dois-freezers-verticais-expositores-5044686",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/ccba9e42-eedd-459d-9091-c52166384e54.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "KRON LEILÕES",
-    "leilao": "Just do Trab Central Apoio à Exec de Chapecó/SC"
-   },
-   "prioridade": false,
-   "destaque": true
-  },
-  {
-   "fonte": "Superbid",
    "id": "superbid-5058616",
    "titulo": "Estação de Trabalho HP Compaq Pro 6300 Core i5 3ª Geração, 8GB RAM, SSD 120GB, Monitor BenQ , 18,5 polegadas, formato widescreen , Teclado e Mouse",
    "categoria": "Informática",
@@ -21875,78 +22667,6 @@
    },
    "prioridade": false,
    "destaque": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5002394",
-   "titulo": "Diversos bens móveis: celulares, relógio, pendrives e mochila",
-   "categoria": "Telefonia",
-   "lance_atual": 1707.38,
-   "encerramento": "2026-11-06 09:15",
-   "cidade": "Paranaguá",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/diversos-bens-moveis-celulares-relogio-pendrives-e-mochila-5002394",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/1252a3ad-fc6f-441b-aed9-8745a27e575f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "KRON LEILÕES",
-    "leilao": "02ª Vara Criminal de Paranaguá/PR"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5067933",
-   "titulo": "10 RÁDIOS INTELBRAS - RPD8 (SEM USO)",
-   "categoria": "Eletrônicos",
-   "lance_atual": 1000,
-   "encerramento": "2026-11-06 11:30",
-   "cidade": "Belo Horizonte",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/10-radios-intelbras-rpd8-sem-uso-5067933",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/8c16b28f-8e90-4064-885c-82665dd0745f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Localiza"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5071660",
-   "titulo": "10 RÁDIOS INTELBRAS - RPD8 (SEM USO)",
-   "categoria": "Eletrônicos",
-   "lance_atual": 1000,
-   "encerramento": "2026-11-06 11:30",
-   "cidade": "Belo Horizonte",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/10-radios-intelbras-rpd8-sem-uso-5071660",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/70064cb1-467d-466c-bbaf-e139e318207e.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 1,
-    "leiloeiro": "SOLD",
-    "leilao": "Localiza"
-   },
-   "prioridade": false,
-   "destaque": false
   },
   {
    "fonte": "Superbid",
@@ -24177,6 +24897,582 @@
    "destaque": false
   },
   {
+   "fonte": "Superbid",
+   "id": "superbid-5084164",
+   "titulo": "CAIXA DE SOM PORTÁTIL BASLIKE ( SALDO A)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 300,
+   "encerramento": "2026-11-12 19:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-portatil-baslike-saldo-a-5084164",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d303cb8f-ebf3-4424-b6a2-63ba87c936ad.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084165",
+   "titulo": "CAIXA DE SOM PORTÁTIL BASLIKE  ( SALDO A )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 300,
+   "encerramento": "2026-11-12 19:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-portatil-baslike-saldo-a-5084165",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fc72c855-947f-4a55-98c0-e974d26c852d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083467",
+   "titulo": "CAIXA DE SOM PORTÁTIL BASLIKE   ( SALDO A )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 300,
+   "encerramento": "2026-11-12 19:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-portatil-baslike-saldo-a-5083467",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dadf8627-58d9-46ab-8e54-dad64249b695.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083468",
+   "titulo": "MULTIMIDIA ANDROID - RA928   ( SALDO A )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 350,
+   "encerramento": "2026-11-12 19:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/multimidia-android-ra928-saldo-a-5083468",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dfef2eca-e6be-492d-9a2e-be2df1e4d535.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083469",
+   "titulo": "CAIXA DE SOM PORTÁTIL BASLIKE  ( SALDO A )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 300,
+   "encerramento": "2026-11-12 19:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-portatil-baslike-saldo-a-5083469",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/dd2e2a25-1b94-488f-bba6-98f56b7fe5f4.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083470",
+   "titulo": "MULTIMIDIA ANDROID - RA928   ( SALDO A )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 350,
+   "encerramento": "2026-11-12 19:00",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/multimidia-android-ra928-saldo-a-5083470",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/641b5a43-e293-43fd-b721-84ede3fa77c9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083471",
+   "titulo": "CAIXA DE SOM PORTÁTIL BASLIKE   ( SALDO A )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 300,
+   "encerramento": "2026-11-12 19:01",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-portatil-baslike-saldo-a-5083471",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fa9f4d02-0e4b-4dd0-b63d-a1cb74a85043.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083472",
+   "titulo": "MULTIMIDIA ANDROID - RA928    ( SALDO A )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 350,
+   "encerramento": "2026-11-12 19:01",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/multimidia-android-ra928-saldo-a-5083472",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5237353b-686d-45ba-9e84-e525b5ca5297.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083473",
+   "titulo": "MULTIMIDIA ANDROID - RA928   ( SALDO A )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 350,
+   "encerramento": "2026-11-12 19:01",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/multimidia-android-ra928-saldo-a-5083473",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b37426eb-1fd1-4d65-a819-a4c1519aba07.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083474",
+   "titulo": "MULTIMIDIA ANDROID - RA928   ( SALDO A )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 350,
+   "encerramento": "2026-11-12 19:01",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/multimidia-android-ra928-saldo-a-5083474",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/8f306840-627c-42be-81ca-569c4b6c55c9.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083475",
+   "titulo": "CAIXAS DE SOM PULSE, JBL E MONDIAL (#259M)  ( SALDO C )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 400,
+   "encerramento": "2026-11-12 19:01",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixas-de-som-pulse-jbl-e-mondial-259m-saldo-c-5083475",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/97472382-3ff3-4e87-8458-6bf403ef92b8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084166",
+   "titulo": "06 CELULARES/TELEFONES + 01 MACBOOK + 01 NOTEBOOK + 02 TABLETS (SUCATA)",
+   "categoria": "Informática",
+   "lance_atual": 300,
+   "encerramento": "2026-11-12 19:01",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/06-celulares-telefones-01-macbook-01-notebook-02-tablets-sucata-5084166",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6bf6bcde-bae3-4dbf-aeba-ae7ed7ff8aee.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084167",
+   "titulo": "04 NOTEBOOKS (ASUS, SONY, POSITIVO E DELL) (#303M)  ( SALDO C )",
+   "categoria": "Informática",
+   "lance_atual": 1400,
+   "encerramento": "2026-11-12 19:02",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/04-notebooks-asus-sony-positivo-e-dell-303m-saldo-c-5084167",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/3c055350-2792-4671-a5aa-aeb39640286c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084168",
+   "titulo": "CAIXAS DE SOM (#232MAGO)  ( SALDO C )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 300,
+   "encerramento": "2026-11-12 19:02",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixas-de-som-232mago-saldo-c-5084168",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/842482db-5606-4588-b20f-0ff422778f20.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084174",
+   "titulo": "APROXIMADAMENTE 17 ITENS #1 ( SALDO C )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 100,
+   "encerramento": "2026-11-12 19:02",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-17-itens-1-saldo-c-5084174",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/595cd05c-165c-422a-a28e-5a077bcaa35a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083477",
+   "titulo": "ITENS ELETRÔNICOS, APROXIMADAMENTE 27 (#77)  ( SALDO C )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 150,
+   "encerramento": "2026-11-12 19:02",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/itens-eletronicos-aproximadamente-27-77-saldo-c-5083477",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/4d55bd1e-c64e-4770-9cf7-383e49605c74.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084175",
+   "titulo": "Monitor Profissional LG 49 Polegadas - Modelo: 49UM3DG - B",
+   "categoria": "Informática",
+   "lance_atual": 1500,
+   "encerramento": "2026-11-12 19:02",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/monitor-profissional-lg-49-polegadas-modelo-49um3dg-b-5084175",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9f665a52-cb1e-4fbe-a259-b8863c3dfcd8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083478",
+   "titulo": "IMPRESSORA + PROJETOR ANDROID + CAIXA DE SOM (#237MAGO) ( SALDO C )",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-11-12 19:02",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/impressora-projetor-android-caixa-de-som-237mago-saldo-c-5083478",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/911fe577-63eb-41c5-89e9-57b0dea8d1ba.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084172",
+   "titulo": "SMARTWATCHS + RELÓGIO ORINET + BRINCO E COLAR + XTRAX WAT)  ( SALDO C )",
+   "categoria": "Telefonia",
+   "lance_atual": 400,
+   "encerramento": "2026-11-12 19:03",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/smartwatchs-relogio-orinet-brinco-e-colar-xtrax-wat-saldo-c-5084172",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2051bc3b-e781-4cf0-8f98-714b45c6e85a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084170",
+   "titulo": "11 PRODUTOS ELETRÔNICOS (FONES DE OUVIDO, MEDIDORES DE PRESSÃO, TABLET, MAQUININHA DE PELO, MASSAGEADOR, ROTEADOR E MAIS)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 200,
+   "encerramento": "2026-11-12 19:03",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/11-produtos-eletronicos-fones-de-ouvido-medidores-de-pressao-tablet-maquininha-d-5084170",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d8741695-ba2f-44bf-8898-fc7c70a7879a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083476",
+   "titulo": "20 LÂMPADAS COM VENTILADOR DE TETO (#293M)  ( SALDO C )",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 150,
+   "encerramento": "2026-11-12 19:03",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/20-lampadas-com-ventilador-de-teto-293m-saldo-c-5083476",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2e460dbb-1229-4cac-b669-f0f59d25f71b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084171",
+   "titulo": "CAIXA DE SOM JBL BOOMBOX 3 WI-FI ORIGINAL (#292M)   ( SALDO A )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 1000,
+   "encerramento": "2026-11-12 19:03",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/caixa-de-som-jbl-boombox-3-wi-fi-original-292m-saldo-a-5084171",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/69b7c5a5-c4c9-4045-9eb1-2673f8ec8695.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084173",
+   "titulo": "ITENS ELETRÔNICOS, APROXIMADAMENTE 26 (#74)  ( SALDO C )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 200,
+   "encerramento": "2026-11-12 19:03",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/itens-eletronicos-aproximadamente-26-74-saldo-c-5084173",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b2abf742-49a0-4ecb-8e86-b9090e624ca2.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083479",
+   "titulo": "APROXIMADAMENTE 14 ITENS DIVERSOS #2   ( SALDO C )",
+   "categoria": "Eletrônicos",
+   "lance_atual": 200,
+   "encerramento": "2026-11-12 19:04",
+   "cidade": "Belo Horizonte",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aproximadamente-14-itens-diversos-2-saldo-c-5083479",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/510debe1-971e-46c7-8b0a-5502ff8e92da.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SALA DE LEILÕES",
+    "leilao": "Eletrônicos e multimidia"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
    "fonte": "Receita Federal",
    "id": "receita-900100/12/2026-22",
    "titulo": "ROTEADOR HUAWEI EG8145X6-10 (e mais 170 itens)",
@@ -25169,7 +26465,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "GRANDE LEILÃO DE BENS DIVERSOS"
    },
@@ -25969,6 +27265,606 @@
    "destaque": false
   },
   {
+   "fonte": "Superbid",
+   "id": "superbid-5083810",
+   "titulo": "NOBREAK TOP-DSP PARALELO ATIVO-CE - TRIFÁSICO SAÍDA 120V 220V 380V POTÊNCIA 15 A 100 KVA",
+   "categoria": "Informática",
+   "lance_atual": 5400,
+   "encerramento": "2026-11-18 15:30",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/nobreak-top-dsp-paralelo-ativo-ce-trifasico-saida-120v-220v-380v-potencia-15-a-1-5083810",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1f72b55d-d54b-49d5-921d-c8a3ae8c2b15.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084484",
+   "titulo": "NOBREAK TOP-DSP PARALELO ATIVO-CE - TRIFÁSICO SAÍDA 120V 220V 380V POTÊNCIA 15 A 100 KVA",
+   "categoria": "Informática",
+   "lance_atual": 5400,
+   "encerramento": "2026-11-18 15:30",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/nobreak-top-dsp-paralelo-ativo-ce-trifasico-saida-120v-220v-380v-potencia-15-a-1-5084484",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/c5b21e38-faae-49df-9b09-ec42b1c7d70c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083806",
+   "titulo": "03 APARELHOS SOM PIONEER CORPORATION TOYOTA DC 12V DEH-8148 ZT - SEM USO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 500,
+   "encerramento": "2026-11-18 15:32",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/03-aparelhos-som-pioneer-corporation-toyota-dc-12v-deh-8148-zt-sem-uso-5083806",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/bf986414-15f5-45b0-b44b-b1aa0258b795.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083805",
+   "titulo": "03 APARELHOS SOM PIONEER CORPORATION TOYOTA DC 12V DEH-8148 ZT - SEM USO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 500,
+   "encerramento": "2026-11-18 15:33",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/03-aparelhos-som-pioneer-corporation-toyota-dc-12v-deh-8148-zt-sem-uso-5083805",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/53337561-872a-405e-a984-997b24254695.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083804",
+   "titulo": "03 APARELHOS SOM PIONEER CORPORATION TOYOTA DC 12V DEH-8148 ZT - SEM USO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 500,
+   "encerramento": "2026-11-18 15:33",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/03-aparelhos-som-pioneer-corporation-toyota-dc-12v-deh-8148-zt-sem-uso-5083804",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/54c68a29-1d03-4ed4-a8d4-7008efe82b63.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083803",
+   "titulo": "03 APARELHOS SOM PIONEER CORPORATION TOYOTA DC 12V DEH-8148 ZT - SEM USO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 500,
+   "encerramento": "2026-11-18 15:34",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/03-aparelhos-som-pioneer-corporation-toyota-dc-12v-deh-8148-zt-sem-uso-5083803",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/651412f3-1cef-4b5c-b079-1f80d728dc1f.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083802",
+   "titulo": "03 APARELHOS SOM PIONEER CORPORATION TOYOTA DC 12V DEH-M8457 ZT - SEM USO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 500,
+   "encerramento": "2026-11-18 15:34",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/03-aparelhos-som-pioneer-corporation-toyota-dc-12v-deh-m8457-zt-sem-uso-5083802",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0f566761-6cb7-4e24-a715-52257909a624.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083801",
+   "titulo": "02 APARELHOS SOM PIONEER CORPORATION TOYOTA DC 12V DEH-8148 ZT - SEM USO",
+   "categoria": "Eletrônicos",
+   "lance_atual": 500,
+   "encerramento": "2026-11-18 15:35",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/02-aparelhos-som-pioneer-corporation-toyota-dc-12v-deh-8148-zt-sem-uso-5083801",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/1aae87e1-2947-455b-adf8-dcce9be09ed8.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083799",
+   "titulo": "IMPRESSORA E SCANNER (45 PC)",
+   "categoria": "Informática",
+   "lance_atual": 1200,
+   "encerramento": "2026-11-18 15:36",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/impressora-e-scanner-45-pc-5083799",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/268ac18f-ef17-4b06-bf7e-f3702969272d.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083787",
+   "titulo": "07 FORNOS ELÉTRICOS DIVERSOS (Ref.: LOTE 55)",
+   "categoria": "Fornos e Fogões",
+   "lance_atual": 400,
+   "encerramento": "2026-11-18 15:42",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/07-fornos-eletricos-diversos-ref-lote-55-5083787",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/da31da5f-b94a-4793-9fce-9577718eba82.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083786",
+   "titulo": "02 MÁQUINAS DE LAVAR ROUPAS ELECTROLUX (Ref.: LOTE 56)",
+   "categoria": "Limpeza",
+   "lance_atual": 300,
+   "encerramento": "2026-11-18 15:43",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/02-maquinas-de-lavar-roupas-electrolux-ref-lote-56-5083786",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/624262cc-d00a-4c36-a13d-33531bc31156.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084481",
+   "titulo": "10 ELETRODOMÉSTICOS DIVERSOS (Ref.: LOTE 59)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 600,
+   "encerramento": "2026-11-18 15:44",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/10-eletrodomesticos-diversos-ref-lote-59-5084481",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/633a0372-d637-4e5f-a4d9-54739715b563.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084480",
+   "titulo": "03 ELETRODOMÉSTICOS DIVERSOS (Ref.: LOTE 61)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-11-18 15:45",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/03-eletrodomesticos-diversos-ref-lote-61-5084480",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/298e3903-7c95-4a6d-ac16-9f813ca60205.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083783",
+   "titulo": "16 ELETRODOMÉSTICOS DIVERSOS (Ref.: LOTE 62)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 700,
+   "encerramento": "2026-11-18 15:46",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/16-eletrodomesticos-diversos-ref-lote-62-5083783",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/caeb4aa9-f46e-4248-b963-b1397af1d538.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083782",
+   "titulo": "06 ELETRODOMÉSTICOS DIVERSOS (Ref.: LOTE 63)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 400,
+   "encerramento": "2026-11-18 15:46",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/06-eletrodomesticos-diversos-ref-lote-63-5083782",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/23352c20-d992-4f7e-9be6-418f8d3ea162.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083778",
+   "titulo": "02 GELADEIRAS E 01 BEBEDOURO 220V (Ref.: LOTE 68)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 500,
+   "encerramento": "2026-11-18 15:48",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/02-geladeiras-e-01-bebedouro-220v-ref-lote-68-5083778",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d6c7f05e-40a9-4f21-9ad1-a5dd2865baff.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083777",
+   "titulo": "02 GELADEIRAS, TENSÃO: 220V (Ref.: LOTE 69)",
+   "categoria": "Refrigeradores",
+   "lance_atual": 400,
+   "encerramento": "2026-11-18 15:49",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/02-geladeiras-tensao-220v-ref-lote-69-5083777",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/e281daab-c4f1-43bd-997d-24fdc5b2a05a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083773",
+   "titulo": "APROX. 195 MINI CPU'S P/ MINI COMPUTADORES (GABINETES VAZIOS) (Ref.: LOTE 74)",
+   "categoria": "Informática",
+   "lance_atual": 2800,
+   "encerramento": "2026-11-18 15:51",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aprox-195-mini-cpu-s-p-mini-computadores-gabinetes-vazios-ref-lote-74-5083773",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d3c9b785-7978-4a24-ab89-335f3a5505dc.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084478",
+   "titulo": "35 ELETRODOMÉSTICOS DIVERSOS, TENSÃO: 220V (Ref.: LOTE 75)",
+   "categoria": "Eletroportáteis",
+   "lance_atual": 1000,
+   "encerramento": "2026-11-18 15:52",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/35-eletrodomesticos-diversos-tensao-220v-ref-lote-75-5084478",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5e1002de-8116-4907-8ee6-a59246159709.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083772",
+   "titulo": "ITENS DE INFORMÁTICA (Ref.: LOTE 76)",
+   "categoria": "Informática",
+   "lance_atual": 500,
+   "encerramento": "2026-11-18 15:52",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/itens-de-informatica-ref-lote-76-5083772",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/edbaf2eb-0b45-495b-8e90-4fa74d8723eb.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083771",
+   "titulo": "07 NOBREAKS INDUSTRIAIS (Ref.: LOTE 77)",
+   "categoria": "Informática",
+   "lance_atual": 2800,
+   "encerramento": "2026-11-18 15:53",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/07-nobreaks-industriais-ref-lote-77-5083771",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/2c071961-993e-4b93-bd85-c20ff9087170.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083766",
+   "titulo": "ELETRÔNICOS DIVERSOS E 04 TVS C/ TELA QUEBRADA (Ref.: LOTE 86)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 1600,
+   "encerramento": "2026-11-18 15:57",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/eletronicos-diversos-e-04-tvs-c-tela-quebrada-ref-lote-86-5083766",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/773f1caf-9a29-44d1-94e6-f09437269a81.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084473",
+   "titulo": "21 NOTEBOOKS DIVERSOS (Ref.: LOTE 88)",
+   "categoria": "Informática",
+   "lance_atual": 1900,
+   "encerramento": "2026-11-18 15:58",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/21-notebooks-diversos-ref-lote-88-5084473",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0e43d6cd-8e77-4ba8-a1a2-f16ca80f721a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083764",
+   "titulo": "10 TABLETES POSITIVO, 01 CADINHO DE SOLDA,  01 BOMBA DENTISTA E ACESSÓRIOS (Ref.: LOTE-01)",
+   "categoria": "Informática",
+   "lance_atual": 850,
+   "encerramento": "2026-11-18 16:00",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/10-tabletes-positivo-01-cadinho-de-solda-01-bomba-dentista-e-acessorios-ref-lote-5083764",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/6d1337dc-a57d-4aa0-bb9e-805ed9cc2bee.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5084470",
+   "titulo": "10 TABLETES POSITIVO E ELETRÔNICOS (Ref.: LOTE-02)",
+   "categoria": "Informática",
+   "lance_atual": 500,
+   "encerramento": "2026-11-18 16:00",
+   "cidade": "Araucária",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/10-tabletes-positivo-e-eletronicos-ref-lote-02-5084470",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/50e6ea10-0611-4e8f-bcec-186ee847418a.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "ESBR Informática"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
    "fonte": "Receita Federal",
    "id": "receita-600100/6/2026-1",
    "titulo": "TRENA ELETRONICA A LASER MILESEEY CHINA (e mais 15 itens)",
@@ -26450,6 +28346,102 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5083750",
+   "titulo": "31 TELEVISORES E 05 CONTROLES P/ TELEVISORES (Ref.: Pacote 95)",
+   "categoria": "Eletrônicos",
+   "lance_atual": 2700,
+   "encerramento": "2026-11-23 13:40",
+   "cidade": "Porto Alegre",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/31-televisores-e-05-controles-p-televisores-ref-pacote-95-5083750",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/0a405273-b0c4-43a3-850f-9fe3c64e4e36.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Grupo Zaffari"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083645",
+   "titulo": "10 SUCATAS DE IMPRESSORAS MULTIFUNCIONAL HP LASERJET M1536DNF MONO DUPLEX, REDE, SEM TONNER (GRANDE MAIORIA COMPLETA E LIGANDO) (Ref.: LOTE 25)",
+   "categoria": "Informática",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-24 16:00",
+   "cidade": "Roque Gonzales",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/10-sucatas-de-impressoras-multifuncional-hp-laserjet-m1536dnf-mono-duplex-rede-s-5083645",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/fc8ad7a4-cc3d-4c02-b8b7-89861feac213.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Compartilhado Reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083646",
+   "titulo": "10 SUCATAS DE IMPRESSORAS MULTIFUNCIONAL HP LASERJET M1536DNF MONO DUPLEX, REDE, SEM TONNER (GRANDE MAIORIA COMPLETA E LIGANDO) (Ref.: LOTE 28)",
+   "categoria": "Informática",
+   "lance_atual": 1100,
+   "encerramento": "2026-11-24 16:00",
+   "cidade": "Roque Gonzales",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/10-sucatas-de-impressoras-multifuncional-hp-laserjet-m1536dnf-mono-duplex-rede-s-5083646",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/52c2a24d-4cf1-460c-978f-ffbb612748b5.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Compartilhado Reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5083644",
+   "titulo": "17 SUCATAS DE IMPRESSORAS MULTIFUNCIONAL EPSON, HP, CANNON SAMSUNG E JATO DE TINTA (Ref.: LOTE 30)",
+   "categoria": "Informática",
+   "lance_atual": 300,
+   "encerramento": "2026-11-24 16:01",
+   "cidade": "Roque Gonzales",
+   "uf": "RS",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/17-sucatas-de-impressoras-multifuncional-epson-hp-cannon-samsung-e-jato-de-tinta-5083644",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/eedb72e2-24a8-4369-91af-beb7b896b309.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLD",
+    "leilao": "Compartilhado Reversa"
+   },
+   "prioridade": false,
+   "destaque": false
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5082558",
    "titulo": "LOTE DE ELETRONICOS",
    "categoria": "Eletrônicos",
@@ -26465,7 +28457,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "MONZON LEILÕES",
     "leilao": "SENAD/PR Leilão 12/2026"
    },
@@ -31784,7 +33776,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/317900/4/2026/lote/257",
    "valor_avaliacao": 4200,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/317900/4/foto_pq_317900_2026_4_257_556078_14b3b0eb9c31ea1acee8de849fd653c6.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -31804,7 +33796,7 @@
    "publico": "PF e PJ",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/317900/4/2026/lote/258",
    "valor_avaliacao": 25000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/317900/4/foto_pq_317900_2026_4_265_556079_b9a7f5c655c49c07781080432e9959a1.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -31824,7 +33816,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/317900/4/2026/lote/269",
    "valor_avaliacao": 15000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/317900/4/foto_pq_317900_2026_4_269_556106_e6d243e75c3b26cf1be8a199afecbc8c.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -31844,7 +33836,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/317900/4/2026/lote/271",
    "valor_avaliacao": 4000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/317900/4/foto_pq_317900_2026_4_271_556110_07348c0443b5436f6ba9a263b8da7976.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -31864,7 +33856,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/317900/4/2026/lote/272",
    "valor_avaliacao": 4200,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/317900/4/foto_pq_317900_2026_4_272_556111_61b56f590f633b7efe302a0ffdb27360.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -31884,7 +33876,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/317900/4/2026/lote/273",
    "valor_avaliacao": 4200,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/317900/4/foto_pq_317900_2026_4_273_556112_67add295b1d1cd195b576b28487b2e12.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -31904,7 +33896,7 @@
    "publico": "Só PJ (CNPJ)",
    "link": "https://www25.receita.fazenda.gov.br/sle-sociedade/portal/edital/317900/4/2026/lote/274",
    "valor_avaliacao": 7000,
-   "imagem": null,
+   "imagem": "https://storagegw.estaleiro.serpro.gov.br/sle-pro-publico/arquivos/images/2026/317900/4/foto_pq_317900_2026_4_274_556113_4d5bb41a09a78743c66289581400bc06.jpg",
    "observacoes": [
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
@@ -33249,78 +35241,6 @@
     "Proposta fechada: valor mostrado é o lance mínimo"
    ],
    "detalhes": {},
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5002455",
-   "titulo": "Computador LG preto, com CPU, teclado e mouse",
-   "categoria": "Informática",
-   "lance_atual": 2400,
-   "encerramento": "2026-12-06 09:00",
-   "cidade": "Curitiba",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/computador-lg-preto-com-cpu-teclado-e-mouse-5002455",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/a9ddfc23-0ce4-405b-ac65-a4b6e19b288f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "KRON LEILÕES",
-    "leilao": "11º Juizado Especial Cível/PR"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5006010",
-   "titulo": "Impressora HP Laser JET Pro MFP4103 FDW branca",
-   "categoria": "Informática",
-   "lance_atual": 2340,
-   "encerramento": "2026-12-06 09:00",
-   "cidade": "Curitiba",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/impressora-hp-laser-jet-pro-mfp4103-fdw-branca-5006010",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/93ee88d3-5205-47bd-bd6f-eb82eff23b66.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "KRON LEILÕES",
-    "leilao": "11º Juizado Especial Cível/PR"
-   },
-   "prioridade": false,
-   "destaque": false
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5006012",
-   "titulo": "TV Samsung 65 polegadas",
-   "categoria": "Eletrônicos",
-   "lance_atual": 3000,
-   "encerramento": "2026-12-06 09:00",
-   "cidade": "Curitiba",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/tv-samsung-65-polegadas-5006012",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/78afb4ec-837a-43b9-a0f5-b492ff292663.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 0,
-    "leiloeiro": "KRON LEILÕES",
-    "leilao": "11º Juizado Especial Cível/PR"
-   },
    "prioridade": false,
    "destaque": false
   },
@@ -34709,7 +36629,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "GRANDE LEILÃO APPLE"
    },
@@ -34817,7 +36737,7 @@
    "id": "superbid-5080270",
    "titulo": "01 IPHONE 17 PRO 256GB  - DESBLOQUEADO - APARENTEMENTE SEM USO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
    "categoria": "Telefonia",
-   "lance_atual": 5100,
+   "lance_atual": 5700,
    "encerramento": "2026-12-10 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -34829,7 +36749,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 4,
     "leiloeiro": "NP LEILÕES",
     "leilao": "GRANDE LEILÃO APPLE"
    },
@@ -34863,14 +36783,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5080272",
-   "titulo": "01 IPHONE 16 PRO 512GB - DESBLOQUEADO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
+   "titulo": "01 IPHONE 16 PRO 128GB - DESBLOQUEADO - QUANDO DESMOBILIZADO APRESENTAVA FUNCIONAMENTO - NO ESTADO - SEM GARANTIAS",
    "categoria": "Telefonia",
    "lance_atual": 4100,
    "encerramento": "2026-12-10 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-iphone-16-pro-512gb-desbloqueado-quando-desmobilizado-apresentava-funcionamen-5080272",
+   "link": "https://www.superbid.net/oferta/01-iphone-16-pro-128gb-desbloqueado-quando-desmobilizado-apresentava-funcionamen-5080272",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/6a8c7346-d2bf-40dc-b8fb-ab1095b0f6e1.jpg",
    "observacoes": [
@@ -34901,7 +36821,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "GRANDE LEILÃO APPLE"
    },
