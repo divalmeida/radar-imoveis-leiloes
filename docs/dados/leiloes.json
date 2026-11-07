@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-11-06 19:05",
+ "atualizado_em": "2026-11-07 07:09",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 626,
-   "segundos": 629
+   "segundos": 622
   },
   "Superbid": {
    "ok": true,
-   "lotes": 1421,
-   "segundos": 13
+   "lotes": 1422,
+   "segundos": 12
   },
   "Caixa": {
    "ok": false,
@@ -721,7 +721,7 @@
    "id": "superbid-5066145",
    "titulo": "APROX. 150 LUMINÁRIAS LED USB PORTÁTIL LEITURA NOTEBOOK (SEM USO)",
    "categoria": "Informática",
-   "lance_atual": 600,
+   "lance_atual": 650,
    "encerramento": "2026-11-09 15:08",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -733,7 +733,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -805,7 +805,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -937,7 +937,7 @@
    "id": "superbid-5081110",
    "titulo": "KIT STARLINK MINI INTERNET VIA SATÉLITE E MINI ROTEADOR (03 UN) (Ref.: SB0033764)",
    "categoria": "Telefonia",
-   "lance_atual": 380,
+   "lance_atual": 580,
    "encerramento": "2026-11-09 15:30",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -949,7 +949,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1105,7 +1105,7 @@
    "id": "superbid-5081113",
    "titulo": "KIT STARLINK MINI E MINI ROTEADOR (03 UN) (Ref.: SB0033762)",
    "categoria": "Telefonia",
-   "lance_atual": 380,
+   "lance_atual": 480,
    "encerramento": "2026-11-09 15:32",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1117,7 +1117,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1153,7 +1153,7 @@
    "id": "superbid-5081114",
    "titulo": "KIT STARLINK MINI INTERNET VIA SATÉLITE E MINI ROTEADOR (03 UN) (Ref.: SB0033772)",
    "categoria": "Telefonia",
-   "lance_atual": 380,
+   "lance_atual": 480,
    "encerramento": "2026-11-09 15:32",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1165,7 +1165,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1177,7 +1177,7 @@
    "id": "superbid-5077074",
    "titulo": "MINI ROTEADOR E KIT STARLINK MINI INTERNET VIA SATÉLITE (03 UN) (Ref.: SB0033773)",
    "categoria": "Telefonia",
-   "lance_atual": 380,
+   "lance_atual": 580,
    "encerramento": "2026-11-09 15:33",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1189,7 +1189,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1921,7 +1921,7 @@
    "id": "superbid-5082830",
    "titulo": "SMARTPHONES USADOS DIVERSAS MARCAS (USADO)      (07 UN)\n\n(Ref.: SB0033997)",
    "categoria": "Telefonia",
-   "lance_atual": 90,
+   "lance_atual": 110,
    "encerramento": "2026-11-09 15:53",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1933,7 +1933,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -11869,7 +11869,7 @@
    "id": "superbid-5080524",
    "titulo": "F MIC 23L ELECTROLUX ME23B 127V BCO, F MIC 23L ELECTROLUX ME23S 127V PRATA, F MIC 36L ELECTROLUX ME36S 127V PTA, F MIC 32L CONSUL CMS46AB 110V BC\n(11 UN)(Ref.: SB0029316)",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 780,
+   "lance_atual": 1080,
    "encerramento": "2026-11-11 16:52",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11881,7 +11881,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12337,7 +12337,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -14053,7 +14053,7 @@
    "id": "superbid-5073798",
    "titulo": "FREEZER VERTICAL EXPOSITOR 569 LITROS FRICON  - CÓDIGO: 14669 - 68",
    "categoria": "Refrigeradores",
-   "lance_atual": 350,
+   "lance_atual": 400,
    "encerramento": "2026-11-16 11:42",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -14065,7 +14065,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -14245,7 +14245,7 @@
    "id": "superbid-5074936",
    "titulo": "FREEZER VERTICAL EXPOSITOR 569 LITROS FRICON  - CÓDIGO: 14671 - 70",
    "categoria": "Refrigeradores",
-   "lance_atual": 300,
+   "lance_atual": 350,
    "encerramento": "2026-11-16 11:59",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -14257,7 +14257,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -14293,7 +14293,7 @@
    "id": "superbid-5074937",
    "titulo": "REFRIGERADOR EXPOSITOR METALFRIO 400 LTS  - CÓDIGO: 14673 - 72",
    "categoria": "Refrigeradores",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-16 12:04",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -14305,7 +14305,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -14365,7 +14365,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 710,
+   "lance_atual": 760,
    "encerramento": "2026-11-16 12:35",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -14377,7 +14377,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 14,
+    "lances": 15,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17257,7 +17257,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17329,7 +17329,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -21017,7 +21017,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21041,7 +21041,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21221,7 +21221,7 @@
    "id": "superbid-5084945",
    "titulo": "02 TELEVISORES LG 42 POLEGADAS",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-24 11:37",
    "cidade": "Santo André",
    "uf": "SP",
@@ -21233,7 +21233,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21329,7 +21329,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21665,7 +21665,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -28777,6 +28777,30 @@
    "link": "https://www.superbid.net/oferta/2-unidades-de-computadores-hp-com-intel-core-2-duo-e7500-hd-de-500-gb-cada-monit-5082093",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/e44624fb-a7ad-44e7-99f9-4f9eb8b33936.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5085732",
+   "titulo": "IMPRESSORA MULTIFUNCIONAL LEXMARK MX611de, COM PAINEL TOUCHSCREEN E ALIMENTADOR AUTOMÁTICO DE DOCUMENTOS, 110¿127 V ¿ IMPRESSÃO DEMONSTRADA EM TESTE",
+   "categoria": "Informática",
+   "lance_atual": 350,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "Louveira",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/impressora-multifuncional-lexmark-mx611de-com-painel-touchscreen-e-alimentador-a-5085732",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/5c1f3aff-365a-44d3-8f18-5334cad3484c.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
