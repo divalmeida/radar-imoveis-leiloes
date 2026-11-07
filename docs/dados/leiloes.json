@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-11-07 07:09",
+ "atualizado_em": "2026-11-07 13:03",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 626,
-   "segundos": 622
+   "segundos": 674
   },
   "Superbid": {
    "ok": true,
-   "lotes": 1422,
-   "segundos": 12
+   "lotes": 1423,
+   "segundos": 20
   },
   "Caixa": {
    "ok": false,
@@ -1897,7 +1897,7 @@
    "id": "superbid-5078540",
    "titulo": "IPHONE APPLE 12 USADO (03 UN) (Ref.: SB0033994)",
    "categoria": "Telefonia",
-   "lance_atual": 1490,
+   "lance_atual": 1590,
    "encerramento": "2026-11-09 15:53",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1909,7 +1909,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -5185,7 +5185,7 @@
    "id": "superbid-5079324",
    "titulo": "GELADEIRA ELECTROLUX RE31 USADA 220V (01 UN) (Ref.: SB0034218)",
    "categoria": "Refrigeradores",
-   "lance_atual": 300,
+   "lance_atual": 400,
    "encerramento": "2026-11-10 17:03",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -5197,7 +5197,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Empresa Vende"
    },
@@ -11605,7 +11605,7 @@
    "id": "superbid-5080511",
    "titulo": "LAV 10KG SUGGAR NEO ECO 220V PRETA, LAV 10KG SUGGAR NEO ECO BR 220V, LAV 15K SUGGAR LAVAMAX ECO LE1521PR 110V PRATA E OUTROS (10 UN)                  (Ref.: SB0029304)",
    "categoria": "Limpeza",
-   "lance_atual": 920,
+   "lance_atual": 1120,
    "encerramento": "2026-11-11 16:46",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11617,7 +11617,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11629,7 +11629,7 @@
    "id": "superbid-5080517",
    "titulo": "LAV 14KG BRASTEMP BWF14AB 220V BRANCA, LAV 14KG BRASTEMP BWF14AB 110V BRANCA E OUTROS  (04 UN) (Ref.: SB0029305)",
    "categoria": "Limpeza",
-   "lance_atual": 1080,
+   "lance_atual": 1180,
    "encerramento": "2026-11-11 16:46",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11641,7 +11641,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11653,7 +11653,7 @@
    "id": "superbid-5076570",
    "titulo": "LAV 13KG ELECTROLUX LDA13 220V BC, LAV 13KG ELECTROLUX LDA13 110V BC, LAV 14,5 KG ELECTROLUX LEE15 220V BRANCA (04 UN) (Ref.: SB0029306)",
    "categoria": "Limpeza",
-   "lance_atual": 1020,
+   "lance_atual": 1120,
    "encerramento": "2026-11-11 16:47",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11665,7 +11665,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -17377,7 +17377,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17425,7 +17425,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -21593,7 +21593,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -22925,7 +22925,7 @@
    "id": "superbid-5082056",
    "titulo": "SECADORA BRASTEMP INTELIGENT - MEDIDAS APROX.: 600X540MM - CÓDIGO: 14833 - LOCAL.: A",
    "categoria": "Limpeza",
-   "lance_atual": 425,
+   "lance_atual": 525,
    "encerramento": "2026-11-24 14:15",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -22937,7 +22937,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 4,
     "leiloeiro": "ECONEXSI",
     "leilao": "Prime Locadora - Equip. de Cozinha Industrial"
    },
@@ -25613,7 +25613,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletrônicos e equipamentos."
    },
@@ -25985,7 +25985,7 @@
    "id": "superbid-5084823",
    "titulo": "01 notebook Positivo, Core i3 6ª geração, sem acessórios. Obs: foi ligado só para teste",
    "categoria": "Informática",
-   "lance_atual": 170,
+   "lance_atual": 185,
    "encerramento": "2026-11-26 14:16",
    "cidade": "Itapevi",
    "uf": "SP",
@@ -25997,7 +25997,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletrônicos e equipamentos."
    },
@@ -28814,6 +28814,30 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5090012",
+   "titulo": "IMPRESSORA LASER MONOCROMÁTICA LEXMARK MS811dn, 110¿127 V ¿ IMPRESSÃO DEMONSTRADA EM TESTE ¿ TRANSFORMADOR NÃO INCLUSO",
+   "categoria": "Informática",
+   "lance_atual": 250,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "Louveira",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/impressora-laser-monocromatica-lexmark-ms811dn-110127-v-impressao-demonstrada-em-5090012",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/924401ac-c1d3-4418-b96f-7e44e0853aed.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5056826",
    "titulo": "Sistema a Laser de Diodo, Icone, Galaxy Fiber EVO, 220V, em funcionamento",
    "categoria": "Eletroportáteis",
@@ -31105,7 +31129,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SALA DE LEILÕES",
     "leilao": "Eletrônicos e multimidia"
    },
