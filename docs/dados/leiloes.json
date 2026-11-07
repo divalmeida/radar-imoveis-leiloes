@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-11-07 13:03",
+ "atualizado_em": "2026-11-07 19:00",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 626,
-   "segundos": 674
+   "segundos": 544
   },
   "Superbid": {
    "ok": true,
-   "lotes": 1423,
-   "segundos": 20
+   "lotes": 1426,
+   "segundos": 14
   },
   "Caixa": {
    "ok": false,
@@ -5185,7 +5185,7 @@
    "id": "superbid-5079324",
    "titulo": "GELADEIRA ELECTROLUX RE31 USADA 220V (01 UN) (Ref.: SB0034218)",
    "categoria": "Refrigeradores",
-   "lance_atual": 400,
+   "lance_atual": 500,
    "encerramento": "2026-11-10 17:03",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -5197,7 +5197,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Empresa Vende"
    },
@@ -11557,7 +11557,7 @@
    "id": "superbid-5080514",
    "titulo": "FG 5B PISO ATLAS DAKO MAGISTER GLASS BIV PTO, FG 4B ATLAS PISO AGILE INOX/BCO BIV, FG 4B ATLAS DAKO SUPREME BRANCO BIV E OUTROS  (05 UN)   (Ref.: SB0029302)",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 885,
+   "lance_atual": 985,
    "encerramento": "2026-11-11 16:45",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11569,7 +11569,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11605,7 +11605,7 @@
    "id": "superbid-5080511",
    "titulo": "LAV 10KG SUGGAR NEO ECO 220V PRETA, LAV 10KG SUGGAR NEO ECO BR 220V, LAV 15K SUGGAR LAVAMAX ECO LE1521PR 110V PRATA E OUTROS (10 UN)                  (Ref.: SB0029304)",
    "categoria": "Limpeza",
-   "lance_atual": 1120,
+   "lance_atual": 1220,
    "encerramento": "2026-11-11 16:46",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11617,7 +11617,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11677,7 +11677,7 @@
    "id": "superbid-5080516",
    "titulo": "SEC PISO 20KG SAMSUNG DV20B9750CV/AZ 220V BLACK\n(01 UN) (Ref.: SB0029307)",
    "categoria": "Limpeza",
-   "lance_atual": 1045,
+   "lance_atual": 1145,
    "encerramento": "2026-11-11 16:47",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11689,7 +11689,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11749,7 +11749,7 @@
    "id": "superbid-5076572",
    "titulo": "LAVA E SECA 14KG LG SMART VC4 CV5014WC4 127V BC, LAVA E SECA 12KG LG SMART VC4 CV5012PC4A 220V INOX LOOK (02 UN) (Ref.: SB0029310)",
    "categoria": "Limpeza",
-   "lance_atual": 1205,
+   "lance_atual": 1305,
    "encerramento": "2026-11-11 16:49",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11761,7 +11761,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11833,7 +11833,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11917,7 +11917,7 @@
    "id": "superbid-5080525",
    "titulo": "REF FF 377L CONSUL CRM44MB 110V BC, REF FF 377L, CONSUL CRM44MB 220V BC E OUTROS (04 UN)          (Ref.: SB0029320)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1160,
+   "lance_atual": 1260,
    "encerramento": "2026-11-11 16:54",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11929,7 +11929,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11989,7 +11989,7 @@
    "id": "superbid-5080527",
    "titulo": "REF FF 385L BRASTEMP BRM46MK 110V INOX, REF FF 385L BRASTEMP BRM46MK 110V INOX  (02 UN)    (Ref.: SB0029324)",
    "categoria": "Refrigeradores",
-   "lance_atual": 990,
+   "lance_atual": 1090,
    "encerramento": "2026-11-11 16:55",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12001,7 +12001,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12013,7 +12013,7 @@
    "id": "superbid-5080526",
    "titulo": "REF FF 480L ELECTROLUX TF71B BLACK INOX 220V, REF FF 480L ELECTROLUX TF71S INOX LOOK 220V, REF FF 480L ELECTROLUX TF71B BLACK INOX 220V (03 UN) (Ref.: SB0029325)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1760,
+   "lance_atual": 2160,
    "encerramento": "2026-11-11 16:56",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12025,7 +12025,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12085,7 +12085,7 @@
    "id": "superbid-5080530",
    "titulo": "REF 590L ELECTROLUX IM8S 127V INOX (01 UN)   (Ref.: SB0029329)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1370,
+   "lance_atual": 1470,
    "encerramento": "2026-11-11 16:57",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12097,7 +12097,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12109,7 +12109,7 @@
    "id": "superbid-5080531",
    "titulo": "REF FDR 559L BRASTEMP BRO85MK 110V INOX (01 UN) (Ref.: SB0029330)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1175,
+   "lance_atual": 1375,
    "encerramento": "2026-11-11 16:58",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12121,7 +12121,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12157,7 +12157,7 @@
    "id": "superbid-5076578",
    "titulo": "REF 590L ELECTROLUX IM8S 220V INOX (01 UN) (Ref.: SB0029332)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1070,
+   "lance_atual": 1170,
    "encerramento": "2026-11-11 16:59",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12169,7 +12169,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12253,7 +12253,7 @@
    "id": "superbid-5080536",
    "titulo": "REF FF 380L ELECTROLUX INVERTER IF41 110V BRANCO, REF FF 480L ELECTROLUX TF71 BC 127V (02 UN)           (Ref.: SB0029336)",
    "categoria": "Refrigeradores",
-   "lance_atual": 885,
+   "lance_atual": 985,
    "encerramento": "2026-11-11 17:01",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12265,7 +12265,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -14509,7 +14509,7 @@
    "id": "superbid-5074933",
    "titulo": "ILHA HORIZONTAL PARA CONGELADOS  - CÓDIGO: 14675 - 74",
    "categoria": "Refrigeradores",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-16 12:58",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -14521,7 +14521,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17197,7 +17197,7 @@
    "id": "superbid-5084772",
    "titulo": "01 IPHONE 14 PRO MAX 512GB (Ref.: Lote 69)",
    "categoria": "Telefonia",
-   "lance_atual": 1500,
+   "lance_atual": 1700,
    "encerramento": "2026-11-19 10:00",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17209,7 +17209,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17317,7 +17317,7 @@
    "id": "superbid-5089057",
    "titulo": "01 DRONE (Ref.: Lote 52)",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-19 10:41",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17329,7 +17329,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17353,7 +17353,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17413,7 +17413,7 @@
    "id": "superbid-5084726",
    "titulo": "01 DRONE (Ref.: Lote 104)",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 75,
    "encerramento": "2026-11-19 10:43",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17425,7 +17425,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -19012,6 +19012,30 @@
     "lances": 0,
     "leiloeiro": "LEILÃO PRIME",
     "leilao": "LEILÃO DE ELETROPORTÁTEIS"
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5085805",
+   "titulo": "Aprox 1000 cabos Micro USB",
+   "categoria": "Eletrônicos",
+   "lance_atual": 500,
+   "encerramento": "2026-11-23 14:16",
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/aprox-1000-cabos-micro-usb-5085805",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b567177f-d137-4dee-b385-89ae30c3b848.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "LEILÃO PRIME",
+    "leilao": "LEILÃO DE BENS DIVERSOS"
    },
    "prioridade": false,
    "destaque": true
@@ -21029,7 +21053,7 @@
    "id": "superbid-5084949",
    "titulo": "01 MONITOR 55 POLEGADAS SAMSUNG",
    "categoria": "Informática",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-24 11:33",
    "cidade": "Santo André",
    "uf": "SP",
@@ -21041,7 +21065,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21221,7 +21245,7 @@
    "id": "superbid-5084945",
    "titulo": "02 TELEVISORES LG 42 POLEGADAS",
    "categoria": "Eletrônicos",
-   "lance_atual": 50,
+   "lance_atual": 75,
    "encerramento": "2026-11-24 11:37",
    "cidade": "Santo André",
    "uf": "SP",
@@ -21233,7 +21257,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21257,7 +21281,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21617,7 +21641,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21641,7 +21665,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21725,7 +21749,7 @@
    "id": "superbid-5089198",
    "titulo": "01 SMART TV LG 43 POLEGADAS",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-24 11:47",
    "cidade": "Santo André",
    "uf": "SP",
@@ -21737,7 +21761,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21761,7 +21785,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -28464,7 +28488,7 @@
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/19-coletores-de-dados-intermec-linha-ck3-com-5-bases-de-recarga-e-20-baterias-5075284",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/acb82115-dd79-4ec7-b7fa-7718fe77887a.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/719f0445-e83f-48c6-9173-980dae934d73.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -28801,6 +28825,54 @@
    "link": "https://www.superbid.net/oferta/impressora-multifuncional-lexmark-mx611de-com-painel-touchscreen-e-alimentador-a-5085732",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/5c1f3aff-365a-44d3-8f18-5334cad3484c.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5085806",
+   "titulo": "2 COMPUTADORES HP CORE 2 DUO E7500 COM MONITORES SAMSUNG, TECLADOS E MOUSES",
+   "categoria": "Informática",
+   "lance_atual": 100,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "Louveira",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/2-computadores-hp-core-2-duo-e7500-com-monitores-samsung-teclados-e-mouses-5085806",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/b6f1297c-3c02-4dce-9044-868b5ef9a248.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5085807",
+   "titulo": "8 HDs SATA DE 3,5¿ PARA DESKTOP, 500 GB CADA ¿ 5 SAMSUNG E 3 WESTERN DIGITAL",
+   "categoria": "Informática",
+   "lance_atual": 80,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "Louveira",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/8-hds-sata-de-3-5-para-desktop-500-gb-cada-5-samsung-e-3-western-digital-5085807",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/54964cf4-3c1e-4d06-971f-766523e7358d.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -41873,7 +41945,7 @@
    "id": "superbid-5067762",
    "titulo": "LOTE CONTENDO APROXIMADAMENTE 29 LPS E 25 CDS - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 400,
+   "lance_atual": 500,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -41885,7 +41957,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
