@@ -112,9 +112,17 @@ def _coletar_site(nome: str, base: str) -> List[Lote]:
 
 def coletar() -> List[Lote]:
     lotes: List[Lote] = []
+    erros = []
     for nome, base in SITES.items():
         try:
-            lotes.extend(_coletar_site(nome, base))
-        except Exception as erro:  # um site fora do ar não derruba os outros
+            achados = _coletar_site(nome, base)
+            if not achados:
+                erros.append(f"{nome}: nenhum lote lido (o site pode ter recusado o acesso)")
+            lotes.extend(achados)
+        except Exception as erro:
+            erros.append(f"{nome}: {erro}")  # um site fora do ar não derruba os outros
             print(f"[{nome}] erro: {erro}", flush=True)
+    # Se nenhum site respondeu, avisa a falha: a coleta mantém a última lista boa
+    if not lotes and erros:
+        raise RuntimeError("; ".join(erros))
     return lotes
