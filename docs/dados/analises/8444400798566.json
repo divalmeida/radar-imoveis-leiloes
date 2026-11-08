@@ -1,6 +1,6 @@
 {
  "numero": "8444400798566",
- "analisado_em": "2026-11-08 08:27",
+ "analisado_em": "2026-11-08 08:29",
  "avisos": [
   "Página do imóvel: a Caixa pediu captcha (anti-robô) para a página do imóvel. Tente de novo mais tarde."
  ],
@@ -72,6 +72,9 @@
   "area_registrada": null,
   "data_documento": "2023-12-18",
   "caracteres_lidos": 17131,
-  "cabecalhos_nao_reconhecidos": []
+  "cabecalhos_nao_reconhecidos": [
+   "R$12.5324,00 fei HAZIDO FOR COMPRS: pele senhor LUIZ FERMANDO TEIXEIRA",
+   "R$02- 124.401- DAJE Númer: 7.933 série 002 em datá de 14/06/2.012 R$22"
+  ]
  }
 }
