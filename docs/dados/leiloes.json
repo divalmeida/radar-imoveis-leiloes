@@ -1,64 +1,64 @@
 {
- "atualizado_em": "2026-11-08 10:31",
+ "atualizado_em": "2026-11-08 10:45",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 626,
-   "segundos": 662
+   "segundos": 633
   },
   "Superbid": {
    "ok": true,
    "lotes": 1430,
-   "segundos": 662
+   "segundos": 633
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-11-03 19:06",
    "lotes": 727,
-   "segundos": 662
+   "segundos": 633
   },
   "Kwara": {
    "ok": true,
    "lotes": 179,
-   "segundos": 662
+   "segundos": 633
   },
   "Mega Leilões": {
    "ok": true,
    "lotes": 22,
-   "segundos": 662
+   "segundos": 633
   },
   "Freitas": {
    "ok": true,
    "lotes": 87,
-   "segundos": 662
+   "segundos": 633
   },
   "Palácio dos Leilões": {
    "ok": true,
-   "lotes": 122,
-   "segundos": 662
+   "lotes": 120,
+   "segundos": 633
   },
   "Parque dos Leilões": {
    "ok": true,
    "lotes": 16,
-   "segundos": 662
+   "segundos": 633
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": false,
-   "erro": "os sites recusaram o acesso a partir da nuvem",
+   "erro": "João Emílio: Falha ao acessar https://www.joaoemilio.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden; Leilão Prime: Falha ao acessar https://www.leilaoprime.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden; Tudo Leilão: Falha ao acessar https://www.tudoleilao.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden",
    "dados_de": "2026-11-08 10:09",
    "lotes": 201,
-   "segundos": 0
+   "segundos": 633
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
    "lotes": 206,
-   "segundos": 662
+   "segundos": 633
   },
   "Zuk / Frazão (imóveis BA)": {
    "ok": true,
    "lotes": 47,
-   "segundos": 662
+   "segundos": 633
   }
  },
  "lotes": [
@@ -2849,7 +2849,7 @@
    "id": "kwara-1734156765961913811",
    "titulo": "2 Notebooks Dell Latitude 5410",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1652.0,
+   "lance_atual": 1692.0,
    "encerramento": "2026-11-09 11:10",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -2859,7 +2859,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/e845a75c-e226-4d66-bf1a-dfab6bff670c.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 37,
+    "lances": 38,
     "vendedor": "WILL BANK"
    },
    "prioridade": false,
@@ -2870,14 +2870,19 @@
     {
      "data": "2026-11-08",
      "preco": 1652.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1692.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1652.0,
+   "variacao": 40.0,
+   "variacao_pct": 2.4,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 2.4,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -4236,7 +4241,7 @@
    "id": "superbid-5069633",
    "titulo": "50 CAIXAS DE SOM USB EM FORMATO DE LATA ESTAMPAS CERVEJA/ TIME DE FUTEBOL, DIVERSAS S",
    "categoria": "Eletrônicos",
-   "lance_atual": 400,
+   "lance_atual": 450,
    "encerramento": "2026-11-09 14:41",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -4248,7 +4253,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -4264,13 +4269,17 @@
     {
      "data": "2026-10-28",
      "preco": 400
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 450
     }
    ],
-   "preco_anterior": 300,
-   "variacao": 100,
-   "variacao_pct": 33.3,
-   "variacao_em": "2026-10-28",
-   "variacao_total_pct": 33.3,
+   "preco_anterior": 400,
+   "variacao": 50,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 50.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -5741,7 +5750,7 @@
    "id": "superbid-5081113",
    "titulo": "KIT STARLINK MINI E MINI ROTEADOR (03 UN) (Ref.: SB0033762)",
    "categoria": "Telefonia",
-   "lance_atual": 580,
+   "lance_atual": 680,
    "encerramento": "2026-11-09 15:32",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -5753,7 +5762,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -5773,13 +5782,17 @@
     {
      "data": "2026-11-08",
      "preco": 580
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 680
     }
    ],
-   "preco_anterior": 480,
+   "preco_anterior": 580,
    "variacao": 100,
-   "variacao_pct": 20.8,
+   "variacao_pct": 17.2,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 52.6,
+   "variacao_total_pct": 78.9,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -5826,7 +5839,7 @@
    "id": "superbid-5081114",
    "titulo": "KIT STARLINK MINI INTERNET VIA SATÉLITE E MINI ROTEADOR (03 UN) (Ref.: SB0033772)",
    "categoria": "Telefonia",
-   "lance_atual": 580,
+   "lance_atual": 680,
    "encerramento": "2026-11-09 15:32",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -5834,53 +5847,6 @@
    "link": "https://www.superbid.net/oferta/kit-starlink-mini-internet-via-satelite-e-mini-roteador-03-un-ref-sb0033772-5081114",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/a3b08dd5-3e0b-4c9e-b034-453d7d4efa3f.jpg",
-   "observacoes": [
-    "Confirme nas condições do leilão se aceita pessoa física"
-   ],
-   "detalhes": {
-    "lances": 3,
-    "leiloeiro": "SOLD",
-    "leilao": "Logística Reversa"
-   },
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "Superbid",
-   "primeiro_visto": "2026-11-04",
-   "historico_precos": [
-    {
-     "data": "2026-11-04",
-     "preco": 380
-    },
-    {
-     "data": "2026-11-07",
-     "preco": 480
-    },
-    {
-     "data": "2026-11-08",
-     "preco": 580
-    }
-   ],
-   "preco_anterior": 480,
-   "variacao": 100,
-   "variacao_pct": 20.8,
-   "variacao_em": "2026-11-08",
-   "variacao_total_pct": 52.6,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "Superbid",
-   "id": "superbid-5077074",
-   "titulo": "MINI ROTEADOR E KIT STARLINK MINI INTERNET VIA SATÉLITE (03 UN) (Ref.: SB0033773)",
-   "categoria": "Telefonia",
-   "lance_atual": 680,
-   "encerramento": "2026-11-09 15:33",
-   "cidade": "Embu das Artes",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/mini-roteador-e-kit-starlink-mini-internet-via-satelite-03-un-ref-sb0033773-5077074",
-   "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/926b1fed-dd4c-4b5b-b907-9a3d853dfd5b.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -5900,6 +5866,10 @@
     },
     {
      "data": "2026-11-07",
+     "preco": 480
+    },
+    {
+     "data": "2026-11-08",
      "preco": 580
     },
     {
@@ -5912,6 +5882,57 @@
    "variacao_pct": 17.2,
    "variacao_em": "2026-11-08",
    "variacao_total_pct": 78.9,
+   "baixou_preco": false,
+   "subiu_preco": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5077074",
+   "titulo": "MINI ROTEADOR E KIT STARLINK MINI INTERNET VIA SATÉLITE (03 UN) (Ref.: SB0033773)",
+   "categoria": "Telefonia",
+   "lance_atual": 780,
+   "encerramento": "2026-11-09 15:33",
+   "cidade": "Embu das Artes",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/mini-roteador-e-kit-starlink-mini-internet-via-satelite-03-un-ref-sb0033773-5077074",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/926b1fed-dd4c-4b5b-b907-9a3d853dfd5b.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 5,
+    "leiloeiro": "SOLD",
+    "leilao": "Logística Reversa"
+   },
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "Superbid",
+   "primeiro_visto": "2026-11-04",
+   "historico_precos": [
+    {
+     "data": "2026-11-04",
+     "preco": 380
+    },
+    {
+     "data": "2026-11-07",
+     "preco": 580
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 680
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 780
+    }
+   ],
+   "preco_anterior": 680,
+   "variacao": 100,
+   "variacao_pct": 14.7,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 105.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -29221,7 +29242,7 @@
    "id": "superbid-5076120",
    "titulo": "NOTEBOOKS E COMPUTADORES DELL (APROX. 19 PÇS) (Ref.: lote01)",
    "categoria": "Informática",
-   "lance_atual": 8250,
+   "lance_atual": 8500,
    "encerramento": "2026-11-13 16:32",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -29233,7 +29254,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 21,
+    "lances": 22,
     "leiloeiro": "SOLD",
     "leilao": "Compartilhado Industrial & Bens de Consumo"
    },
@@ -29273,13 +29294,17 @@
     {
      "data": "2026-11-06",
      "preco": 8250
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 8500
     }
    ],
-   "preco_anterior": 5000,
-   "variacao": 3250,
-   "variacao_pct": 65.0,
-   "variacao_em": "2026-11-06",
-   "variacao_total_pct": 175.0,
+   "preco_anterior": 8250,
+   "variacao": 250,
+   "variacao_pct": 3.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 183.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -49103,7 +49128,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934461904279",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/7f309996-0dc8-4850-8b7b-c0e5a8340ada.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/37bfd4a3-982b-45ec-af40-7fc0501a637c.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -49138,7 +49163,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934461904276",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/e7feb979-d74a-4988-b675-1e408e8600b3.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/d8b36b8f-be91-4a6f-88bb-8a9aa8acb42d.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -49243,7 +49268,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934428349833",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/d5caa425-df38-4714-aff7-76f569639b62.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/6cba99cd-8dc1-49bf-84fd-312294ef6b37.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -49313,7 +49338,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934394795385",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/fba08b05-a826-4e8e-acf5-5d9f9d0bb5b8.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/f68fd581-01c8-45b8-aa46-606cba34591e.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -49418,7 +49443,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934319297884",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/4275c95c-28d9-47e2-a3e1-cf9f19afe29e.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/304d2fe7-c373-4a0f-96c5-ffda429dac28.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -64831,7 +64856,7 @@
    "id": "palacio-1589146",
    "titulo": "REFRIGERADOR MIDEA MD-RT572EVD011 BR 110V....",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 550.0,
+   "lance_atual": 600.0,
    "encerramento": "2026-11-09 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -64854,14 +64879,19 @@
     {
      "data": "2026-11-08",
      "preco": 550.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 600.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 550.0,
+   "variacao": 50.0,
+   "variacao_pct": 9.1,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 9.1,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -69231,38 +69261,6 @@
   },
   {
    "fonte": "Palácio dos Leilões",
-   "id": "palacio-1589357",
-   "titulo": "1 - CONDENSADORA SPLIT COMERCIAL (CAC) UNID E...",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": null,
-   "encerramento": "2026-11-10 10:00",
-   "cidade": "Juatuba",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8887",
-   "valor_avaliacao": null,
-   "imagem": null,
-   "observacoes": [
-    "Lote 306 do leilão 8887 (horário aproximado; confira no site)"
-   ],
-   "detalhes": {
-    "comitente": "Auto Vende",
-    "tipo_lance": "lance inicial"
-   },
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "Palácio dos Leilões",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Palácio dos Leilões",
    "id": "palacio-1589358",
    "titulo": "1 - CONDENSADORA MULTI SPLIT COND.AC.MULTI SP...",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -72065,36 +72063,6 @@
   {
    "fonte": "Palácio dos Leilões",
    "id": "palacio-1586866",
-   "titulo": "1 - UPS (NOBREAK) INDUSTRIAL TRIFASICO EATON ...",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": null,
-   "encerramento": "2026-11-12 10:00",
-   "cidade": "Juatuba",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8882",
-   "valor_avaliacao": null,
-   "imagem": null,
-   "observacoes": [],
-   "detalhes": {
-    "comitente": "Ferreira Barbosa",
-    "tipo_lance": "lance inicial"
-   },
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "Palácio dos Leilões",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Palácio dos Leilões",
-   "id": "palacio-1586868",
    "titulo": "1 - UPS (NOBREAK) INDUSTRIAL TRIFASICO EATON ...",
    "categoria": "Eletrônicos e eletrodomésticos",
    "lance_atual": null,
