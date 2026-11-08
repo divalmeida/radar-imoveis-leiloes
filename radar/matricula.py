@@ -53,6 +53,10 @@ def ocr_pdf(pdf: bytes, paginas_max: int = 30) -> str:
         subprocess.run(["pdftoppm", "-r", "200", "-gray", "-l", str(paginas_max), "-png", str(arq), str(Path(pasta) / "pg")],
                        check=True, timeout=300)
         textos = []
+        # Páginas digitadas têm texto embutido: lê direto (mais fiel que o OCR)
+        if shutil.which("pdftotext"):
+            r = subprocess.run(["pdftotext", "-layout", str(arq), "-"], capture_output=True, text=True, timeout=120)
+            textos.append(r.stdout)
         for img in sorted(Path(pasta).glob("pg*.png")):
             r = subprocess.run(["tesseract", str(img), "-", "-l", "por", "--psm", "4"], capture_output=True, text=True, timeout=300)
             textos.append(r.stdout)
@@ -95,6 +99,14 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
             "cancela": cancela,
         })
 
+    vistos, unicos = set(), []
+    for a in atos:
+        if a["ato"] not in vistos:
+            vistos.add(a["ato"])
+            unicos.append(a)
+    numero = lambda a: (int(a["ato"].split("-")[1]), a["ato"])  # noqa: E731
+    atos = sorted(unicos, key=numero)
+
     cancelados = {c for a in atos for c in a["cancela"]}
     pos_consolidacao = False
     riscos, ok = [], []
@@ -136,6 +148,12 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
             pass
 
     area = re.search(r"[áa]rea\s+(?:real\s+)?privativa\s+(?:de\s+)?([\d.]+,\d{1,2})\s*m", corrido, re.I)
+    # Linhas com cara de cabeçalho de ato que o padrão não reconheceu (sem nomes:
+    # só os primeiros caracteres, que trazem número, título e data do ato)
+    nao_reconhecidos = []
+    for linha in texto.splitlines():
+        if re.search(r"Prenota|Protocol", linha, re.I) and not _ATO.search(linha):
+            nao_reconhecidos.append(re.sub(r"\s+", " ", linha).strip()[:70])
     altos = sum(r["nivel"] == "alto" for r in riscos)
     medios = sum(r["nivel"] == "medio" for r in riscos)
     nota = max(0, 10 - 4 * altos - 1.5 * medios)
@@ -148,6 +166,7 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
         "area_registrada": area.group(1) if area else None,
         "data_documento": data_documento,
         "caracteres_lidos": len(texto),
+        "cabecalhos_nao_reconhecidos": nao_reconhecidos[:30],
     }
 
 
