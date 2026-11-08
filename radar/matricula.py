@@ -36,9 +36,11 @@ TIPOS = [
     (r"CONSTRU[CÇ][AÃ]O|HABITE|INSTITUI[CÇ][AÃ]O|CONVEN[CÇ][AÃ]O|ESPECIFICA", "construção / condomínio", False),
 ]
 
+# Cabeçalho de ato no começo da linha. Aceita os formatos "AV-8/125.401 - TÍTULO - Prenotado...",
+# "R.01-124.401 - ..." (numeração antiga) e erros comuns de OCR ("AV-S5" em vez de "AV-5").
 _ATO = re.compile(
-    r"\b(R|AV)\s*[-.]?\s*(\d{1,3})\s*/\s*[\d.]{3,}\s*[-–]\s*([A-ZÇÃÕÁÉÍÓÚÂÊÔÜ0-9 ,./]{3,80}?)\s*[-–]\s*(?:Prenotad[oa]|Protocol)",
-    re.I,
+    r"^[^\w\n]{0,3}(R|AV)\s*[-.]?\s*[SO]?0*(\d{1,3})\s*[-/.]\s*\d{1,3}(?:[.,]?\d{3})+\s*[-–:]?\s*([^\n:]{0,90})",
+    re.I | re.M,
 )
 _DATA = re.compile(r"(\d{2})/(\d{2})/(\d{4})")
 
@@ -84,8 +86,12 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
     atos: List[dict] = []
     for i, m in enumerate(achados):
         corpo = texto[m.end(): achados[i + 1].start() if i + 1 < len(achados) else len(texto)]
-        titulo = re.sub(r"\s+", " ", m.group(3)).strip(" -,.")
-        tipo, onus = _classificar(titulo + " " + corpo[:200] if titulo.isdigit() else titulo)
+        titulo = re.split(r"\s[-–]\s*(?:Prenotad|Protocol)", m.group(3), flags=re.I)[0]
+        titulo = re.sub(r"\s+", " ", titulo).strip(" -–,.")
+        # O título classifica; se ele não disser nada, olha o começo do texto do ato
+        tipo, onus = _classificar(titulo)
+        if tipo == "outro":
+            tipo, onus = _classificar(corpo[:300])
         # Atos de cancelamento: quais registros eles cancelam (ex.: "R-3", "R.03", "AV-2")
         cancela = []
         if tipo == "cancelamento":
@@ -152,7 +158,7 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
     # só os primeiros caracteres, que trazem número, título e data do ato)
     nao_reconhecidos = []
     for linha in texto.splitlines():
-        if re.search(r"Prenota|Protocol", linha, re.I) and not _ATO.search(linha):
+        if (re.search(r"Prenota", linha, re.I) or re.match(r"\W{0,3}(R|AV)\s*[-.]?\s*\w{0,2}\d", linha)) and not _ATO.search(linha):
             nao_reconhecidos.append(re.sub(r"\s+", " ", linha).strip()[:70])
     altos = sum(r["nivel"] == "alto" for r in riscos)
     medios = sum(r["nivel"] == "medio" for r in riscos)
