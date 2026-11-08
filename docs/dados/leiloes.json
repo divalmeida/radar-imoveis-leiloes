@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-11-07 19:00",
+ "atualizado_em": "2026-11-08 07:09",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 626,
-   "segundos": 544
+   "segundos": 631
   },
   "Superbid": {
    "ok": true,
-   "lotes": 1426,
-   "segundos": 14
+   "lotes": 1430,
+   "segundos": 13
   },
   "Caixa": {
    "ok": false,
@@ -145,7 +145,7 @@
    "id": "superbid-5057601",
    "titulo": "APROX. 100 CARREGADORES DE CELULAR KINGINFO",
    "categoria": "Telefonia",
-   "lance_atual": 300,
+   "lance_atual": 500,
    "encerramento": "2026-11-09 14:37",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -157,7 +157,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -277,7 +277,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -385,7 +385,7 @@
    "id": "superbid-5069617",
    "titulo": "APROX. 100 CARREGADORES DE CELULAR DIVERSOS (SEM USO)",
    "categoria": "Telefonia",
-   "lance_atual": 300,
+   "lance_atual": 350,
    "encerramento": "2026-11-09 14:51",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -397,7 +397,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -505,7 +505,7 @@
    "id": "superbid-5069606",
    "titulo": "65 BALANÇAS USO DOMÉSTICO ATÉ 10 KILOS SF 400 ( PRODUTO SEM A EMBALAGEM )",
    "categoria": "Eletrônicos",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-09 14:56",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -517,7 +517,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -601,7 +601,7 @@
    "id": "superbid-5069600",
    "titulo": "APROX. 150 CARREGADORES DE CELULAR C/ CABO TIPO-C + 90 CABOS CARREGADORE IPHONE",
    "categoria": "Telefonia",
-   "lance_atual": 350,
+   "lance_atual": 400,
    "encerramento": "2026-11-09 14:59",
    "cidade": "São Caetano do Sul",
    "uf": "SP",
@@ -613,7 +613,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Gold Way"
    },
@@ -937,7 +937,7 @@
    "id": "superbid-5081110",
    "titulo": "KIT STARLINK MINI INTERNET VIA SATÉLITE E MINI ROTEADOR (03 UN) (Ref.: SB0033764)",
    "categoria": "Telefonia",
-   "lance_atual": 580,
+   "lance_atual": 780,
    "encerramento": "2026-11-09 15:30",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -949,7 +949,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1069,7 +1069,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1105,7 +1105,7 @@
    "id": "superbid-5081113",
    "titulo": "KIT STARLINK MINI E MINI ROTEADOR (03 UN) (Ref.: SB0033762)",
    "categoria": "Telefonia",
-   "lance_atual": 480,
+   "lance_atual": 580,
    "encerramento": "2026-11-09 15:32",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1117,7 +1117,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1153,7 +1153,7 @@
    "id": "superbid-5081114",
    "titulo": "KIT STARLINK MINI INTERNET VIA SATÉLITE E MINI ROTEADOR (03 UN) (Ref.: SB0033772)",
    "categoria": "Telefonia",
-   "lance_atual": 480,
+   "lance_atual": 580,
    "encerramento": "2026-11-09 15:32",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1165,7 +1165,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1177,7 +1177,7 @@
    "id": "superbid-5077074",
    "titulo": "MINI ROTEADOR E KIT STARLINK MINI INTERNET VIA SATÉLITE (03 UN) (Ref.: SB0033773)",
    "categoria": "Telefonia",
-   "lance_atual": 580,
+   "lance_atual": 680,
    "encerramento": "2026-11-09 15:33",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1189,7 +1189,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1765,7 +1765,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1825,7 +1825,7 @@
    "id": "superbid-5078538",
    "titulo": "IPHONE APPLE 13 (USADO) (01 UN) (Ref.: SB0033983)",
    "categoria": "Telefonia",
-   "lance_atual": 1020,
+   "lance_atual": 1220,
    "encerramento": "2026-11-09 15:51",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1837,7 +1837,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 8,
+    "lances": 10,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -1897,7 +1897,7 @@
    "id": "superbid-5078540",
    "titulo": "IPHONE APPLE 12 USADO (03 UN) (Ref.: SB0033994)",
    "categoria": "Telefonia",
-   "lance_atual": 1590,
+   "lance_atual": 1790,
    "encerramento": "2026-11-09 15:53",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -1909,7 +1909,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 8,
+    "lances": 9,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -11197,7 +11197,7 @@
    "id": "superbid-5075656",
    "titulo": "FOGÕES 4 BOCAS E FOGÕES 5 BOCAS (APROX. 5UN) (Ref.: SB0027877)",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 810,
+   "lance_atual": 910,
    "encerramento": "2026-11-11 16:37",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11209,7 +11209,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11437,7 +11437,7 @@
    "id": "superbid-5076568",
    "titulo": "FG 4B PISO BRASTEMP BFO4NBR CLEAN BIV INX, FG 4B PISO ELECTROLUX FE4GB BIV PTO, FG 4B PISO ATLAS AGILE UP GLASS BIV PTO (06 UN) (Ref.: SB0029297)",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 855,
+   "lance_atual": 955,
    "encerramento": "2026-11-11 16:42",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11449,7 +11449,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11605,7 +11605,7 @@
    "id": "superbid-5080511",
    "titulo": "LAV 10KG SUGGAR NEO ECO 220V PRETA, LAV 10KG SUGGAR NEO ECO BR 220V, LAV 15K SUGGAR LAVAMAX ECO LE1521PR 110V PRATA E OUTROS (10 UN)                  (Ref.: SB0029304)",
    "categoria": "Limpeza",
-   "lance_atual": 1220,
+   "lance_atual": 1320,
    "encerramento": "2026-11-11 16:46",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11617,7 +11617,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11701,7 +11701,7 @@
    "id": "superbid-5076573",
    "titulo": "LAV 14KG MIDEA MA512W140A/WK-04 127V BRANCA, LAV 14KG BRASTEMP BWJ14A9 110V CINZA PLATINUM, LAV 15KG MIDEA MA512W150A/WK05 220V BRANCA, LAV 15KG MIDEA MA512W150A/WK05 220V BRANCA (04 UN) \n(Ref.: SB0029308)",
    "categoria": "Limpeza",
-   "lance_atual": 1035,
+   "lance_atual": 1135,
    "encerramento": "2026-11-11 16:48",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11713,7 +11713,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11725,7 +11725,7 @@
    "id": "superbid-5080519",
    "titulo": "LAV 17KG SAMSUNG SMART WA17CG PRETO 127V, LAVA E SECA 11KG TCL C311WDW1 127V BC (02 UN)          (Ref.: SB0029309)",
    "categoria": "Limpeza",
-   "lance_atual": 1215,
+   "lance_atual": 1315,
    "encerramento": "2026-11-11 16:48",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11737,7 +11737,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11773,7 +11773,7 @@
    "id": "superbid-5076571",
    "titulo": "LAV 13KG CONSUL CWH13AB 110V BRANCO, LAV 10KG CONSUL CWB10BB 220V BC, LAV 13KG CONSUL CWH13AB 110V BRANCO (03 UN) (Ref.: SB0029311)",
    "categoria": "Limpeza",
-   "lance_atual": 620,
+   "lance_atual": 720,
    "encerramento": "2026-11-11 16:49",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11785,7 +11785,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11821,7 +11821,7 @@
    "id": "superbid-5080521",
    "titulo": "F MIC 36L ELECTROLUX ME36B 220V BCO, F MIC 32L BRASTEMP BMS46AR 220V INX, F MIC 32L BRASTEMP BMS46AR 110V INX E OUTROS  (11 UN)                   (Ref.: SB0029314)",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 805,
+   "lance_atual": 905,
    "encerramento": "2026-11-11 16:51",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11833,7 +11833,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11917,7 +11917,7 @@
    "id": "superbid-5080525",
    "titulo": "REF FF 377L CONSUL CRM44MB 110V BC, REF FF 377L, CONSUL CRM44MB 220V BC E OUTROS (04 UN)          (Ref.: SB0029320)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1260,
+   "lance_atual": 1360,
    "encerramento": "2026-11-11 16:54",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -11929,7 +11929,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -11989,7 +11989,7 @@
    "id": "superbid-5080527",
    "titulo": "REF FF 385L BRASTEMP BRM46MK 110V INOX, REF FF 385L BRASTEMP BRM46MK 110V INOX  (02 UN)    (Ref.: SB0029324)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1090,
+   "lance_atual": 1190,
    "encerramento": "2026-11-11 16:55",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12001,7 +12001,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12157,7 +12157,7 @@
    "id": "superbid-5076578",
    "titulo": "REF 590L ELECTROLUX IM8S 220V INOX (01 UN) (Ref.: SB0029332)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1170,
+   "lance_atual": 1270,
    "encerramento": "2026-11-11 16:59",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12169,7 +12169,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12277,7 +12277,7 @@
    "id": "superbid-5076579",
    "titulo": "REF FF 447L BRASTEMP BRE57FK INVERSE 110V INOX, REF DUPLEX 375L LG GN-B372PQW 127V BRANCA, REF FF 512L BRASTEMP BRM62AK INOX BIV (03 UN) \n(Ref.: SB0029338)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1380,
+   "lance_atual": 1780,
    "encerramento": "2026-11-11 17:02",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -12289,7 +12289,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12349,7 +12349,7 @@
    "id": "superbid-5080528",
    "titulo": "REF FF 512L BRASTEMP BRM62AB BRANCO BIV, REF FF 500L BRASTEMP BRE66AK INVERSE INOX BIV  (02 UN)\n(Ref.: SB0029322)",
    "categoria": "Refrigeradores",
-   "lance_atual": 910,
+   "lance_atual": 1010,
    "encerramento": "2026-11-11 17:03",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -12361,7 +12361,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -12961,7 +12961,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Total Express"
    },
@@ -13861,7 +13861,7 @@
    "id": "superbid-5074941",
    "titulo": "FREEZER HORIZONTAL 550 LITROS METALFRIO  - CÓDIGO: 14711 - 110",
    "categoria": "Refrigeradores",
-   "lance_atual": 200,
+   "lance_atual": 250,
    "encerramento": "2026-11-16 11:26",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -13873,7 +13873,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -14365,7 +14365,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 760,
+   "lance_atual": 810,
    "encerramento": "2026-11-16 12:35",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -14377,7 +14377,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 15,
+    "lances": 16,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -14605,7 +14605,7 @@
    "id": "superbid-5076776",
    "titulo": "MÁQUINA DE GELO CUBO VENANCIO 50 KG",
    "categoria": "Refrigeradores",
-   "lance_atual": 300,
+   "lance_atual": 400,
    "encerramento": "2026-11-16 13:18",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -14617,7 +14617,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 4,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -17197,7 +17197,7 @@
    "id": "superbid-5084772",
    "titulo": "01 IPHONE 14 PRO MAX 512GB (Ref.: Lote 69)",
    "categoria": "Telefonia",
-   "lance_atual": 1700,
+   "lance_atual": 1800,
    "encerramento": "2026-11-19 10:00",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17209,7 +17209,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17221,7 +17221,7 @@
    "id": "superbid-5089060",
    "titulo": "01 DRONE (Ref.: Lote 13)",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-19 10:39",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17233,7 +17233,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17245,7 +17245,7 @@
    "id": "superbid-5084730",
    "titulo": "01 DRONE (Ref.: Lote 18)",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-19 10:40",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -17257,7 +17257,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17281,7 +17281,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17305,7 +17305,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17401,7 +17401,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17449,7 +17449,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17473,7 +17473,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17497,7 +17497,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17521,7 +17521,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17545,7 +17545,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17569,7 +17569,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -17593,7 +17593,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -21401,7 +21401,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -21569,7 +21569,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -28301,7 +28301,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLVED LEILÕES",
     "leilao": "Leilão de Informática, Telefonia e Mais..."
    },
@@ -28886,6 +28886,54 @@
   },
   {
    "fonte": "Superbid",
+   "id": "superbid-5085809",
+   "titulo": "SUCATA DE 6 IMPRESSORAS TÉRMICAS DE ETIQUETAS BIXOLON: 2 SLP-T400 E 4 SLP-TX400",
+   "categoria": "Informática",
+   "lance_atual": 50,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "Louveira",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/sucata-de-6-impressoras-termicas-de-etiquetas-bixolon-2-slp-t400-e-4-slp-tx400-5085809",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/f9c3eb39-4019-4088-9ad4-e8a55ee4f274.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5085810",
+   "titulo": "SCANNER DE DOCUMENTOS HP SCANJET PROFESSIONAL 3000 ¿ COM FONTE DE ALIMENTAÇÃO, CABOS, ACESSÓRIOS E CAIXA ORIGINAL",
+   "categoria": "Informática",
+   "lance_atual": 250,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "Louveira",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/scanner-de-documentos-hp-scanjet-professional-3000-com-fonte-de-alimentacao-cabo-5085810",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9cc57402-248a-4ff7-9abe-2cef9014c854.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
    "id": "superbid-5090012",
    "titulo": "IMPRESSORA LASER MONOCROMÁTICA LEXMARK MS811dn, 110¿127 V ¿ IMPRESSÃO DEMONSTRADA EM TESTE ¿ TRANSFORMADOR NÃO INCLUSO",
    "categoria": "Informática",
@@ -28897,6 +28945,54 @@
    "link": "https://www.superbid.net/oferta/impressora-laser-monocromatica-lexmark-ms811dn-110127-v-impressao-demonstrada-em-5090012",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/924401ac-c1d3-4418-b96f-7e44e0853aed.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5090019",
+   "titulo": "SCANNER DE DOCUMENTOS HP SCANJET PROFESSIONAL 3000 ¿ COM FONTE DE ALIMENTAÇÃO, CABOS, ACESSÓRIOS E CAIXA ORIGINAL",
+   "categoria": "Informática",
+   "lance_atual": 250,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "Louveira",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/scanner-de-documentos-hp-scanjet-professional-3000-com-fonte-de-alimentacao-cabo-5090019",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/9a91f282-c6ee-49d7-ad4e-16dc16beda83.jpg",
+   "observacoes": [
+    "Confirme nas condições do leilão se aceita pessoa física"
+   ],
+   "detalhes": {
+    "lances": 0,
+    "leiloeiro": "SOLVED LEILÕES",
+    "leilao": "Leilão de Informática, Telefonia e Mais..."
+   },
+   "prioridade": false,
+   "destaque": true
+  },
+  {
+   "fonte": "Superbid",
+   "id": "superbid-5090022",
+   "titulo": "3 SCANNERS DE DOCUMENTOS HP SCANJET PROFESSIONAL 3000 ¿ COM ALIMENTADOR AUTOMÁTICO (ADF) ¿ SEM FONTES E CABOS ¿ NÃO TESTADOS",
+   "categoria": "Informática",
+   "lance_atual": 50,
+   "encerramento": "2026-12-12 10:00",
+   "cidade": "Louveira",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.superbid.net/oferta/3-scanners-de-documentos-hp-scanjet-professional-3000-com-alimentador-automatico-5090022",
+   "valor_avaliacao": null,
+   "imagem": "https://ms.sbwebservices.net/photos/d3622381-7218-41f2-943b-c9f6b32f76e0.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -42365,7 +42461,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
