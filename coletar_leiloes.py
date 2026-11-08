@@ -8,6 +8,7 @@ import multiprocessing
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from radar import historico
 from radar.coletores import caixa, receita, superbid
 
 # Fonte: (função de coleta, tempo máximo em minutos)
@@ -51,6 +52,8 @@ def main() -> None:
     lotes = []
     status = {}
     anteriores = _anteriores()
+    # Cópia por id, antes de qualquer alteração, para o histórico de preço
+    por_id = {l["id"]: dict(l) for lista in anteriores.values() for l in lista}
     guardados = []  # lotes mantidos da coleta anterior (já em formato de dicionário)
     for nome, (coletar, minutos) in COLETORES.items():
         inicio = datetime.now()
@@ -76,10 +79,14 @@ def main() -> None:
         print(f"=== {nome}: {segundos} s ===", flush=True)
 
     lotes.sort(key=lambda l: (not l.prioridade, not l.destaque, l.encerramento or "9999"))
+    agora = datetime.now(FUSO_BRASILIA)
+    novos = [l.para_dict() for l in lotes]
+    # Histórico de preço (lance atual / preço da Caixa) em relação às coletas anteriores
+    historico.aplicar(novos, por_id, agora.strftime("%Y-%m-%d"), "lance_atual")
     resultado = {
-        "atualizado_em": datetime.now(FUSO_BRASILIA).strftime("%Y-%m-%d %H:%M"),
+        "atualizado_em": agora.strftime("%Y-%m-%d %H:%M"),
         "fontes": status,
-        "lotes": [l.para_dict() for l in lotes] + guardados,
+        "lotes": novos + guardados,
     }
     ARQUIVO_SAIDA.parent.mkdir(parents=True, exist_ok=True)
     ARQUIVO_SAIDA.write_text(json.dumps(resultado, ensure_ascii=False, indent=1), encoding="utf-8")

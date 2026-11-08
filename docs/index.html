@@ -104,6 +104,24 @@
   .prazo.urgente { color: var(--vermelho); }
   .prazo.breve { color: var(--laranja); }
   .custos { font-size: 13px; color: var(--texto); }
+  details.hist ul { list-style: none; padding-left: 0; }
+  details.hist li { padding: 2px 0; }
+  .desce { color: var(--verde); }
+  .sobe { color: var(--vermelho); }
+  details.sim { border: 1px solid var(--borda); border-radius: 10px; padding: 8px 10px; }
+  details.sim summary { font-weight: 600; }
+  .sim-grade { display: grid; gap: 8px; margin-top: 10px; }
+  .sim-campo { display: grid; grid-template-columns: 1fr 110px auto; gap: 6px; align-items: center; font-size: 12px; color: var(--suave); }
+  .sim-campo input { font: inherit; font-size: 16px; width: 100%; padding: 6px 8px; border-radius: 8px; border: 1px solid var(--borda); background: var(--cartao); color: var(--texto); }
+  .sim-campo em { font-style: normal; font-size: 12px; }
+  .sim-resultado { margin-top: 10px; display: grid; gap: 3px; }
+  .sim-linha { display: flex; justify-content: space-between; gap: 8px; font-size: 13px; }
+  .sim-linha.sub { border-top: 1px dashed var(--borda); padding-top: 4px; }
+  .sim-linha.total { font-size: 14px; }
+  .sim-linha.bom b { color: var(--verde); }
+  .sim-linha.ruim b { color: var(--vermelho); }
+  .sim-fin { margin-top: 8px; padding: 8px; border-radius: 8px; background: var(--chip); display: grid; gap: 3px; font-size: 13px; }
+  .sim-nota { display: block; margin-top: 8px; color: var(--suave); font-size: 11px; }
   .custos.sem { color: var(--suave); font-size: 12px; }
   .renda { font-size: 13px; background: var(--chip); border-radius: 10px; padding: 8px 10px; }
   .renda b { color: var(--verde); }
@@ -220,11 +238,17 @@
           <option value="Só PJ (CNPJ)">Só PJ (CNPJ)</option>
         </select>
         <select id="fonte" aria-label="Fonte"><option value="">Todas as fontes</option></select>
+        <select id="variacao" aria-label="Variação de preço">
+          <option value="">Preço: qualquer</option>
+          <option value="baixou">▼ Baixou de preço</option>
+          <option value="subiu">▲ Subiu de preço</option>
+        </select>
         <select id="ordem" aria-label="Ordenar">
           <option value="encerra">Encerra primeiro</option>
           <option value="menor">Menor valor</option>
           <option value="desconto">Maior desconto</option>
           <option value="rendimento">Maior rendimento (imóveis)</option>
+          <option value="queda">Maior queda de preço</option>
         </select>
       </div>
     </div>
@@ -249,6 +273,7 @@ const dataBR = (iso) => iso ? iso.slice(0, 10).split("-").reverse().slice(0, 2).
 // O aluguel estimado é calculado na coleta (radar/aluguel.py) para todo imóvel
 // à venda: do mais preciso (mesmo bairro, quartos e área) ao mais geral.
 let ALUGUEL_CAIXA = {};
+let MERCADO_CAIXA = {};
 const NIVEL = { bairro: "", cidade: "", regiao: " · referência fraca", geral: " · referência muito fraca" };
 
 function blocoRenda(est, preco) {
@@ -396,6 +421,7 @@ function desenharIm(reiniciar) {
 
 function iniciarImoveis(dados) {
   ALUGUEL_CAIXA = dados.aluguel_caixa || {};
+  MERCADO_CAIXA = dados.mercado_caixa || {};
   estadoIm.atualizado = `atualizado ${dataBR(dados.atualizado_em)} · ${dados.atualizado_em.slice(11)}`;
   estadoIm.grupos = montarGrupos(dados.anuncios);
   const f = dados.filtros;
@@ -484,7 +510,7 @@ function desconto(l) {
 
 function filtrarLe() {
   const busca = semAcento($("busca").value).split(/\s+/).filter(Boolean);
-  const publico = $("publico").value, fonte = $("fonte").value;
+  const publico = $("publico").value, fonte = $("fonte").value, variacao = $("variacao").value;
   const agora = Date.now();
   let r = estadoLe.lotes.filter((l) => {
     const fim = dataDe(l.encerramento);
@@ -494,12 +520,15 @@ function filtrarLe() {
     if (estadoLe.uf && l.uf !== estadoLe.uf) return false;
     if (publico && l.publico !== publico) return false;
     if (fonte && l.fonte !== fonte) return false;
+    if (variacao === "baixou" && !l.baixou_preco) return false;
+    if (variacao === "subiu" && !l.subiu_preco) return false;
     return busca.every((p) => l._busca.includes(p));
   });
   const ordem = $("ordem").value;
   if (ordem === "menor") r.sort((a, b) => (a.lance_atual ?? 1e15) - (b.lance_atual ?? 1e15));
   else if (ordem === "desconto") r.sort((a, b) => (desconto(b) ?? -1) - (desconto(a) ?? -1));
   else if (ordem === "rendimento") r.sort((a, b) => (b._rend ?? -1) - (a._rend ?? -1));
+  else if (ordem === "queda") r.sort((a, b) => (a.variacao_total_pct ?? 0) - (b.variacao_total_pct ?? 0));
   // Com data: o que encerra antes vem primeiro. Sem data (Caixa): cidades prioritárias primeiro.
   else r.sort((a, b) => (a.encerramento || "9").localeCompare(b.encerramento || "9") || (!!b.prioridade - !!a.prioridade) || (!!b.destaque - !!a.destaque));
   return r;
@@ -523,10 +552,120 @@ function cartaoLe(l) {
       <div class="preco"><span class="rotulo">${rotulo}</span>${l.lance_atual != null ? dinheiro.format(l.lance_atual) : "—"}</div>
       <div class="prazo ${p.classe}">${escapar(p.texto)}</div>
     </div>
+    ${blocoVariacao(l)}
     ${l._est ? blocoRenda(l._est, l.lance_atual) : ""}
     <div class="selos">${selos.join("")}</div>
+    ${blocoHistorico(l)}
+    ${l.fonte === "Caixa" ? `<details class="sim" data-id="${escapar(l.id)}"><summary>Simular custo final e financiamento</summary><div class="sim-corpo"></div></details>` : ""}
     <div class="acoes"><a href="${escapar(l.link)}" target="_blank" rel="noopener">Abrir no site do leilão</a></div>
   </article>`;
+}
+
+/* ---------- Histórico de preço dos leilões ---------- */
+function blocoVariacao(l) {
+  if (!l.variacao) return "";
+  const desce = l.variacao < 0;
+  const total = l.variacao_total_pct != null && l.historico_precos.length > 2
+    ? ` · desde ${dataBR(l.historico_precos[0].data)}: ${l.variacao_total_pct > 0 ? "+" : ""}${String(l.variacao_total_pct).replace(".", ",")}%` : "";
+  return `<div class="variacao ${desce ? "desce" : "sobe"}">${desce ? "▼ Baixou" : "▲ Subiu"} ${dinheiro.format(Math.abs(l.variacao))}
+    (${desce ? "−" : "+"}${String(Math.abs(l.variacao_pct)).replace(".", ",")}%) em ${dataBR(l.variacao_em)} · antes ${dinheiro.format(l.preco_anterior)}${total}</div>`;
+}
+
+function blocoHistorico(l) {
+  const h = l.historico_precos || [];
+  if (h.length < 2) return l.primeiro_visto ? `<div class="custos sem">No Radar desde ${dataBR(l.primeiro_visto)} · preço sem mudança</div>` : "";
+  return `<details class="hist"><summary>Histórico de preço (${h.length} registros desde ${dataBR(h[0].data)})</summary><ul>${
+    h.slice().reverse().map((x, i, a) => {
+      const ant = a[i + 1];
+      const dif = ant ? (x.preco - ant.preco) / ant.preco * 100 : null;
+      return `<li>${dataBR(x.data)}: <b>${dinheiro.format(x.preco)}</b>${dif == null ? " (primeiro registro)" : ` <span class="${dif < 0 ? "desce" : "sobe"}">${dif < 0 ? "▼" : "▲"} ${Math.abs(dif).toFixed(1).replace(".", ",")}%</span>`}</li>`;
+    }).join("")}</ul></details>`;
+}
+
+/* ---------- Simulador de custo final (imóveis da Caixa) ---------- */
+// Valores-padrão editáveis. São estimativas: confirme no edital, na prefeitura e no cartório.
+const PADRAO = { itbi: 3, comissaoLeilao: 5, registroPct: 1.2, registroMin: 1000, certidoes: 300, desocupacao: 6000,
+  reformaM2: 300, reformaSemArea: 10000, entrada: 20, juros: 11.5, prazo: 420, corretagem: 6 };
+
+function areaCaixa(l) {
+  const d = (l.detalhes && l.detalhes.descricao) || "";
+  const m = /([\d.]+) de área privativa/.exec(d) || /([\d.]+) de área total/.exec(d);
+  const v = m ? parseFloat(m[1]) : 0;
+  return v > 0 ? v : null;
+}
+
+function campo(id, rotulo, valor, sufixo = "", passo = "any") {
+  return `<label class="sim-campo"><span>${rotulo}</span><input type="number" inputmode="decimal" step="${passo}" data-c="${id}" value="${valor}">${sufixo ? `<em>${sufixo}</em>` : ""}</label>`;
+}
+
+function montarSimulador(det) {
+  const l = estadoLe.lotes.find((x) => x.id === det.dataset.id);
+  if (!l || det.dataset.pronto) return;
+  det.dataset.pronto = "1";
+  const modalidade = (l.detalhes && l.detalhes.modalidade) || "";
+  const comLeiloeiro = /leil|licita/i.test(modalidade);
+  const area = areaCaixa(l);
+  const avaliacao = l.valor_avaliacao || 0;
+  const merc = MERCADO_CAIXA[l.id];
+  const financia = !!(l.detalhes && l.detalhes.financiamento);
+  det.querySelector(".sim-corpo").innerHTML = `
+    <div class="sim-grade">
+      ${campo("compra", "Valor de compra (lance)", Math.round(l.lance_atual || 0), "R$")}
+      ${campo("comissao", `Comissão do leiloeiro${comLeiloeiro ? "" : " (venda online: sem leiloeiro)"}`, comLeiloeiro ? PADRAO.comissaoLeilao : 0, "%")}
+      ${campo("itbi", "ITBI (prefeitura)", PADRAO.itbi, "%")}
+      ${campo("registro", "Registro em cartório + certidões (estimativa)", "", "R$")}
+      ${campo("dividas", "Dívidas de condomínio e IPTU (pior caso: 10% da avaliação)", Math.round(avaliacao * 0.10), "R$")}
+      ${campo("desocupacao", "Desocupação (ocupação não informada)", PADRAO.desocupacao, "R$")}
+      ${campo("reforma", `Reforma${area ? ` (${area} m² × R$ ${PADRAO.reformaM2})` : ""}`, Math.round(area ? area * PADRAO.reformaM2 : PADRAO.reformaSemArea), "R$")}
+      ${campo("mercado", merc ? `Valor de mercado (${escapar(merc.base)})` : "Valor de mercado (sem referência: usando a avaliação da Caixa)", Math.round(merc ? merc.valor : avaliacao), "R$")}
+      ${campo("corretagem", "Custos para revender (corretagem)", PADRAO.corretagem, "%")}
+      ${financia ? `
+      ${campo("entrada", "Entrada do financiamento", PADRAO.entrada, "%")}
+      ${campo("juros", "Juros ao ano", PADRAO.juros, "%")}
+      ${campo("prazo", "Prazo", PADRAO.prazo, "meses", "1")}` : ""}
+    </div>
+    <div class="sim-resultado"></div>
+    <small class="sim-nota">Estimativas. ITBI calculado sobre o valor de compra; o registro segue a tabela de cartório da Bahia (aqui, ~1,2% com mínimo de R$ 1.000).
+      Condomínio/IPTU: pela regra da Caixa o comprador paga até 10% da avaliação. Confira tudo no edital antes de dar lance.</small>`;
+  det.addEventListener("input", () => calcularSimulador(det, l, financia));
+  calcularSimulador(det, l, financia);
+}
+
+function calcularSimulador(det, l, financia) {
+  const v = (id) => { const e = det.querySelector(`[data-c="${id}"]`); return e && e.value !== "" ? parseFloat(e.value) : null; };
+  const compra = v("compra") || 0;
+  const regEl = det.querySelector('[data-c="registro"]');
+  const registroAuto = Math.round(Math.max(PADRAO.registroMin, compra * PADRAO.registroPct / 100) + PADRAO.certidoes);
+  if (!regEl.dataset.editado) regEl.value = registroAuto;
+  regEl.oninput = () => (regEl.dataset.editado = "1");
+  const comissao = compra * (v("comissao") || 0) / 100;
+  const itbi = compra * (v("itbi") || 0) / 100;
+  const registro = v("registro") || 0, dividas = v("dividas") || 0, desoc = v("desocupacao") || 0, reforma = v("reforma") || 0;
+  const extras = comissao + itbi + registro + dividas + desoc + reforma;
+  const total = compra + extras;
+  const mercado = v("mercado") || 0;
+  const lucro = mercado * (1 - (v("corretagem") || 0) / 100) - total;
+  const aluguel = ALUGUEL_CAIXA[l.id];
+  const linha = (rot, val, cls = "") => `<div class="sim-linha ${cls}"><span>${rot}</span><b>${val}</b></div>`;
+  let html = linha("Comissão do leiloeiro", dinheiro.format(comissao)) + linha("ITBI", dinheiro.format(itbi)) +
+    linha("Registro e certidões", dinheiro.format(registro)) + linha("Dívidas (condomínio/IPTU)", dinheiro.format(dividas)) +
+    linha("Desocupação", dinheiro.format(desoc)) + linha("Reforma", dinheiro.format(reforma)) +
+    linha("Custos extras", dinheiro.format(extras), "sub") + linha("Custo total estimado", dinheiro.format(total), "total") +
+    linha("Valor de mercado estimado", dinheiro.format(mercado)) +
+    linha(lucro >= 0 ? "Lucro estimado na revenda" : "Prejuízo estimado na revenda", `${dinheiro.format(lucro)} (${total ? (lucro / total * 100).toFixed(0) : 0}%)`, lucro >= 0 ? "bom" : "ruim");
+  if (aluguel) html += linha("Aluguel estimado", `${dinheiro.format(aluguel.valor)}/mês · ${(aluguel.valor * 12 / total * 100).toFixed(1).replace(".", ",")}% ao ano sobre o custo total`);
+  if (financia) {
+    const ent = compra * (v("entrada") || 0) / 100, fin = compra - ent;
+    const n = v("prazo") || 1, i = Math.pow(1 + (v("juros") || 0) / 100, 1 / 12) - 1;
+    const parcela = fin / n + fin * i; // tabela SAC: primeira parcela (as próximas diminuem)
+    html += `<div class="sim-fin"><b>Financiamento Caixa (SBPE)</b>` +
+      linha("Entrada", dinheiro.format(ent)) + linha("Valor financiado", dinheiro.format(fin)) +
+      linha("1ª parcela (SAC, sem seguros)", dinheiro.format(parcela)) +
+      linha("Dinheiro necessário no início (entrada + custos extras)", dinheiro.format(ent + extras), "total") + `</div>`;
+  } else {
+    html += `<div class="sim-fin"><b>Só à vista</b> (este imóvel não aceita financiamento)` + linha("Dinheiro necessário", dinheiro.format(total), "total") + `</div>`;
+  }
+  det.querySelector(".sim-resultado").innerHTML = html;
 }
 
 function desenharLe(reiniciar) {
@@ -534,6 +673,7 @@ function desenharLe(reiniciar) {
   const r = filtrarLe();
   $("resumo").textContent = `${r.length.toLocaleString("pt-BR")} resultado${r.length === 1 ? "" : "s"}`;
   $("lista").innerHTML = r.length ? r.slice(0, estadoLe.mostrando).map(cartaoLe).join("") : `<div class="vazio">Nenhum lote com esses filtros.</div>`;
+  $("lista").querySelectorAll("details.sim").forEach((d) => d.addEventListener("toggle", () => d.open && montarSimulador(d)));
   $("mais").hidden = r.length <= estadoLe.mostrando;
 }
 
@@ -567,7 +707,7 @@ function iniciarLeiloes(dados) {
 
   let espera;
   $("busca").oninput = () => { clearTimeout(espera); espera = setTimeout(() => desenharLe(true), 200); };
-  ["publico", "fonte", "ordem"].forEach((id) => ($(id).onchange = () => desenharLe(true)));
+  ["publico", "fonte", "ordem", "variacao"].forEach((id) => ($(id).onchange = () => desenharLe(true)));
   $("mais").onclick = () => { estadoLe.mostrando += POR_PAGINA; desenharLe(false); };
   desenharLe(true);
 }

@@ -69,8 +69,9 @@ def _custos(a: dict) -> None:
     a["custo_mensal"] = round(sum(partes)) if partes else None
 
 
-def _aluguel_caixa(referencia: Referencia) -> dict:
-    """Aluguel estimado dos apartamentos da Caixa (aba Leilões), pela mesma regra."""
+def _estimar_caixa(referencia: Referencia) -> dict:
+    """Estimativa para cada apartamento da Caixa (aba Leilões), pela mesma regra:
+    com a referência de aluguéis dá o aluguel; com a de vendas, o valor de mercado."""
     try:
         leiloes = json.loads((PASTA / "leiloes.json").read_text(encoding="utf-8"))
     except (OSError, ValueError):
@@ -83,7 +84,9 @@ def _aluguel_caixa(referencia: Referencia) -> dict:
         descricao = det.get("descricao") or ""
         m = re.search(r"([\d.]+) de área privativa", descricao) or re.search(r"([\d.]+) de área total", descricao)
         q = re.search(r"(\d+) qto", descricao)
-        est = referencia.estimar(lote["cidade"], det.get("bairro"), float(m.group(1)) if m else None, int(q.group(1)) if q else None)
+        # "Vila de Abrantes (Abrantes)" na Caixa é "Vila de Abrantes" nos portais
+        bairro = re.sub(r"\s*\(.*?\)", "", det.get("bairro") or "")
+        est = referencia.estimar(lote["cidade"], bairro, float(m.group(1)) if m else None, int(q.group(1)) if q else None)
         if est:
             estimativas[lote["id"]] = est
     return estimativas
@@ -185,7 +188,9 @@ def main() -> None:
             compras.append(a)
 
     _marcar_repetidos(compras)
-    referencia = Referencia(alugueis, {c["nome"]: c["regiao"] for c in CIDADES_IMOVEIS})
+    regioes = {c["nome"]: c["regiao"] for c in CIDADES_IMOVEIS}
+    referencia = Referencia(alugueis, regioes)
+    referencia_venda = Referencia(compras, regioes)  # preço de venda dos anúncios (até o teto da busca)
     for a in compras:
         _custos(a)
         a["aluguel"] = referencia.estimar(a["cidade"], a.get("bairro"), a.get("area"), a.get("quartos"))
@@ -196,7 +201,8 @@ def main() -> None:
                     "regioes": [{"nome": r, "cidades": [c["nome"] for c in CIDADES_IMOVEIS if c["regiao"] == r]}
                                 for r in dict.fromkeys(c["regiao"] for c in CIDADES_IMOVEIS)]},
         "fontes": status,
-        "aluguel_caixa": _aluguel_caixa(referencia),
+        "aluguel_caixa": _estimar_caixa(referencia),
+        "mercado_caixa": _estimar_caixa(referencia_venda),
         "anuncios": compras,
         "alugueis": alugueis,
     }

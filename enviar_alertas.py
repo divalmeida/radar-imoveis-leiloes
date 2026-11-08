@@ -128,6 +128,9 @@ def mensagem_leiloes(dados: dict, anterior: dict, sempre: bool) -> str:
     lotes = dados.get("lotes", [])
 
     caixa_novos = [l for l in lotes if l["fonte"] == "Caixa" and l.get("prioridade") and anterior and l["id"] not in ids_antes]
+    precos_antes = {l["id"]: l.get("lance_atual") for l in anterior.get("lotes", [])}
+    caixa_baixou = [l for l in lotes if l["fonte"] == "Caixa" and l.get("prioridade") and precos_antes.get(l["id"])
+                    and l.get("lance_atual") and l["lance_atual"] < precos_antes[l["id"]]]
     encerrando = []
     for l in (lotes if sempre else []):
         if l["fonte"] == "Caixa" or not l.get("encerramento") or l.get("uf") not in UFS_DESTAQUE:
@@ -148,6 +151,12 @@ def mensagem_leiloes(dados: dict, anterior: dict, sempre: bool) -> str:
             f"• <b>{_reais(l['lance_atual'])}</b> — {_e(l['titulo'])} · {(l.get('detalhes') or {}).get('desconto_pct', 0):.0f}% de desconto"
             f"{' · aceita financiamento' if (l.get('detalhes') or {}).get('financiamento') else ''}\n   <a href=\"{_e(l['link'])}\">ver na Caixa</a>"
             for l in caixa_novos[:MAX_ITENS]))
+    if caixa_baixou:
+        caixa_baixou.sort(key=lambda l: (l["lance_atual"] - precos_antes[l["id"]]) / precos_antes[l["id"]])
+        partes.append(f"<b>📉 {len(caixa_baixou)} imóve{'is' if len(caixa_baixou) > 1 else 'l'} da Caixa {'baixaram' if len(caixa_baixou) > 1 else 'baixou'} de preço</b> nas suas cidades:\n\n" + "\n\n".join(
+            f"• <s>{_reais(precos_antes[l['id']])}</s> → <b>{_reais(l['lance_atual'])}</b>  {_variacao_texto(precos_antes[l['id']], l['lance_atual'])}\n   {_e(l['titulo'])}"
+            f"{' · aceita financiamento' if (l.get('detalhes') or {}).get('financiamento') else ''}\n   <a href=\"{_e(l['link'])}\">ver na Caixa</a>"
+            for l in caixa_baixou[:MAX_ITENS]))
     if encerrando:
         # Quem tem valor de avaliação e desconto grande vem primeiro; depois, o que encerra antes
         encerrando.sort(key=lambda l: (-round(desconto(l), 1), l["encerramento"]))
@@ -155,7 +164,7 @@ def mensagem_leiloes(dados: dict, anterior: dict, sempre: bool) -> str:
             f"• <b>{_reais(l['lance_atual'])}</b> — {_e(l['titulo'][:90])}\n   {_e(l['cidade'])}-{_e(l['uf'])} · {_e(l['publico'])} · encerra {l['encerramento'][8:10]}/{l['encerramento'][5:7]} {l['encerramento'][11:]}"
             f" · <a href=\"{_e(l['link'])}\">{_e(l['fonte'])}</a>"
             for l in encerrando[:MAX_ITENS]))
-    if not caixa_novos and not encerrando:
+    if not caixa_novos and not caixa_baixou and not encerrando:
         if not sempre:
             return ""
         partes.append("Nada novo da Caixa nas cidades prioritárias e nenhum lote encerrando em 48h nos estados em destaque.")
