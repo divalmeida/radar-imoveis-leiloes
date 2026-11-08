@@ -1,10 +1,10 @@
 {
- "atualizado_em": "2026-11-08 08:44",
+ "atualizado_em": "2026-11-08 09:44",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 626,
-   "segundos": 502
+   "segundos": 567
   },
   "Superbid": {
    "ok": true,
@@ -18631,7 +18631,7 @@
    "id": "superbid-5080511",
    "titulo": "LAV 10KG SUGGAR NEO ECO 220V PRETA, LAV 10KG SUGGAR NEO ECO BR 220V, LAV 15K SUGGAR LAVAMAX ECO LE1521PR 110V PRATA E OUTROS (10 UN)                  (Ref.: SB0029304)",
    "categoria": "Limpeza",
-   "lance_atual": 1320,
+   "lance_atual": 1420,
    "encerramento": "2026-11-11 16:46",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -18643,7 +18643,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -18674,13 +18674,17 @@
     {
      "data": "2026-11-08",
      "preco": 1320
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1420
     }
    ],
-   "preco_anterior": 1220,
+   "preco_anterior": 1320,
    "variacao": 100,
-   "variacao_pct": 8.2,
+   "variacao_pct": 7.6,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 83.3,
+   "variacao_total_pct": 97.2,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -18993,7 +18997,7 @@
    "id": "superbid-5076571",
    "titulo": "LAV 13KG CONSUL CWH13AB 110V BRANCO, LAV 10KG CONSUL CWB10BB 220V BC, LAV 13KG CONSUL CWH13AB 110V BRANCO (03 UN) (Ref.: SB0029311)",
    "categoria": "Limpeza",
-   "lance_atual": 720,
+   "lance_atual": 820,
    "encerramento": "2026-11-11 16:49",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -19005,7 +19009,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -19020,13 +19024,17 @@
     {
      "data": "2026-11-08",
      "preco": 720
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 820
     }
    ],
-   "preco_anterior": 620,
+   "preco_anterior": 720,
    "variacao": 100,
-   "variacao_pct": 16.1,
+   "variacao_pct": 13.9,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 16.1,
+   "variacao_total_pct": 32.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -20023,7 +20031,7 @@
    "id": "superbid-5076579",
    "titulo": "REF FF 447L BRASTEMP BRE57FK INVERSE 110V INOX, REF DUPLEX 375L LG GN-B372PQW 127V BRANCA, REF FF 512L BRASTEMP BRM62AK INOX BIV (03 UN) \n(Ref.: SB0029338)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1780,
+   "lance_atual": 1980,
    "encerramento": "2026-11-11 17:02",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -20035,7 +20043,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -20058,13 +20066,17 @@
     {
      "data": "2026-11-08",
      "preco": 1780
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1980
     }
    ],
-   "preco_anterior": 1380,
-   "variacao": 400,
-   "variacao_pct": 29.0,
+   "preco_anterior": 1780,
+   "variacao": 200,
+   "variacao_pct": 11.2,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 50.8,
+   "variacao_total_pct": 67.8,
    "baixou_preco": false,
    "subiu_preco": true
   },
