@@ -1,64 +1,64 @@
 {
- "atualizado_em": "2026-11-08 10:45",
+ "atualizado_em": "2026-11-08 11:01",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 626,
-   "segundos": 633
+   "segundos": 552
   },
   "Superbid": {
    "ok": true,
    "lotes": 1430,
-   "segundos": 633
+   "segundos": 552
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-11-03 19:06",
    "lotes": 727,
-   "segundos": 633
+   "segundos": 552
   },
   "Kwara": {
    "ok": true,
    "lotes": 179,
-   "segundos": 633
+   "segundos": 552
   },
   "Mega Leilões": {
    "ok": true,
    "lotes": 22,
-   "segundos": 633
+   "segundos": 552
   },
   "Freitas": {
    "ok": true,
    "lotes": 87,
-   "segundos": 633
+   "segundos": 552
   },
   "Palácio dos Leilões": {
    "ok": true,
-   "lotes": 120,
-   "segundos": 633
+   "lotes": 122,
+   "segundos": 552
   },
   "Parque dos Leilões": {
    "ok": true,
    "lotes": 16,
-   "segundos": 633
+   "segundos": 552
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": false,
    "erro": "João Emílio: Falha ao acessar https://www.joaoemilio.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden; Leilão Prime: Falha ao acessar https://www.leilaoprime.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden; Tudo Leilão: Falha ao acessar https://www.tudoleilao.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden",
    "dados_de": "2026-11-08 10:09",
    "lotes": 201,
-   "segundos": 633
+   "segundos": 552
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
    "lotes": 206,
-   "segundos": 633
+   "segundos": 552
   },
   "Zuk / Frazão (imóveis BA)": {
    "ok": true,
    "lotes": 47,
-   "segundos": 633
+   "segundos": 552
   }
  },
  "lotes": [
@@ -1519,7 +1519,7 @@
    "id": "kwara-1734052348839331482",
    "titulo": "Televisor Samsung 65\". - Modelo:  UN65 MU6100G",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 2699.0,
+   "lance_atual": 2719.0,
    "encerramento": "2026-11-09 10:24",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -1529,7 +1529,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/c2bcd354-b8c7-4fef-b271-b94c41137ade.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "vendedor": null
    },
    "prioridade": false,
@@ -1540,14 +1540,19 @@
     {
      "data": "2026-11-08",
      "preco": 2699.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 2719.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 2699.0,
+   "variacao": 20.0,
+   "variacao_pct": 0.7,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 0.7,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -3309,7 +3314,7 @@
    "id": "kwara-1734156765777364400",
    "titulo": "2 Notebooks Dell",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1252.0,
+   "lance_atual": 1432.0,
    "encerramento": "2026-11-09 11:21",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3319,7 +3324,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/92fa8a78-47ef-4f5a-8553-c5a12e8c3ae9.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 27,
+    "lances": 33,
     "vendedor": "WILL BANK"
    },
    "prioridade": false,
@@ -3330,14 +3335,19 @@
     {
      "data": "2026-11-08",
      "preco": 1252.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1432.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1252.0,
+   "variacao": 180.0,
+   "variacao_pct": 14.4,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 14.4,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -6642,7 +6652,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -49618,7 +49628,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934453515666",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/6dce422b-eace-42e3-b6f2-1fc34d597754.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/c1f9321d-5695-4631-8370-6a3870308f73.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -69261,6 +69271,38 @@
   },
   {
    "fonte": "Palácio dos Leilões",
+   "id": "palacio-1589357",
+   "titulo": "1 - CONDENSADORA SPLIT COMERCIAL (CAC) UNID E...",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": null,
+   "encerramento": "2026-11-10 10:00",
+   "cidade": "Juatuba",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8887",
+   "valor_avaliacao": null,
+   "imagem": null,
+   "observacoes": [
+    "Lote 306 do leilão 8887 (horário aproximado; confira no site)"
+   ],
+   "detalhes": {
+    "comitente": "Auto Vende",
+    "tipo_lance": "lance inicial"
+   },
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "Palácio dos Leilões",
+   "primeiro_visto": "2026-11-08",
+   "historico_precos": [],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Palácio dos Leilões",
    "id": "palacio-1589358",
    "titulo": "1 - CONDENSADORA MULTI SPLIT COND.AC.MULTI SP...",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -72091,6 +72133,36 @@
    "subiu_preco": false
   },
   {
+   "fonte": "Palácio dos Leilões",
+   "id": "palacio-1586868",
+   "titulo": "1 - UPS (NOBREAK) INDUSTRIAL TRIFASICO EATON ...",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": null,
+   "encerramento": "2026-11-12 10:00",
+   "cidade": "Juatuba",
+   "uf": "MG",
+   "publico": "PF e PJ",
+   "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8882",
+   "valor_avaliacao": null,
+   "imagem": null,
+   "observacoes": [],
+   "detalhes": {
+    "comitente": "Ferreira Barbosa",
+    "tipo_lance": "lance inicial"
+   },
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "Palácio dos Leilões",
+   "primeiro_visto": "2026-11-08",
+   "historico_precos": [],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
    "fonte": "Bolsa de Leilões",
    "id": "bolsa-105947",
    "titulo": "Refrigerador - 1 item",
@@ -72127,7 +72199,7 @@
    "id": "bolsa-105948",
    "titulo": "Refrigerador - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 800.0,
+   "lance_atual": 900.0,
    "encerramento": "2026-11-12 10:00",
    "cidade": "Belo Horizonte",
    "uf": "MG",
@@ -72145,14 +72217,19 @@
     {
      "data": "2026-11-08",
      "preco": 800.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 900.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 800.0,
+   "variacao": 100.0,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 12.5,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
