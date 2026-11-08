@@ -1,15 +1,15 @@
 {
- "atualizado_em": "2026-11-08 08:33",
+ "atualizado_em": "2026-11-08 08:44",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 626,
-   "segundos": 679
+   "segundos": 502
   },
   "Superbid": {
    "ok": true,
    "lotes": 1430,
-   "segundos": 20
+   "segundos": 15
   },
   "Caixa": {
    "ok": false,
