@@ -1,6 +1,6 @@
 {
  "numero": "8444400798566",
- "analisado_em": "2026-11-08 08:22",
+ "analisado_em": "2026-11-08 08:24",
  "avisos": [
   "Página do imóvel: a Caixa pediu captcha (anti-robô) para a página do imóvel. Tente de novo mais tarde."
  ],
@@ -51,6 +51,11 @@
   "resumo": "Atenção",
   "area_registrada": null,
   "data_documento": "2023-12-18",
-  "caracteres_lidos": 8711
+  "caracteres_lidos": 17131,
+  "cabecalhos_nao_reconhecidos": [
+   "Numero do Protocolo: 508.459",
+   "AV-S5/125.401 - RENUMERAÇÃO DE ATOS - Prenotado em 12/08/2022 nº 429.5",
+   "Numero do Protocolo: 508.459"
+  ]
  }
 }
