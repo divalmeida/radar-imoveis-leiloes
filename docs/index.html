@@ -108,7 +108,14 @@
   details.hist li { padding: 2px 0; }
   .desce { color: var(--verde); }
   .sobe { color: var(--vermelho); }
-  details.sim { border: 1px solid var(--borda); border-radius: 10px; padding: 8px 10px; }
+  details.sim, details.analise-det, .analise { border: 1px solid var(--borda); border-radius: 10px; padding: 8px 10px; }
+  .analise small { display: block; color: var(--suave); font-size: 11px; margin-top: 4px; }
+  a.pedir { display: inline-block; font-weight: 600; font-size: 13px; color: var(--azul); text-decoration: none; margin-top: 4px; }
+  details.analise-det summary { font-size: 13px; }
+  details.analise-det b.bom { color: var(--verde); } details.analise-det b.medio { color: var(--laranja); } details.analise-det b.ruim { color: var(--vermelho); }
+  .analise-corpo { margin-top: 8px; display: grid; gap: 4px; }
+  .regra { font-size: 12px; margin: 4px 0; }
+  ul.riscos { font-size: 12px; padding-left: 0; list-style: none; margin: 4px 0; }
   details.sim summary { font-weight: 600; }
   .sim-grade { display: grid; gap: 8px; margin-top: 10px; }
   .sim-campo { display: grid; grid-template-columns: 1fr 110px auto; gap: 6px; align-items: center; font-size: 12px; color: var(--suave); }
@@ -242,6 +249,7 @@
           <option value="">Preço: qualquer</option>
           <option value="baixou">▼ Baixou de preço</option>
           <option value="subiu">▲ Subiu de preço</option>
+          <option value="analisado">📋 Já analisados</option>
         </select>
         <select id="ordem" aria-label="Ordenar">
           <option value="encerra">Encerra primeiro</option>
@@ -274,6 +282,8 @@ const dataBR = (iso) => iso ? iso.slice(0, 10).split("-").reverse().slice(0, 2).
 // à venda: do mais preciso (mesmo bairro, quartos e área) ao mais geral.
 let ALUGUEL_CAIXA = {};
 let MERCADO_CAIXA = {};
+let ANALISES = {};  // índice das análises de imóveis já feitas (docs/dados/analises)
+const REPO = "https://github.com/divalmeida/radar-imoveis-leiloes";
 const NIVEL = { bairro: "", cidade: "", regiao: " · referência fraca", geral: " · referência muito fraca" };
 
 function blocoRenda(est, preco) {
@@ -522,6 +532,7 @@ function filtrarLe() {
     if (fonte && l.fonte !== fonte) return false;
     if (variacao === "baixou" && !l.baixou_preco) return false;
     if (variacao === "subiu" && !l.subiu_preco) return false;
+    if (variacao === "analisado" && !ANALISES[l.id]) return false;
     return busca.every((p) => l._busca.includes(p));
   });
   const ordem = $("ordem").value;
@@ -556,9 +567,59 @@ function cartaoLe(l) {
     ${l._est ? blocoRenda(l._est, l.lance_atual) : ""}
     <div class="selos">${selos.join("")}</div>
     ${blocoHistorico(l)}
+    ${l.fonte === "Caixa" ? blocoAnalise(l) : ""}
     ${l.fonte === "Caixa" ? `<details class="sim" data-id="${escapar(l.id)}"><summary>Simular custo final e financiamento</summary><div class="sim-corpo"></div></details>` : ""}
     <div class="acoes"><a href="${escapar(l.link)}" target="_blank" rel="noopener">Abrir no site do leilão</a></div>
   </article>`;
+}
+
+/* ---------- Análise do imóvel (matrícula, ocupação, pagamento) ---------- */
+function blocoAnalise(l) {
+  const numero = l.id.replace("caixa-", "");
+  const pedir = `${REPO}/issues/new?title=${encodeURIComponent("Análise caixa-" + numero)}&body=${encodeURIComponent(
+    "Pedido de análise do imóvel " + numero + "\n" + l.link + "\n\nÉ só tocar em Create / Submit. A resposta chega aqui e no app em uns 5 minutos.")}`;
+  const a = ANALISES[l.id];
+  if (!a) {
+    return `<div class="analise"><a class="pedir" href="${pedir}" target="_blank" rel="noopener">📋 Pedir análise da matrícula e do imóvel</a>
+      <small>Abre um pedido no GitHub (precisa estar logada). A análise aparece aqui em uns 5 minutos.</small></div>`;
+  }
+  const cor = a.resumo === "Risco alto" ? "ruim" : a.resumo === "Atenção" ? "medio" : a.resumo ? "bom" : "";
+  return `<details class="analise-det" data-numero="${numero}"><summary>📋 Análise de ${dataBR(a.analisado_em)}:
+      <b class="${cor}">${escapar(a.resumo || "incompleta")}</b>${a.nota_risco != null ? ` · nota ${String(a.nota_risco).replace(".", ",")}/10` : ""}
+      · ocupação: ${escapar(a.ocupacao || "não informada")}</summary><div class="analise-corpo">carregando…</div>
+      <a class="pedir" href="${pedir}" target="_blank" rel="noopener">Pedir nova análise</a></details>`;
+}
+
+async function abrirAnalise(det) {
+  if (det.dataset.pronto) return;
+  det.dataset.pronto = "1";
+  const corpo = det.querySelector(".analise-corpo");
+  let r;
+  try { r = await carregar(`analises/${det.dataset.numero}.json`); } catch (e) { corpo.textContent = "Não consegui abrir a análise agora."; return; }
+  const d = r.detalhe || {}, m = r.matricula;
+  const item = (rot, val) => (val ? `<div class="sim-linha"><span>${rot}</span><b>${escapar(val)}</b></div>` : "");
+  let html = "";
+  if (d.disponivel) {
+    html += item("Matrícula", `${d.matricula || "?"} · ${d.oficio || "?"}º ofício · ${d.comarca || ""}`) +
+      item("Ocupação", d.ocupacao || "não informada pela Caixa (trate como ocupado)") +
+      item("Financiamento", d.aceita_financiamento ? "aceita" : "não aceita") + item("FGTS", d.aceita_fgts ? "aceita" : "não aceita") +
+      item("Parcelamento", d.aceita_parcelamento ? "aceita" : "não aceita") + item("Leilões negativos", d.leiloes_negativos) +
+      item("Área privativa", d.area_privativa ? d.area_privativa + " m²" : null) +
+      `<p class="regra"><b>Pagamento:</b> ${escapar(d.formas_pagamento || "—")}</p>` +
+      (d.regra_condominio ? `<p class="regra"><b>Condomínio atrasado:</b> ${escapar(d.regra_condominio)}</p>` : "") +
+      (d.regra_tributos ? `<p class="regra"><b>IPTU atrasado:</b> ${escapar(d.regra_tributos)}</p>` : "");
+  }
+  if (m) {
+    html += `<p class="regra"><b>Matrícula: ${escapar(m.resumo)}</b> (nota ${String(m.nota_risco).replace(".", ",")}/10${m.data_documento ? `, documento de ${dataBR(m.data_documento)}/${m.data_documento.slice(0, 4)}` : ""})</p><ul class="riscos">` +
+      m.pontos_ok.map((x) => `<li>✅ ${escapar(x)}</li>`).join("") +
+      m.riscos.map((x) => `<li>${x.nivel === "alto" ? "🔴" : "🟡"} ${escapar(x.texto)}</li>`).join("") + `</ul>` +
+      `<details class="hist"><summary>Atos da matrícula (${m.atos.length})</summary><ul>${m.atos.map((a) =>
+        `<li><b>${escapar(a.ato)}</b> ${a.data ? dataBR(a.data) + "/" + a.data.slice(0, 4) : ""} · ${escapar(a.tipo)}${a.cancelado ? " (cancelado)" : ""}${a.onus && !a.cancelado ? " ⚠️" : ""}</li>`).join("")}</ul></details>`;
+  }
+  if (r.matricula_url) html += `<p class="regra"><a href="${escapar(r.matricula_url)}" target="_blank" rel="noopener">Abrir o PDF da matrícula (Caixa)</a></p>`;
+  html += (r.avisos || []).map((a) => `<p class="regra">⚠️ ${escapar(a)}</p>`).join("");
+  html += `<small class="sim-nota">Análise automática de apoio. Para comprar, peça a certidão de inteiro teor atualizada (registradores.onr.org.br) e confira o edital.</small>`;
+  corpo.innerHTML = html;
 }
 
 /* ---------- Histórico de preço dos leilões ---------- */
@@ -674,6 +735,7 @@ function desenharLe(reiniciar) {
   $("resumo").textContent = `${r.length.toLocaleString("pt-BR")} resultado${r.length === 1 ? "" : "s"}`;
   $("lista").innerHTML = r.length ? r.slice(0, estadoLe.mostrando).map(cartaoLe).join("") : `<div class="vazio">Nenhum lote com esses filtros.</div>`;
   $("lista").querySelectorAll("details.sim").forEach((d) => d.addEventListener("toggle", () => d.open && montarSimulador(d)));
+  $("lista").querySelectorAll("details.analise-det").forEach((d) => d.addEventListener("toggle", () => d.open && abrirAnalise(d)));
   $("mais").hidden = r.length <= estadoLe.mostrando;
 }
 
@@ -725,7 +787,8 @@ async function iniciar() {
   let aba = "imoveis";
   try { aba = localStorage.getItem("aba") || "imoveis"; } catch (e) {}
 
-  const [imoveis, leiloes] = await Promise.allSettled([carregar("imoveis.json"), carregar("leiloes.json")]);
+  const [imoveis, leiloes, analises] = await Promise.allSettled([carregar("imoveis.json"), carregar("leiloes.json"), carregar("analises/indice.json")]);
+  if (analises.status === "fulfilled") ANALISES = analises.value;
   // Imóveis primeiro: a referência de aluguel também é usada nos imóveis da Caixa
   if (imoveis.status === "fulfilled") iniciarImoveis(imoveis.value);
   else { estadoIm.atualizado = "sem dados"; $("im-lista").innerHTML = `<div class="vazio">Os imóveis ainda não foram coletados. Tente de novo mais tarde.</div>`; }

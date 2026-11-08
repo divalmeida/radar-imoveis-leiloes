@@ -1,0 +1,85 @@
+name: Análise de imóvel
+
+# Roda a análise completa de UM imóvel da Caixa (página + matrícula com OCR).
+# Pedido pelo app: o botão "Pedir análise" abre um pedido (Issue) com o número
+# do imóvel; só pedidos abertos pela dona do repositório são atendidos.
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      numero:
+        description: "Número do imóvel da Caixa (ex.: 8444400798566)"
+        required: true
+  # Ao mudar o código da análise, roda um teste com um imóvel de exemplo
+  push:
+    branches: [main]
+    paths:
+      - "analisar_imovel.py"
+      - "radar/matricula.py"
+      - "radar/caixa_detalhe.py"
+      - ".github/workflows/analise.yml"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: analise
+  cancel-in-progress: false
+
+jobs:
+  analisar:
+    if: >-
+      github.event_name != 'issues' ||
+      (github.event.issue.user.login == github.repository_owner &&
+       startsWith(github.event.issue.title, 'Análise'))
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Baixar o código
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar leitura de PDF escaneado (OCR em português)
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-por
+
+      - name: Analisar o imóvel
+        env:
+          PYTHONUNBUFFERED: "1"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          # Textos do pedido entram como variáveis (nunca colados no comando)
+          PEDIDO: ${{ github.event.issue.title }} ${{ github.event.issue.body }}
+          NUMERO_MANUAL: ${{ github.event.inputs.numero }}
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            python analisar_imovel.py 8444400798566
+          elif [ -n "$NUMERO_MANUAL" ]; then
+            python analisar_imovel.py "$NUMERO_MANUAL"
+          else
+            python analisar_imovel.py "$PEDIDO"
+          fi
+
+      - name: Salvar a análise no repositório
+        run: |
+          cp -r docs/dados/analises /tmp/analises-novas
+          git fetch origin main
+          git reset --hard origin/main
+          mkdir -p docs/dados/analises
+          cp -r /tmp/analises-novas/. docs/dados/analises/
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add docs/dados/analises
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança."
+          else
+            git commit -m "Análise de imóvel $(TZ=America/Sao_Paulo date '+%Y-%m-%d %H:%M')"
+            git push
+          fi
