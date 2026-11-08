@@ -104,6 +104,10 @@
   .prazo.urgente { color: var(--vermelho); }
   .prazo.breve { color: var(--laranja); }
   .custos { font-size: 13px; color: var(--texto); }
+  .acoes { display: grid; gap: 6px; }
+  button.compartilhar { font: inherit; font-weight: 600; font-size: 14px; padding: 9px; border-radius: 10px; cursor: pointer;
+    border: 1px solid #25d366; background: transparent; color: #128c4a; }
+  .foco { background: var(--destaque); border: 1px solid var(--verde); border-radius: 10px; padding: 10px; margin-bottom: 10px; font-size: 14px; }
   .link-botao { border: 0; background: none; color: var(--azul); font: inherit; font-weight: 600; cursor: pointer; padding: 0 4px; }
   #im-mapa { height: 60vh; border-radius: 14px; margin-bottom: 12px; border: 1px solid var(--borda); }
   a.link-mapa { font-size: 13px; color: var(--azul); text-decoration: none; }
@@ -183,6 +187,7 @@
 <main>
   <!-- ABA IMÓVEIS -->
   <section id="painel-imoveis">
+    <div class="foco" id="im-foco" hidden></div>
     <div class="filtros">
       <div class="linha">
         <input type="search" id="im-busca" list="im-sugestoes" placeholder="Bairro, cidade, rua ou condomínio…" autocomplete="off">
@@ -245,6 +250,7 @@
 
   <!-- ABA LEILÕES -->
   <section id="painel-leiloes" hidden>
+    <div class="foco" id="le-foco" hidden></div>
     <div class="filtros">
       <div class="linha">
         <input type="search" id="busca" list="sugestoes" placeholder="Buscar: iphone, notebook, cidade…" autocomplete="off">
@@ -320,6 +326,42 @@ function blocoCustos(a) {
   return `<div class="custos">${itens.join(" · ")}${total}</div>`;
 }
 
+/* ---------- Compartilhar (WhatsApp) e abrir item compartilhado ---------- */
+const ENDERECO_APP = location.origin + location.pathname;
+
+function linkDoItem(aba, id) { return `${ENDERECO_APP}#item=${aba}:${encodeURIComponent(id)}`; }
+
+function botaoCompartilhar(aba, id, resumo) {
+  return `<button class="compartilhar" data-aba="${aba}" data-id="${escapar(id)}" data-resumo="${escapar(resumo)}">Compartilhar no WhatsApp</button>`;
+}
+
+document.addEventListener("click", async (e) => {
+  const b = e.target.closest("button.compartilhar");
+  if (!b) return;
+  const url = linkDoItem(b.dataset.aba, b.dataset.id);
+  const texto = `${b.dataset.resumo}\nVeja no Radar: ${url}`;
+  // Abre o WhatsApp já com a mensagem pronta (no iPhone abre o app do WhatsApp)
+  window.open(`https://wa.me/?text=${encodeURIComponent(texto)}`, "_blank", "noopener");
+});
+
+// "#item=imoveis:cnm-123" abre direto aquele item, na aba certa
+function itemDoEndereco() {
+  const m = /#item=(imoveis|leiloes):(.+)$/.exec(location.hash);
+  return m ? { aba: m[1], id: decodeURIComponent(m[2]) } : null;
+}
+
+function mostrarFoco(aba, achou) {
+  const faixa = $(aba === "imoveis" ? "im-foco" : "le-foco");
+  faixa.hidden = false;
+  faixa.innerHTML = (achou ? "📌 Item compartilhado com você." : "Este item não está mais disponível (foi vendido ou o leilão acabou).")
+    + ` <button class="link-botao" id="ver-todos-${aba}">Ver todos</button>`;
+  $(`ver-todos-${aba}`).onclick = () => {
+    history.replaceState(null, "", ENDERECO_APP);
+    faixa.hidden = true;
+    if (aba === "imoveis") { estadoIm.foco = null; desenharIm(true); } else { estadoLe.foco = null; desenharLe(true); }
+  };
+}
+
 /* ---------- Abas ---------- */
 function trocarAba(qual) {
   const im = qual === "imoveis";
@@ -378,6 +420,7 @@ function filtrarIm() {
   const q = +$("im-quartos").value, precoMax = +$("im-preco").value, areaMin = +$("im-area").value;
   const bairro = $("im-bairro").value, portal = $("im-portal").value;
   const custoMax = +$("im-custo").value, tipo = $("im-tipo").value;
+  if (estadoIm.foco) return estadoIm.grupos.filter((g) => g.id === estadoIm.foco || g.outros.some((o) => o.id === estadoIm.foco));
   let r = estadoIm.grupos.filter((g) => {
     if (estadoIm.cidade && g._regiao !== estadoIm.cidade) return false;
     if (bairro && `${g.cidade}|${g.bairro}` !== bairro) return false;
@@ -435,7 +478,8 @@ function cartaoIm(g) {
     ${outros}
     ${g.lat && g.lon ? `<details class="perto" data-lat="${g.lat}" data-lon="${g.lon}"><summary>📍 O que tem por perto</summary><div class="perto-corpo"></div></details>`
       : `<a class="link-mapa" href="https://www.google.com/maps/search/${encodeURIComponent(`${g.endereco || ""} ${g.bairro}, ${g.cidade} - ${g.uf}`)}" target="_blank" rel="noopener">📍 Abrir no mapa</a>`}
-    <div class="acoes"><a href="${escapar(g.link)}" target="_blank" rel="noopener">Ver anúncio</a></div>
+    <div class="acoes"><a href="${escapar(g.link)}" target="_blank" rel="noopener">Ver anúncio</a>
+      ${botaoCompartilhar("imoveis", g.id, `${g.tipo || "Apartamento"} em ${g.bairro}, ${g.cidade} por ${g.preco ? dinheiro.format(g.preco) : "—"}`)}</div>
   </article>`;
 }
 
@@ -624,6 +668,7 @@ function filtrarLe() {
   const busca = semAcento($("busca").value).split(/\s+/).filter(Boolean);
   const publico = $("publico").value, fonte = $("fonte").value, variacao = $("variacao").value;
   const agora = Date.now();
+  if (estadoLe.foco) return estadoLe.lotes.filter((l) => l.id === estadoLe.foco);
   let r = estadoLe.lotes.filter((l) => {
     const fim = dataDe(l.encerramento);
     if (fim && fim < agora) return false;
@@ -672,7 +717,8 @@ function cartaoLe(l) {
     ${l.fonte === "Caixa" ? blocoAnalise(l) : ""}
     ${l._tipo === "imoveis" ? `<a class="link-mapa" href="https://www.google.com/maps/search/${encodeURIComponent(`${(l.detalhes && (l.detalhes.endereco || l.detalhes.bairro)) || ""} ${l.cidade} - ${l.uf}`)}" target="_blank" rel="noopener">📍 Abrir no mapa</a>` : ""}
     ${l._tipo === "imoveis" ? `<details class="sim" data-id="${escapar(l.id)}"><summary>Simular custo final e financiamento</summary><div class="sim-corpo"></div></details>` : ""}
-    <div class="acoes"><a href="${escapar(l.link)}" target="_blank" rel="noopener">Abrir no site do leilão</a></div>
+    <div class="acoes"><a href="${escapar(l.link)}" target="_blank" rel="noopener">Abrir no site do leilão</a>
+      ${botaoCompartilhar("leiloes", l.id, `${l.titulo.slice(0, 90)} · ${l.lance_atual != null ? dinheiro.format(l.lance_atual) : ""} (${l.fonte})`)}</div>
   </article>`;
 }
 
@@ -904,10 +950,17 @@ async function iniciar() {
   else { estadoIm.atualizado = "sem dados"; $("im-lista").innerHTML = `<div class="vazio">Os imóveis ainda não foram coletados. Tente de novo mais tarde.</div>`; }
   if (leiloes.status === "fulfilled") iniciarLeiloes(leiloes.value);
   else { estadoLe.atualizado = "sem dados"; $("lista").innerHTML = `<div class="vazio">Não foi possível carregar os leilões agora.</div>`; }
+  const item = itemDoEndereco();
+  if (item) {
+    aba = item.aba;
+    if (aba === "imoveis") { estadoIm.foco = item.id; desenharIm(true); mostrarFoco(aba, filtrarIm().length > 0); }
+    else { estadoLe.foco = item.id; desenharLe(true); mostrarFoco(aba, filtrarLe().length > 0); }
+  }
   trocarAba(aba);
 }
 
 iniciar();
+window.addEventListener("hashchange", () => { if (itemDoEndereco()) location.reload(); });
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
 </script>
 </body>

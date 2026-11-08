@@ -55,6 +55,9 @@ jobs:
         run: python coletar_imoveis.py
         env:
           PYTHONUNBUFFERED: "1"
+          # Gmail só dos alertas dos portais (opcional; sem isso a etapa é pulada)
+          GMAIL_USUARIO: ${{ secrets.GMAIL_USUARIO }}
+          GMAIL_SENHA_APP: ${{ secrets.GMAIL_SENHA_APP }}
 
       - name: Enviar alertas
         # Só na coleta das 07:00 (ou pelo botão), para não mandar alerta a cada envio de código

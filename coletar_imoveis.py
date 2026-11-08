@@ -25,7 +25,7 @@ from radar.config import (
     QUARTOS_MINIMO,
 )
 from radar.aluguel import Referencia
-from radar.coletores import chavesnamao, quintoandar
+from radar.coletores import chavesnamao, email_alertas, quintoandar
 from radar.localidades import chave_texto
 
 PASTA = Path(__file__).parent / "docs" / "dados"
@@ -95,6 +95,28 @@ def _estimar_caixa(referencia: Referencia) -> dict:
     return estimativas
 
 
+def _dos_alertas(anuncios: list, conhecidos: list) -> list:
+    """Descobre cidade e bairro dos anúncios vindos por e-mail (pelo texto do alerta)
+    e aplica os mesmos filtros da busca (cidades, preço e quartos)."""
+    bairros = {}
+    for a in conhecidos:
+        if a.get("bairro"):
+            bairros.setdefault(a["cidade"], set()).add(a["bairro"])
+    validos = []
+    for a in anuncios:
+        texto = chave_texto(a.pop("texto", ""))
+        cidade = next((c for c in CIDADES_IMOVEIS if chave_texto(c["nome"]) in texto), None)
+        if not cidade or not a.get("preco") or not (PRECO_MINIMO_COMPRA <= a["preco"] <= PRECO_MAXIMO_COMPRA):
+            continue
+        if a.get("quartos") and a["quartos"] < QUARTOS_MINIMO:
+            continue
+        # o bairro mais longo encontrado no texto (evita "Centro" ganhar de "Centro Histórico")
+        achados = [b for b in bairros.get(cidade["nome"], ()) if chave_texto(b) in texto]
+        a.update(cidade=cidade["nome"], uf=cidade["uf"], bairro=max(achados, key=len) if achados else "")
+        validos.append(a)
+    return validos
+
+
 def _variacao(a: dict) -> None:
     """Compara o preço atual com o anterior: subiu, baixou, quanto e quando."""
     historico = [h for h in a.get("historico_precos", []) if h.get("preco")]
@@ -146,6 +168,16 @@ def main() -> None:
         except Exception as erro:
             print(f"[ERRO] {chave}: {erro}", flush=True)
             status[chave] = {"ok": False, "erro": str(erro)}
+
+    # Portais que bloqueiam robôs (ZAP, Viva Real, OLX, Imovelweb): lidos dos alertas por e-mail
+    if email_alertas.configurado():
+        try:
+            recebidos = _dos_alertas(email_alertas.coletar(), compras + alugueis)
+            compras.extend(recebidos)
+            status["Alertas por e-mail (ZAP, Viva Real, OLX, Imovelweb)"] = {"ok": True, "anuncios": len(recebidos)}
+        except Exception as erro:
+            print(f"[ERRO] alertas por e-mail: {erro}", flush=True)
+            status["Alertas por e-mail (ZAP, Viva Real, OLX, Imovelweb)"] = {"ok": False, "erro": str(erro)}
 
     # Casa e casa em condomínio podem repetir o mesmo anúncio: fica um de cada
     compras = list({a["id"]: a for a in compras}.values())
