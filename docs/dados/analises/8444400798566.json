@@ -1,6 +1,6 @@
 {
  "numero": "8444400798566",
- "analisado_em": "2026-11-08 08:25",
+ "analisado_em": "2026-11-08 08:27",
  "avisos": [
   "Página do imóvel: a Caixa pediu captcha (anti-robô) para a página do imóvel. Tente de novo mais tarde."
  ],
@@ -9,10 +9,10 @@
   "atos": [
    {
     "ato": "R-3",
-    "titulo": "Daje Número027.934 S Sap Nso Mude De 14/06/2.012 R$229,55",
+    "titulo": "Outro",
     "tipo": "outro",
     "onus": false,
-    "data": null,
+    "data": "2012-06-14",
     "cancela": [],
     "cancelado": false,
     "depois_da_consolidacao": false
