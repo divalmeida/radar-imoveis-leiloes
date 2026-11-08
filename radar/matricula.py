@@ -22,7 +22,7 @@ TIPOS = [
     (r"CANCELAMENTO|BAIXA|LEVANTAMENTO", "cancelamento", False),
     (r"CONSOLIDA", "consolidação da propriedade (Caixa)", False),
     (r"LEIL[AÃ]O|LEIL[OÕ]ES", "leilões negativos", False),
-    (r"ALIEN\w* FIDUCI", "alienação fiduciária", True),
+    (r"ALIEN\w*\W+FIDUC|FIDUCI[AÁ]RI", "alienação fiduciária", True),
     (r"HIPOTECA", "hipoteca", True),
     (r"PENHORA", "penhora", True),
     (r"INDISPONIBILIDADE", "indisponibilidade", True),
@@ -39,7 +39,7 @@ TIPOS = [
 # Cabeçalho de ato no começo da linha. Aceita os formatos "AV-8/125.401 - TÍTULO - Prenotado...",
 # "R.01-124.401 - ..." (numeração antiga) e erros comuns de OCR ("AV-S5" em vez de "AV-5").
 _ATO = re.compile(
-    r"^.{0,3}?(R|AV)\s*[-.]?\s*[SO]?0*(\d{1,3})\s*[-–—/.]\s*\d{1,3}(?:[.,]?\d{3})+\s*[-–—:]?\s*([^\n:]{0,90})",
+    r"^.{0,3}?(R|AV)\s*[-.,]?\s*[SO]?0*(\d{1,3})\s*[-–—/.,]\s*\d{1,3}(?:[.,]?\d{3})+\s*[-–—:]?\s*([^\n:]{0,90})",
     re.I | re.M,
 )
 _DATA = re.compile(r"(\d{2})/(\d{2})/(\d)\.?(\d{3})")  # aceita "30/01/2.012" das matrículas antigas
@@ -161,7 +161,7 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
     # só os primeiros caracteres, que trazem número, título e data do ato)
     nao_reconhecidos = []
     for linha in texto.splitlines():
-        if (re.search(r"Prenota", linha, re.I) or re.match(r"\W{0,3}(R|AV)\s*[-.]?\s*\w{0,2}\d", linha)) and not _ATO.search(linha):
+        if (re.search(r"Prenota", linha, re.I) or re.match(r".{0,3}?(R|AV)\W{0,2}\w{0,2}\d", linha)) and not _ATO.search(linha):
             nao_reconhecidos.append(re.sub(r"\s+", " ", linha).strip()[:70])
     altos = sum(r["nivel"] == "alto" for r in riscos)
     medios = sum(r["nivel"] == "medio" for r in riscos)
