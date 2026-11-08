@@ -149,6 +149,12 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
         riscos.append({"nivel": "medio", "texto": "A matrícula menciona ocupação/posse (ex.: imissão na posse): confira a situação do imóvel."})
     if not atos:
         riscos.append({"nivel": "alto", "texto": "Não consegui separar os atos da matrícula (texto ilegível). Leia o PDF ou peça a certidão atualizada."})
+    # Os atos são numerados em sequência (R-1, R-2, AV-3...): números que faltam não foram lidos
+    numeros = {int(a["ato"].split("-")[1]) for a in atos}
+    faltando = [n for n in range(1, max(numeros, default=0) + 1) if n not in numeros]
+    if faltando:
+        riscos.append({"nivel": "medio", "texto": f"Não consegui ler {'o ato' if len(faltando) == 1 else 'os atos'} nº {', '.join(map(str, faltando))} "
+                                                  "(OCR). Confira no PDF da matrícula se há penhora, hipoteca ou outro ônus."})
 
     if data_documento:
         try:
@@ -178,6 +184,7 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
         "area_registrada": area.group(1) if area else None,
         "data_documento": data_documento,
         "caracteres_lidos": len(texto),
+        "atos_nao_lidos": faltando,
         "cabecalhos_nao_reconhecidos": nao_reconhecidos[:30],
     }
 
