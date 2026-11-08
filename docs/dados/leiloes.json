@@ -1,64 +1,64 @@
 {
- "atualizado_em": "2026-11-08 13:01",
+ "atualizado_em": "2026-11-08 19:01",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 626,
-   "segundos": 606
+   "segundos": 599
   },
   "Superbid": {
    "ok": true,
    "lotes": 1427,
-   "segundos": 606
+   "segundos": 599
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-11-03 19:06",
    "lotes": 727,
-   "segundos": 606
+   "segundos": 599
   },
   "Kwara": {
    "ok": true,
    "lotes": 179,
-   "segundos": 606
+   "segundos": 599
   },
   "Mega Leilões": {
    "ok": true,
    "lotes": 22,
-   "segundos": 606
+   "segundos": 599
   },
   "Freitas": {
    "ok": true,
    "lotes": 87,
-   "segundos": 606
+   "segundos": 599
   },
   "Palácio dos Leilões": {
    "ok": true,
-   "lotes": 122,
-   "segundos": 606
+   "lotes": 121,
+   "segundos": 599
   },
   "Parque dos Leilões": {
    "ok": true,
    "lotes": 16,
-   "segundos": 606
+   "segundos": 599
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": false,
    "erro": "João Emílio: Falha ao acessar https://www.joaoemilio.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden; Leilão Prime: Falha ao acessar https://www.leilaoprime.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden; Tudo Leilão: Falha ao acessar https://www.tudoleilao.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden",
    "dados_de": "2026-11-08 10:09",
    "lotes": 201,
-   "segundos": 606
+   "segundos": 599
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
    "lotes": 206,
-   "segundos": 606
+   "segundos": 599
   },
   "Zuk / Frazão (imóveis BA)": {
    "ok": true,
    "lotes": 47,
-   "segundos": 606
+   "segundos": 599
   }
  },
  "lotes": [
@@ -1239,7 +1239,7 @@
    "id": "kwara-1734677133571131171",
    "titulo": "4 Notebooks",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 4792.0,
+   "lance_atual": 4812.0,
    "encerramento": "2026-11-09 09:33",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -1249,7 +1249,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/c376388a-16b1-4e66-bd4d-acca264494f4.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 192,
+    "lances": 193,
     "vendedor": "WILL BANK"
    },
    "prioridade": false,
@@ -1260,21 +1260,26 @@
     {
      "data": "2026-11-08",
      "preco": 4792.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 4812.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 4792.0,
+   "variacao": 20.0,
+   "variacao_pct": 0.4,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 0.4,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
    "id": "kwara-1734052349418145585",
    "titulo": "Televisor Samsung 55\". - Modelo:  UN55 AU7700G",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 2205.0,
+   "lance_atual": 2225.0,
    "encerramento": "2026-11-09 09:34",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -1284,7 +1289,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/03cdbd7b-9383-4351-b957-949cd5e67060.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 12,
+    "lances": 13,
     "vendedor": null
    },
    "prioridade": false,
@@ -1295,14 +1300,19 @@
     {
      "data": "2026-11-08",
      "preco": 2205.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 2225.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 2205.0,
+   "variacao": 20.0,
+   "variacao_pct": 0.9,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 0.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -1524,7 +1534,7 @@
    "id": "kwara-1734052348839331482",
    "titulo": "Televisor Samsung 65\". - Modelo:  UN65 MU6100G",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 2719.0,
+   "lance_atual": 2799.0,
    "encerramento": "2026-11-09 10:24",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -1534,7 +1544,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/c2bcd354-b8c7-4fef-b271-b94c41137ade.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 6,
+    "lances": 9,
     "vendedor": null
    },
    "prioridade": false,
@@ -1549,13 +1559,17 @@
     {
      "data": "2026-11-08",
      "preco": 2719.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 2799.0
     }
    ],
-   "preco_anterior": 2699.0,
-   "variacao": 20.0,
-   "variacao_pct": 0.7,
+   "preco_anterior": 2719.0,
+   "variacao": 80.0,
+   "variacao_pct": 2.9,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 0.7,
+   "variacao_total_pct": 3.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -1704,7 +1718,7 @@
    "id": "kwara-1734052348797388433",
    "titulo": "Televisor Samsung 65\". - Modelo:  UN65 MU6100G",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 2640.0,
+   "lance_atual": 2660.0,
    "encerramento": "2026-11-09 10:27",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -1714,7 +1728,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/3715557c-2998-413d-b5d2-6103ad6b50ac.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "vendedor": null
    },
    "prioridade": false,
@@ -1729,13 +1743,17 @@
     {
      "data": "2026-11-08",
      "preco": 2640.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 2660.0
     }
    ],
-   "preco_anterior": 2620.0,
+   "preco_anterior": 2640.0,
    "variacao": 20.0,
    "variacao_pct": 0.8,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 0.8,
+   "variacao_total_pct": 1.5,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -1854,7 +1872,7 @@
    "id": "kwara-1734052348755445384",
    "titulo": "Televisor LG 43\". - Modelo:  43LM 631C0SB",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1090.0,
+   "lance_atual": 1110.0,
    "encerramento": "2026-11-09 10:30",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -1864,7 +1882,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/33f32f28-1231-4aeb-99a5-3ceeef8b2d37.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "vendedor": null
    },
    "prioridade": false,
@@ -1875,14 +1893,19 @@
     {
      "data": "2026-11-08",
      "preco": 1090.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1110.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1090.0,
+   "variacao": 20.0,
+   "variacao_pct": 1.8,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 1.8,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -2099,7 +2122,7 @@
    "id": "kwara-1734156766607836706",
    "titulo": "Equipamento de Vídeo Conferência Logitech",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3630.0,
+   "lance_atual": 3670.0,
    "encerramento": "2026-11-09 10:44",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -2109,7 +2132,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/4211f02c-3425-4be6-b46e-e250cbc0de6a.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 117,
+    "lances": 118,
     "vendedor": null
    },
    "prioridade": false,
@@ -2120,14 +2143,19 @@
     {
      "data": "2026-11-08",
      "preco": 3630.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 3670.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 3630.0,
+   "variacao": 40.0,
+   "variacao_pct": 1.1,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 1.1,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -2869,7 +2897,7 @@
    "id": "kwara-1734156765961913811",
    "titulo": "2 Notebooks Dell Latitude 5410",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1692.0,
+   "lance_atual": 1712.0,
    "encerramento": "2026-11-09 11:10",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -2879,7 +2907,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/e845a75c-e226-4d66-bf1a-dfab6bff670c.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 38,
+    "lances": 39,
     "vendedor": "WILL BANK"
    },
    "prioridade": false,
@@ -2894,13 +2922,17 @@
     {
      "data": "2026-11-08",
      "preco": 1692.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1712.0
     }
    ],
-   "preco_anterior": 1652.0,
-   "variacao": 40.0,
-   "variacao_pct": 2.4,
+   "preco_anterior": 1692.0,
+   "variacao": 20.0,
+   "variacao_pct": 1.2,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 2.4,
+   "variacao_total_pct": 3.6,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -2979,7 +3011,7 @@
    "id": "kwara-1734156765894804936",
    "titulo": "2 Notebooks",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3312.0,
+   "lance_atual": 3332.0,
    "encerramento": "2026-11-09 11:13",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -2989,7 +3021,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/69ae9f53-e015-48c9-9bce-5166328e3a59.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 109,
+    "lances": 110,
     "vendedor": "WILL BANK"
    },
    "prioridade": false,
@@ -3000,14 +3032,19 @@
     {
      "data": "2026-11-08",
      "preco": 3312.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 3332.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 3312.0,
+   "variacao": 20.0,
+   "variacao_pct": 0.6,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 0.6,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -3084,7 +3121,7 @@
    "id": "kwara-1734156765861250496",
    "titulo": "2 Notebooks",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1112.0,
+   "lance_atual": 1132.0,
    "encerramento": "2026-11-09 11:16",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3092,41 +3129,6 @@
    "link": "https://www.kwara.com.br/bens/2-notebooks-1734156765861250496",
    "valor_avaliacao": null,
    "imagem": "https://cdn.kwara.com.br/lot-images/be4d94b0-5c8e-4697-855b-5c18d06290a1.thumbnail.jpg",
-   "observacoes": [],
-   "detalhes": {
-    "lances": 23,
-    "vendedor": "WILL BANK"
-   },
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "Kwara",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1112.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Kwara",
-   "id": "kwara-1734156765852861886",
-   "titulo": "2 Notebooks",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1172.0,
-   "encerramento": "2026-11-09 11:17",
-   "cidade": "Taboão da Serra",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.kwara.com.br/bens/2-notebooks-1734156765852861886",
-   "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/2d2b7b8b-f809-4e41-b10f-110642a957b5.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 24,
@@ -3139,22 +3141,67 @@
    "historico_precos": [
     {
      "data": "2026-11-08",
-     "preco": 1172.0
+     "preco": 1112.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1132.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1112.0,
+   "variacao": 20.0,
+   "variacao_pct": 1.8,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 1.8,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
+  },
+  {
+   "fonte": "Kwara",
+   "id": "kwara-1734156765852861886",
+   "titulo": "2 Notebooks",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1192.0,
+   "encerramento": "2026-11-09 11:17",
+   "cidade": "Taboão da Serra",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.kwara.com.br/bens/2-notebooks-1734156765852861886",
+   "valor_avaliacao": null,
+   "imagem": "https://cdn.kwara.com.br/lot-images/2d2b7b8b-f809-4e41-b10f-110642a957b5.thumbnail.jpg",
+   "observacoes": [],
+   "detalhes": {
+    "lances": 25,
+    "vendedor": "WILL BANK"
+   },
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "Kwara",
+   "primeiro_visto": "2026-11-08",
+   "historico_precos": [
+    {
+     "data": "2026-11-08",
+     "preco": 1172.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1192.0
+    }
+   ],
+   "preco_anterior": 1172.0,
+   "variacao": 20.0,
+   "variacao_pct": 1.7,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 1.7,
+   "baixou_preco": false,
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
    "id": "kwara-1734156765827696057",
    "titulo": "2 Notebooks",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1672.0,
+   "lance_atual": 1692.0,
    "encerramento": "2026-11-09 11:18",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3164,7 +3211,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/f1253603-eb63-43d4-be12-33c7e9c18da1.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 49,
+    "lances": 50,
     "vendedor": "WILL BANK"
    },
    "prioridade": false,
@@ -3175,14 +3222,19 @@
     {
      "data": "2026-11-08",
      "preco": 1672.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1692.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1672.0,
+   "variacao": 20.0,
+   "variacao_pct": 1.2,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 1.2,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -3404,7 +3456,7 @@
    "id": "kwara-1734156765777364398",
    "titulo": "2 Notebooks",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 832.0,
+   "lance_atual": 912.0,
    "encerramento": "2026-11-09 11:22",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3414,7 +3466,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/c98d214f-5d1e-4cf8-a85e-10e5b31a450c.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 9,
+    "lances": 13,
     "vendedor": "WILL BANK"
    },
    "prioridade": false,
@@ -3425,14 +3477,19 @@
     {
      "data": "2026-11-08",
      "preco": 832.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 912.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 832.0,
+   "variacao": 80.0,
+   "variacao_pct": 9.6,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 9.6,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -3509,7 +3566,7 @@
    "id": "kwara-1734156765752198570",
    "titulo": "2 Notebooks Dell",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1212.0,
+   "lance_atual": 1232.0,
    "encerramento": "2026-11-09 11:23",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3519,7 +3576,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/68e8bcb4-af95-4fe2-bef5-924ccd2d0725.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 25,
+    "lances": 26,
     "vendedor": "WILL BANK"
    },
    "prioridade": false,
@@ -3530,14 +3587,19 @@
     {
      "data": "2026-11-08",
      "preco": 1212.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1232.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1212.0,
+   "variacao": 20.0,
+   "variacao_pct": 1.7,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 1.7,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -3649,7 +3711,7 @@
    "id": "kwara-1734156765265659227",
    "titulo": "Owl Labs Meeting Pro",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 2326.0,
+   "lance_atual": 2346.0,
    "encerramento": "2026-11-09 11:49",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3659,7 +3721,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/047b191b-0a4b-4afd-bd85-264581cc29fc.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 86,
+    "lances": 87,
     "vendedor": "WILL BANK"
    },
    "prioridade": false,
@@ -3674,13 +3736,17 @@
     {
      "data": "2026-11-08",
      "preco": 2326.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 2346.0
     }
    ],
-   "preco_anterior": 2286.0,
-   "variacao": 40.0,
-   "variacao_pct": 1.7,
+   "preco_anterior": 2326.0,
+   "variacao": 20.0,
+   "variacao_pct": 0.9,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 1.7,
+   "variacao_total_pct": 2.6,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -6401,7 +6467,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -6880,7 +6946,7 @@
    "id": "superbid-5082827",
    "titulo": "SMARTPHONE SAMSUNG GALAXY Z FLIP 5 (01 UN) (Ref.: SB0033914)",
    "categoria": "Telefonia",
-   "lance_atual": 890,
+   "lance_atual": 1190,
    "encerramento": "2026-11-09 15:50",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -6892,7 +6958,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -6904,14 +6970,19 @@
     {
      "data": "2026-11-05",
      "preco": 890
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1190
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 890,
+   "variacao": 300,
+   "variacao_pct": 33.7,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 33.7,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -7139,7 +7210,7 @@
    "id": "superbid-5078540",
    "titulo": "IPHONE APPLE 12 USADO (03 UN) (Ref.: SB0033994)",
    "categoria": "Telefonia",
-   "lance_atual": 1790,
+   "lance_atual": 1990,
    "encerramento": "2026-11-09 15:53",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -7151,7 +7222,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 9,
+    "lances": 10,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -7179,13 +7250,17 @@
     {
      "data": "2026-11-08",
      "preco": 1790
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1990
     }
    ],
-   "preco_anterior": 1590,
+   "preco_anterior": 1790,
    "variacao": 200,
-   "variacao_pct": 12.6,
+   "variacao_pct": 11.2,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 101.1,
+   "variacao_total_pct": 123.6,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -7449,7 +7524,7 @@
    "id": "kwara-1719522576658597040",
    "titulo": "Frigobar Brastemp mod. bra08byana 10",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 890.0,
+   "lance_atual": 910.0,
    "encerramento": "2026-11-09 16:02",
    "cidade": "São Bernardo do Campo",
    "uf": "SP",
@@ -7459,7 +7534,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/12e97937-b6b2-4a2f-b0da-92bf18f22319.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 41,
+    "lances": 42,
     "vendedor": "Lart Movelaria"
    },
    "prioridade": false,
@@ -7470,14 +7545,19 @@
     {
      "data": "2026-11-08",
      "preco": 890.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 910.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 890.0,
+   "variacao": 20.0,
+   "variacao_pct": 2.2,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 2.2,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -9298,7 +9378,7 @@
    "id": "bolsa-105365",
    "titulo": "Refrigerador - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 777.0,
+   "lance_atual": 877.0,
    "encerramento": "2026-11-10 10:00",
    "cidade": "Jundiai",
    "uf": "SP",
@@ -9316,14 +9396,19 @@
     {
      "data": "2026-11-08",
      "preco": 777.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 877.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 777.0,
+   "variacao": 100.0,
+   "variacao_pct": 12.9,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 12.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
@@ -24090,7 +24175,7 @@
    "id": "kwara-1747217020300035783",
    "titulo": "Cafeteira automática, limpador de piso Kärcher e bomba submersível solar",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 70.0,
+   "lance_atual": 110.0,
    "encerramento": "2026-11-11 11:53",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -24100,7 +24185,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/6004647a-e67f-4059-b9d8-13a14147bcb2.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "vendedor": "REOFERTA COMERCIO"
    },
    "prioridade": false,
@@ -24111,14 +24196,19 @@
     {
      "data": "2026-11-08",
      "preco": 70.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 110.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 70.0,
+   "variacao": 40.0,
+   "variacao_pct": 57.1,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 57.1,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -24135,7 +24225,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/312c1063-ba73-4784-8c28-59e6bef89121.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "vendedor": "REOFERTA COMERCIO"
    },
    "prioridade": false,
@@ -24716,7 +24806,7 @@
    "id": "superbid-5075656",
    "titulo": "FOGÕES 4 BOCAS E FOGÕES 5 BOCAS (APROX. 5UN) (Ref.: SB0027877)",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 910,
+   "lance_atual": 1010,
    "encerramento": "2026-11-11 16:37",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -24728,7 +24818,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -24744,13 +24834,17 @@
     {
      "data": "2026-11-08",
      "preco": 910
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1010
     }
    ],
-   "preco_anterior": 810,
+   "preco_anterior": 910,
    "variacao": 100,
-   "variacao_pct": 12.3,
+   "variacao_pct": 11.0,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 12.3,
+   "variacao_total_pct": 24.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -25063,7 +25157,7 @@
    "id": "superbid-5079601",
    "titulo": "FOGÕES 4 BOCAS, FOGÕES 5 BOCAS (6 UN)        (Ref.: SB0029294)",
    "categoria": "Fornos e Fogões",
-   "lance_atual": 1010,
+   "lance_atual": 1110,
    "encerramento": "2026-11-11 16:42",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -25075,7 +25169,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -25091,13 +25185,17 @@
     {
      "data": "2026-10-31",
      "preco": 1010
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1110
     }
    ],
-   "preco_anterior": 910,
+   "preco_anterior": 1010,
    "variacao": 100,
-   "variacao_pct": 11.0,
-   "variacao_em": "2026-10-31",
-   "variacao_total_pct": 11.0,
+   "variacao_pct": 9.9,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 22.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -25657,7 +25755,7 @@
    "id": "superbid-5080519",
    "titulo": "LAV 17KG SAMSUNG SMART WA17CG PRETO 127V, LAVA E SECA 11KG TCL C311WDW1 127V BC (02 UN)          (Ref.: SB0029309)",
    "categoria": "Limpeza",
-   "lance_atual": 1415,
+   "lance_atual": 1515,
    "encerramento": "2026-11-11 16:48",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -25669,7 +25767,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 9,
+    "lances": 10,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -25709,13 +25807,17 @@
     {
      "data": "2026-11-08",
      "preco": 1415
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1515
     }
    ],
-   "preco_anterior": 1315,
+   "preco_anterior": 1415,
    "variacao": 100,
-   "variacao_pct": 7.6,
+   "variacao_pct": 7.1,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 130.1,
+   "variacao_total_pct": 146.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -25724,7 +25826,7 @@
    "id": "superbid-5076572",
    "titulo": "LAVA E SECA 14KG LG SMART VC4 CV5014WC4 127V BC, LAVA E SECA 12KG LG SMART VC4 CV5012PC4A 220V INOX LOOK (02 UN) (Ref.: SB0029310)",
    "categoria": "Limpeza",
-   "lance_atual": 1305,
+   "lance_atual": 1405,
    "encerramento": "2026-11-11 16:49",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -25736,7 +25838,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -25760,13 +25862,17 @@
     {
      "data": "2026-11-07",
      "preco": 1305
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1405
     }
    ],
-   "preco_anterior": 1205,
+   "preco_anterior": 1305,
    "variacao": 100,
-   "variacao_pct": 8.3,
-   "variacao_em": "2026-11-07",
-   "variacao_total_pct": 29.9,
+   "variacao_pct": 7.7,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 39.8,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -26624,7 +26730,7 @@
    "id": "superbid-5080534",
    "titulo": "REF FF INVERTER 526L ELECTROLUX ES5GB SBS PTO 220V\n(01 UN) (Ref.: SB0029333)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1325,
+   "lance_atual": 1425,
    "encerramento": "2026-11-11 16:59",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -26636,7 +26742,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 8,
+    "lances": 9,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -26676,13 +26782,17 @@
     {
      "data": "2026-11-06",
      "preco": 1325
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1425
     }
    ],
-   "preco_anterior": 1225,
+   "preco_anterior": 1325,
    "variacao": 100,
-   "variacao_pct": 8.2,
-   "variacao_em": "2026-11-06",
-   "variacao_total_pct": 152.4,
+   "variacao_pct": 7.5,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 171.4,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -26691,7 +26801,7 @@
    "id": "superbid-5076582",
    "titulo": "REF FDR 559L BRASTEMP BRO85MK 220V INOX (01 UN) (Ref.: SB0029334)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1075,
+   "lance_atual": 1175,
    "encerramento": "2026-11-11 17:00",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -26703,7 +26813,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -26727,13 +26837,17 @@
     {
      "data": "2026-11-06",
      "preco": 1075
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1175
     }
    ],
-   "preco_anterior": 975,
+   "preco_anterior": 1075,
    "variacao": 100,
-   "variacao_pct": 10.3,
-   "variacao_em": "2026-11-06",
-   "variacao_total_pct": 59.3,
+   "variacao_pct": 9.3,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 74.1,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -27013,7 +27127,7 @@
    "id": "superbid-5080533",
    "titulo": "REF FF 380L ELECTROLUX INVERTER IF41S 220V INOX, REF FF 380L ELECTROLUX INVERTER IF41S 220V INOX\n(02 UN) (Ref.: SB0029326)",
    "categoria": "Refrigeradores",
-   "lance_atual": 1065,
+   "lance_atual": 1165,
    "encerramento": "2026-11-11 17:04",
    "cidade": "Jundiaí",
    "uf": "SP",
@@ -27025,7 +27139,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -27053,13 +27167,17 @@
     {
      "data": "2026-11-06",
      "preco": 1065
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1165
     }
    ],
-   "preco_anterior": 965,
+   "preco_anterior": 1065,
    "variacao": 100,
-   "variacao_pct": 10.4,
-   "variacao_em": "2026-11-06",
-   "variacao_total_pct": 88.5,
+   "variacao_pct": 9.4,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 106.2,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -28313,7 +28431,7 @@
    "id": "parque-84954",
    "titulo": "01 PISTOLA LAVADORA DE ALTA PRESSÃO COM MALETA E ACESSÓRIOS.PAT (NO ESTADO).",
    "categoria": "Equipamentos",
-   "lance_atual": 100.0,
+   "lance_atual": 120.0,
    "encerramento": "2026-11-13 10:00",
    "cidade": "Brasília",
    "uf": "DF",
@@ -28331,14 +28449,19 @@
     {
      "data": "2026-11-08",
      "preco": 100.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 120.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 100.0,
+   "variacao": 20.0,
+   "variacao_pct": 20.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 20.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Parque dos Leilões",
@@ -28852,7 +28975,7 @@
    "id": "superbid-5076965",
    "titulo": "TELEVISÃO PHILIPS 40 POL 40PFG5109/78 - FUNCIONANDO",
    "categoria": "Eletrônicos",
-   "lance_atual": 500,
+   "lance_atual": 600,
    "encerramento": "2026-11-13 10:05",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -28864,7 +28987,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Dexco"
    },
@@ -28876,14 +28999,19 @@
     {
      "data": "2026-11-04",
      "preco": 500
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 600
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 500,
+   "variacao": 100,
+   "variacao_pct": 20.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 20.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -28902,7 +29030,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Dexco"
    },
@@ -29257,7 +29385,7 @@
    "id": "superbid-5089385",
    "titulo": "ITENS DE COSMÉTICOS: WELLA, LORÉAL, TRUSS, NATURA, LOLA, WEPINK, CAROLINA HERRERA, VERSACE, BRAÉ, NIVEA E OUTROS (APROX. 850 UN) (Ref.: SB0034052)",
    "categoria": "Eletroportáteis",
-   "lance_atual": 4250,
+   "lance_atual": 4450,
    "encerramento": "2026-11-13 15:16",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -29269,7 +29397,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Total Express"
    },
@@ -29281,14 +29409,19 @@
     {
      "data": "2026-11-06",
      "preco": 4250
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 4450
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 4250,
+   "variacao": 200,
+   "variacao_pct": 4.7,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 4.7,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -29296,7 +29429,7 @@
    "titulo": "NOTEBOOKS E COMPUTADORES DELL (APROX. 19 PÇS) (Ref.: lote01)",
    "categoria": "Informática",
    "lance_atual": 8500,
-   "encerramento": "2026-11-13 16:32",
+   "encerramento": "2026-11-13 16:36",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
    "publico": "PF e PJ",
@@ -31707,7 +31840,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 810,
+   "lance_atual": 860,
    "encerramento": "2026-11-16 12:35",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -31719,7 +31852,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 16,
+    "lances": 17,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -31779,13 +31912,17 @@
     {
      "data": "2026-11-08",
      "preco": 810
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 860
     }
    ],
-   "preco_anterior": 760,
+   "preco_anterior": 810,
    "variacao": 50,
-   "variacao_pct": 6.6,
+   "variacao_pct": 6.2,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 1250.0,
+   "variacao_total_pct": 1333.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -32223,7 +32360,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/1adc1ef1-5333-4581-97e8-c2aa34c58af6.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "vendedor": "KABUM S.A."
    },
    "prioridade": false,
@@ -32321,7 +32458,7 @@
    "id": "kwara-1746277409767818851",
    "titulo": "Memória RAM Xpg Lancer",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 519.0,
+   "lance_atual": 569.0,
    "encerramento": "2026-11-16 13:05",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -32331,7 +32468,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/0c1eb4e2-9eb8-440d-907f-5457c6332d89.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "vendedor": "KABUM S.A."
    },
    "prioridade": false,
@@ -32342,14 +32479,19 @@
     {
      "data": "2026-11-08",
      "preco": 519.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 569.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 519.0,
+   "variacao": 50.0,
+   "variacao_pct": 9.6,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 9.6,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -42248,7 +42390,7 @@
    "id": "superbid-5084772",
    "titulo": "01 IPHONE 14 PRO MAX 512GB (Ref.: Lote 69)",
    "categoria": "Telefonia",
-   "lance_atual": 1800,
+   "lance_atual": 1900,
    "encerramento": "2026-11-19 10:00",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -42260,7 +42402,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -42280,13 +42422,17 @@
     {
      "data": "2026-11-08",
      "preco": 1800
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1900
     }
    ],
-   "preco_anterior": 1700,
+   "preco_anterior": 1800,
    "variacao": 100,
-   "variacao_pct": 5.9,
+   "variacao_pct": 5.6,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 20.0,
+   "variacao_total_pct": 26.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -42415,7 +42561,7 @@
    "id": "superbid-5089059",
    "titulo": "01 DRONE (Ref.: Lote 32)",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-19 10:40",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -42427,7 +42573,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -42439,21 +42585,26 @@
     {
      "data": "2026-11-06",
      "preco": 25
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 50
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 25,
+   "variacao": 25,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
    "id": "superbid-5089058",
    "titulo": "01 DRONE (Ref.: Lote 47)",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-19 10:41",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -42465,7 +42616,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -42477,14 +42628,19 @@
     {
      "data": "2026-11-06",
      "preco": 25
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 50
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 25,
+   "variacao": 25,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -42572,7 +42728,7 @@
    "id": "superbid-5084728",
    "titulo": "01 DRONE (Ref.: Lote 85)",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-19 10:42",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -42584,7 +42740,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -42596,14 +42752,19 @@
     {
      "data": "2026-11-06",
      "preco": 25
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 50
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 25,
+   "variacao": 25,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -42648,7 +42809,7 @@
    "id": "superbid-5084726",
    "titulo": "01 DRONE (Ref.: Lote 104)",
    "categoria": "Eletrônicos",
-   "lance_atual": 75,
+   "lance_atual": 100,
    "encerramento": "2026-11-19 10:43",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -42660,7 +42821,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -42676,13 +42837,17 @@
     {
      "data": "2026-11-07",
      "preco": 75
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 100
     }
    ],
-   "preco_anterior": 25,
-   "variacao": 50,
-   "variacao_pct": 200.0,
-   "variacao_em": "2026-11-07",
-   "variacao_total_pct": 200.0,
+   "preco_anterior": 75,
+   "variacao": 25,
+   "variacao_pct": 33.3,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 300.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -42734,7 +42899,7 @@
    "id": "superbid-5084725",
    "titulo": "01 CÂMERA DE AÇÃO ESPORTIVA (Ref.: Lote 33)",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-19 10:44",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -42746,7 +42911,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -42758,14 +42923,19 @@
     {
      "data": "2026-11-06",
      "preco": 25
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 50
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 25,
+   "variacao": 25,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -42924,7 +43094,7 @@
    "id": "superbid-5089050",
    "titulo": "01 CÂMERA DE AÇÃO ESPORTIVA (Ref.: Lote 106)",
    "categoria": "Eletrônicos",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-19 10:47",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -42936,7 +43106,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -42948,14 +43118,19 @@
     {
      "data": "2026-11-06",
      "preco": 25
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 50
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 25,
+   "variacao": 25,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -48569,7 +48744,7 @@
    "id": "superbid-5084935",
    "titulo": "01 ALL IN ONE E 01 MONITOR POSITIVO 19 POLEGADAS",
    "categoria": "Informática",
-   "lance_atual": 25,
+   "lance_atual": 50,
    "encerramento": "2026-11-24 11:45",
    "cidade": "Santo André",
    "uf": "SP",
@@ -48581,7 +48756,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -48593,14 +48768,19 @@
     {
      "data": "2026-11-06",
      "preco": 25
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 50
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 25,
+   "variacao": 25,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -49212,7 +49392,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934428349833",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/6cba99cd-8dc1-49bf-84fd-312294ef6b37.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/d5caa425-df38-4714-aff7-76f569639b62.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -49247,7 +49427,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934403183998",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/235e7044-51c9-4b90-9315-1ec77a6855e7.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/6bb5decd-256b-470f-9418-3cce98999ab5.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -49282,7 +49462,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934394795385",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/f68fd581-01c8-45b8-aa46-606cba34591e.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/fba08b05-a826-4e8e-acf5-5d9f9d0bb5b8.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -49317,7 +49497,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934361240943",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/9fd45fac-6dc1-40e5-9530-ab7a6d71f78f.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/e9e9b35a-e87d-45e2-8f8b-ad7fdcf32415.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -49352,7 +49532,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934453515665",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/5a2575b6-fb18-4ff6-aa79-df6fb5b7a063.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/53c19fc6-635c-4ada-8a6c-ef85def4d1d8.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -49387,7 +49567,7 @@
    "publico": "PF e PJ",
    "link": "https://www.kwara.com.br/bens/capa-para-ipad-apple-protecao-premium-com-estilo-impecavel-com-bolhas-que-1746431934319297884",
    "valor_avaliacao": null,
-   "imagem": "https://cdn.kwara.com.br/lot-images/4275c95c-28d9-47e2-a3e1-cf9f19afe29e.thumbnail.jpg",
+   "imagem": "https://cdn.kwara.com.br/lot-images/304d2fe7-c373-4a0f-96c5-ffda429dac28.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
     "lances": 0,
@@ -51593,7 +51773,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "TRIPOLONI LEILÕES",
     "leilao": "LEILÃO DE ITENS DIVERSOS"
    },
@@ -58620,7 +58800,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NEXT LEILÕES",
     "leilao": "Leilão de Diversos eletrônicos e equipamentos."
    },
@@ -60765,7 +60945,7 @@
    "id": "kwara-1745720974055048509",
    "titulo": "Cafeteira Nespresso Vertuo Pop GDV6BR3-SI+NE 220V",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 196.0,
+   "lance_atual": 216.0,
    "encerramento": "2026-11-30 13:40",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -60775,7 +60955,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/e1f89c5f-90f2-46f2-901a-0d3aa411553e.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "vendedor": null
    },
    "prioridade": false,
@@ -60786,14 +60966,19 @@
     {
      "data": "2026-11-08",
      "preco": 196.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 216.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 196.0,
+   "variacao": 20.0,
+   "variacao_pct": 10.2,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 10.2,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -60905,7 +61090,7 @@
    "id": "kwara-1745720973962773787",
    "titulo": "Cafeteira - Nespresso",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 550.0,
+   "lance_atual": 570.0,
    "encerramento": "2026-11-30 13:48",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -60915,7 +61100,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/a45d430d-3604-4834-a0fb-d1f36577601f.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 18,
+    "lances": 19,
     "vendedor": null
    },
    "prioridade": false,
@@ -60930,13 +61115,17 @@
     {
      "data": "2026-11-08",
      "preco": 550.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 570.0
     }
    ],
-   "preco_anterior": 510.0,
-   "variacao": 40.0,
-   "variacao_pct": 7.8,
+   "preco_anterior": 550.0,
+   "variacao": 20.0,
+   "variacao_pct": 3.6,
    "variacao_em": "2026-11-08",
-   "variacao_total_pct": 7.8,
+   "variacao_total_pct": 11.8,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -61160,7 +61349,7 @@
    "id": "kwara-1745720973870499066",
    "titulo": "Cafeteira Monarcha 220V",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 265.0,
+   "lance_atual": 305.0,
    "encerramento": "2026-11-30 13:56",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -61170,7 +61359,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/d373ac88-e358-401c-a525-86a10eebb3be.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "vendedor": null
    },
    "prioridade": false,
@@ -61181,14 +61370,19 @@
     {
      "data": "2026-11-08",
      "preco": 265.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 305.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 265.0,
+   "variacao": 40.0,
+   "variacao_pct": 15.1,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 15.1,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -65300,7 +65494,7 @@
    "id": "palacio-1588642",
    "titulo": "IMPRESSORA 3D CREALITY ENDER-3 V3 SE ACONDIC...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 850.0,
+   "lance_atual": 900.0,
    "encerramento": "2026-11-09 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -65323,14 +65517,19 @@
     {
      "data": "2026-11-08",
      "preco": 850.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 900.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 850.0,
+   "variacao": 50.0,
+   "variacao_pct": 5.9,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 5.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -65646,7 +65845,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -65794,7 +65993,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -65831,7 +66030,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -65841,43 +66040,6 @@
     {
      "data": "2026-11-08",
      "preco": 700.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Palácio dos Leilões",
-   "id": "palacio-1589272",
-   "titulo": "GELADEIRA CLIMATIZAR EXTERNA 74L- (PODEN...",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1000.0,
-   "encerramento": "2026-11-09 10:00",
-   "cidade": "Juatuba",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8886",
-   "valor_avaliacao": null,
-   "imagem": null,
-   "observacoes": [
-    "Lote 117 do leilão 8886 (horário aproximado; confira no site)"
-   ],
-   "detalhes": {
-    "comitente": "MDL",
-    "tipo_lance": "lance inicial"
-   },
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "Palácio dos Leilões",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1000.0
     }
    ],
    "preco_anterior": null,
@@ -65905,7 +66067,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66053,7 +66215,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66127,7 +66289,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66151,7 +66313,7 @@
    "id": "palacio-1589426",
    "titulo": "SOPRADOR/ASPIRADOR A BATERIA MODELO: DUB18...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 550.0,
+   "lance_atual": 600.0,
    "encerramento": "2026-11-09 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -66164,7 +66326,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66174,14 +66336,19 @@
     {
      "data": "2026-11-08",
      "preco": 550.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 600.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 550.0,
+   "variacao": 50.0,
+   "variacao_pct": 9.1,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 9.1,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -66238,7 +66405,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66275,7 +66442,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66312,7 +66479,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66349,7 +66516,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66534,7 +66701,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66571,7 +66738,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66608,7 +66775,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66645,7 +66812,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66682,7 +66849,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66719,7 +66886,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66830,7 +66997,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -66867,7 +67034,7 @@
    ],
    "detalhes": {
     "comitente": "MDL",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
@@ -67229,7 +67396,7 @@
    "id": "palacio-1589499",
    "titulo": "FOGAO A GAS 4Q MONACO TOP GLASS PTO- 1-COOK...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 500.0,
+   "lance_atual": 650.0,
    "encerramento": "2026-11-09 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -67252,14 +67419,19 @@
     {
      "data": "2026-11-08",
      "preco": 500.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 650.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 500.0,
+   "variacao": 150.0,
+   "variacao_pct": 30.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 30.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -70803,7 +70975,7 @@
    "id": "superbid-5067483",
    "titulo": "CONECTOR BLUETOOT CAR BT-450  ( APOX. 300 PÇ) (Ref.: 19)",
    "categoria": "Telefonia",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-11 10:39",
    "cidade": "Goiânia",
    "uf": "GO",
@@ -70815,7 +70987,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "Comex"
    },
@@ -70835,13 +71007,17 @@
     {
      "data": "2026-11-06",
      "preco": 250
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 300
     }
    ],
-   "preco_anterior": 200,
+   "preco_anterior": 250,
    "variacao": 50,
-   "variacao_pct": 25.0,
-   "variacao_em": "2026-11-06",
-   "variacao_total_pct": 66.7,
+   "variacao_pct": 20.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -72120,7 +72296,7 @@
    "id": "bolsa-105947",
    "titulo": "Refrigerador - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1250.0,
+   "lance_atual": 1350.0,
    "encerramento": "2026-11-12 10:00",
    "cidade": "Belo Horizonte",
    "uf": "MG",
@@ -72138,14 +72314,19 @@
     {
      "data": "2026-11-08",
      "preco": 1250.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 1350.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1250.0,
+   "variacao": 100.0,
+   "variacao_pct": 8.0,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 8.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
@@ -72258,7 +72439,7 @@
    "id": "bolsa-105951",
    "titulo": "Refrigerador - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 800.0,
+   "lance_atual": 900.0,
    "encerramento": "2026-11-12 10:00",
    "cidade": "Belo Horizonte",
    "uf": "MG",
@@ -72276,14 +72457,19 @@
     {
      "data": "2026-11-08",
      "preco": 800.0
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 900.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 800.0,
+   "variacao": 100.0,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 12.5,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
@@ -74743,7 +74929,7 @@
    "id": "hisa-64322",
    "titulo": "NOTEBOOK AVARIADO",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 629.9,
+   "lance_atual": 679.9,
    "encerramento": "2026-11-13 11:00",
    "cidade": "",
    "uf": "",
@@ -74761,14 +74947,19 @@
     {
      "data": "2026-11-08",
      "preco": 629.9
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 679.9
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 629.9,
+   "variacao": 50.0,
+   "variacao_pct": 7.9,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 7.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Receita Federal",
@@ -91225,7 +91416,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "GRANDE LEILÃO APPLE"
    },
@@ -91517,7 +91708,7 @@
    "id": "superbid-5080231",
    "titulo": "01 APPLE IPHONE 16 PRO 128GB - SEM TELA - COM POSSÍVEIS RESTRIÇÕES DE USO - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
    "categoria": "Telefonia",
-   "lance_atual": 300,
+   "lance_atual": 500,
    "encerramento": "2026-12-10 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -91529,7 +91720,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 3,
     "leiloeiro": "NP LEILÕES",
     "leilao": "GRANDE LEILÃO APPLE"
    },
@@ -91541,14 +91732,19 @@
     {
      "data": "2026-11-01",
      "preco": 300
+    },
+    {
+     "data": "2026-11-08",
+     "preco": 500
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 300,
+   "variacao": 200,
+   "variacao_pct": 66.7,
+   "variacao_em": "2026-11-08",
+   "variacao_total_pct": 66.7,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -95943,7 +96139,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -96095,7 +96291,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -96171,7 +96367,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -99368,7 +99564,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SALA DE LEILÕES",
     "leilao": "Logistica Reversa"
    },
@@ -99748,7 +99944,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SALA DE LEILÕES",
     "leilao": "Logistica Reversa"
    },
@@ -100356,7 +100552,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SALA DE LEILÕES",
     "leilao": "Logistica Reversa"
    },
