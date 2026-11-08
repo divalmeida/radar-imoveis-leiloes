@@ -122,18 +122,21 @@ def main() -> None:
 
     compras, alugueis, status = [], [], {}
     buscas = [
-        (portal, modulo, cidade, negocio, preco_min, preco_max, destino)
+        (portal, modulo, cidade, tipo, negocio, preco_min, preco_max, destino)
         for portal, modulo in PORTAIS.items()
         for cidade in CIDADES_IMOVEIS
+        for tipo in cidade.get("tipos", ["apartamento"])
         for negocio, preco_min, preco_max, destino in (
             ("compra", PRECO_MINIMO_COMPRA, PRECO_MAXIMO_COMPRA, compras),
             ("aluguel", PRECO_MINIMO_ALUGUEL, PRECO_MAXIMO_ALUGUEL, alugueis),
         )
     ]
-    for portal, modulo, cidade, negocio, preco_min, preco_max, destino in buscas:
-        chave = f"{portal} - {negocio} - {cidade['nome']}"
+    for portal, modulo, cidade, tipo, negocio, preco_min, preco_max, destino in buscas:
+        if portal == "QuintoAndar" and tipo != "apartamento":
+            continue
+        chave = f"{portal} - {negocio} - {cidade['nome']}" + ("" if tipo == "apartamento" else f" ({tipo.replace('_', ' em ')})")
         try:
-            encontrados = modulo.buscar(negocio, cidade, QUARTOS_MINIMO, preco_max)
+            encontrados = modulo.buscar(negocio, cidade, QUARTOS_MINIMO, preco_max, tipo)
             encontrados = [a for a in encontrados if a.get("preco") and a["preco"] >= preco_min]
             destino.extend(encontrados)
             status[chave] = {"ok": True, "anuncios": len(encontrados)}
@@ -141,6 +144,9 @@ def main() -> None:
             print(f"[ERRO] {chave}: {erro}", flush=True)
             status[chave] = {"ok": False, "erro": str(erro)}
 
+    # Casa e casa em condomínio podem repetir o mesmo anúncio: fica um de cada
+    compras = list({a["id"]: a for a in compras}.values())
+    alugueis = list({a["id"]: a for a in alugueis}.values())
     regiao_da_cidade = {c["nome"]: c["regiao"] for c in CIDADES_IMOVEIS}
     for a in compras + alugueis:
         a["regiao"] = regiao_da_cidade.get(a["cidade"], a["cidade"])
@@ -193,7 +199,7 @@ def main() -> None:
     referencia_venda = Referencia(compras, regioes)  # preço de venda dos anúncios (até o teto da busca)
     for a in compras:
         _custos(a)
-        a["aluguel"] = referencia.estimar(a["cidade"], a.get("bairro"), a.get("area"), a.get("quartos"))
+        a["aluguel"] = referencia.estimar(a["cidade"], a.get("bairro"), a.get("area"), a.get("quartos"), a.get("tipo"))
     resultado = {
         "atualizado_em": datetime.now(FUSO_BRASILIA).strftime("%Y-%m-%d %H:%M"),
         "filtros": {"quartos_minimo": QUARTOS_MINIMO, "preco_maximo_compra": PRECO_MAXIMO_COMPRA,

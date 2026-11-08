@@ -47,11 +47,20 @@ class Referencia:
             return None
         return statistics.median(a["preco"] for a in comps), len(comps)
 
-    def estimar(self, cidade: str, bairro: Optional[str], area: Optional[float], quartos: Optional[int]) -> Optional[dict]:
+    def estimar(self, cidade: str, bairro: Optional[str], area: Optional[float], quartos: Optional[int],
+                tipo: Optional[str] = None) -> Optional[dict]:
         c = chave_texto(cidade or "")
-        do_bairro = self.por_bairro.get(f"{c}|{chave_texto(bairro or '')}", [])
-        da_cidade = self.por_cidade.get(c, [])
-        da_regiao = self.por_regiao.get(self.regiao_da_cidade.get(c, c), [])
+
+        def mesmo_tipo(lista):
+            """Casa compara com casa quando há amostra suficiente; senão, usa tudo."""
+            if not tipo:
+                return lista
+            filtrada = [a for a in lista if (a.get("tipo") or "Apartamento") == tipo]
+            return filtrada if len(filtrada) >= MIN_COMPARAVEIS else lista
+
+        do_bairro = mesmo_tipo(self.por_bairro.get(f"{c}|{chave_texto(bairro or '')}", []))
+        da_cidade = mesmo_tipo(self.por_cidade.get(c, []))
+        da_regiao = mesmo_tipo(self.por_regiao.get(self.regiao_da_cidade.get(c, c), []))
         area = area if area and area >= 20 else None
 
         tentativas = []

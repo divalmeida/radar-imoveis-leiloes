@@ -211,7 +211,13 @@
           <option value="500">Até R$ 500/mês</option>
           <option value="800">Até R$ 800/mês</option>
         </select>
-                <select id="im-portal" aria-label="Portal"><option value="">Todos os portais</option></select>
+                <select id="im-tipo" aria-label="Tipo de imóvel">
+          <option value="">Tipo: todos</option>
+          <option>Apartamento</option>
+          <option>Casa</option>
+          <option>Casa em condomínio</option>
+        </select>
+        <select id="im-portal" aria-label="Portal"><option value="">Todos os portais</option></select>
         <select id="im-ordem" aria-label="Ordenar">
           <option value="recentes">Mais recentes</option>
           <option value="menor">Menor preço</option>
@@ -362,13 +368,14 @@ function filtrarIm() {
   const busca = semAcento($("im-busca").value).split(/\s+/).filter(Boolean);
   const q = +$("im-quartos").value, precoMax = +$("im-preco").value, areaMin = +$("im-area").value;
   const bairro = $("im-bairro").value, portal = $("im-portal").value;
-  const custoMax = +$("im-custo").value;
+  const custoMax = +$("im-custo").value, tipo = $("im-tipo").value;
   let r = estadoIm.grupos.filter((g) => {
     if (estadoIm.cidade && g._regiao !== estadoIm.cidade) return false;
     if (bairro && `${g.cidade}|${g.bairro}` !== bairro) return false;
     if (precoMax && (g.preco || 0) > precoMax) return false;
     if (areaMin && (g.area || 0) < areaMin) return false;
     if (custoMax && !(g.custo_mensal && g.custo_mensal <= custoMax)) return false;
+    if (tipo && (g.tipo || "Apartamento") !== tipo) return false;
     if (portal && !g._portais.includes(portal)) return false;
     if (estadoIm.marca === "novos" && !g.novo) return false;
     if (estadoIm.marca === "baixou" && !g.baixou_preco) return false;
@@ -399,7 +406,7 @@ function cartaoIm(g) {
   if (g.na_planta) selos.push(`<span class="selo">Na planta</span>`);
   selos.push(`<span class="selo">${escapar(g.fonte)}</span>`);
 
-  const ficha = [g.quartos && `${g.quartos} quartos`, g.area && `${g.area} m²`, g.banheiros && `${g.banheiros} banh.`,
+  const ficha = [g.tipo && g.tipo !== "Apartamento" && g.tipo, g.quartos && `${g.quartos} quartos`, g.area && `${g.area} m²`, g.banheiros && `${g.banheiros} banh.`,
     g._m2 && `${dinheiro.format(g._m2)}/m²`].filter(Boolean);
 
   const outros = g.outros.length ? `<details><summary>Mais ${g.outros.length} anúncio${g.outros.length > 1 ? "s" : ""} do mesmo imóvel</summary><ul>${
@@ -469,7 +476,7 @@ function iniciarImoveis(dados) {
     Object.entries(dados.fontes).map(([n, s]) => s.ok ? `${escapar(n)} (${s.anuncios})` : `<span class="erro">${escapar(n)} (falhou)</span>`).join(" · ");
   let espera;
   $("im-busca").oninput = () => { clearTimeout(espera); espera = setTimeout(() => desenharIm(true), 200); };
-  ["im-quartos", "im-ordem", "im-bairro", "im-preco", "im-area", "im-portal", "im-custo"].forEach((id) => ($(id).onchange = () => desenharIm(true)));
+  ["im-quartos", "im-ordem", "im-bairro", "im-preco", "im-area", "im-portal", "im-custo", "im-tipo"].forEach((id) => ($(id).onchange = () => desenharIm(true)));
   $("im-mais").onclick = () => { estadoIm.mostrando += POR_PAGINA; desenharIm(false); };
   desenharIm(true);
 }

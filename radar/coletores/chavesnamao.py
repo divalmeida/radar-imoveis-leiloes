@@ -21,8 +21,16 @@ _ACEITA_FIN = re.compile(r"aceita\w*\s+(o\s+)?financiamento|financi[áa]vel|acei
 _NAO_ACEITA_FIN = re.compile(r"n[ãa]o\s+aceita\w*\s+financiamento|somente\s+[àa]\s+vista|apenas\s+[àa]\s+vista|s[óo]\s+[àa]\s+vista", re.I)
 
 
-def _url_busca(negocio: str, slug: str, quartos: int, preco_max: int, pagina: int) -> str:
-    caminho = "apartamentos-a-venda" if negocio == "compra" else "apartamentos-para-alugar"
+# tipo -> (caminho de venda, caminho de aluguel, tipos aceitos nos dados, nome no app)
+TIPOS = {
+    "apartamento": ("apartamentos-a-venda", "apartamentos-para-alugar", {"Apartment"}, "Apartamento"),
+    "casa": ("casas-a-venda", "casas-para-alugar", {"SingleFamilyResidence", "House"}, "Casa"),
+    "casa_condominio": ("casas-em-condominio-a-venda", "casas-em-condominio-para-alugar", {"SingleFamilyResidence", "House"}, "Casa em condomínio"),
+}
+
+
+def _url_busca(negocio: str, slug: str, quartos: int, preco_max: int, pagina: int, tipo: str = "apartamento") -> str:
+    caminho = TIPOS[tipo][0] if negocio == "compra" else TIPOS[tipo][1]
     url = f"{SITE}/{caminho}/{slug}/{quartos}-quartos/?filtro=pmax:{preco_max}"
     return url + (f"&pg={pagina}" if pagina > 1 else "")
 
@@ -48,10 +56,10 @@ def _numero(texto) -> Optional[float]:
         return None
 
 
-def _anuncio(oferta: dict, negocio: str, cidade: dict) -> Optional[dict]:
+def _anuncio(oferta: dict, negocio: str, cidade: dict, tipo: str = "apartamento") -> Optional[dict]:
     imovel = oferta.get("itemOffered") or {}
-    if imovel.get("@type") != "Apartment":
-        return None
+    if imovel.get("@type") not in TIPOS[tipo][2]:
+        return None  # quando acha poucos, o site completa a lista com outros tipos
     endereco = imovel.get("address") or {}
     if not (endereco.get("addressRegion") or "").startswith(cidade["nome"]):
         return None  # o site às vezes completa a lista com cidades vizinhas
@@ -64,6 +72,7 @@ def _anuncio(oferta: dict, negocio: str, cidade: dict) -> Optional[dict]:
         "id": f"cnm-{m.group(1)}",
         "fonte": "Chaves na Mão",
         "negocio": negocio,
+        "tipo": TIPOS[tipo][3],
         "titulo": (oferta.get("name") or "").strip(),
         "preco": _numero(oferta.get("price")),
         "quartos": imovel.get("numberOfBedrooms"),
@@ -101,12 +110,12 @@ def _custos_da_pagina(html: str) -> Dict[str, dict]:
     return custos
 
 
-def buscar(negocio: str, cidade: dict, quartos: int, preco_max: int) -> List[dict]:
+def buscar(negocio: str, cidade: dict, quartos: int, preco_max: int, tipo: str = "apartamento") -> List[dict]:
     """Percorre todas as páginas de uma busca e devolve os anúncios."""
     anuncios: Dict[str, dict] = {}
     pagina, total_paginas = 1, 1
     while pagina <= min(total_paginas, LIMITE_PAGINAS):
-        html = baixar(_url_busca(negocio, cidade["slug"], quartos, preco_max, pagina)).decode("utf-8", "replace")
+        html = baixar(_url_busca(negocio, cidade["slug"], quartos, preco_max, pagina, tipo)).decode("utf-8", "replace")
         listagem = _listagem(html)
         if not listagem:
             break
@@ -114,10 +123,10 @@ def buscar(negocio: str, cidade: dict, quartos: int, preco_max: int) -> List[dic
         if pagina == 1:
             total = ofertas.get("numberOfItems") or 0
             total_paginas = math.ceil(total / POR_PAGINA)
-            print(f"[Chaves na Mão] {negocio} {cidade['nome']}: {total} anúncios ({total_paginas} páginas)", flush=True)
+            print(f"[Chaves na Mão] {negocio} {TIPOS[tipo][3].lower()} {cidade['nome']}: {total} anúncios ({total_paginas} páginas)", flush=True)
         custos = _custos_da_pagina(html)
         for oferta in ofertas.get("itemListElement") or []:
-            anuncio = _anuncio(oferta, negocio, cidade)
+            anuncio = _anuncio(oferta, negocio, cidade, tipo)
             if anuncio:
                 anuncio.update(custos.get(anuncio["id"], {}))
                 anuncios[anuncio["id"]] = anuncio

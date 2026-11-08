@@ -58,7 +58,9 @@ def _pagina(negocio: str, slug: str, quartos: int, preco_max: int, offset: int) 
     return dados.get("hits") or {}
 
 
-def buscar(negocio: str, cidade: dict, quartos: int, preco_max: int) -> List[dict]:
+def buscar(negocio: str, cidade: dict, quartos: int, preco_max: int, tipo: str = "apartamento") -> List[dict]:
+    if tipo != "apartamento":
+        return []  # casas só são buscadas onde o QuintoAndar não atua (Camaçari e Linha Verde)
     slug = _slug(cidade)
     anuncios = {}
     offset, total = 0, None
@@ -80,6 +82,7 @@ def buscar(negocio: str, cidade: dict, quartos: int, preco_max: int) -> List[dic
                 "id": f"qa-{id_}",
                 "fonte": "QuintoAndar",
                 "negocio": negocio,
+                "tipo": "Apartamento",
                 "titulo": f"Apartamento com {s.get('bedrooms')} quartos em {s.get('neighbourhood')}",
                 "preco": float(preco),
                 "quartos": s.get("bedrooms"),

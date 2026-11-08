@@ -24,6 +24,10 @@ CIDADES_IMOVEIS = [
     {"nome": "Conceição do Jacuípe", "uf": "BA", "slug": "ba-conceicao-do-jacuipe", "regiao": "Conceição do Jacuípe"},
 ]
 
+# Onde também buscamos casas (lá há poucos apartamentos até o teto de preço)
+for _c in CIDADES_IMOVEIS:
+    _c["tipos"] = ["apartamento", "casa", "casa_condominio"] if _c["regiao"] in ("Camaçari e Abrantes", "Linha Verde") else ["apartamento"]
+
 # Cidades prioritárias nos imóveis da Caixa (as mesmas da aba Imóveis)
 CIDADES_PRIORITARIAS = [c["nome"].upper() for c in CIDADES_IMOVEIS]
 QUARTOS_MINIMO = 2
