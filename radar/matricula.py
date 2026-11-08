@@ -32,14 +32,15 @@ TIPOS = [
     # \b evita confundir com palavras como "RENUMERAÇÃO" ou "INSERÇÃO"
     (r"\bCITA[CÇ][AÃ]O\b|\bA[CÇ][AÃ]O\b|\bPROTESTO\b|\bEXECU[CÇ][AÃ]O\b", "ação judicial / execução", True),
     (r"INALIENABILIDADE|IMPENHORABILIDADE|INCOMUNICABILIDADE", "cláusula restritiva", True),
-    (r"COMPRA E VENDA|VENDA E COMPRA|HAVIDO POR COMPRA|\bCOMPRA\b|TRANSMISS|ADJUDICA|ARREMATA|DOA[CÇ][AÃ]O|PARTILHA|PERMUTA", "transmissão (troca de dono)", False),
+    (r"COMPRA E VENDA|VENDA E COMPRA|HA[VZ]IDO\s+[PF]OR\s+COMPR|\bCOMPRA\b|TRANSMISS|ADJUDICA|ARREMATA|DOA[CÇ][AÃ]O|PARTILHA|PERMUTA", "transmissão (troca de dono)", False),
     (r"CONSTRU[CÇ][AÃ]O|HABITE|INSTITUI[CÇ][AÃ]O|CONVEN[CÇ][AÃ]O|ESPECIFICA", "construção / condomínio", False),
 ]
 
 # Cabeçalho de ato no começo da linha. Aceita os formatos "AV-8/125.401 - TÍTULO - Prenotado...",
 # "R.01-124.401 - ..." (numeração antiga) e erros comuns de OCR ("AV-S5" em vez de "AV-5").
 _ATO = re.compile(
-    r"^.{0,3}?(R|AV)\s*[-.,]?\s*[SO]?0*(\d{1,3})\s*[-–—/.,]\s*\d{1,3}(?:[.,]?\d{3})+\s*[-–—:]?\s*([^\n:]{0,90})",
+    # o traço depois do número da matrícula é obrigatório: separa "R.01- 124.401-" de valores como "R$12.324,00"
+    r"^.{0,3}?(R|AV)\s*[-.,$]?\s*[SO]?0*(\d{1,3})\s*[-–—/.,]\s*\d{1,3}(?:[.,]?\d{3})+\s*[-–—]\s*([^\n:]{0,90})",
     re.I | re.M,
 )
 _DATA = re.compile(r"(\d{2})/(\d{2})/(\d)\.?(\d{3})")  # aceita "30/01/2.012" das matrículas antigas
@@ -92,7 +93,7 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
         tipo, onus = _classificar(titulo)
         if tipo == "outro":
             # junta palavras quebradas no fim da linha ("fidu-\nciariamente")
-            tipo, onus = _classificar(titulo + " " + re.sub(r"-\s*\n\s*", "", corpo[:450]).replace("\n", " "))
+            tipo, onus = _classificar(re.sub(r"-\s*\n\s*", "", m.group(3) + corpo[:450]).replace("\n", " "))
         # Matrículas antigas não têm título: "R.01- 124.401- DAJ Número ..." vira o tipo do ato
         if re.match(r"DAJ|N[uú]mero|\d", titulo, re.I) or not titulo:
             titulo = tipo
@@ -162,7 +163,8 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
     # só os primeiros caracteres, que trazem número, título e data do ato)
     nao_reconhecidos = []
     for linha in texto.splitlines():
-        if (re.search(r"Prenota", linha, re.I) or re.match(r".{0,3}?(R|AV)\W{0,2}\w{0,2}\d", linha)) and not _ATO.search(linha):
+        if (re.search(r"Prenota", linha, re.I) or re.match(r".{0,3}?(R|AV)\W{0,2}\w{0,2}\d", linha)) and not _ATO.search(linha) \
+                and not re.match(r".{0,3}?R\$\s*\d{1,3}[.,]\d{3}", linha):  # valores em reais
             nao_reconhecidos.append(re.sub(r"\s+", " ", linha).strip()[:70])
     altos = sum(r["nivel"] == "alto" for r in riscos)
     medios = sum(r["nivel"] == "medio" for r in riscos)
