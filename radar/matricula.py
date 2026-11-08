@@ -22,7 +22,7 @@ TIPOS = [
     (r"CANCELAMENTO|BAIXA|LEVANTAMENTO", "cancelamento", False),
     (r"CONSOLIDA", "consolidação da propriedade (Caixa)", False),
     (r"LEIL[AÃ]O|LEIL[OÕ]ES", "leilões negativos", False),
-    (r"ALIENA[CÇ][AÃ]O FIDUCI", "alienação fiduciária", True),
+    (r"ALIEN\w* FIDUCI", "alienação fiduciária", True),
     (r"HIPOTECA", "hipoteca", True),
     (r"PENHORA", "penhora", True),
     (r"INDISPONIBILIDADE", "indisponibilidade", True),
@@ -32,17 +32,17 @@ TIPOS = [
     # \b evita confundir com palavras como "RENUMERAÇÃO" ou "INSERÇÃO"
     (r"\bCITA[CÇ][AÃ]O\b|\bA[CÇ][AÃ]O\b|\bPROTESTO\b|\bEXECU[CÇ][AÃ]O\b", "ação judicial / execução", True),
     (r"INALIENABILIDADE|IMPENHORABILIDADE|INCOMUNICABILIDADE", "cláusula restritiva", True),
-    (r"COMPRA E VENDA|VENDA E COMPRA|TRANSMISS|ADJUDICA|ARREMATA|DOA[CÇ][AÃ]O|PARTILHA|PERMUTA", "transmissão (troca de dono)", False),
+    (r"COMPRA E VENDA|VENDA E COMPRA|HAVIDO POR COMPRA|\bCOMPRA\b|TRANSMISS|ADJUDICA|ARREMATA|DOA[CÇ][AÃ]O|PARTILHA|PERMUTA", "transmissão (troca de dono)", False),
     (r"CONSTRU[CÇ][AÃ]O|HABITE|INSTITUI[CÇ][AÃ]O|CONVEN[CÇ][AÃ]O|ESPECIFICA", "construção / condomínio", False),
 ]
 
 # Cabeçalho de ato no começo da linha. Aceita os formatos "AV-8/125.401 - TÍTULO - Prenotado...",
 # "R.01-124.401 - ..." (numeração antiga) e erros comuns de OCR ("AV-S5" em vez de "AV-5").
 _ATO = re.compile(
-    r"^[^\w\n]{0,3}(R|AV)\s*[-.]?\s*[SO]?0*(\d{1,3})\s*[-/.]\s*\d{1,3}(?:[.,]?\d{3})+\s*[-–:]?\s*([^\n:]{0,90})",
+    r"^.{0,3}?(R|AV)\s*[-.]?\s*[SO]?0*(\d{1,3})\s*[-–—/.]\s*\d{1,3}(?:[.,]?\d{3})+\s*[-–—:]?\s*([^\n:]{0,90})",
     re.I | re.M,
 )
-_DATA = re.compile(r"(\d{2})/(\d{2})/(\d{4})")
+_DATA = re.compile(r"(\d{2})/(\d{2})/(\d)\.?(\d{3})")  # aceita "30/01/2.012" das matrículas antigas
 
 
 def ocr_pdf(pdf: bytes, paginas_max: int = 30) -> str:
@@ -76,8 +76,8 @@ def _data_do_ato(trecho: str) -> Optional[str]:
     m = _DATA.search(trecho)
     if not m:
         return None
-    d, mes, a = m.groups()
-    return f"{a}-{mes}-{d}"
+    d, mes, mil, resto = m.groups()
+    return f"{mil}{resto}-{mes}-{d}"
 
 
 def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
@@ -91,7 +91,10 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
         # O título classifica; se ele não disser nada, olha o começo do texto do ato
         tipo, onus = _classificar(titulo)
         if tipo == "outro":
-            tipo, onus = _classificar(corpo[:300])
+            tipo, onus = _classificar(titulo + " " + corpo[:400])
+        # Matrículas antigas não têm título: "R.01- 124.401- DAJ Número ..." vira o tipo do ato
+        if re.match(r"DAJ|N[uú]mero|\d", titulo, re.I) or not titulo:
+            titulo = tipo
         # Atos de cancelamento: quais registros eles cancelam (ex.: "R-3", "R.03", "AV-2")
         cancela = []
         if tipo == "cancelamento":
