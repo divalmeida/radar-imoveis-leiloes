@@ -79,14 +79,17 @@ def _estimar_caixa(referencia: Referencia) -> dict:
     estimativas = {}
     for lote in leiloes.get("lotes", []):
         det = lote.get("detalhes") or {}
-        if lote.get("fonte") != "Caixa" or "apartamento" not in (lote.get("categoria") or "").lower():
+        # Imóveis de leilão (Caixa, Zuk, Frazão): só apartamentos têm comparáveis nos portais
+        if not (lote.get("categoria") or "").startswith("Imóvel") or "apartamento" not in (lote.get("categoria") or "").lower():
             continue
         descricao = det.get("descricao") or ""
         m = re.search(r"([\d.]+) de área privativa", descricao) or re.search(r"([\d.]+) de área total", descricao)
         q = re.search(r"(\d+) qto", descricao)
+        area = float(m.group(1)) if m else det.get("area")
+        quartos = int(q.group(1)) if q else det.get("quartos")
         # "Vila de Abrantes (Abrantes)" na Caixa é "Vila de Abrantes" nos portais
         bairro = re.sub(r"\s*\(.*?\)", "", det.get("bairro") or "")
-        est = referencia.estimar(lote["cidade"], bairro, float(m.group(1)) if m else None, int(q.group(1)) if q else None)
+        est = referencia.estimar(lote["cidade"], bairro, area, quartos)
         if est:
             estimativas[lote["id"]] = est
     return estimativas

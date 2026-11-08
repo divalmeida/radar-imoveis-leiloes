@@ -104,6 +104,14 @@
   .prazo.urgente { color: var(--vermelho); }
   .prazo.breve { color: var(--laranja); }
   .custos { font-size: 13px; color: var(--texto); }
+  .link-botao { border: 0; background: none; color: var(--azul); font: inherit; font-weight: 600; cursor: pointer; padding: 0 4px; }
+  #im-mapa { height: 60vh; border-radius: 14px; margin-bottom: 12px; border: 1px solid var(--borda); }
+  a.link-mapa { font-size: 13px; color: var(--azul); text-decoration: none; }
+  details.perto summary { font-size: 13px; color: var(--azul); cursor: pointer; }
+  .servicos { display: flex; flex-wrap: wrap; gap: 6px; margin: 6px 0; }
+  .servico { font-size: 12px; background: var(--chip); border-radius: 6px; padding: 3px 7px; }
+  .servico.zero { opacity: .55; }
+  a.servico { color: var(--texto); text-decoration: none; }
   details.hist ul { list-style: none; padding-left: 0; }
   details.hist li { padding: 2px 0; }
   .desce { color: var(--verde); }
@@ -228,7 +236,8 @@
         </select>
       </div>
     </div>
-    <div class="resumo" id="im-resumo"></div>
+    <div class="resumo"><span id="im-resumo"></span> <button class="link-botao" id="im-btn-mapa">🗺️ Ver no mapa</button></div>
+    <div id="im-mapa" hidden></div>
     <div class="lista" id="im-lista"></div>
     <button class="mais" id="im-mais" hidden>Mostrar mais</button>
     <div class="fontes" id="im-fontes"></div>
@@ -424,6 +433,8 @@ function cartaoIm(g) {
     ${blocoRenda(g._est, g.preco)}
     <div class="selos">${selos.join("")}</div>
     ${outros}
+    ${g.lat && g.lon ? `<details class="perto" data-lat="${g.lat}" data-lon="${g.lon}"><summary>📍 O que tem por perto</summary><div class="perto-corpo"></div></details>`
+      : `<a class="link-mapa" href="https://www.google.com/maps/search/${encodeURIComponent(`${g.endereco || ""} ${g.bairro}, ${g.cidade} - ${g.uf}`)}" target="_blank" rel="noopener">📍 Abrir no mapa</a>`}
     <div class="acoes"><a href="${escapar(g.link)}" target="_blank" rel="noopener">Ver anúncio</a></div>
   </article>`;
 }
@@ -434,6 +445,8 @@ function desenharIm(reiniciar) {
   $("im-resumo").textContent = `${r.length.toLocaleString("pt-BR")} imóve${r.length === 1 ? "l" : "is"}`;
   $("im-lista").innerHTML = r.length ? r.slice(0, estadoIm.mostrando).map(cartaoIm).join("") : `<div class="vazio">Nenhum imóvel com esses filtros.</div>`;
   $("im-mais").hidden = r.length <= estadoIm.mostrando;
+  $("im-lista").querySelectorAll("details.perto").forEach((d) => d.addEventListener("toggle", () => d.open && abrirPerto(d)));
+  if (!$("im-mapa").hidden) desenharMapa();
 }
 
 function iniciarImoveis(dados) {
@@ -478,7 +491,89 @@ function iniciarImoveis(dados) {
   $("im-busca").oninput = () => { clearTimeout(espera); espera = setTimeout(() => desenharIm(true), 200); };
   ["im-quartos", "im-ordem", "im-bairro", "im-preco", "im-area", "im-portal", "im-custo", "im-tipo"].forEach((id) => ($(id).onchange = () => desenharIm(true)));
   $("im-mais").onclick = () => { estadoIm.mostrando += POR_PAGINA; desenharIm(false); };
+  $("im-btn-mapa").onclick = () => {
+    const area = $("im-mapa"); area.hidden = !area.hidden;
+    $("im-btn-mapa").textContent = area.hidden ? "🗺️ Ver no mapa" : "📋 Esconder o mapa";
+    desenharMapa();
+  };
   desenharIm(true);
+}
+
+/* ---------- Mapa e "o que tem por perto" ---------- */
+let MAPA = null, CAMADA = null;
+
+function carregarLeaflet() {
+  if (window.L) return Promise.resolve();
+  return new Promise((ok, erro) => {
+    const css = document.createElement("link");
+    css.rel = "stylesheet"; css.href = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css";
+    document.head.appendChild(css);
+    const js = document.createElement("script");
+    js.src = "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js";
+    js.onload = ok; js.onerror = erro;
+    document.head.appendChild(js);
+  });
+}
+
+async function desenharMapa() {
+  const area = $("im-mapa");
+  if (area.hidden) return;
+  await carregarLeaflet();
+  if (!MAPA) {
+    MAPA = L.map(area).setView([-12.97, -38.50], 11);
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: "© OpenStreetMap" }).addTo(MAPA);
+  }
+  if (CAMADA) CAMADA.remove();
+  CAMADA = L.layerGroup().addTo(MAPA);
+  const pontos = filtrarIm().filter((g) => g.lat && g.lon).slice(0, 1500);
+  pontos.forEach((g) => {
+    const cor = g.novo ? "#1f5fa8" : g.baixou_preco ? "#1d7a4f" : "#0f3d3e";
+    L.circleMarker([g.lat, g.lon], { radius: 6, color: cor, fillColor: cor, fillOpacity: 0.8, weight: 1 })
+      .bindPopup(`<b>${dinheiro.format(g.preco)}</b><br>${escapar(g.titulo).slice(0, 90)}<br>${escapar(g.bairro)}, ${escapar(g.cidade)}<br><a href="${escapar(g.link)}" target="_blank" rel="noopener">Ver anúncio</a>`)
+      .addTo(CAMADA);
+  });
+  if (pontos.length) MAPA.fitBounds(pontos.map((g) => [g.lat, g.lon]), { padding: [20, 20], maxZoom: 15 });
+  setTimeout(() => MAPA.invalidateSize(), 50);
+}
+
+// Conta serviços num raio de 1 km pelo OpenStreetMap (Overpass)
+const SERVICOS = [
+  ["🛒 Mercados", 'nwr["shop"~"supermarket|convenience|greengrocer|bakery"]'],
+  ["💊 Farmácias", 'nwr["amenity"="pharmacy"]'],
+  ["🏫 Escolas", 'nwr["amenity"~"school|kindergarten"]'],
+  ["🏥 Saúde", 'nwr["amenity"~"hospital|clinic|doctors"]'],
+  ["🚌 Ônibus/metrô", 'nwr["highway"="bus_stop"];nwr["railway"~"station|halt"];nwr["public_transport"="station"]'],
+  ["🏦 Bancos", 'nwr["amenity"~"bank|atm"]'],
+  ["🍽️ Restaurantes", 'nwr["amenity"~"restaurant|fast_food|cafe"]'],
+  ["🌳 Praças/parques", 'nwr["leisure"~"park|playground"]'],
+];
+
+async function abrirPerto(det) {
+  if (det.dataset.pronto) return;
+  det.dataset.pronto = "1";
+  const corpo = det.querySelector(".perto-corpo");
+  const lat = det.dataset.lat, lon = det.dataset.lon;
+  // Atalhos que sempre funcionam: o Google Maps já abre buscando cada serviço em volta do imóvel
+  const atalhos = [["🛒", "supermercado"], ["💊", "farmácia"], ["🏫", "escola"], ["🏥", "hospital"], ["🚌", "ponto de ônibus"], ["🏦", "banco"]]
+    .map(([i, q]) => `<a class="servico" href="https://www.google.com/maps/search/${encodeURIComponent(q)}/@${lat},${lon},16z" target="_blank" rel="noopener">${i} ${q}</a>`).join("");
+  corpo.innerHTML = `<div class="servicos">${atalhos}</div><small class="contagem">Contando serviços num raio de 1 km…</small>`;
+  const contagem = corpo.querySelector(".contagem");
+  const consulta = "[out:json][timeout:20];(" + SERVICOS.map(([n, q], i) =>
+    q.split(";").map((x) => `${x}(around:1000,${lat},${lon});`).join("")).join("") + ");out center tags;";
+  try {
+    const r = await fetch("https://overpass-api.de/api/interpreter", { method: "POST", body: "data=" + encodeURIComponent(consulta),
+      signal: AbortSignal.timeout(12000) });
+    const dados = await r.json();
+    const conta = SERVICOS.map(([nome, q]) => {
+      const testes = q.split(";").map((x) => [...x.matchAll(/"(\w+)"(=|~)"([^"]+)"/g)].map((m) => [m[1], m[2], m[3]]));
+      const n = dados.elements.filter((e) => testes.some((t) => t.every(([k, op, v]) => e.tags && e.tags[k] && (op === "=" ? e.tags[k] === v : new RegExp(v).test(e.tags[k]))))).length;
+      return `<span class="servico ${n ? "" : "zero"}">${nome}: <b>${n}</b></span>`;
+    });
+    contagem.outerHTML = `<div class="servicos">${conta.join("")}</div>
+      <small>Num raio de 1 km (OpenStreetMap; pode estar incompleto).</small>`;
+  } catch (e) {
+    contagem.textContent = "Toque num serviço acima para ver no Google Maps (a contagem automática não respondeu agora).";
+  }
 }
 
 /* ---------- LEILÕES ---------- */
@@ -486,7 +581,7 @@ const TIPOS = [
   { id: "", nome: "Tudo" },
   { id: "eletronicos", nome: "Eletrônicos e celulares" },
   { id: "eletrodomesticos", nome: "Eletrodomésticos" },
-  { id: "imoveis", nome: "Imóveis Caixa" },
+  { id: "imoveis", nome: "Imóveis de leilão" },
 ];
 // Regiões da aba Imóveis (vêm do imoveis.json; esta lista é só a reserva se ele não carregar)
 let REGIOES = ["Salvador", "Feira de Santana", "Conceição do Jacuípe"].map((c) => ({ nome: c, cidades: [c] }));
@@ -497,7 +592,7 @@ function regiaoDe(cidade) {
 const estadoLe = { lotes: [], tipo: "", uf: "", cidade: "", mostrando: POR_PAGINA, atualizado: "carregando…" };
 
 function tipoDoLote(l) {
-  if (l.fonte === "Caixa") return "imoveis";
+  if (l.fonte === "Caixa" || (l.categoria || "").startsWith("Imóvel")) return "imoveis";
   if (/ELETRODOM|ELETROPORT|REFRIGER|FOGO|FORNO|LIMPEZA|UTENS/i.test(l.categoria)) return "eletrodomesticos";
   return "eletronicos";
 }
@@ -575,7 +670,8 @@ function cartaoLe(l) {
     <div class="selos">${selos.join("")}</div>
     ${blocoHistorico(l)}
     ${l.fonte === "Caixa" ? blocoAnalise(l) : ""}
-    ${l.fonte === "Caixa" ? `<details class="sim" data-id="${escapar(l.id)}"><summary>Simular custo final e financiamento</summary><div class="sim-corpo"></div></details>` : ""}
+    ${l._tipo === "imoveis" ? `<a class="link-mapa" href="https://www.google.com/maps/search/${encodeURIComponent(`${(l.detalhes && (l.detalhes.endereco || l.detalhes.bairro)) || ""} ${l.cidade} - ${l.uf}`)}" target="_blank" rel="noopener">📍 Abrir no mapa</a>` : ""}
+    ${l._tipo === "imoveis" ? `<details class="sim" data-id="${escapar(l.id)}"><summary>Simular custo final e financiamento</summary><div class="sim-corpo"></div></details>` : ""}
     <div class="acoes"><a href="${escapar(l.link)}" target="_blank" rel="noopener">Abrir no site do leilão</a></div>
   </article>`;
 }
@@ -656,6 +752,7 @@ const PADRAO = { itbi: 3, comissaoLeilao: 5, registroPct: 1.2, registroMin: 1000
   reformaM2: 300, reformaSemArea: 10000, entrada: 20, juros: 11.5, prazo: 420, corretagem: 6 };
 
 function areaCaixa(l) {
+  if (l.detalhes && l.detalhes.area) return l.detalhes.area;  // Zuk e Frazão já trazem a área
   const d = (l.detalhes && l.detalhes.descricao) || "";
   const m = /([\d.]+) de área privativa/.exec(d) || /([\d.]+) de área total/.exec(d);
   const v = m ? parseFloat(m[1]) : 0;
@@ -673,7 +770,11 @@ function montarSimulador(det) {
   const modalidade = (l.detalhes && l.detalhes.modalidade) || "";
   const comLeiloeiro = /leil|licita/i.test(modalidade);
   const area = areaCaixa(l);
-  const avaliacao = l.valor_avaliacao || 0;
+  const caixa = l.fonte === "Caixa";
+  const terreno = /terreno|lote|rural/i.test(l.categoria || "");
+  const desc = l.detalhes && l.detalhes.desconto_pct;
+  // Sem avaliação informada, estima pelo desconto que o site mostra (lance = avaliação × (1 − desconto))
+  const avaliacao = l.valor_avaliacao || (desc && desc < 95 ? Math.round((l.lance_atual || 0) / (1 - desc / 100)) : 0);
   const merc = MERCADO_CAIXA[l.id];
   const financia = !!(l.detalhes && l.detalhes.financiamento);
   det.querySelector(".sim-corpo").innerHTML = `
@@ -682,10 +783,12 @@ function montarSimulador(det) {
       ${campo("comissao", `Comissão do leiloeiro${comLeiloeiro ? "" : " (venda online: sem leiloeiro)"}`, comLeiloeiro ? PADRAO.comissaoLeilao : 0, "%")}
       ${campo("itbi", "ITBI (prefeitura)", PADRAO.itbi, "%")}
       ${campo("registro", "Registro em cartório + certidões (estimativa)", "", "R$")}
-      ${campo("dividas", "Dívidas de condomínio e IPTU (pior caso: 10% da avaliação)", Math.round(avaliacao * 0.10), "R$")}
-      ${campo("desocupacao", "Desocupação (ocupação não informada)", PADRAO.desocupacao, "R$")}
-      ${campo("reforma", `Reforma${area ? ` (${area} m² × R$ ${PADRAO.reformaM2})` : ""}`, Math.round(area ? area * PADRAO.reformaM2 : PADRAO.reformaSemArea), "R$")}
-      ${campo("mercado", merc ? `Valor de mercado (${escapar(merc.base)})` : "Valor de mercado (sem referência: usando a avaliação da Caixa)", Math.round(merc ? merc.valor : avaliacao), "R$")}
+      ${caixa ? campo("dividas", "Dívidas de condomínio e IPTU (pior caso: 10% da avaliação)", Math.round(avaliacao * 0.10), "R$")
+               : campo("dividas", "Dívidas de condomínio e IPTU (veja no edital quem paga)", 0, "R$")}
+      ${campo("desocupacao", terreno ? "Desocupação (terreno)" : "Desocupação (ocupação não informada)", terreno ? 0 : PADRAO.desocupacao, "R$")}
+      ${campo("reforma", terreno ? "Reforma / obra (terreno: preencha se for construir)" : `Reforma${area ? ` (${area} m² × R$ ${PADRAO.reformaM2})` : ""}`,
+        terreno ? 0 : Math.round(area ? area * PADRAO.reformaM2 : PADRAO.reformaSemArea), "R$")}
+      ${campo("mercado", merc ? `Valor de mercado (${escapar(merc.base)})` : avaliacao ? "Valor de mercado (sem referência: usando a avaliação)" : "Valor de mercado (sem referência: preencha)", Math.round(merc ? merc.valor : avaliacao || l.lance_atual || 0), "R$")}
       ${campo("corretagem", "Custos para revender (corretagem)", PADRAO.corretagem, "%")}
       ${financia ? `
       ${campo("entrada", "Entrada do financiamento", PADRAO.entrada, "%")}
@@ -731,7 +834,7 @@ function calcularSimulador(det, l, financia) {
       linha("1ª parcela (SAC, sem seguros)", dinheiro.format(parcela)) +
       linha("Dinheiro necessário no início (entrada + custos extras)", dinheiro.format(ent + extras), "total") + `</div>`;
   } else {
-    html += `<div class="sim-fin"><b>Só à vista</b> (este imóvel não aceita financiamento)` + linha("Dinheiro necessário", dinheiro.format(total), "total") + `</div>`;
+    html += `<div class="sim-fin"><b>${l.fonte === "Caixa" ? "Só à vista</b> (este imóvel não aceita financiamento)" : "Pagamento conforme o edital</b> (à vista ou parcelado; confira)"}` + linha("Dinheiro necessário (à vista)", dinheiro.format(total), "total") + `</div>`;
   }
   det.querySelector(".sim-resultado").innerHTML = html;
 }

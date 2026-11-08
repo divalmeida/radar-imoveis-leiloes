@@ -35,25 +35,35 @@ def _reais(texto: Optional[str]) -> Optional[float]:
     return float(m.group(1).replace(".", "").replace(",", ".")) if m else None
 
 
+def _local(t: str):
+    """Cidade e UF do lote: o site escreve de jeitos diferentes conforme o leiloeiro."""
+    padroes = [
+        r"Local de Exposi[çc][ãa]o:\s*([A-Za-zÀ-ú .']{3,40}?)\s*[-/]\s*([A-Z]{2})\b",
+        r"\b([A-ZÀ-Ú][A-ZÀ-Ú .'-]{2,40})-([A-Z]{2})\s+\+\s*Comiss",
+        r"Local do Leil[ãa]o:[^:]{0,120}?-\s*([A-Za-zÀ-ú .']{3,40}?)\s*-\s*([A-Z]{2})\b",
+        r"\(([A-ZÀ-Ú][A-ZÀ-Ú .']{2,40})\s*[-/]\s*([A-Z]{2})\)",
+        # "Rio de Janeiro/RJ": até 4 palavras com inicial maiúscula (com "de", "do"... no meio)
+        r"\b([A-ZÀ-Ú][a-zà-ú]+(?:\s+(?:d[aeo]s?\s+)?[A-ZÀ-Ú][a-zà-ú]+){0,3})\s*/\s*([A-Z]{2})\b",
+    ]
+    for padrao in padroes:
+        m = re.search(padrao, t)
+        if m:
+            return nome_cidade(m.group(1)), m.group(2)
+    return "", ""
+
+
 def _detalhe(url: str) -> dict:
     t = _texto(baixar(url).decode("utf-8", "replace"))
     info = {}
-    m = re.search(r"Encerramento:\s*(\d{2})/(\d{2})/(\d{4})\s+(\d{2}:\d{2})", t)
+    m = re.search(r"(?:Encerramento|Data do Leil[ãa]o):\s*(\d{2})/(\d{2})/(\d{4})\s+(\d{2}:\d{2})", t)
     if m:
         d, mes, a, h = m.groups()
         info["encerramento"] = f"{a}-{mes}-{d} {h}"
-    # Local do lote aparece como "CIDADE-UF" logo depois do maior lance
-    m = re.search(r"\b([A-ZÀ-Ú][A-ZÀ-Ú .'-]{2,40})-([A-Z]{2})\s+\+\s*Comiss", t)
-    if m:
-        info["cidade"], info["uf"] = nome_cidade(m.group(1)), m.group(2)
-    m = re.search(r"Comiss[ãa]o:\s*([\d,]+)\s*%", t)
+    info["cidade"], info["uf"] = _local(t)
+    m = re.search(r"Comiss[ãa]o(?:\s*\(|:)\s*([\d,]+)\s*%", t)
     if m:
         info["comissao_pct"] = float(m.group(1).replace(",", "."))
     info["so_pj"] = so_pj(t)
-    if not info.get("cidade"):
-        m = re.search(r"Local do Leil[ãa]o:[^-]{0,80}-\s*([A-Za-zÀ-ú ]{3,30})\s+Configura", t)
-        if m:
-            info["cidade"] = nome_cidade(m.group(1))
     return info
 
 

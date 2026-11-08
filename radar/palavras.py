@@ -13,7 +13,10 @@ _INTERESSE = re.compile(
     r"eletr[ôo]nicos?|eletrodom[ée]sticos?|eletroport[áa]teis|inform[áa]tica|"
     r"geladeiras?|refrigerador(es)?|freezers?|fog[ãa]o|fog[õo]es|micro-?ondas|lava-?lou[çc]as|"
     r"m[áa]quinas? de lavar|lavadoras?|secadoras?|ar[- ]condicionado|split|ventiladores?|"
-    r"liquidificador|airfryer|air fryer|cafeteira|aspirador)\b",
+    r"liquidificador|airfryer|air fryer|cafeteira|aspirador|lava e seca|cervejeira|adega|frigobar|bebedouro|"
+    r"purificador|forno el[ée]trico|cooktop|coifa|depurador|sanduicheira|panela el[ée]trica|fritadeira|batedeira|"
+    r"processador de alimentos|ferro de passar|smartwatch|apple ?watch|rel[óo]gio inteligente|kindle|nobreak|"
+    r"roteador|projetor|soundbar|home theater|receiver|amplificador|caixa ac[úu]stica|alto-?falante)\b",
     re.I,
 )
 # Lotes enormes de sucata ou de equipamentos industriais mencionam "monitor" ou
@@ -28,3 +31,12 @@ def eh_de_interesse(texto: str) -> bool:
 def so_pj(texto: str) -> bool:
     """O lote é só para empresas (CNPJ)?"""
     return bool(re.search(r"(somente|exclusivamente|apenas)\s+(para\s+)?(pessoas?\s+jur[íi]dicas?|PJ|CNPJ|empresas)", texto or "", re.I))
+
+
+_PECA_DE_CARRO = re.compile(r"^\d*\s*pe[çc]as?\b|\b(moldura|pel[íi]cula|multim[íi]dia|farol|lanterna traseira|para-?choque|"
+                            r"retrovisor|automotiv[oa]|ve[íi]cular|r[áa]dio automotivo|central multim|pneus?|rodas?|"
+                            r"parafusos?|amortecedor)\b", re.I)
+
+
+def eh_peca_de_carro(texto: str) -> bool:
+    return bool(_PECA_DE_CARRO.search(texto or ""))
