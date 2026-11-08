@@ -1,0 +1,56 @@
+{
+ "numero": "8444400798566",
+ "analisado_em": "2026-11-08 08:22",
+ "avisos": [
+  "Página do imóvel: a Caixa pediu captcha (anti-robô) para a página do imóvel. Tente de novo mais tarde."
+ ],
+ "matricula_url": "https://venda-imoveis.caixa.gov.br/editais/matricula/BA/8444400798566.pdf",
+ "matricula": {
+  "atos": [
+   {
+    "ato": "AV-6",
+    "titulo": "Erro Evidente",
+    "tipo": "outro",
+    "onus": false,
+    "data": "2022-08-12",
+    "cancela": [],
+    "cancelado": false,
+    "depois_da_consolidacao": false
+   },
+   {
+    "ato": "AV-7",
+    "titulo": "Inserção De Dados Do Imóvel",
+    "tipo": "outro",
+    "onus": false,
+    "data": "2022-08-12",
+    "cancela": [],
+    "cancelado": false,
+    "depois_da_consolidacao": false
+   },
+   {
+    "ato": "AV-8",
+    "titulo": "Consolidação",
+    "tipo": "consolidação da propriedade (Caixa)",
+    "onus": false,
+    "data": "2023-11-17",
+    "cancela": [],
+    "cancelado": false,
+    "depois_da_consolidacao": false
+   }
+  ],
+  "riscos": [
+   {
+    "nivel": "medio",
+    "texto": "A matrícula disponível é de 18/12/2023 (35 meses). Peça a certidão atualizada (ONR) antes de comprar."
+   }
+  ],
+  "pontos_ok": [
+   "Propriedade consolidada em nome da Caixa (retomada por falta de pagamento): normal neste tipo de venda."
+  ],
+  "nota_risco": 8.5,
+  "resumo": "Atenção",
+  "area_registrada": null,
+  "data_documento": "2023-12-18",
+  "caracteres_lidos": 8711
+ }
+}
