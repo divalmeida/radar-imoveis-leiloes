@@ -91,7 +91,8 @@ def analisar_texto(texto: str, data_documento: Optional[str] = None) -> dict:
         # O título classifica; se ele não disser nada, olha o começo do texto do ato
         tipo, onus = _classificar(titulo)
         if tipo == "outro":
-            tipo, onus = _classificar(titulo + " " + corpo[:400])
+            # junta palavras quebradas no fim da linha ("fidu-\nciariamente")
+            tipo, onus = _classificar(titulo + " " + re.sub(r"-\s*\n\s*", "", corpo[:450]).replace("\n", " "))
         # Matrículas antigas não têm título: "R.01- 124.401- DAJ Número ..." vira o tipo do ato
         if re.match(r"DAJ|N[uú]mero|\d", titulo, re.I) or not titulo:
             titulo = tipo
