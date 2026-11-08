@@ -1,12 +1,22 @@
 {
  "numero": "8444400798566",
- "analisado_em": "2026-11-08 08:29",
+ "analisado_em": "2026-11-08 08:31",
  "avisos": [
   "Página do imóvel: a Caixa pediu captcha (anti-robô) para a página do imóvel. Tente de novo mais tarde."
  ],
  "matricula_url": "https://venda-imoveis.caixa.gov.br/editais/matricula/BA/8444400798566.pdf",
  "matricula": {
   "atos": [
+   {
+    "ato": "R-2",
+    "titulo": "Transmissão (Troca De Dono)",
+    "tipo": "transmissão (troca de dono)",
+    "onus": false,
+    "data": "2012-06-14",
+    "cancela": [],
+    "cancelado": false,
+    "depois_da_consolidacao": false
+   },
    {
     "ato": "R-3",
     "titulo": "Outro",
@@ -72,9 +82,6 @@
   "area_registrada": null,
   "data_documento": "2023-12-18",
   "caracteres_lidos": 17131,
-  "cabecalhos_nao_reconhecidos": [
-   "R$12.5324,00 fei HAZIDO FOR COMPRS: pele senhor LUIZ FERMANDO TEIXEIRA",
-   "R$02- 124.401- DAJE Númer: 7.933 série 002 em datá de 14/06/2.012 R$22"
-  ]
+  "cabecalhos_nao_reconhecidos": []
  }
 }
