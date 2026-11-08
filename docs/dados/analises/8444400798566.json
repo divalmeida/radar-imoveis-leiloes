@@ -71,17 +71,25 @@
   "riscos": [
    {
     "nivel": "medio",
+    "texto": "Não consegui ler os atos nº 1, 4 (OCR). Confira no PDF da matrícula se há penhora, hipoteca ou outro ônus."
+   },
+   {
+    "nivel": "medio",
     "texto": "A matrícula disponível é de 18/12/2023 (35 meses). Peça a certidão atualizada (ONR) antes de comprar."
    }
   ],
   "pontos_ok": [
    "Propriedade consolidada em nome da Caixa (retomada por falta de pagamento): normal neste tipo de venda."
   ],
-  "nota_risco": 8.5,
+  "nota_risco": 7.0,
   "resumo": "Atenção",
   "area_registrada": null,
   "data_documento": "2023-12-18",
   "caracteres_lidos": 17131,
+  "atos_nao_lidos": [
+   1,
+   4
+  ],
   "cabecalhos_nao_reconhecidos": []
  }
 }
