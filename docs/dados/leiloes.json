@@ -1,64 +1,64 @@
 {
- "atualizado_em": "2026-11-12 13:27",
+ "atualizado_em": "2026-11-12 13:40",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 484,
-   "segundos": 560
+   "segundos": 598
   },
   "Superbid": {
    "ok": true,
    "lotes": 1346,
-   "segundos": 560
+   "segundos": 598
   },
   "Caixa": {
    "ok": false,
    "erro": "a Caixa pediu captcha (anti-robô) para a planilha de BA",
    "dados_de": "2026-11-10 13:15",
    "lotes": 771,
-   "segundos": 560
+   "segundos": 598
   },
   "Kwara": {
    "ok": true,
    "lotes": 193,
-   "segundos": 560
+   "segundos": 598
   },
   "Mega Leilões": {
    "ok": true,
    "lotes": 19,
-   "segundos": 560
+   "segundos": 598
   },
   "Freitas": {
    "ok": true,
    "lotes": 128,
-   "segundos": 560
+   "segundos": 598
   },
   "Palácio dos Leilões": {
    "ok": true,
-   "lotes": 57,
-   "segundos": 560
+   "lotes": 54,
+   "segundos": 598
   },
   "Parque dos Leilões": {
    "ok": true,
    "lotes": 16,
-   "segundos": 560
+   "segundos": 598
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": false,
    "erro": "João Emílio: Falha ao acessar https://www.joaoemilio.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden; Leilão Prime: Falha ao acessar https://www.leilaoprime.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden; Tudo Leilão: Falha ao acessar https://www.tudoleilao.com.br/lotes/diversos?page=1: HTTP Error 403: Forbidden",
    "dados_de": "2026-11-08 10:09",
    "lotes": 201,
-   "segundos": 560
+   "segundos": 598
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
    "lotes": 209,
-   "segundos": 560
+   "segundos": 598
   },
   "Zuk / Frazão (imóveis BA)": {
    "ok": true,
    "lotes": 49,
-   "segundos": 560
+   "segundos": 598
   }
  },
  "lotes": [
@@ -64564,148 +64564,6 @@
   },
   {
    "fonte": "Palácio dos Leilões",
-   "id": "palacio-1591877",
-   "titulo": "1 - NOTEBOOK ASUS RYZEN5 SERIES7000 VIVOBOOK ...",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-12 10:00",
-   "cidade": "Juatuba",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8882",
-   "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_c279364d9e5dae40f226d6b82a3b5fa9.webp",
-   "observacoes": [
-    "Lote 101 do leilão 8882 (horário aproximado; confira no site)"
-   ],
-   "detalhes": {
-    "comitente": "Outlet MIX",
-    "tipo_lance": "lance inicial"
-   },
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "Palácio dos Leilões",
-   "primeiro_visto": "2026-11-11",
-   "historico_precos": [
-    {
-     "data": "2026-11-11",
-     "preco": 50.0
-    },
-    {
-     "data": "2026-11-11",
-     "preco": 200.0
-    },
-    {
-     "data": "2026-11-12",
-     "preco": 300.0
-    },
-    {
-     "data": "2026-11-12",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": 300.0,
-   "variacao": 300.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 1100.0,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "Palácio dos Leilões",
-   "id": "palacio-1591886",
-   "titulo": "1 - NOTEBOOK POSITIVO MOTION Q232A INTEL 2GB/...",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 300.0,
-   "encerramento": "2026-11-12 10:00",
-   "cidade": "Juatuba",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8882",
-   "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_e52a3e6804b12d8efa6ae2d6eb5462d1.webp",
-   "observacoes": [
-    "Lote 113 do leilão 8882 (horário aproximado; confira no site)"
-   ],
-   "detalhes": {
-    "comitente": "Outlet MIX",
-    "tipo_lance": "lance inicial"
-   },
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "Palácio dos Leilões",
-   "primeiro_visto": "2026-11-11",
-   "historico_precos": [
-    {
-     "data": "2026-11-12",
-     "preco": 100.0
-    },
-    {
-     "data": "2026-11-12",
-     "preco": 300.0
-    }
-   ],
-   "preco_anterior": 100.0,
-   "variacao": 200.0,
-   "variacao_pct": 200.0,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 200.0,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "Palácio dos Leilões",
-   "id": "palacio-1591333",
-   "titulo": "APROXIMADAMENTE 20 ELETRODOMÉSTICOS E UTENSÍL...",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 400.0,
-   "encerramento": "2026-11-12 10:00",
-   "cidade": "Juatuba",
-   "uf": "MG",
-   "publico": "PF e PJ",
-   "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8882",
-   "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_90f7239dbd32a27d9d8ee875450faf50.webp",
-   "observacoes": [
-    "Lote 219 do leilão 8882 (horário aproximado; confira no site)"
-   ],
-   "detalhes": {
-    "comitente": "Outlet MIX",
-    "tipo_lance": "lance inicial"
-   },
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "Palácio dos Leilões",
-   "primeiro_visto": "2026-11-11",
-   "historico_precos": [
-    {
-     "data": "2026-11-11",
-     "preco": 50.0
-    },
-    {
-     "data": "2026-11-11",
-     "preco": 100.0
-    },
-    {
-     "data": "2026-11-12",
-     "preco": 200.0
-    },
-    {
-     "data": "2026-11-12",
-     "preco": 400.0
-    }
-   ],
-   "preco_anterior": 200.0,
-   "variacao": 200.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 700.0,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "Palácio dos Leilões",
    "id": "palacio-1591632",
    "titulo": "1 - COOKTOP A INDUÇÃO PHILCO 4BC (PODENDO...",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -64751,7 +64609,7 @@
    "id": "palacio-1591630",
    "titulo": "REFRIGERADOR ELÉTRICO COOLER 24 LITROS 12V...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
+   "lance_atual": 300.0,
    "encerramento": "2026-11-12 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -64782,13 +64640,17 @@
     {
      "data": "2026-11-12",
      "preco": 250.0
+    },
+    {
+     "data": "2026-11-12",
+     "preco": 300.0
     }
    ],
-   "preco_anterior": 150.0,
-   "variacao": 100.0,
-   "variacao_pct": 66.7,
+   "preco_anterior": 250.0,
+   "variacao": 50.0,
+   "variacao_pct": 20.0,
    "variacao_em": "2026-11-12",
-   "variacao_total_pct": 400.0,
+   "variacao_total_pct": 500.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -64797,7 +64659,7 @@
    "id": "palacio-1591699",
    "titulo": "2 -FOGOES CONSUL 5 BOCAS VFS5N - 1-FOGAO ATLA...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 300.0,
+   "lance_atual": 350.0,
    "encerramento": "2026-11-12 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -64824,13 +64686,17 @@
     {
      "data": "2026-11-12",
      "preco": 300.0
+    },
+    {
+     "data": "2026-11-12",
+     "preco": 350.0
     }
    ],
-   "preco_anterior": 50.0,
-   "variacao": 250.0,
-   "variacao_pct": 500.0,
+   "preco_anterior": 300.0,
+   "variacao": 50.0,
+   "variacao_pct": 16.7,
    "variacao_em": "2026-11-12",
-   "variacao_total_pct": 500.0,
+   "variacao_total_pct": 600.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -65001,7 +64867,7 @@
    "id": "palacio-1591892",
    "titulo": "TABLET MULTILASER M8 WIFI 64GB 1- TABLET M...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 100.0,
+   "lance_atual": 150.0,
    "encerramento": "2026-11-12 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -65024,14 +64890,19 @@
     {
      "data": "2026-11-12",
      "preco": 100.0
+    },
+    {
+     "data": "2026-11-12",
+     "preco": 150.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 100.0,
+   "variacao": 50.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-12",
+   "variacao_total_pct": 50.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -65045,7 +64916,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8882",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_dbb7d5b944918a0e8c698f0a1589a80b.webp",
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_2f8812aaad33aafef8b42723467c5202.webp",
    "observacoes": [
     "Lote 504 do leilão 8882 (horário aproximado; confira no site)"
    ],
@@ -68152,7 +68023,7 @@
    "id": "palacio-1591938",
    "titulo": "FORNO ELÉTRICO 48 LITROS C/ ESPETO GIRATÓRI...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 50.0,
+   "lance_atual": 100.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -68173,14 +68044,19 @@
     {
      "data": "2026-11-12",
      "preco": 50.0
+    },
+    {
+     "data": "2026-11-12",
+     "preco": 100.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 50.0,
+   "variacao": 50.0,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-12",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -68217,7 +68093,7 @@
    "id": "palacio-1592587",
    "titulo": "FORNO ELÉTRICO LUXO PREMYUM ADV INOX 65 LI...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": null,
+   "lance_atual": 50.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -68228,13 +68104,18 @@
    "observacoes": [],
    "detalhes": {
     "comitente": "Mega Atacado",
-    "tipo_lance": "lance inicial"
+    "tipo_lance": "último lance"
    },
    "prioridade": false,
    "destaque": false,
    "coletor": "Palácio dos Leilões",
    "primeiro_visto": "2026-11-12",
-   "historico_precos": [],
+   "historico_precos": [
+    {
+     "data": "2026-11-12",
+     "preco": 50.0
+    }
+   ],
    "preco_anterior": null,
    "variacao": null,
    "variacao_pct": null,
@@ -68428,7 +68309,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8899",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/d54499b6de7432b82133bb3883bc6669.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -68673,7 +68554,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8899",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/0ef268be4e6a96ddeb64a11d844b41e5.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -69383,7 +69264,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/d886d238dccb072129738020ad915555.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -69427,7 +69308,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/de12b3c7f6a20d592bb24e38dea2b7a5.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -69457,7 +69338,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/7fb85ea132c152cffa175ed7a4d7556b.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -69487,7 +69368,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/a7a33913d8f9c902328589a0139ed6ba.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -69522,7 +69403,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/002_0d11f9521942f5d90b5c38d29b9d111c.webp",
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/002_6d9a576d6089c27bc9ad15a2a5d32dc1.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -69552,7 +69433,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/8cbf807d994c63b1ed8428e459e6e337.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -69582,7 +69463,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/55adffad9d555859ebfa46d662b9bb8f.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -69612,7 +69493,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/aed52f976c244242ca784d0cfbf273af.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -69642,7 +69523,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/70586b8b189e136fb147226dd6ed9a93.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -69672,7 +69553,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/3999e578a49c714afb3672d7cf4b88aa.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -69702,7 +69583,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/d155bbaacf292bef9fb131728da2ecaa.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -69732,7 +69613,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/f7d4ecec0fa1473a562027ebd58dd8bf.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -69762,7 +69643,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_e351e476447e16f6e1254d28875a7c14.webp",
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_e62ddb29c3da287932befbe84a89c0ec.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -69872,7 +69753,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_0e6532c45e3580ceddb1284df8e831a0.webp",
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_41a36b3d475c08994621060877b2b9ca.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Materiais e Mini Motos",
@@ -69912,7 +69793,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/089ffa6ffec6efe756fc89a67caac8eb.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -69947,7 +69828,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/90a8ec6927f0a7f51d80e7b2ff839e60.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -69982,7 +69863,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/d33256853247864ac60057d267ae4e8b.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -70012,7 +69893,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/8a5279564e8a4ed6ffd8771fd6215bc4.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -70047,7 +69928,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/ef2ca1c27c59422ad78281f4ce0c5d20.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -70077,7 +69958,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/e9ca69c9fa5f09eaa160edabe4818f48.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -70107,7 +69988,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/01028e3fceec9e197b34e6e84f731e99.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -70137,7 +70018,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": null,
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/4dfaffa6b8c096a7307871ffab5a3820.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
