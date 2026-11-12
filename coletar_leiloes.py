@@ -31,11 +31,17 @@ ARQUIVO_SAIDA = Path(__file__).parent / "docs" / "dados" / "leiloes.json"
 FUSO_BRASILIA = timezone(timedelta(hours=-3))
 
 
+def _ler_saida() -> dict:
+    try:
+        return json.loads(ARQUIVO_SAIDA.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+
+
 def _anteriores() -> dict:
     """Lotes da coleta anterior, por coletor (usados quando um coletor falha)."""
-    try:
-        dados = json.loads(ARQUIVO_SAIDA.read_text(encoding="utf-8"))
-    except (OSError, ValueError):
+    dados = _ler_saida()
+    if not dados:
         return {}
     por_coletor: dict = {}
     for lote in dados.get("lotes", []):
@@ -50,6 +56,7 @@ def main() -> None:
     lotes = []  # (nome do coletor, Lote)
     status = {}
     anteriores = _anteriores()
+    fontes_antes = _ler_saida().get("fontes", {})
     # Cópia por id, antes de qualquer alteração, para o histórico de preço
     por_id = {l["id"]: dict(l) for lista in anteriores.values() for l in lista}
     guardados = []  # lotes mantidos da coleta anterior (já em formato de dicionário)
@@ -80,6 +87,9 @@ def main() -> None:
                     lote.pop("_coletado_em", None)
                 guardados.extend(antigos)
                 status[nome]["lotes"] = len(antigos)
+                if fontes_antes.get(nome, {}).get("local"):
+                    # Site que recusa a nuvem: a lista vem da coleta feita no Mac (coletar_no_mac.py)
+                    status[nome] = {"ok": True, "lotes": len(antigos), "dados_de": status[nome]["dados_de"], "local": True}
                 print(f"[{nome}] mantidos {len(antigos)} lotes da coleta de {status[nome]['dados_de']}", flush=True)
         finally:
             pool.terminate()

@@ -125,10 +125,14 @@ def mensagem_leiloes(dados: dict, anterior: dict, sempre: bool) -> str:
         return ""
     agora = datetime.now(FUSO).replace(tzinfo=None)
     ids_antes = {l["id"] for l in anterior.get("lotes", [])}
+    # Novidades da Caixa coletadas no Mac desde a última coleta na nuvem ainda não foram avisadas
+    pendente = (anterior.get("fontes", {}).get("Caixa") or {})
+    ids_antes -= set(pendente.get("novos_pendentes", []))
     lotes = dados.get("lotes", [])
 
     caixa_novos = [l for l in lotes if l["fonte"] == "Caixa" and l.get("prioridade") and anterior and l["id"] not in ids_antes]
     precos_antes = {l["id"]: l.get("lance_atual") for l in anterior.get("lotes", [])}
+    precos_antes.update(pendente.get("precos_pendentes", {}))
     caixa_baixou = [l for l in lotes if l["fonte"] == "Caixa" and l.get("prioridade") and precos_antes.get(l["id"])
                     and l.get("lance_atual") and l["lance_atual"] < precos_antes[l["id"]]]
     encerrando = []
