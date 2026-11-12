@@ -92,9 +92,26 @@ def _ler_planilha(conteudo: bytes) -> List[Lote]:
     return lotes
 
 
+def _planilha_baixada(uf: str) -> bytes:
+    """Planilha que VOCÊ baixou no navegador (resolvendo o captcha) e que está em Downloads.
+    Só vale se tiver até 2 dias. Usada no Mac quando a Caixa recusa o download automático."""
+    import time
+    from pathlib import Path
+    try:
+        arquivos = sorted(Path.home().joinpath("Downloads").glob(f"Lista_imoveis_{uf}*.csv"), key=lambda a: a.stat().st_mtime)
+    except OSError:
+        return b""
+    if arquivos and time.time() - arquivos[-1].stat().st_mtime < 2 * 86400:
+        print(f"[Caixa] {uf}: usando a planilha baixada por você ({arquivos[-1].name})", flush=True)
+        return arquivos[-1].read_bytes()
+    return b""
+
+
 def coletar() -> List[Lote]:
     lotes: List[Lote] = []
     for uf, conteudo in _baixar_planilhas(UFS_CAIXA).items():
+        if not _eh_planilha(conteudo):
+            conteudo = _planilha_baixada(uf)
         if not _eh_planilha(conteudo):
             raise RuntimeError(f"a Caixa pediu captcha (anti-robô) para a planilha de {uf}")
         da_uf = _ler_planilha(conteudo)
