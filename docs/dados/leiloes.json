@@ -14,9 +14,10 @@
   "Caixa": {
    "ok": true,
    "lotes": 794,
-   "dados_de": "2026-11-12 19:28",
+   "dados_de": "2026-11-13 08:24",
    "local": true,
-   "segundos": 542
+   "novos_pendentes": [],
+   "precos_pendentes": {}
   },
   "Kwara": {
    "ok": true,
@@ -45,10 +46,17 @@
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
-   "lotes": 216,
-   "dados_de": "2026-11-12 13:46",
+   "lotes": 209,
+   "dados_de": "2026-11-13 08:24",
    "local": true,
-   "segundos": 542
+   "novos_pendentes": [],
+   "precos_pendentes": {
+    "leilaoprime-3887": 64.0,
+    "leilaoprime-4274": 740.28,
+    "leilaoprime-4291": 1562.66,
+    "tudoleilao-18393": 507.58,
+    "tudoleilao-19128": 1290.0
+   }
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -135892,7 +135900,7 @@
    "id": "leilaoprime-3887",
    "titulo": "Cooktop 4 Bocas Itatiaia Essencial com Mesa de Vidro Temperado BIVOLT",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 64.0,
+   "lance_atual": 94.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -135916,15 +135924,19 @@
     {
      "data": "2026-11-12",
      "preco": 64.0
+    },
+    {
+     "data": "2026-11-13",
+     "preco": 94.0
     }
    ],
-   "preco_anterior": 153.0,
-   "variacao": -89.0,
-   "variacao_pct": -58.2,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": -58.2,
-   "baixou_preco": true,
-   "subiu_preco": false
+   "preco_anterior": 64.0,
+   "variacao": 30.0,
+   "variacao_pct": 46.9,
+   "variacao_em": "2026-11-13",
+   "variacao_total_pct": -38.6,
+   "baixou_preco": false,
+   "subiu_preco": true
   },
   {
    "fonte": "Leilão Prime",
@@ -137858,7 +137870,7 @@
    "id": "leilaoprime-4274",
    "titulo": "Caixa de som Bluetooth JBL Boombox 4 azul",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 740.28,
+   "lance_atual": 800.28,
    "encerramento": "2026-11-23 14:00",
    "cidade": "Vargem Grande Paulista",
    "uf": "SP",
@@ -137878,14 +137890,19 @@
     {
      "data": "2026-11-12",
      "preco": 740.28
+    },
+    {
+     "data": "2026-11-13",
+     "preco": 800.28
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 740.28,
+   "variacao": 60.0,
+   "variacao_pct": 8.1,
+   "variacao_em": "2026-11-13",
+   "variacao_total_pct": 8.1,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Leilão Prime",
@@ -138266,7 +138283,7 @@
    "id": "leilaoprime-4291",
    "titulo": "Smart TV TCL 65 polegadas QLED 4K P7K Google TV",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1562.66,
+   "lance_atual": 1592.66,
    "encerramento": "2026-11-23 14:00",
    "cidade": "Vargem Grande Paulista",
    "uf": "SP",
@@ -138286,14 +138303,19 @@
     {
      "data": "2026-11-12",
      "preco": 1562.66
+    },
+    {
+     "data": "2026-11-13",
+     "preco": 1592.66
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1562.66,
+   "variacao": 30.0,
+   "variacao_pct": 1.9,
+   "variacao_em": "2026-11-13",
+   "variacao_total_pct": 1.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Leilão Prime",
@@ -138637,248 +138659,10 @@
   },
   {
    "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18489",
-   "titulo": "LOTE. 4 1 Apple Watch series 3 38mm Silver Aluminum white Sport Bancd (GPS) Produtos desbloqueados. Itens provenientes de logística reversa e NÃO TESTADOS. Consulte o edital para mais informações. Não fazemos entregas.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 990.0,
-   "encerramento": "2026-11-12 20:00",
-   "cidade": "Cotia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18489/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016348/img-16348-6ae5fbbe907f6.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 990.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18490",
-   "titulo": "LOTE. 5 1 Apple Watch series 7 Midnight Aluminum Case Midnigth Sport Band 41mm Produtos desbloqueados. Itens provenientes de logística reversa e NÃO TESTADOS. Consulte o edital para mais informações. Não fazemos entregas.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1790.0,
-   "encerramento": "2026-11-12 20:00",
-   "cidade": "Cotia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18490/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016349/img-16349-6ae519e091d8d.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1790.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18491",
-   "titulo": "LOTE. 6 1 Apple Watch SE 3 44m Starlight SB Produtos desbloqueados. Itens provenientes de logística reversa e NÃO TESTADOS. Consulte o edital para mais informações. Não fazemos entregas.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1390.0,
-   "encerramento": "2026-11-12 20:00",
-   "cidade": "Cotia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18491/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016350/img-16350-6ae519210f0ee.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1390.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18492",
-   "titulo": "LOTE. 7 1 Apple Watch Series 8 41mm Midnight Aluminum Case Midnight Sport Band Produtos desbloqueados. Itens provenientes de logística reversa e NÃO TESTADOS. Consulte o edital para mais informações. Não fazemos entregas.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1690.0,
-   "encerramento": "2026-11-12 20:00",
-   "cidade": "Cotia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18492/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016351/img-16351-6ae5196d0605c.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1690.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18493",
-   "titulo": "LOTE. 8 1 Apple Watch SE Gen 2 40mm Midnight AI Midnight SL GPS Produtos desbloqueados. Itens provenientes de logística reversa e NÃO TESTADOS. Consulte o edital para mais informações. Não fazemos entregas.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1390.0,
-   "encerramento": "2026-11-12 20:00",
-   "cidade": "Cotia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18493/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016352/img-16352-6ae51b137e15f.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1390.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18494",
-   "titulo": "LOTE. 9 1 Apple Watch Series 3 42mm Silver Aluminum White Sport Band GPS Produtos desbloqueados. Itens provenientes de logística reversa e NÃO TESTADOS. Consulte o edital para mais informações. Não fazemos entregas.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1100.0,
-   "encerramento": "2026-11-12 20:00",
-   "cidade": "Cotia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18494/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016353/img-16353-6ae51a5a0ed3f.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1100.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18495",
-   "titulo": "LOTE. 10 1 Apple Watch Series 9 GPS • Caixa estelar de alumínio – 45 mm • Pulseira loop esportiva estelar Produtos desbloqueados. Itens provenientes de logística reversa e NÃO TESTADOS. Consulte o edital para mais informações. Não fazemos entregas.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 2190.0,
-   "encerramento": "2026-11-12 20:00",
-   "cidade": "Cotia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18495/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016354/img-16354-6ae51addb97a5.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 2190.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
    "id": "tudoleilao-18393",
    "titulo": "LOTE. 2 1 SAND/GRILL MONDIAL MASTER S-20 PT/INOX 110V 1 FRIT ELET MONDIAL AF35-BF MK NE 3,5L PTO 127V 1 MINI PROCES MONDIAL TURBO PRATIC MP-16 PTO 110V 1 ESC ALISADORA EA-06 BLACK GOLD ARGAN MONDIAL BIV 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE ",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 507.58,
+   "lance_atual": 607.58,
    "encerramento": "2026-11-13 11:00",
    "cidade": "São José dos Pinhais",
    "uf": "PR",
@@ -138898,14 +138682,19 @@
     {
      "data": "2026-11-08",
      "preco": 507.58
+    },
+    {
+     "data": "2026-11-13",
+     "preco": 607.58
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 507.58,
+   "variacao": 100.0,
+   "variacao_pct": 19.7,
+   "variacao_em": "2026-11-13",
+   "variacao_total_pct": 19.7,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Tudo Leilão",
@@ -139699,7 +139488,7 @@
    "id": "tudoleilao-19128",
    "titulo": "LOTE 42. 1 - Macbook Air de 13 Polegadas com chip M1 - 8GB Mmeória - 256GB SSD 1 - Magic Mouse 2 Itens provenientes de logística reversa. Não fazemos entregas. Ler o edital para mais informações.",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1290.0,
+   "lance_atual": 1590.0,
    "encerramento": "2026-11-16 20:00",
    "cidade": "Cotia",
    "uf": "SP",
@@ -139719,14 +139508,19 @@
     {
      "data": "2026-11-12",
      "preco": 1290.0
+    },
+    {
+     "data": "2026-11-13",
+     "preco": 1590.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1290.0,
+   "variacao": 300.0,
+   "variacao_pct": 23.3,
+   "variacao_em": "2026-11-13",
+   "variacao_total_pct": 23.3,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Tudo Leilão",
