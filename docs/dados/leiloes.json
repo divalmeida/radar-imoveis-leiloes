@@ -14,9 +14,10 @@
   "Caixa": {
    "ok": true,
    "lotes": 794,
-   "dados_de": "2026-11-13 08:24",
+   "dados_de": "2026-11-13 19:24",
    "local": true,
-   "segundos": 529
+   "novos_pendentes": [],
+   "precos_pendentes": {}
   },
   "Kwara": {
    "ok": true,
@@ -46,9 +47,29 @@
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
    "lotes": 209,
-   "dados_de": "2026-11-13 08:24",
+   "dados_de": "2026-11-13 19:24",
    "local": true,
-   "segundos": 529
+   "novos_pendentes": [
+    "joaoemilio-212141",
+    "joaoemilio-212142",
+    "joaoemilio-212149",
+    "joaoemilio-212150",
+    "joaoemilio-212151",
+    "joaoemilio-212162",
+    "joaoemilio-212163",
+    "joaoemilio-212165",
+    "joaoemilio-212166",
+    "joaoemilio-212167",
+    "joaoemilio-212169",
+    "joaoemilio-212171",
+    "joaoemilio-212172",
+    "joaoemilio-212173",
+    "joaoemilio-212174",
+    "tudoleilao-19160"
+   ],
+   "precos_pendentes": {
+    "tudoleilao-19128": 1590.0
+   }
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -138987,215 +139008,6 @@
   },
   {
    "fonte": "João Emílio",
-   "id": "joaoemilio-210118",
-   "titulo": "LOTE COMPOSTE DE: 15 CPUs (FALTANDO PEÇAS), 08 MONITORES, 04 NOTBOOKs, 01 NETBOOK, 01 SWITCH, 17 TECLADOS, 01 RELOGIO DE PONTO, 01 TELEFONE SEM FIO, 01 ARMARIO DE FERRO, 04 MESAS, 01 QUADRO BRANCO, PRATILEIRAS, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 700.0,
-   "encerramento": "2026-11-17 11:00",
-   "cidade": "Itaguai",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/210118/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349758/img-349758-6ad27eec797b6.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 700.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-210119",
-   "titulo": "LOTE COMPOSTE DE: 11 ESTANTES DE FERRO, 09 ARMARIOS DE FERRO, 01 ARMARIO ALTO, 01 MESA, 01 LONGARINA, 10 CPUs (FALTANDO PEÇAS), 03 MONITORES, 05 IMPRESSORAS, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1610.0,
-   "encerramento": "2026-11-17 11:00",
-   "cidade": "Itaguai",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/210119/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349759/img-349759-6ad27ef3729b4.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1566.0
-    },
-    {
-     "data": "2026-11-12",
-     "preco": 1610.0
-    }
-   ],
-   "preco_anterior": 1566.0,
-   "variacao": 44.0,
-   "variacao_pct": 2.8,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 2.8,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-210121",
-   "titulo": "LOTE COMPOSTE DE: 119un (Aproximadamente) NOBREAKs/ ESTABILIZADORES, 27 IMPRESSORAS, 01 IMPRESSORA DE CHEQUE, 01 HORODATOR II, 33 MONITORES, 03 SWITCH, 07 FAXs, 03 RELOGIOS DE PONTO, 02 CALCULADORAS, 02 TELEFONES, 01 TELA DE PROJEÇÃO, 09 PURIFICADORE",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3200.0,
-   "encerramento": "2026-11-17 11:00",
-   "cidade": "Itaguai",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/210121/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349761/img-349761-6ad27f05678d2.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 3200.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-210126",
-   "titulo": "LOTE COMPOSTE DE: 01 REFRIGERADOR CONSUL 370 127v, 01 ARMARIO DE COZINHA, 01 MESA, 01 MESINHA, 01 TABUA P/ BOLO, 05 CADEIRAS, 01 QUADRO DE AVISO, 01 RELOGIO DE PAREDE, 01 SUPORTE DE PAPEL, 01 PORTA COPO DESCARTAVEL, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 300.0,
-   "encerramento": "2026-11-17 11:00",
-   "cidade": "Itaguai",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/210126/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349766/img-349766-6ad27f2846dbf.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 300.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-210127",
-   "titulo": "LOTE COMPOSTE DE: 04 CADEIRAS, 02 GAVETEIROS, 02 MESINHA DE APOIO, 01 QUADRO BRANCO, 02 QUADROS DE AVISO, 02 ARMARIOS SUSPENSOS, 01 NOBREAK, 01 FURADOR DE PAPEL, PRATELEIRAS e BANCADAS, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 400.0,
-   "encerramento": "2026-11-17 11:00",
-   "cidade": "Itaguai",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/210127/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349767/img-349767-6ad27f304dacb.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 400.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-210131",
-   "titulo": "LOTE COMPOSTE DE: 17 CPUs (FALTANDO PEÇAS), 06 NOBREAKs, 01 MONITOR, 01 SCANER, 01 UNIDADE DE FITA EXTERNA LTO 6 ULTRIUM 6250, 01 IMPRESSORA, 01 PAINEL DE ALARME GARD 10 COM SENSOR, , NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 700.0,
-   "encerramento": "2026-11-17 11:00",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/210131/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349771/img-349771-6ad27f4db459b.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 700.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
    "id": "joaoemilio-211825",
    "titulo": "01 MACBOOK AIR APPLE I5-3317U, MOD.: MD223, 2-CORE, 4GB, ANO 2012, N/S C02JP4S9DRV6 (OBS: BATERIA ESTUFADA), NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -141445,108 +141257,6 @@
   },
   {
    "fonte": "João Emílio",
-   "id": "joaoemilio-211767",
-   "titulo": "LOTE COMPOSTO DE: 08 INTERFACES CELULARES INTELBRAS ITC 4100, 19 ESTABILIZADORES, 15 TECLADOS POSITIVO, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 800.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211767/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349263/img-349263-6ab6a4067dac5.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 800.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211754",
-   "titulo": "LOTE COMPOSTO DE: 01 BEBEDOURO DE 4 SAÍDAS, 01 BEBEDOURO DE 2 SAÍDAS, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 800.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211754/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000348502/img-348502-6a919d67e58bc.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 800.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211755",
-   "titulo": "LOTE DE INFORMATICA COMPOSTO DE: 05 MONITORES DELL 17 POLEGADAS, 01 MONITOR DELL P2319H, 01 MONITOR LG FLATRON, 01 MONITOR ACER V196HQL, 01 MONITOR AOC E2270SWDN DE 21,5 POLEGADAS, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1600.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211755/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000348503/img-348503-6a919c4f90749.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
    "id": "joaoemilio-211756",
    "titulo": "LOTE DE EQUIPAMENTOS DE ÁUDIO E ILUMINAÇÃO COMPOSTO DE: 01 MESA/ CONTROLADORA DMX 12/24 CANAIS, 01 CABEÇOTE/ AMPLIFICADORES MULITUSO WATTSON, 03 CAIXAS DE SOM MULTIUSO ONEL, 02 CAIXAS DE SOM ACÚSTICA PASSIVA, NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -141570,40 +141280,6 @@
     {
      "data": "2026-11-08",
      "preco": 1200.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211760",
-   "titulo": "LOTE DE INFORMATICA COMPOSTO DE: 06 COMPUTADORES (marcas e modelos diferentes), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 240.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211760/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000348517/img-348517-6a919d0e69575.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 240.0
     }
    ],
    "preco_anterior": null,
@@ -141683,40 +141359,6 @@
   },
   {
    "fonte": "João Emílio",
-   "id": "joaoemilio-211866",
-   "titulo": "LOTE COMPOSTO DE: 03 CONDICIONADORES DE AR, 01 AR CONDICIONADO PORTÁTIL, (MARCA MODELO/ TIPOS DIVERENTES), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1200.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211866/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://www.joaoemilio.com.br/site/images/sem-imagem-lote.jpg?modified=20240531",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1200.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
    "id": "joaoemilio-211768",
    "titulo": "LOTE COMPOSTO DE: 01 IMPRESSORA MULTFUNCIONAL HP OFFICE JET PRO 8500, 01 IMPRESSORA SAMSUNG LASER SCX 4200, 01 IMPRESSORA HP ADVANTEGE 2676, 01 IMPRESSORA PLOTER HP DESIGNER 1111, 01 IMPRESSORA MATRICIAL CANON BJC5500, 01 IMPRESSORA PLOTER HP DESIGNE",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -141740,6 +141382,725 @@
     {
      "data": "2026-11-08",
      "preco": 500.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-210118",
+   "titulo": "LOTE COMPOSTE DE: 15 CPUs (FALTANDO PEÇAS), 08 MONITORES, 04 NOTBOOKs, 01 NETBOOK, 01 SWITCH, 17 TECLADOS, 01 RELOGIO DE PONTO, 01 TELEFONE SEM FIO, 01 ARMARIO DE FERRO, 04 MESAS, 01 QUADRO BRANCO, PRATILEIRAS, NO ESTADO.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 700.0,
+   "encerramento": "2026-11-24 11:00",
+   "cidade": "Itaguai",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/210118/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349758/img-349758-6ad27eec797b6.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-08",
+   "historico_precos": [
+    {
+     "data": "2026-11-08",
+     "preco": 700.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-210119",
+   "titulo": "LOTE COMPOSTE DE: 11 ESTANTES DE FERRO, 09 ARMARIOS DE FERRO, 01 ARMARIO ALTO, 01 MESA, 01 LONGARINA, 10 CPUs (FALTANDO PEÇAS), 03 MONITORES, 05 IMPRESSORAS, NO ESTADO.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1610.0,
+   "encerramento": "2026-11-24 11:00",
+   "cidade": "Itaguai",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/210119/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349759/img-349759-6ad27ef3729b4.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-08",
+   "historico_precos": [
+    {
+     "data": "2026-11-08",
+     "preco": 1566.0
+    },
+    {
+     "data": "2026-11-12",
+     "preco": 1610.0
+    }
+   ],
+   "preco_anterior": 1566.0,
+   "variacao": 44.0,
+   "variacao_pct": 2.8,
+   "variacao_em": "2026-11-12",
+   "variacao_total_pct": 2.8,
+   "baixou_preco": false,
+   "subiu_preco": true
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-210121",
+   "titulo": "LOTE COMPOSTE DE: 119un (Aproximadamente) NOBREAKs/ ESTABILIZADORES, 27 IMPRESSORAS, 01 IMPRESSORA DE CHEQUE, 01 HORODATOR II, 33 MONITORES, 03 SWITCH, 07 FAXs, 03 RELOGIOS DE PONTO, 02 CALCULADORAS, 02 TELEFONES, 01 TELA DE PROJEÇÃO, 09 PURIFICADORE",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3200.0,
+   "encerramento": "2026-11-24 11:00",
+   "cidade": "Itaguai",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/210121/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349761/img-349761-6ad27f05678d2.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-08",
+   "historico_precos": [
+    {
+     "data": "2026-11-08",
+     "preco": 3200.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-210126",
+   "titulo": "LOTE COMPOSTE DE: 01 REFRIGERADOR CONSUL 370 127v, 01 ARMARIO DE COZINHA, 01 MESA, 01 MESINHA, 01 TABUA P/ BOLO, 05 CADEIRAS, 01 QUADRO DE AVISO, 01 RELOGIO DE PAREDE, 01 SUPORTE DE PAPEL, 01 PORTA COPO DESCARTAVEL, NO ESTADO.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 300.0,
+   "encerramento": "2026-11-24 11:00",
+   "cidade": "Itaguai",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/210126/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349766/img-349766-6ad27f2846dbf.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-08",
+   "historico_precos": [
+    {
+     "data": "2026-11-08",
+     "preco": 300.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-210127",
+   "titulo": "LOTE COMPOSTE DE: 04 CADEIRAS, 02 GAVETEIROS, 02 MESINHA DE APOIO, 01 QUADRO BRANCO, 02 QUADROS DE AVISO, 02 ARMARIOS SUSPENSOS, 01 NOBREAK, 01 FURADOR DE PAPEL, PRATELEIRAS e BANCADAS, NO ESTADO.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 400.0,
+   "encerramento": "2026-11-24 11:00",
+   "cidade": "Itaguai",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/210127/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349767/img-349767-6ad27f304dacb.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-08",
+   "historico_precos": [
+    {
+     "data": "2026-11-08",
+     "preco": 400.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-210131",
+   "titulo": "LOTE COMPOSTE DE: 17 CPUs (FALTANDO PEÇAS), 06 NOBREAKs, 01 MONITOR, 01 SCANER, 01 UNIDADE DE FITA EXTERNA LTO 6 ULTRIUM 6250, 01 IMPRESSORA, 01 PAINEL DE ALARME GARD 10 COM SENSOR, , NO ESTADO.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 700.0,
+   "encerramento": "2026-11-24 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/210131/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349771/img-349771-6ad27f4db459b.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-08",
+   "historico_precos": [
+    {
+     "data": "2026-11-08",
+     "preco": 700.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212162",
+   "titulo": "1 LOTE DE CAPAS DE CELULAR; 1 LOTE DE PELÍCULA PARA CELULAR; 3 CAPACETES INFANTIS (DPE: 6668-26 - PROC.: 3041727-69.2026.8.19.0001).",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 9760.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212162/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350359/img-350359-6af6596d84fb0.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 9760.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212142",
+   "titulo": "7 (SETE) CPUS, 5 (CINCO) NOTEBOOKS (DPE: 4313-23 - PROC.: 0260696-78.2021.8.19.0001).",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 6250.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212142/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000344089/img-344089-6af65974651b3.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 6250.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212163",
+   "titulo": "3 MESAS C/2 CADEIRAS; 1 ORGANIZADOR C/ 3 GAVETAS PLASTICO, 1 LOTE DE ROUPAS; 1POLTRONA; 2 COOLER, 1 ASPIRADOR; 2 CAMAS DE SOLTEIRO C/ COLCHÃO, 1 TV; 1 SOFÁ, 1 VENTILADOR; 1 FILTRO DE ÁGUA, 1 MESA PLÁSTICA; 1 MÁQUINA DE LAVAR; 1 RACK; 1 GELADEIRA (DPE",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 580.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212163/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350360/img-350360-6af6597d0a34a.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 580.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212141",
+   "titulo": "2 (DOIS) ROLOS DE FIO, 1 (UM) (UMA) UNIDADE EVAPORADORA DE AR CONDICIONADO (DPE: 3863-23 - PROC.: 0094641-79.2017.8.19.0001).",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 5420.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212141/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000344088/img-344088-6af6598768fd2.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 5420.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212165",
+   "titulo": "2 ESPELHOS COM MOLDURAS; 1 MESA COM TAMPO DE VIDRO; 1 GELADEIRA; 1 LOTE DE UTENSÍLIOS DIVERSOS; 1 MOVEL BUFFET C/3 PORTAS; 3 QUADROS; 1 MÁQUINA DE LAVAR; 1 FOGÃO; 1 SECADORA 10KG ATINA; 1 GUARDA ROUPAS DUAS PORTAS; 4 CADEIRAS; 1 ESTANTE PEQUENAS MADE",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1650.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212165/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350362/img-350362-6af659903dc78.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 1650.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212166",
+   "titulo": "1 GUARDA ROUPAS 3 PORTAS DESMONTADO; 1 FOGÃO CONTINENTAL 4 BOCAS; 1 MAQUINA DE LAVAR BRASTEMP; 1 GELADEIRA BRASTEMP; 1 LOTE DE CAIXA COM UTENSILIOS DIVERSOS; 1 TECLADO YAMAHA; 1 TV 32 POLEGADAS LG; 1 MESA REDONDA DE MÁRMORE; 1 CAMA BOX; 1 SKATE; 1 VA",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4840.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212166/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350363/img-350363-6af659a75b144.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 4840.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212167",
+   "titulo": "1 LOTE DE UTENSÍLIOS DIVERSOS; 1 LOTE DE QUADRO DECORATIVO, 2 (DUAS) TELEVISOÕES TURBOS; 1 LOTES DE MESA; 2 SOFÁS; 1 CAMA DE SOLTEIRO S/COLCHÃO; 1 ROÇADEIRA; 1 LOTE DE CADEIRA; 1 GELADEIRA; 2 CAIXAS DE SOM; 2 APARADORES; 2 ARMÁRIOS DE MADEIRA; 1 ROUP",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 840.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212167/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350364/img-350364-6af659ac9d6a3.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 840.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212169",
+   "titulo": "2 LOTES DE ROUPAS; 1 TV DE TUBO PANASONIC; 1 MONITOR; 2 CADEIRAS (UMA COM TAMPO E OUTRA SEM); 2 LOTES DE UTENSÍLIOS DE COZINHA; 1 FOGÃO 6 BOCAS; 1 TV DE TUBO TOSHIBA; 1 FOGÃO ELÉTRICO 1 BOCA; 1 FOGÃO 4 BOCAS; 1 TV TELA PLANA LG (TELA TRINCADA); 1 TV ",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 26790.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212169/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350366/img-350366-6af659ca7804b.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 26790.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212171",
+   "titulo": "1 FOGÃO; 2 PORTAS DE GUARDA ROUPA C/ESPELHO; 4 GAVETAS DE GUARDA ROUPA; 1 SACOLA COM ROUPA DE CAMA; 1 CADEIRA DE MADEIRA; 1 CAMA BOX; 2 COLCHÕES DE CASAL; 1 MESA DESMONTADA COM VIDRO TRINCADO; 1 MÁQUINA DE LAVAR; 1 LOTE DE UTENSILIOS; 1 CABIDEIRO DE ",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 2370.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212171/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350368/img-350368-6af659c7e96cc.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 2370.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212172",
+   "titulo": "1 CELULAR (DPE: 9268-24 - PROC.: 0844236-59.2024.8.19.0001).",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1000.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212172/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350369/img-350369-6af65aba3f745.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 1000.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212173",
+   "titulo": "1 RÁDIO COMUNICADOR (DPE: 0122-25 - PROC.: 0919911-28.2024.8.19.0001). 10 CELULARES; 1 PEN DRIVE; 3 PORTAS MOEDAS (DPE: 0126-25 - PROC.: 0004175-76.2017.8.19.0021). 2 CELULARES (DPE: 10141-24 - PROC.: 0819658-91.2022.8.19.0004). 1 CELULAR (DPE: 2454-",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 540.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212173/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350370/img-350370-6af659d258681.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 540.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212174",
+   "titulo": "1 (UM) NOTEBOOK, 5 (CINCO) TELEFONES CELULARES (DPE: 2179-25 - PROC.: 0823579-33.2023.8.19.0001). 1 CELULAR (DPE: 9797-24 - PROC.: 0915220-68.2024.8.19.0001).",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 2100.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212174/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350371/img-350371-6af659da9f764.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 2100.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212150",
+   "titulo": "5 (CINCO) TELEFONES CELULARES, 2 (DOIS) RELÓGIOS (DPE: 7126-20 - PROC.: 0001706-79.2017.8.19.0046).",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3450.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212150/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349596/img-349596-6af659e11b88f.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 3450.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212151",
+   "titulo": "1 (UM) TELEFONE CELULAR (DPE: 0087-25 - PROC.: 0936497-77.2023.8.19.0001). 1 (UM) TELEFONE CELULAR (DPE: 0579-25 - PROC.: 0859111-34.2024.8.19.0001). 1 (UM) TELEFONE CELULAR (DPE: 0808-23 - PROC.: 0068308-51.2021.8.19.0001). 1 (UM) TELEFONE CELULAR (",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 26900.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212151/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349598/img-349598-6af659e793035.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 26900.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212149",
+   "titulo": "1 (UM) LOTE COM BANCADAS E PAINÉIS EXPOSITORES PARA CELULAR; 1 (UM) LOTE DE CAIXA COM PELÍCULAS, CAPAS E ACESSÓRIOS PARA CELULAR; 1 (UM) LOTE DE CAIXAS DE PIZZA E BOLSAS DE PAPELÃO (DPE: 5886/26 - PROC.: 3063517-46.2025.8.19.0001).",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1330.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
+   "publico": "PF e PJ",
+   "link": "https://www.joaoemilio.com.br/item/212149/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349591/img-349591-6af659f21365b.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 1330.0
     }
    ],
    "preco_anterior": null,
@@ -144747,385 +145108,6 @@
   },
   {
    "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18393",
-   "titulo": "LOTE. 2 1 SAND/GRILL MONDIAL MASTER S-20 PT/INOX 110V 1 FRIT ELET MONDIAL AF35-BF MK NE 3,5L PTO 127V 1 MINI PROCES MONDIAL TURBO PRATIC MP-16 PTO 110V 1 ESC ALISADORA EA-06 BLACK GOLD ARGAN MONDIAL BIV 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE ",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 607.58,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18393/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013280/img-13280-6a9c5bf71f879.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 507.58
-    },
-    {
-     "data": "2026-11-13",
-     "preco": 607.58
-    }
-   ],
-   "preco_anterior": 507.58,
-   "variacao": 100.0,
-   "variacao_pct": 19.7,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 19.7,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18394",
-   "titulo": "LOTE. 4 1 LIQ 3VEL MONDIAL L99 500W VM 110V 1 MAQ CORT CABELO MONDIAL CR02 PR/PRT 110V 1 SAND/GRILL MONDIAL MASTER S-20 PT/INOX 110V 1 AQUECEDOR HALOGENO MONDIAL A16 QUARTZO BR/CZ 110V 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 PAN ELETR MO",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 661.24,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18394/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013282/img-13282-6a9c5c1972094.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 661.24
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18395",
-   "titulo": "LOTE. 9 1 MODELADOR EM-12 PRETO/VERMELHO BIVOLT MONDIAL 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 LIQ 2VEL MONDIAL EASY POWER L-550 550W PT 110V 1 AQUECEDOR HALOGENO MONDIAL A16 QUARTZO BR/CZ 110V 1 BAT PLAN MONDIAL 12VEL BP-03W-2B 700W BR",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 601.27,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18395/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013287/img-13287-6a9c5cb3d4165.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 601.27
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18396",
-   "titulo": "LOTE. 14 1 FERRO A VAPOR MONDIAL F-53 1200W PTO/AZ 110V 1 FURAD IMPACTO GSB 450 RE 450W 127V BOSCH 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 SAND/GRILL MONDIAL S12 PT 110V 1 VENT 40CM MS MONDIAL SUPER POWER VSP40B 6P PT 110V 1 PAN ELETR MO",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 905.25,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18396/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013292/img-13292-6a9c5d08271da.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 905.25
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18398",
-   "titulo": "LOTE. 24 1 MIXER MONDIAL PRATIC M-15-B 200W PT 110V 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 LIQ 12VEL MONDIAL L1400 J/VIDRO 1400W PTO/INX 110V 1 CHURRASQ ELETR MONDIAL CH05 PR 110V 1 APARADOR DE PELOS MONDIAL BG04 6 EM 1 PT BIV 1 SAND/GR",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 748.49,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18398/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013302/img-13302-6a9c5e93cd590.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 748.49
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18402",
-   "titulo": "LOTE. 30 1 SECADOR 1200W MONDIAL SC10 VM/PR BIV 1 ESCOVA SECADORA MONDIAL ES-JU-02 1200W VD BIV 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 LIQ 3VEL MONDIAL L99 500W VM 110V 1 SAND MONDIAL ULTRA S13 PT 110V 1 FRIT ELET MONDIAL AFN60 6L PT/IN",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 584.74,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18402/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013308/img-13308-6a9c5f3ab7b06.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 584.74
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18403",
-   "titulo": "LOTE. 31 1 CAF 18XIC MONDIAL C-30 DOLCE AROME FB 110V 1 ESC ALISADORA EA-06 BLACK GOLD ARGAN MONDIAL BIV 1 PRANCHA MONDIAL P-01-IR AZ BIV 1 ESCOVA SECADORA SLIM MONDIAL ES-20 BIV 1 SAND MONDIAL ULTRA S13 PT 110V 1 SAND/GRILL MONDIAL MASTER S-20 PT/IN",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 636.17,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18403/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013309/img-13309-6a9c5fc0b408f.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 636.17
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18405",
-   "titulo": "LOTE. 40 1 ASP 1400W BRITANIA BAS30 2 EM 1 AZL 127V 1 ASP STICK 1100W ELECTROLUX POWERSPEED STK13 110V 1 SECADOR 2100W GAMA LICHIA CERAMIC ION 127V 1 ESCOVA SECADORA MONDIAL ES-50 WHITE ROSE BIV 1 APARADOR ONEBLADE BIVOLT QP1424 PHILIPS 1 VENT 40CM M",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 540.61,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18405/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013318/img-13318-6a9c60476a781.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 540.61
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18555",
-   "titulo": "LOTE. 382 1 MAQ COSTURA 10 PONTOS SINGER FACILITA 4411 110V 1 PARAF E FURA WAP WF 12K3.2 BAT LITIO 12V BIV 1 LAVADORA DE ALTA PRESSAO KARCHER K2 PLUS 127V 1 FRIT ELET MONDIAL AFN40-BI FAMILY 4L PT/INOX 110V 1 PAN PRESSAO FE MAGNIFIC AA GRAF 4,5L PANE",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1253.79,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18555/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016487/img-16487-6aeba658142cd.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1253.79
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18559",
-   "titulo": "LOTE. 386 1 SECADOR MONDIAL SCN-01 2000W PTO 110V. 1 LIQ MONDIAL PERSONAL BLENDER 2CP DG01 PT 110V 1 MINI PROCES MONDIAL TURBO PRATIC MP-16 PTO 110V 1 AQUECEDOR HALOGENO MONDIAL A16 QUARTZO BR/CZ 110V 1 ESCOVA SECADORA BRITANIA BEC02PR BIV 1 CANECA T",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 630.67,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18559/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016491/img-16491-6aeba8bb7cf64.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 630.67
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-18561",
-   "titulo": "LOTE. 388 1 ASP 1400W ELECTROLUX AGUA/PO A10N1 CZ/PR 110V 1 CAF 18XIC MONDIAL C-30 DOLCE AROME PT/INX 220V 1 PAN ELETR MONDIAL PE-43 6XIC PT/INOX 110V 1 VENT 40CM MS MONDIAL SUPER POWER VSP40B 6P PT 110V 1 PAN DE PRESSAO FE SEGURA STONE PRO 4,5L ROCH",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 967.24,
-   "encerramento": "2026-11-13 11:00",
-   "cidade": "São José dos Pinhais",
-   "uf": "PR",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/18561/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016493/img-16493-6aeba9d1dedb6.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": false,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 967.24
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Tudo Leilão",
    "id": "tudoleilao-19124",
    "titulo": "LOTE 01 100 TELEVISORES LG's EM CORES COM TELA DE CRISTAL LÍQUIDO, 43 POLEGADAS COM CONTROLE REMOTO (MODELO 43LJ5550) Itens provenientes de logística reversa. Não fazemos entregas. Ler o edital para mais informações.",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -145576,7 +145558,7 @@
    "id": "tudoleilao-19128",
    "titulo": "LOTE 42. 1 - Macbook Air de 13 Polegadas com chip M1 - 8GB Mmeória - 256GB SSD 1 - Magic Mouse 2 Itens provenientes de logística reversa. Não fazemos entregas. Ler o edital para mais informações.",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1590.0,
+   "lance_atual": 1790.0,
    "encerramento": "2026-11-16 20:00",
    "cidade": "Cotia",
    "uf": "SP",
@@ -145600,15 +145582,53 @@
     {
      "data": "2026-11-13",
      "preco": 1590.0
+    },
+    {
+     "data": "2026-11-13",
+     "preco": 1790.0
     }
    ],
-   "preco_anterior": 1290.0,
-   "variacao": 300.0,
-   "variacao_pct": 23.3,
+   "preco_anterior": 1590.0,
+   "variacao": 200.0,
+   "variacao_pct": 12.6,
    "variacao_em": "2026-11-13",
-   "variacao_total_pct": 23.3,
+   "variacao_total_pct": 38.8,
    "baixou_preco": false,
    "subiu_preco": true
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19160",
+   "titulo": "LOTE 43. 1 - Macbook Air de 13 Polegadas com chip M1 - 8GB Mmeória - 256GB SSD 1 - AirPods Pro with MagSafe Charging Case 2°Gr Itens provenientes de logística reversa. Não fazemos entregas. Ler o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4490.0,
+   "encerramento": "2026-11-16 20:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19160/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016766/img-16766-6af71b4bb5f30.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-13",
+   "historico_precos": [
+    {
+     "data": "2026-11-13",
+     "preco": 4490.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
   },
   {
    "fonte": "Tudo Leilão",
