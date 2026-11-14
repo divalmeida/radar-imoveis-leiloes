@@ -14,9 +14,10 @@
   "Caixa": {
    "ok": true,
    "lotes": 794,
-   "dados_de": "2026-11-13 19:24",
+   "dados_de": "2026-11-14 19:22",
    "local": true,
-   "segundos": 443
+   "novos_pendentes": [],
+   "precos_pendentes": {}
   },
   "Kwara": {
    "ok": true,
@@ -46,9 +47,12 @@
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
    "lotes": 209,
-   "dados_de": "2026-11-13 19:24",
+   "dados_de": "2026-11-14 19:22",
    "local": true,
-   "segundos": 443
+   "novos_pendentes": [],
+   "precos_pendentes": {
+    "joaoemilio-212167": 840.0
+   }
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -140067,19 +140071,17 @@
    "titulo": "01 MACBOOK PRO APPLEI7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02VX1C1G8WN (OBS: BATERIA ESTUFADA E SEM SSD), NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
    "lance_atual": 1000.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
+   "encerramento": null,
+   "cidade": "",
+   "uf": "",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/211829/detalhes",
    "valor_avaliacao": null,
    "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350203/img-350203-6aee1b8412897.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
+   "observacoes": [],
    "detalhes": {},
    "prioridade": false,
-   "destaque": true,
+   "destaque": false,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
    "primeiro_visto": "2026-11-08",
    "historico_precos": [
@@ -140101,19 +140103,17 @@
    "titulo": "01 MACBOOK PRO APPLEI7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02WQ3WPG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
    "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
+   "encerramento": null,
+   "cidade": "",
+   "uf": "",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/211830/detalhes",
    "valor_avaliacao": null,
    "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350204/img-350204-6aee1b876c3f5.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
+   "observacoes": [],
    "detalhes": {},
    "prioridade": false,
-   "destaque": true,
+   "destaque": false,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
    "primeiro_visto": "2026-11-08",
    "historico_precos": [
@@ -140135,19 +140135,17 @@
    "titulo": "01 MACBOOK PRO APPLEI7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02WN257G8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
    "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
+   "encerramento": null,
+   "cidade": "",
+   "uf": "",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/211831/detalhes",
    "valor_avaliacao": null,
    "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350205/img-350205-6aee1b8b9bc8c.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
+   "observacoes": [],
    "detalhes": {},
    "prioridade": false,
-   "destaque": true,
+   "destaque": false,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
    "primeiro_visto": "2026-11-08",
    "historico_precos": [
@@ -140169,19 +140167,17 @@
    "titulo": "01 MACBOOK PRO APPLE I7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02W929NG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
    "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
+   "encerramento": null,
+   "cidade": "",
+   "uf": "",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/211832/detalhes",
    "valor_avaliacao": null,
    "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350206/img-350206-6aee1b9106f79.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
+   "observacoes": [],
    "detalhes": {},
    "prioridade": false,
-   "destaque": true,
+   "destaque": false,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
    "primeiro_visto": "2026-11-08",
    "historico_precos": [
@@ -140203,19 +140199,17 @@
    "titulo": "01 MACBOOK PRO APPLE I7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02S59SYG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
    "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
+   "encerramento": null,
+   "cidade": "",
+   "uf": "",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/211833/detalhes",
    "valor_avaliacao": null,
    "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350207/img-350207-6aee1b96a9f0e.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
+   "observacoes": [],
    "detalhes": {},
    "prioridade": false,
-   "destaque": true,
+   "destaque": false,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
    "primeiro_visto": "2026-11-08",
    "historico_precos": [
@@ -140237,19 +140231,17 @@
    "titulo": "01 MACBOOK PRO APPLE I7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02WX0ZFG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
    "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
+   "encerramento": null,
+   "cidade": "",
+   "uf": "",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/211834/detalhes",
    "valor_avaliacao": null,
    "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350208/img-350208-6aee1b9c7f960.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
+   "observacoes": [],
    "detalhes": {},
    "prioridade": false,
-   "destaque": true,
+   "destaque": false,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
    "primeiro_visto": "2026-11-08",
    "historico_precos": [
@@ -140271,19 +140263,17 @@
    "titulo": "01 MACBOOK PRO APPLE I7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02WT3ZGG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
    "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
+   "encerramento": null,
+   "cidade": "",
+   "uf": "",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/211835/detalhes",
    "valor_avaliacao": null,
    "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350209/img-350209-6aee1ba3816b6.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
+   "observacoes": [],
    "detalhes": {},
    "prioridade": false,
-   "destaque": true,
+   "destaque": false,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
    "primeiro_visto": "2026-11-08",
    "historico_precos": [
@@ -140679,19 +140669,17 @@
    "titulo": "01 MONITOR DELL SE2216H HDMI N/S 6XL7253, NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
    "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
+   "encerramento": null,
+   "cidade": "",
+   "uf": "",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/211847/detalhes",
    "valor_avaliacao": null,
    "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350221/img-350221-6aee1bf23ae2d.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
+   "observacoes": [],
    "detalhes": {},
    "prioridade": false,
-   "destaque": true,
+   "destaque": false,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
    "primeiro_visto": "2026-11-08",
    "historico_precos": [
@@ -142728,7 +142716,7 @@
    "id": "joaoemilio-212167",
    "titulo": "1 LOTE DE UTENSÍLIOS DIVERSOS; 1 LOTE DE QUADRO DECORATIVO, 2 (DUAS) TELEVISOÕES TURBOS; 1 LOTES DE MESA; 2 SOFÁS; 1 CAMA DE SOLTEIRO S/COLCHÃO; 1 ROÇADEIRA; 1 LOTE DE CADEIRA; 1 GELADEIRA; 2 CAIXAS DE SOM; 2 APARADORES; 2 ARMÁRIOS DE MADEIRA; 1 ROUP",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 840.0,
+   "lance_atual": 940.0,
    "encerramento": "2026-11-26 11:00",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -142748,14 +142736,19 @@
     {
      "data": "2026-11-13",
      "preco": 840.0
+    },
+    {
+     "data": "2026-11-14",
+     "preco": 940.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 840.0,
+   "variacao": 100.0,
+   "variacao_pct": 11.9,
+   "variacao_em": "2026-11-14",
+   "variacao_total_pct": 11.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "João Emílio",
@@ -145556,7 +145549,7 @@
    "publico": "PF e PJ",
    "link": "https://www.leilaoprime.com.br/item/4288/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://www.leilaoprime.com.br/site/images/sem-imagem-lote.jpg?modified=20240531",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005040/img-5040-6af879f381730.jpg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -145590,7 +145583,7 @@
    "publico": "PF e PJ",
    "link": "https://www.leilaoprime.com.br/item/4289/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://www.leilaoprime.com.br/site/images/sem-imagem-lote.jpg?modified=20240531",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005041/img-5041-6af87a06e57dd.jpg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -145624,7 +145617,7 @@
    "publico": "PF e PJ",
    "link": "https://www.leilaoprime.com.br/item/4290/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://www.leilaoprime.com.br/site/images/sem-imagem-lote.jpg?modified=20240531",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005042/img-5042-6af87a1b4d774.jpg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -145658,7 +145651,7 @@
    "publico": "PF e PJ",
    "link": "https://www.leilaoprime.com.br/item/4291/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://www.leilaoprime.com.br/site/images/sem-imagem-lote.jpg?modified=20240531",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005043/img-5043-6af87a2f0ff2a.jpg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
