@@ -1,68 +1,64 @@
 {
- "atualizado_em": "2026-11-14 18:58",
+ "atualizado_em": "2026-11-15 07:08",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 499,
-   "segundos": 443
+   "segundos": 499
   },
   "Superbid": {
    "ok": true,
    "lotes": 1540,
-   "segundos": 443
+   "segundos": 499
   },
   "Caixa": {
    "ok": true,
    "lotes": 794,
    "dados_de": "2026-11-14 19:22",
    "local": true,
-   "novos_pendentes": [],
-   "precos_pendentes": {}
+   "segundos": 499
   },
   "Kwara": {
    "ok": true,
    "lotes": 198,
-   "segundos": 443
+   "segundos": 499
   },
   "Mega Leilões": {
    "ok": true,
    "lotes": 19,
-   "segundos": 443
+   "segundos": 499
   },
   "Freitas": {
    "ok": true,
    "lotes": 115,
-   "segundos": 443
+   "segundos": 499
   },
   "Palácio dos Leilões": {
    "ok": true,
    "lotes": 133,
-   "segundos": 443
+   "segundos": 499
   },
   "Parque dos Leilões": {
    "ok": true,
    "lotes": 1,
-   "segundos": 443
+   "segundos": 499
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
    "lotes": 209,
    "dados_de": "2026-11-14 19:22",
    "local": true,
-   "novos_pendentes": [],
-   "precos_pendentes": {
-    "joaoemilio-212167": 840.0
-   }
+   "segundos": 499
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
    "lotes": 255,
-   "segundos": 443
+   "segundos": 499
   },
   "Zuk / Frazão (imóveis BA)": {
    "ok": true,
    "lotes": 47,
-   "segundos": 443
+   "segundos": 499
   }
  },
  "lotes": [
@@ -1140,41 +1136,6 @@
   },
   {
    "fonte": "Frazão",
-   "id": "frazao-43813",
-   "titulo": "Casa em Guaí, Maragogipe BA",
-   "categoria": "Imóvel (Casa)",
-   "lance_atual": 168100.0,
-   "encerramento": "2026-11-09 11:00",
-   "cidade": "Maragogipe",
-   "uf": "BA",
-   "publico": "PF e PJ",
-   "link": "https://www.frazaoleiloes.com.br/lote/43813-casa-em-guai-maragogipe-ba",
-   "valor_avaliacao": null,
-   "imagem": "https://cdn.frazaoleiloes.com.br/images/lot/20/88/350/208872.jpg",
-   "observacoes": [],
-   "detalhes": {
-    "area": 142.48,
-    "modalidade": "Leilão"
-   },
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "Zuk / Frazão (imóveis BA)",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 168100.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Frazão",
    "id": "frazao-43715",
    "titulo": "Casa no Corte de Pedra, Presidente Tancredo Neves BA",
    "categoria": "Imóvel (Casa)",
@@ -1209,11 +1170,46 @@
    "subiu_preco": false
   },
   {
+   "fonte": "Frazão",
+   "id": "frazao-43813",
+   "titulo": "Casa em Guaí, Maragogipe BA",
+   "categoria": "Imóvel (Casa)",
+   "lance_atual": 168100.0,
+   "encerramento": "2026-11-09 11:00",
+   "cidade": "Maragogipe",
+   "uf": "BA",
+   "publico": "PF e PJ",
+   "link": "https://www.frazaoleiloes.com.br/lote/43813-casa-em-guai-maragogipe-ba",
+   "valor_avaliacao": null,
+   "imagem": "https://cdn.frazaoleiloes.com.br/images/lot/20/88/350/208872.jpg",
+   "observacoes": [],
+   "detalhes": {
+    "area": 142.48,
+    "modalidade": "Leilão"
+   },
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "Zuk / Frazão (imóveis BA)",
+   "primeiro_visto": "2026-11-08",
+   "historico_precos": [
+    {
+     "data": "2026-11-08",
+     "preco": 168100.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
    "fonte": "Kwara",
    "id": "kwara-1741940693888140518",
    "titulo": "Tv 55\" Samsung Smart LED Full HD",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1050.0,
+   "lance_atual": 1100.0,
    "encerramento": "2026-11-16 09:30",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -1223,7 +1219,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/57f9bf76-ae4f-4a8d-a59d-96bf0cd7bd91.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 12,
+    "lances": 13,
     "vendedor": "Projeto Uirapuru"
    },
    "prioridade": false,
@@ -1238,13 +1234,17 @@
     {
      "data": "2026-11-11",
      "preco": 1050.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1100.0
     }
    ],
-   "preco_anterior": 1000.0,
+   "preco_anterior": 1050.0,
    "variacao": 50.0,
-   "variacao_pct": 5.0,
-   "variacao_em": "2026-11-11",
-   "variacao_total_pct": 5.0,
+   "variacao_pct": 4.8,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 10.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -1336,7 +1336,7 @@
    "id": "kwara-1741940693879751907",
    "titulo": "Monitor NEC 65\" MultiSync ME651 Uhd LED",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 700.0,
+   "lance_atual": 850.0,
    "encerramento": "2026-11-16 09:31",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -1346,7 +1346,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/7463737a-7ab6-47a2-9af4-5a262d35ae0d.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 5,
+    "lances": 9,
     "vendedor": "Projeto Uirapuru"
    },
    "prioridade": false,
@@ -1361,13 +1361,17 @@
     {
      "data": "2026-11-14",
      "preco": 700.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 850.0
     }
    ],
-   "preco_anterior": 600.0,
-   "variacao": 100.0,
-   "variacao_pct": 16.7,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 16.7,
+   "preco_anterior": 700.0,
+   "variacao": 150.0,
+   "variacao_pct": 21.4,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 41.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -1526,7 +1530,7 @@
    "id": "kwara-1741940693854586078",
    "titulo": "Iphone 8",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 180.0,
+   "lance_atual": 200.0,
    "encerramento": "2026-11-16 09:32",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -1536,7 +1540,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/b3b15613-f35b-4030-9106-d1dee0f54e8b.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "vendedor": "Projeto Uirapuru"
    },
    "prioridade": false,
@@ -1555,13 +1559,17 @@
     {
      "data": "2026-11-12",
      "preco": 180.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 200.0
     }
    ],
-   "preco_anterior": 160.0,
+   "preco_anterior": 180.0,
    "variacao": 20.0,
-   "variacao_pct": 12.5,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 50.0,
+   "variacao_pct": 11.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 66.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -2675,7 +2683,7 @@
    "id": "kwara-1745009854591796835",
    "titulo": "5 itens: Leitor de código de barras Elgin, fone de ouvido JBL, fone de ouvido KZ, fone de ouvido JBL e câmera de segurança solar PTZ",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 110.0,
+   "lance_atual": 130.0,
    "encerramento": "2026-11-16 09:44",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -2685,7 +2693,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/2ead43b5-e03f-4762-85b2-def64a4ad093.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "vendedor": "Assurant"
    },
    "prioridade": false,
@@ -2704,13 +2712,17 @@
     {
      "data": "2026-11-11",
      "preco": 110.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 130.0
     }
    ],
-   "preco_anterior": 70.0,
-   "variacao": 40.0,
-   "variacao_pct": 57.1,
-   "variacao_em": "2026-11-11",
-   "variacao_total_pct": 120.0,
+   "preco_anterior": 110.0,
+   "variacao": 20.0,
+   "variacao_pct": 18.2,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 160.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -2912,7 +2924,7 @@
    "id": "kwara-1745009854524687957",
    "titulo": "6 itens: Inversor de corrente, 3 carregadores de carro elétrico, subwoofer Bomber e carregador de moto elétrica Voltz",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 190.0,
+   "lance_atual": 210.0,
    "encerramento": "2026-11-16 09:47",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -2922,7 +2934,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/75aff22d-8f13-4927-87fc-91c3e586226f.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 8,
+    "lances": 9,
     "vendedor": "Assurant"
    },
    "prioridade": false,
@@ -2937,13 +2949,17 @@
     {
      "data": "2026-11-12",
      "preco": 190.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 210.0
     }
    ],
-   "preco_anterior": 170.0,
+   "preco_anterior": 190.0,
    "variacao": 20.0,
-   "variacao_pct": 11.8,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 11.8,
+   "variacao_pct": 10.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 23.5,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -2992,7 +3008,7 @@
    "id": "kwara-1746265991320438086",
    "titulo": "3 Itens: Microfone sem fio Tomate, DVR Intelbras 16 canais e kit teclado e mouse sem fio",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 130.0,
+   "lance_atual": 150.0,
    "encerramento": "2026-11-16 09:51",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3002,7 +3018,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/0ab1ac73-c255-4de6-aabf-4a9c78fb5c21.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "vendedor": "Assurant"
    },
    "prioridade": false,
@@ -3025,13 +3041,17 @@
     {
      "data": "2026-11-13",
      "preco": 130.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 150.0
     }
    ],
-   "preco_anterior": 110.0,
+   "preco_anterior": 130.0,
    "variacao": 20.0,
-   "variacao_pct": 18.2,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 85.7,
+   "variacao_pct": 15.4,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 114.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -3075,7 +3095,7 @@
    "id": "kwara-1747224611587622263",
    "titulo": "PlayStation 5",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1630.0,
+   "lance_atual": 1650.0,
    "encerramento": "2026-11-16 09:57",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3085,7 +3105,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/030820cd-a428-4a7d-a01b-07a6abcab4d1.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 58,
+    "lances": 59,
     "vendedor": "GVS"
    },
    "prioridade": false,
@@ -3116,13 +3136,17 @@
     {
      "data": "2026-11-14",
      "preco": 1630.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1650.0
     }
    ],
-   "preco_anterior": 1570.0,
-   "variacao": 60.0,
-   "variacao_pct": 3.8,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 19.0,
+   "preco_anterior": 1630.0,
+   "variacao": 20.0,
+   "variacao_pct": 1.2,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 20.4,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -3828,7 +3852,7 @@
    "id": "superbid-5074943",
    "titulo": "FREEZER HORIZONTAL 503 LITROS FRICON - SEM MOTOR - CÓDIGO: 14674 - 73",
    "categoria": "Refrigeradores",
-   "lance_atual": 250,
+   "lance_atual": 300,
    "encerramento": "2026-11-16 11:07",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -3840,7 +3864,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -3856,13 +3880,17 @@
     {
      "data": "2026-11-10",
      "preco": 250
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 300
     }
    ],
-   "preco_anterior": 200,
+   "preco_anterior": 250,
    "variacao": 50,
-   "variacao_pct": 25.0,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 25.0,
+   "variacao_pct": 20.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 50.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -4437,7 +4465,7 @@
    "id": "kwara-1744856069655496568",
    "titulo": "Ar-condicionado portátil Philco PAC12000F5, 220V, 3 velocidades, display digital, branco - 56652084",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 735.0,
+   "lance_atual": 785.0,
    "encerramento": "2026-11-16 11:31",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -4447,7 +4475,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/d831361a-c32d-42b5-b3eb-dd7130d77361.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "vendedor": "KABUM S.A."
    },
    "prioridade": false,
@@ -4462,13 +4490,17 @@
     {
      "data": "2026-11-11",
      "preco": 735.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 785.0
     }
    ],
-   "preco_anterior": 685.0,
+   "preco_anterior": 735.0,
    "variacao": 50.0,
-   "variacao_pct": 7.3,
-   "variacao_em": "2026-11-11",
-   "variacao_total_pct": 7.3,
+   "variacao_pct": 6.8,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 14.6,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -4667,7 +4699,7 @@
    "id": "superbid-5073798",
    "titulo": "FREEZER VERTICAL EXPOSITOR 569 LITROS FRICON  - CÓDIGO: 14669 - 68",
    "categoria": "Refrigeradores",
-   "lance_atual": 550,
+   "lance_atual": 600,
    "encerramento": "2026-11-16 11:42",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -4679,7 +4711,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 8,
+    "lances": 9,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -4719,13 +4751,17 @@
     {
      "data": "2026-11-11",
      "preco": 550
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 600
     }
    ],
-   "preco_anterior": 500,
+   "preco_anterior": 550,
    "variacao": 50,
-   "variacao_pct": 10.0,
-   "variacao_em": "2026-11-11",
-   "variacao_total_pct": 175.0,
+   "variacao_pct": 9.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -4861,7 +4897,7 @@
    "id": "superbid-5074939",
    "titulo": "ADEGA DE VINHOS CAPACIDADE PARA 30 VINHOS  - CÓDIGO: 14692 - 91",
    "categoria": "Refrigeradores",
-   "lance_atual": 100,
+   "lance_atual": 150,
    "encerramento": "2026-11-16 11:52",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -4873,7 +4909,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -4889,13 +4925,17 @@
     {
      "data": "2026-11-10",
      "preco": 100
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 150
     }
    ],
-   "preco_anterior": 50,
+   "preco_anterior": 100,
    "variacao": 50,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 100.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -5027,7 +5067,7 @@
    "id": "superbid-5074936",
    "titulo": "FREEZER VERTICAL EXPOSITOR 569 LITROS FRICON  - CÓDIGO: 14671 - 70",
    "categoria": "Refrigeradores",
-   "lance_atual": 450,
+   "lance_atual": 500,
    "encerramento": "2026-11-16 11:59",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -5039,7 +5079,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -5067,13 +5107,17 @@
     {
      "data": "2026-11-10",
      "preco": 450
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 500
     }
    ],
-   "preco_anterior": 400,
+   "preco_anterior": 450,
    "variacao": 50,
-   "variacao_pct": 12.5,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 80.0,
+   "variacao_pct": 11.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -5209,7 +5253,7 @@
    "id": "superbid-5074935",
    "titulo": "FREEZER VERTICAL TRIPLA AÇÃO 569 LITROS FRICON  - CÓDIGO: 14670 - 69",
    "categoria": "Refrigeradores",
-   "lance_atual": 350,
+   "lance_atual": 450,
    "encerramento": "2026-11-16 12:14",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -5221,7 +5265,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 6,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -5245,13 +5289,17 @@
     {
      "data": "2026-11-04",
      "preco": 350
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 450
     }
    ],
-   "preco_anterior": 300,
-   "variacao": 50,
-   "variacao_pct": 16.7,
-   "variacao_em": "2026-11-04",
-   "variacao_total_pct": 75.0,
+   "preco_anterior": 350,
+   "variacao": 100,
+   "variacao_pct": 28.6,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 125.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -5260,7 +5308,7 @@
    "id": "superbid-5073796",
    "titulo": "ULTRA CONGELADOR PRÁTICA KLIMAQUIP 7 GNS  - CÓDIGO: 14685 - 84",
    "categoria": "Refrigeradores",
-   "lance_atual": 1460,
+   "lance_atual": 1510,
    "encerramento": "2026-11-16 12:35",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -5272,7 +5320,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 29,
+    "lances": 30,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -5376,13 +5424,17 @@
     {
      "data": "2026-11-14",
      "preco": 1460
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1510
     }
    ],
-   "preco_anterior": 1360,
-   "variacao": 100,
-   "variacao_pct": 7.4,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 2333.3,
+   "preco_anterior": 1460,
+   "variacao": 50,
+   "variacao_pct": 3.4,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 2416.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -6283,7 +6335,7 @@
    "id": "superbid-5076776",
    "titulo": "MÁQUINA DE GELO CUBO VENANCIO 50 KG",
    "categoria": "Refrigeradores",
-   "lance_atual": 1050,
+   "lance_atual": 1100,
    "encerramento": "2026-11-16 13:18",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -6295,7 +6347,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 17,
+    "lances": 18,
     "leiloeiro": "ECONEXSI",
     "leilao": "Liquidação de Cozinha Industrial"
    },
@@ -6323,13 +6375,17 @@
     {
      "data": "2026-11-11",
      "preco": 1050
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1100
     }
    ],
-   "preco_anterior": 600,
-   "variacao": 450,
-   "variacao_pct": 75.0,
-   "variacao_em": "2026-11-11",
-   "variacao_total_pct": 320.0,
+   "preco_anterior": 1050,
+   "variacao": 50,
+   "variacao_pct": 4.8,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 340.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -6932,7 +6988,7 @@
    "id": "superbid-5090452",
    "titulo": "03 REFRIGERADORES (Ref.: SB0030231)",
    "categoria": "Refrigeradores",
-   "lance_atual": 2200,
+   "lance_atual": 2400,
    "encerramento": "2026-11-16 13:42",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -6944,7 +7000,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -6980,13 +7036,17 @@
     {
      "data": "2026-11-14",
      "preco": 2200
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 2400
     }
    ],
-   "preco_anterior": 2000,
+   "preco_anterior": 2200,
    "variacao": 200,
-   "variacao_pct": 10.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": -15.4,
+   "variacao_pct": 9.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": -7.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -6995,7 +7055,7 @@
    "id": "superbid-5086229",
    "titulo": "04 REFRIGERADORES (Ref.: SB0030232)",
    "categoria": "Refrigeradores",
-   "lance_atual": 2250,
+   "lance_atual": 2500,
    "encerramento": "2026-11-16 13:43",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -7007,7 +7067,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -7039,13 +7099,17 @@
     {
      "data": "2026-11-13",
      "preco": 2250
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 2500
     }
    ],
-   "preco_anterior": 2000,
+   "preco_anterior": 2250,
    "variacao": 250,
-   "variacao_pct": 12.5,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": -43.8,
+   "variacao_pct": 11.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": -37.5,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -7054,7 +7118,7 @@
    "id": "superbid-5090451",
    "titulo": "04 REFRIGERADORES (Ref.: SB0030233)",
    "categoria": "Refrigeradores",
-   "lance_atual": 3250,
+   "lance_atual": 3500,
    "encerramento": "2026-11-16 13:43",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -7066,7 +7130,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 10,
+    "lances": 11,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -7102,13 +7166,17 @@
     {
      "data": "2026-11-13",
      "preco": 3250
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 3500
     }
    ],
-   "preco_anterior": 2750,
-   "variacao": 500,
-   "variacao_pct": 18.2,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 0.0,
+   "preco_anterior": 3250,
+   "variacao": 250,
+   "variacao_pct": 7.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 7.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -7296,7 +7364,7 @@
    "id": "superbid-5090446",
    "titulo": "04 REFRIGERADORES (Ref.: SB0034263)",
    "categoria": "Refrigeradores",
-   "lance_atual": 4500,
+   "lance_atual": 4750,
    "encerramento": "2026-11-16 13:52",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -7308,7 +7376,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 15,
+    "lances": 16,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -7356,13 +7424,17 @@
     {
      "data": "2026-11-13",
      "preco": 4500
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 4750
     }
    ],
-   "preco_anterior": 4250,
+   "preco_anterior": 4500,
    "variacao": 250,
-   "variacao_pct": 5.9,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 0.0,
+   "variacao_pct": 5.6,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 5.6,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -7434,7 +7506,7 @@
    "id": "superbid-5086214",
    "titulo": "04 REFRIGERADORES (Ref.: SB0034265)",
    "categoria": "Refrigeradores",
-   "lance_atual": 3250,
+   "lance_atual": 3500,
    "encerramento": "2026-11-16 13:53",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -7446,7 +7518,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 10,
+    "lances": 11,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -7482,13 +7554,17 @@
     {
      "data": "2026-11-13",
      "preco": 3250
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 3500
     }
    ],
-   "preco_anterior": 2750,
-   "variacao": 500,
-   "variacao_pct": 18.2,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 8.3,
+   "preco_anterior": 3250,
+   "variacao": 250,
+   "variacao_pct": 7.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 16.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -7552,7 +7628,7 @@
    "id": "superbid-5086213",
    "titulo": "04 REFRIGERADORES (Ref.: SB0034267)",
    "categoria": "Refrigeradores",
-   "lance_atual": 3250,
+   "lance_atual": 3500,
    "encerramento": "2026-11-16 13:54",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -7564,7 +7640,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 10,
+    "lances": 11,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -7608,13 +7684,17 @@
     {
      "data": "2026-11-13",
      "preco": 3250
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 3500
     }
    ],
-   "preco_anterior": 3000,
+   "preco_anterior": 3250,
    "variacao": 250,
-   "variacao_pct": 8.3,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": -7.1,
+   "variacao_pct": 7.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 0.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -7623,7 +7703,7 @@
    "id": "superbid-5086212",
    "titulo": "REFRIGERADOR E CERVEJEIRA (03 PC) (Ref.: SB0034268)",
    "categoria": "Refrigeradores",
-   "lance_atual": 2200,
+   "lance_atual": 2400,
    "encerramento": "2026-11-16 13:55",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -7635,7 +7715,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -7671,13 +7751,17 @@
     {
      "data": "2026-11-13",
      "preco": 2200
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 2400
     }
    ],
-   "preco_anterior": 2000,
+   "preco_anterior": 2200,
    "variacao": 200,
-   "variacao_pct": 10.0,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": -15.4,
+   "variacao_pct": 9.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": -7.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -10703,7 +10787,7 @@
    "id": "bolsa-106348",
    "titulo": "Lavadora - 2 itens",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1150.0,
+   "lance_atual": 1250.0,
    "encerramento": "2026-11-17 11:00",
    "cidade": "Camacari",
    "uf": "BA",
@@ -10725,13 +10809,17 @@
     {
      "data": "2026-11-14",
      "preco": 1150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1250.0
     }
    ],
-   "preco_anterior": 1050.0,
+   "preco_anterior": 1150.0,
    "variacao": 100.0,
-   "variacao_pct": 9.5,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 9.5,
+   "variacao_pct": 8.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 19.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -12713,7 +12801,7 @@
    "id": "kwara-1746464880367502498",
    "titulo": "Split Carreir com condensadora própria",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 660.0,
+   "lance_atual": 680.0,
    "encerramento": "2026-11-17 16:06",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -12723,7 +12811,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/f2e78d86-cf9c-42cc-9094-0faedec89da5.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 30,
+    "lances": 31,
     "vendedor": "Canopus Platina"
    },
    "prioridade": false,
@@ -12758,13 +12846,17 @@
     {
      "data": "2026-11-13",
      "preco": 660.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 680.0
     }
    ],
-   "preco_anterior": 640.0,
+   "preco_anterior": 660.0,
    "variacao": 20.0,
-   "variacao_pct": 3.1,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 560.0,
+   "variacao_pct": 3.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 580.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -12773,7 +12865,7 @@
    "id": "kwara-1751452853102184382",
    "titulo": "Evaporadora Carrier com condensadora",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 160.0,
+   "lance_atual": 180.0,
    "encerramento": "2026-11-17 16:20",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -12783,7 +12875,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/36c8fc3d-f318-4ddc-a272-9baaa521c0e8.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "vendedor": "Canopus Platina"
    },
    "prioridade": false,
@@ -12806,13 +12898,17 @@
     {
      "data": "2026-11-14",
      "preco": 160.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 180.0
     }
    ],
-   "preco_anterior": 140.0,
+   "preco_anterior": 160.0,
    "variacao": 20.0,
-   "variacao_pct": 14.3,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 100.0,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 125.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -12821,7 +12917,7 @@
    "id": "kwara-1751452853085407165",
    "titulo": "Evaporadora Vix com condensadora",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 180.0,
+   "lance_atual": 200.0,
    "encerramento": "2026-11-17 16:20",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -12831,7 +12927,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/fa83db88-1f04-4c78-b6f8-525c1c6592a1.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "vendedor": "Canopus Platina"
    },
    "prioridade": false,
@@ -12854,13 +12950,17 @@
     {
      "data": "2026-11-14",
      "preco": 180.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 200.0
     }
    ],
-   "preco_anterior": 160.0,
+   "preco_anterior": 180.0,
    "variacao": 20.0,
-   "variacao_pct": 12.5,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 125.0,
+   "variacao_pct": 11.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 150.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -21320,7 +21420,7 @@
    "id": "freitas-8155-62",
    "titulo": "LOTE COM 01 SMARTPHONE SAMSUNG GALAXY S21 FE 5G SM-G990E/DS 128GB 6GB ...",
    "categoria": "Celulares / Tablets",
-   "lance_atual": 760.0,
+   "lance_atual": 840.0,
    "encerramento": "2026-11-18 16:00",
    "cidade": "Santo André",
    "uf": "SP",
@@ -21344,13 +21444,17 @@
     {
      "data": "2026-11-10",
      "preco": 760.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 840.0
     }
    ],
-   "preco_anterior": 680.0,
+   "preco_anterior": 760.0,
    "variacao": 80.0,
-   "variacao_pct": 11.8,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 11.8,
+   "variacao_pct": 10.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 23.5,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -21736,7 +21840,7 @@
    "id": "freitas-8155-73",
    "titulo": "LOTE COM 01 SMARTPHONE SAMSUNG GALAXY S24 ULTRA SM-S928B/DS 512GB 12GB...",
    "categoria": "Celulares / Tablets",
-   "lance_atual": 2270.0,
+   "lance_atual": 2350.0,
    "encerramento": "2026-11-18 16:00",
    "cidade": "Santo André",
    "uf": "SP",
@@ -21768,13 +21872,17 @@
     {
      "data": "2026-11-14",
      "preco": 2270.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 2350.0
     }
    ],
-   "preco_anterior": 2190.0,
+   "preco_anterior": 2270.0,
    "variacao": 80.0,
-   "variacao_pct": 3.7,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 11.8,
+   "variacao_pct": 3.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 15.8,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -23408,7 +23516,7 @@
    "id": "superbid-5084725",
    "titulo": "01 CÂMERA DE AÇÃO ESPORTIVA (Ref.: Lote 33)",
    "categoria": "Eletrônicos",
-   "lance_atual": 75,
+   "lance_atual": 100,
    "encerramento": "2026-11-19 10:44",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -23420,7 +23528,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -23440,13 +23548,17 @@
     {
      "data": "2026-11-12",
      "preco": 75
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100
     }
    ],
-   "preco_anterior": 50,
+   "preco_anterior": 75,
    "variacao": 25,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 200.0,
+   "variacao_pct": 33.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 300.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -23455,7 +23567,7 @@
    "id": "superbid-5089054",
    "titulo": "01 CÂMERA DE AÇÃO ESPORTIVA (Ref.: Lote 34)",
    "categoria": "Eletrônicos",
-   "lance_atual": 50,
+   "lance_atual": 75,
    "encerramento": "2026-11-19 10:45",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -23467,7 +23579,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -23483,13 +23595,17 @@
     {
      "data": "2026-11-11",
      "preco": 50
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 75
     }
    ],
-   "preco_anterior": 25,
+   "preco_anterior": 50,
    "variacao": 25,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-11",
-   "variacao_total_pct": 100.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -23498,7 +23614,7 @@
    "id": "superbid-5089053",
    "titulo": "01 CÂMERA DE AÇÃO ESPORTIVA (Ref.: Lote 67)",
    "categoria": "Eletrônicos",
-   "lance_atual": 50,
+   "lance_atual": 100,
    "encerramento": "2026-11-19 10:45",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -23510,7 +23626,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -23526,13 +23642,17 @@
     {
      "data": "2026-11-09",
      "preco": 50
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100
     }
    ],
-   "preco_anterior": 25,
-   "variacao": 25,
+   "preco_anterior": 50,
+   "variacao": 50,
    "variacao_pct": 100.0,
-   "variacao_em": "2026-11-09",
-   "variacao_total_pct": 100.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 300.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -23766,7 +23886,7 @@
    "id": "kwara-1747027045558256913",
    "titulo": "2 Headsets e 2 teclados",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 20.0,
+   "lance_atual": 40.0,
    "encerramento": "2026-11-19 16:00",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -23778,7 +23898,7 @@
     "Comissão do comprador: 0.15%"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "vendedor": "REOFERTA COMERCIO"
    },
    "prioridade": false,
@@ -23789,14 +23909,19 @@
     {
      "data": "2026-11-08",
      "preco": 20.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 40.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 20.0,
+   "variacao": 20.0,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -26106,7 +26231,7 @@
    "id": "bolsa-107716",
    "titulo": "Notebook e Tablets - 2 itens",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 900.0,
+   "lance_atual": 1000.0,
    "encerramento": "2026-11-23 10:00",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -26124,14 +26249,19 @@
     {
      "data": "2026-11-13",
      "preco": 900.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1000.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 900.0,
+   "variacao": 100.0,
+   "variacao_pct": 11.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 11.1,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
@@ -26234,7 +26364,7 @@
    "id": "bolsa-107720",
    "titulo": "Tablets - 4 itens",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1100.0,
+   "lance_atual": 1200.0,
    "encerramento": "2026-11-23 10:00",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -26252,14 +26382,19 @@
     {
      "data": "2026-11-13",
      "preco": 1100.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1200.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1100.0,
+   "variacao": 100.0,
+   "variacao_pct": 9.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 9.1,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
@@ -26403,7 +26538,7 @@
    "id": "bolsa-107725",
    "titulo": "Tablets - 2 itens",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
+   "lance_atual": 700.0,
    "encerramento": "2026-11-23 10:00",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -26421,21 +26556,26 @@
     {
      "data": "2026-11-13",
      "preco": 600.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 700.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 600.0,
+   "variacao": 100.0,
+   "variacao_pct": 16.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 16.7,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
    "id": "bolsa-107726",
    "titulo": "Informatica - 3 itens",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1100.0,
+   "lance_atual": 1200.0,
    "encerramento": "2026-11-23 10:00",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -26453,21 +26593,26 @@
     {
      "data": "2026-11-13",
      "preco": 1100.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1200.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1100.0,
+   "variacao": 100.0,
+   "variacao_pct": 9.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 9.1,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
    "id": "bolsa-107727",
    "titulo": "Tablets - 3 itens",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 650.0,
+   "lance_atual": 750.0,
    "encerramento": "2026-11-23 10:00",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -26485,14 +26630,19 @@
     {
      "data": "2026-11-13",
      "preco": 650.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 750.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 650.0,
+   "variacao": 100.0,
+   "variacao_pct": 15.4,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 15.4,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
@@ -28438,7 +28588,7 @@
    "id": "bolsa-107383",
    "titulo": "Lavadora - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 620.0,
+   "lance_atual": 720.0,
    "encerramento": "2026-11-23 11:00",
    "cidade": "Jundiai",
    "uf": "SP",
@@ -28460,13 +28610,17 @@
     {
      "data": "2026-11-13",
      "preco": 620.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 720.0
     }
    ],
-   "preco_anterior": 520.0,
+   "preco_anterior": 620.0,
    "variacao": 100.0,
-   "variacao_pct": 19.2,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 19.2,
+   "variacao_pct": 16.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 38.5,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -28571,7 +28725,7 @@
    "id": "bolsa-107388",
    "titulo": "Lavadora - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 620.0,
+   "lance_atual": 720.0,
    "encerramento": "2026-11-23 11:00",
    "cidade": "Jundiai",
    "uf": "SP",
@@ -28593,13 +28747,17 @@
     {
      "data": "2026-11-13",
      "preco": 620.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 720.0
     }
    ],
-   "preco_anterior": 520.0,
+   "preco_anterior": 620.0,
    "variacao": 100.0,
-   "variacao_pct": 19.2,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 19.2,
+   "variacao_pct": 16.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 38.5,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -29471,7 +29629,7 @@
    "id": "superbid-5101994",
    "titulo": "15 ASPIRADORES ROBÔ HO041 MULTILASER (SALDO B) (Ref.: SL184)",
    "categoria": "Limpeza",
-   "lance_atual": 1100,
+   "lance_atual": 1200,
    "encerramento": "2026-11-23 16:35",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -29483,7 +29641,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "SOLD",
     "leilao": "Armazém 7"
    },
@@ -29499,13 +29657,17 @@
     {
      "data": "2026-11-14",
      "preco": 1100
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1200
     }
    ],
-   "preco_anterior": 1000,
+   "preco_anterior": 1100,
    "variacao": 100,
-   "variacao_pct": 10.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 10.0,
+   "variacao_pct": 9.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 20.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -54195,7 +54357,7 @@
    "id": "superbid-5085901",
    "titulo": "1 HD DELL MZILS1T9HEJH-000D4 - SSD - MODELO SAS - 1,92TB / 12GBPS - AMOSTRAGEM - CÓDIGO: 14408-11",
    "categoria": "Informática",
-   "lance_atual": 1000,
+   "lance_atual": 1050,
    "encerramento": "2026-11-25 13:30",
    "cidade": "Cotia",
    "uf": "SP",
@@ -54207,7 +54369,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "MERCADO NOTEBOOK"
    },
@@ -54219,14 +54381,19 @@
     {
      "data": "2026-11-09",
      "preco": 1000
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1050
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1000,
+   "variacao": 50,
+   "variacao_pct": 5.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 5.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -54347,7 +54514,7 @@
    "id": "superbid-5085909",
    "titulo": "3 HD DELL PX05SRB096Y - 960 / GBPS - SSD - MODELO SAS - AMOSTRAGEM - CÓDIGO: 14407-3",
    "categoria": "Informática",
-   "lance_atual": 1100,
+   "lance_atual": 1150,
    "encerramento": "2026-11-25 13:32",
    "cidade": "Cotia",
    "uf": "SP",
@@ -54359,7 +54526,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "MERCADO NOTEBOOK"
    },
@@ -54371,14 +54538,19 @@
     {
      "data": "2026-11-09",
      "preco": 1100
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1150
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1100,
+   "variacao": 50,
+   "variacao_pct": 4.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 4.5,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -55340,7 +55512,7 @@
    "id": "superbid-5090124",
    "titulo": "1 HD DELL MZILS1T9HEJH-000D4 - SSD - MODELO SAS - 1,92TB / 12GBPS - AMOSTRAGEM - CÓDIGO: 14408-10",
    "categoria": "Informática",
-   "lance_atual": 1000,
+   "lance_atual": 1050,
    "encerramento": "2026-11-25 13:46",
    "cidade": "Cotia",
    "uf": "SP",
@@ -55352,7 +55524,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "MERCADO NOTEBOOK"
    },
@@ -55364,14 +55536,19 @@
     {
      "data": "2026-11-09",
      "preco": 1000
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1050
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1000,
+   "variacao": 50,
+   "variacao_pct": 5.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 5.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -56079,7 +56256,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "MERCADO NOTEBOOK"
    },
@@ -58543,7 +58720,7 @@
    "id": "superbid-5085903",
    "titulo": "1 HD DELL MZILS1T9HEJH-000D4 - SSD - MODELO SAS - 1,92TB / 12GBPS - AMOSTRAGEM - CÓDIGO: 14408-1",
    "categoria": "Informática",
-   "lance_atual": 1000,
+   "lance_atual": 1050,
    "encerramento": "2026-11-25 14:12",
    "cidade": "Cotia",
    "uf": "SP",
@@ -58555,7 +58732,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "ECONEXSI",
     "leilao": "MERCADO NOTEBOOK"
    },
@@ -58567,14 +58744,19 @@
     {
      "data": "2026-11-09",
      "preco": 1000
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1050
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1000,
+   "variacao": 50,
+   "variacao_pct": 5.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 5.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -58940,7 +59122,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "MERCADO NOTEBOOK"
    },
@@ -59629,7 +59811,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "MERCADO NOTEBOOK"
    },
@@ -60807,7 +60989,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "MERCADO NOTEBOOK"
    },
@@ -60845,7 +61027,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "ECONEXSI",
     "leilao": "MERCADO NOTEBOOK"
    },
@@ -64647,7 +64829,7 @@
    "id": "kwara-1752139143225279508",
    "titulo": "Cafeteira espresso Magenta Plus Gaggia - Saldo B - KB6789",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1170.0,
+   "lance_atual": 1470.0,
    "encerramento": "2026-11-26 13:00",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -64657,7 +64839,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/c1ebab7d-7021-4b1c-90f9-8cc236707f34.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "vendedor": "Armazém 7"
    },
    "prioridade": false,
@@ -64668,14 +64850,19 @@
     {
      "data": "2026-11-13",
      "preco": 1170.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1470.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1170.0,
+   "variacao": 300.0,
+   "variacao_pct": 25.6,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 25.6,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -69612,7 +69799,7 @@
    "id": "kwara-1745720974138934624",
    "titulo": "2 Adegas climatizadas duplas Art des Caves 220V",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 13600.0,
+   "lance_atual": 14100.0,
    "encerramento": "2026-11-30 13:31",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -69622,7 +69809,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/71fa9ada-1f66-4ba8-bf79-03a68470b46a.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "vendedor": null
    },
    "prioridade": false,
@@ -69633,14 +69820,19 @@
     {
      "data": "2026-11-08",
      "preco": 13600.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 14100.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 13600.0,
+   "variacao": 500.0,
+   "variacao_pct": 3.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 3.7,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Kwara",
@@ -70066,7 +70258,7 @@
    "id": "kwara-1751345411274048758",
    "titulo": "3 projetores smart (Full HD 3500 lúmens e 2 HY320 4K Android) e 2 power banks 60.000mAh 100W USB-C",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 266.0,
+   "lance_atual": 286.0,
    "encerramento": "2026-11-30 13:46",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -70076,7 +70268,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/8fd6b6a2-235f-46c3-9a3c-9b3dd506e3ea.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "vendedor": "Assurant"
    },
    "prioridade": false,
@@ -70091,13 +70283,17 @@
     {
      "data": "2026-11-13",
      "preco": 266.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 286.0
     }
    ],
-   "preco_anterior": 226.0,
-   "variacao": 40.0,
-   "variacao_pct": 17.7,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 17.7,
+   "preco_anterior": 266.0,
+   "variacao": 20.0,
+   "variacao_pct": 7.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 26.5,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -74629,7 +74825,7 @@
    "id": "palacio-1593104",
    "titulo": "1 - REFRIGERADOR PANASONIC BT41X ACO 220V (NÃ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 100.0,
+   "lance_atual": 150.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -74650,21 +74846,26 @@
     {
      "data": "2026-11-14",
      "preco": 100.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 150.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 100.0,
+   "variacao": 50.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 50.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
    "id": "palacio-1593190",
    "titulo": "FREEZER HORIZONTAL MIDEA RCFB 205L BR 127V-...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
+   "lance_atual": 750.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -74693,13 +74894,17 @@
     {
      "data": "2026-11-14",
      "preco": 600.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 750.0
     }
    ],
-   "preco_anterior": 500.0,
-   "variacao": 100.0,
-   "variacao_pct": 20.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 500.0,
+   "preco_anterior": 600.0,
+   "variacao": 150.0,
+   "variacao_pct": 25.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 650.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -74708,7 +74913,7 @@
    "id": "palacio-1593191",
    "titulo": "1 - LAVA E SECA MIDEA MF201D110WB/GK 11KG TIT...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 650.0,
+   "lance_atual": 800.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -74741,13 +74946,17 @@
     {
      "data": "2026-11-14",
      "preco": 650.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 800.0
     }
    ],
-   "preco_anterior": 550.0,
-   "variacao": 100.0,
-   "variacao_pct": 18.2,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 160.0,
+   "preco_anterior": 650.0,
+   "variacao": 150.0,
+   "variacao_pct": 23.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 220.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -74756,7 +74965,7 @@
    "id": "palacio-1593106",
    "titulo": "GELADEIRA ELECTROLUX FF DFN44 400L BR 220V-...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
+   "lance_atual": 350.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -74781,13 +74990,17 @@
     {
      "data": "2026-11-14",
      "preco": 150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 350.0
     }
    ],
-   "preco_anterior": 100.0,
-   "variacao": 50.0,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 50.0,
+   "preco_anterior": 150.0,
+   "variacao": 200.0,
+   "variacao_pct": 133.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 250.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -74796,7 +75009,7 @@
    "id": "palacio-1593108",
    "titulo": "- 01 REFRIGERADOR ELECTROLUX TF56S, COM FREEZ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 200.0,
+   "lance_atual": 300.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -74821,13 +75034,17 @@
     {
      "data": "2026-11-14",
      "preco": 200.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 300.0
     }
    ],
-   "preco_anterior": 100.0,
+   "preco_anterior": 200.0,
    "variacao": 100.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 100.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -74884,7 +75101,7 @@
    "id": "palacio-1593193",
    "titulo": "- 01 LAVA E SECA SAMSUNG WD13FG6B34BXBZ, CAPA...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 450.0,
+   "lance_atual": 500.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -74913,13 +75130,17 @@
     {
      "data": "2026-11-14",
      "preco": 450.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 500.0
     }
    ],
-   "preco_anterior": 400.0,
+   "preco_anterior": 450.0,
    "variacao": 50.0,
-   "variacao_pct": 12.5,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 50.0,
+   "variacao_pct": 11.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 66.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -74928,7 +75149,7 @@
    "id": "palacio-1591896",
    "titulo": "APROXIMADAMENTE 60 ITENS ELETRÔNICOS, COMO: ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 500.0,
+   "lance_atual": 550.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -74965,13 +75186,17 @@
     {
      "data": "2026-11-14",
      "preco": 500.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 550.0
     }
    ],
-   "preco_anterior": 250.0,
-   "variacao": 250.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 900.0,
+   "preco_anterior": 500.0,
+   "variacao": 50.0,
+   "variacao_pct": 10.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 1000.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -74980,7 +75205,7 @@
    "id": "palacio-1593110",
    "titulo": "1 - REFRIGERADOR BRASTEMP BRM62AB BR BIVOLT- ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
+   "lance_atual": 250.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75005,13 +75230,17 @@
     {
      "data": "2026-11-14",
      "preco": 150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 250.0
     }
    ],
-   "preco_anterior": 100.0,
-   "variacao": 50.0,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 50.0,
+   "preco_anterior": 150.0,
+   "variacao": 100.0,
+   "variacao_pct": 66.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 150.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75055,7 +75284,7 @@
    "id": "palacio-1593195",
    "titulo": "FOGAO DAKO 4 BOCAS SUPREME GLASS PRTO BIVOL...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
+   "lance_atual": 250.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75084,13 +75313,17 @@
     {
      "data": "2026-11-14",
      "preco": 150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 250.0
     }
    ],
-   "preco_anterior": 100.0,
-   "variacao": 50.0,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 200.0,
+   "preco_anterior": 150.0,
+   "variacao": 100.0,
+   "variacao_pct": 66.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 400.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75158,7 +75391,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8899",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/a872c4359fc4749901f590a8e9846c38.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -75287,7 +75520,7 @@
    "id": "palacio-1592745",
    "titulo": "LIQUIDIFICADOR MULTI HOME TURBO 1200, PRE...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 400.0,
+   "lance_atual": 450.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75320,13 +75553,17 @@
     {
      "data": "2026-11-13",
      "preco": 400.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 450.0
     }
    ],
-   "preco_anterior": 350.0,
+   "preco_anterior": 400.0,
    "variacao": 50.0,
-   "variacao_pct": 14.3,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 300.0,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 350.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75379,7 +75616,7 @@
    "id": "palacio-1593114",
    "titulo": "1 - REFRIGERADOR ELECTROLUX FF IT70S 480L INO...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 50.0,
+   "lance_atual": 100.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75400,21 +75637,26 @@
     {
      "data": "2026-11-14",
      "preco": 50.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 50.0,
+   "variacao": 50.0,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
    "id": "palacio-1593205",
    "titulo": "CONDESADORA SPLIT FRIO 9000BTUS NA 220V 1...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
+   "lance_atual": 200.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75439,13 +75681,17 @@
     {
      "data": "2026-11-14",
      "preco": 150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 200.0
     }
    ],
-   "preco_anterior": 50.0,
-   "variacao": 100.0,
-   "variacao_pct": 200.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 200.0,
+   "preco_anterior": 150.0,
+   "variacao": 50.0,
+   "variacao_pct": 33.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 300.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75573,7 +75819,7 @@
    "id": "palacio-1592862",
    "titulo": "- 1 TELEVISOR HISENSE SMART TV 40 A4, CONFORM...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 50.0,
+   "lance_atual": 100.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75594,14 +75840,19 @@
     {
      "data": "2026-11-14",
      "preco": 50.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 50.0,
+   "variacao": 50.0,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -75713,7 +75964,7 @@
    "id": "palacio-1592870",
    "titulo": "- 01 SECADORA DE ROUPAS MIDEA, MODELO MD100A1...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 300.0,
+   "lance_atual": 650.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75742,13 +75993,17 @@
     {
      "data": "2026-11-14",
      "preco": 300.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 650.0
     }
    ],
-   "preco_anterior": 150.0,
-   "variacao": 150.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 200.0,
+   "preco_anterior": 300.0,
+   "variacao": 350.0,
+   "variacao_pct": 116.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 550.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75861,7 +76116,7 @@
    "id": "palacio-1593079",
    "titulo": "- 01 CAIXA DE SOM AMPLIFICADA HERUZ HZ-2000, ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
+   "lance_atual": 400.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75886,13 +76141,17 @@
     {
      "data": "2026-11-14",
      "preco": 350.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 400.0
     }
    ],
-   "preco_anterior": 300.0,
+   "preco_anterior": 350.0,
    "variacao": 50.0,
-   "variacao_pct": 16.7,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 16.7,
+   "variacao_pct": 14.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 33.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75901,7 +76160,7 @@
    "id": "palacio-1592636",
    "titulo": "- 01 FORNO ELÉTRICO DE EMBUTIR DAKO SUPREME, ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 300.0,
+   "lance_atual": 350.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75926,13 +76185,17 @@
     {
      "data": "2026-11-14",
      "preco": 300.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 350.0
     }
    ],
-   "preco_anterior": 200.0,
-   "variacao": 100.0,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 50.0,
+   "preco_anterior": 300.0,
+   "variacao": 50.0,
+   "variacao_pct": 16.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 75.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -76016,7 +76279,7 @@
    "id": "palacio-1593128",
    "titulo": "1 - SMART TV SAMSUNG CRYSTAL UHD 75 POLEGADAS...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 800.0,
+   "lance_atual": 1000.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -76049,13 +76312,17 @@
     {
      "data": "2026-11-14",
      "preco": 800.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1000.0
     }
    ],
-   "preco_anterior": 750.0,
-   "variacao": 50.0,
-   "variacao_pct": 6.7,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 700.0,
+   "preco_anterior": 800.0,
+   "variacao": 200.0,
+   "variacao_pct": 25.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 900.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -76064,7 +76331,7 @@
    "id": "palacio-1593130",
    "titulo": "1 - SMART TV TCL 55 POLEGADAS QLED 4K - (LIG...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 800.0,
+   "lance_atual": 850.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -76097,13 +76364,17 @@
     {
      "data": "2026-11-14",
      "preco": 800.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 850.0
     }
    ],
-   "preco_anterior": 700.0,
-   "variacao": 100.0,
-   "variacao_pct": 14.3,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 1500.0,
+   "preco_anterior": 800.0,
+   "variacao": 50.0,
+   "variacao_pct": 6.2,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 1600.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -76112,7 +76383,7 @@
    "id": "palacio-1593131",
    "titulo": "1 - SMART TV LG 50 POLEGADAS NANO 4K UHD -",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 700.0,
+   "lance_atual": 750.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -76141,13 +76412,17 @@
     {
      "data": "2026-11-14",
      "preco": 700.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 750.0
     }
    ],
-   "preco_anterior": 400.0,
-   "variacao": 300.0,
-   "variacao_pct": 75.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 366.7,
+   "preco_anterior": 700.0,
+   "variacao": 50.0,
+   "variacao_pct": 7.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 400.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -76317,7 +76592,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8899",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/002_dedfb3df6a0050eaa06a621686cdc8de.webp",
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_0b43ea75178342f09b966f6eac44d830.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "DUX Eletro",
@@ -76385,7 +76660,7 @@
    "id": "palacio-1592587",
    "titulo": "FORNO ELÉTRICO LUXO PREMYUM ADV INOX 65 LI...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 300.0,
+   "lance_atual": 350.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -76422,13 +76697,17 @@
     {
      "data": "2026-11-14",
      "preco": 300.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 350.0
     }
    ],
-   "preco_anterior": 250.0,
+   "preco_anterior": 300.0,
    "variacao": 50.0,
-   "variacao_pct": 20.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 500.0,
+   "variacao_pct": 16.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 600.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -76596,14 +76875,14 @@
    "id": "palacio-1593573",
    "titulo": "- 1 REFRIGERADOR ELECTROLUX FROST FREE, MODEL...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 550.0,
+   "lance_atual": 650.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8899",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/9a2b3a2d4b9d39f73ce0e73cc5a291b9.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -76625,13 +76904,17 @@
     {
      "data": "2026-11-14",
      "preco": 550.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 650.0
     }
    ],
-   "preco_anterior": 200.0,
-   "variacao": 350.0,
-   "variacao_pct": 175.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 1000.0,
+   "preco_anterior": 550.0,
+   "variacao": 100.0,
+   "variacao_pct": 18.2,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 1200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -77327,7 +77610,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_52b99ac86e0df175ec5893e35216c408.webp",
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_3e1ea3e995d6afbf31d0f767fd971c96.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Materiais e Mini Motos",
@@ -77422,7 +77705,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/e1a503fa7b44562611342e10b8d32bba.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Auto Vende",
@@ -77457,7 +77740,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/7897ce9702725bb007e2139efddbf5f9.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Auto Vende",
@@ -77492,7 +77775,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/ca7b6c20a8f8e5c11fdef2ecdee32fa7.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Auto Vende",
@@ -77522,7 +77805,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/3b757fed9e3cc913f7b1543d2335a7bf.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Auto Vende",
@@ -77552,7 +77835,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/94144e298be6ac4073047cbee25f8546.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Materiais e Mini Motos",
@@ -77582,7 +77865,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/d886d238dccb072129738020ad915555.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -77634,7 +77917,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/de12b3c7f6a20d592bb24e38dea2b7a5.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -77674,7 +77957,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/7fb85ea132c152cffa175ed7a4d7556b.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -77718,7 +78001,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/a7a33913d8f9c902328589a0139ed6ba.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -77766,7 +78049,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/a967fe94a47dcfcdeee2c9baf9eb683a.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -77806,7 +78089,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/ec17fad79e22fb04dec8018b8c17e74e.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -77841,7 +78124,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/4f2d84e98c36c27cb69b4bd33a26195d.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -77881,7 +78164,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/a56f28b74742a53e507450992c223a45.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -77916,7 +78199,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/76752086dde2e4b95e7d52e94fb5586c.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -77951,7 +78234,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/a02ddd241865ed069a7ca62d05c6ef25.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -77986,7 +78269,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/438606447bd45e9c68129f10b005e3e7.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78021,7 +78304,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/002_6d9a576d6089c27bc9ad15a2a5d32dc1.webp",
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/002_0d11f9521942f5d90b5c38d29b9d111c.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -78056,7 +78339,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/8cbf807d994c63b1ed8428e459e6e337.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78084,14 +78367,14 @@
    "id": "palacio-1592554",
    "titulo": "- CAFETEIRA ESPRESSO AUTOMÁTICA WAP WCE19, 22...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 100.0,
+   "lance_atual": 150.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/55adffad9d555859ebfa46d662b9bb8f.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78109,13 +78392,17 @@
     {
      "data": "2026-11-14",
      "preco": 100.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 150.0
     }
    ],
-   "preco_anterior": 50.0,
+   "preco_anterior": 100.0,
    "variacao": 50.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 100.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -78131,7 +78418,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/aed52f976c244242ca784d0cfbf273af.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78175,7 +78462,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/70586b8b189e136fb147226dd6ed9a93.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78215,7 +78502,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/3999e578a49c714afb3672d7cf4b88aa.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78250,7 +78537,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/d155bbaacf292bef9fb131728da2ecaa.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78298,7 +78585,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/f7d4ecec0fa1473a562027ebd58dd8bf.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78346,7 +78633,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/b39cb5b9a53c66c90535779a55264f61.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78386,7 +78673,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/55b0b1cb1c881cd900a92d19d9af1fb4.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78426,7 +78713,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/e94ef87309ab4a40d80a4c8387cf5212.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78470,7 +78757,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/68f1844d6157b0442dd595bf77844753.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78510,7 +78797,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/9afc5c1a8123596faafe53380539d1eb.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -78545,7 +78832,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_e62ddb29c3da287932befbe84a89c0ec.webp",
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_e351e476447e16f6e1254d28875a7c14.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -78582,7 +78869,7 @@
    "id": "palacio-1590509",
    "titulo": "3 - GALAXY SAMSUNG A32, 128GB - 2 - GALAXY S...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 200.0,
+   "lance_atual": 250.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -78611,13 +78898,17 @@
     {
      "data": "2026-11-14",
      "preco": 200.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 250.0
     }
    ],
-   "preco_anterior": 100.0,
-   "variacao": 100.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 300.0,
+   "preco_anterior": 200.0,
+   "variacao": 50.0,
+   "variacao_pct": 25.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 400.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -78677,7 +78968,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_41a36b3d475c08994621060877b2b9ca.webp",
+   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/001_0e6532c45e3580ceddb1284df8e831a0.webp",
    "observacoes": [],
    "detalhes": {
     "comitente": "Materiais e Mini Motos",
@@ -79048,7 +79339,7 @@
    "id": "palacio-1593173",
    "titulo": "1 - LAVA E SECA WASH/DRY 11/7KG CONNECT LIFE ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 50.0,
+   "lance_atual": 100.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79069,21 +79360,26 @@
     {
      "data": "2026-11-14",
      "preco": 50.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 50.0,
+   "variacao": 50.0,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
    "id": "palacio-1593174",
    "titulo": "1 - LAVA E SECA WASH/DRY 13/8KG HISENSE TITAN...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 50.0,
+   "lance_atual": 100.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79104,14 +79400,19 @@
     {
      "data": "2026-11-14",
      "preco": 50.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 50.0,
+   "variacao": 50.0,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -79223,7 +79524,7 @@
    "id": "palacio-1593185",
    "titulo": "1 - MONITOR SAMSUNG SMART SIGNAGE AFFICHAGE I...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
+   "lance_atual": 300.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79252,13 +79553,17 @@
     {
      "data": "2026-11-14",
      "preco": 250.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 300.0
     }
    ],
-   "preco_anterior": 200.0,
+   "preco_anterior": 250.0,
    "variacao": 50.0,
-   "variacao_pct": 25.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 400.0,
+   "variacao_pct": 20.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 500.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -79267,7 +79572,7 @@
    "id": "palacio-1593186",
    "titulo": "1 - MONITOR SAMSUNG SMART SIGNAGE AFFICHAGE I...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 200.0,
+   "lance_atual": 300.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79292,13 +79597,17 @@
     {
      "data": "2026-11-14",
      "preco": 200.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 300.0
     }
    ],
-   "preco_anterior": 150.0,
-   "variacao": 50.0,
-   "variacao_pct": 33.3,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 33.3,
+   "preco_anterior": 200.0,
+   "variacao": 100.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -79393,7 +79702,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/089ffa6ffec6efe756fc89a67caac8eb.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -79441,7 +79750,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/90a8ec6927f0a7f51d80e7b2ff839e60.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -79497,7 +79806,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/d33256853247864ac60057d267ae4e8b.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -79537,7 +79846,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/8a5279564e8a4ed6ffd8771fd6215bc4.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -79585,7 +79894,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/ef2ca1c27c59422ad78281f4ce0c5d20.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -79629,7 +79938,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/e9ca69c9fa5f09eaa160edabe4818f48.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -79673,7 +79982,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/01028e3fceec9e197b34e6e84f731e99.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -79701,14 +80010,14 @@
    "id": "palacio-1592709",
    "titulo": "LOTE DE ELETRODOMÉSTICOS: - BEBEDOURO COLORMA...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
+   "lance_atual": 300.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/4dfaffa6b8c096a7307871ffab5a3820.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -79730,13 +80039,17 @@
     {
      "data": "2026-11-14",
      "preco": 250.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 300.0
     }
    ],
-   "preco_anterior": 200.0,
+   "preco_anterior": 250.0,
    "variacao": 50.0,
-   "variacao_pct": 25.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 400.0,
+   "variacao_pct": 20.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 500.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -79745,14 +80058,14 @@
    "id": "palacio-1592738",
    "titulo": "- BATEDEIRA PLANETÁRIA OSTER MODELO OBAT641, ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 100.0,
+   "lance_atual": 150.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/314f8ae73ce81e68c66710e84622a8c1.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -79770,13 +80083,17 @@
     {
      "data": "2026-11-14",
      "preco": 100.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 150.0
     }
    ],
-   "preco_anterior": 50.0,
+   "preco_anterior": 100.0,
    "variacao": 50.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 100.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -79792,7 +80109,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8908",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/40d1bbaee3798d1da490dc33a631a2b8.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "Outlet MIX",
@@ -80620,7 +80937,7 @@
    "id": "palacio-1593262",
    "titulo": "- 1 TELEVISOR SAMSUNG CRYSTAL UHD U8600F DE 5...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 200.0,
+   "lance_atual": 300.0,
    "encerramento": "2026-11-18 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -80649,13 +80966,17 @@
     {
      "data": "2026-11-14",
      "preco": 200.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 300.0
     }
    ],
-   "preco_anterior": 150.0,
-   "variacao": 50.0,
-   "variacao_pct": 33.3,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 300.0,
+   "preco_anterior": 200.0,
+   "variacao": 100.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 500.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -80704,7 +81025,7 @@
    "id": "palacio-1593572",
    "titulo": "- 1 TELEVISOR TCL QLED TV DE 43 POLEGADAS, FH...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 200.0,
+   "lance_atual": 300.0,
    "encerramento": "2026-11-18 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -80729,13 +81050,17 @@
     {
      "data": "2026-11-14",
      "preco": 200.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 300.0
     }
    ],
-   "preco_anterior": 50.0,
-   "variacao": 150.0,
-   "variacao_pct": 300.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 300.0,
+   "preco_anterior": 200.0,
+   "variacao": 100.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 500.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -80744,7 +81069,7 @@
    "id": "palacio-1593581",
    "titulo": "- 1 LAVADORA LG, MODELO CV5012PC4A, 220 V, 60...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 100.0,
+   "lance_atual": 150.0,
    "encerramento": "2026-11-18 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -80765,14 +81090,19 @@
     {
      "data": "2026-11-14",
      "preco": 100.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 150.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 100.0,
+   "variacao": 50.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 50.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -80786,7 +81116,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8911",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/c81b1f00eb46a3ace935e7cf5913bc50.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -80814,7 +81144,7 @@
    "id": "palacio-1593216",
    "titulo": "CAIXA DE SOM AIWA BOOMBOX MODELO AWS-BBS-0...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
+   "lance_atual": 300.0,
    "encerramento": "2026-11-18 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -80847,13 +81177,17 @@
     {
      "data": "2026-11-14",
      "preco": 250.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 300.0
     }
    ],
-   "preco_anterior": 200.0,
+   "preco_anterior": 250.0,
    "variacao": 50.0,
-   "variacao_pct": 25.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 150.0,
+   "variacao_pct": 20.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -80897,7 +81231,7 @@
    "id": "palacio-1593534",
    "titulo": "- REFRIGERADOR PANASONIC NR-BB65GV7MC, 467 LI...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
+   "lance_atual": 300.0,
    "encerramento": "2026-11-18 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -80922,13 +81256,17 @@
     {
      "data": "2026-11-14",
      "preco": 250.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 300.0
     }
    ],
-   "preco_anterior": 200.0,
+   "preco_anterior": 250.0,
    "variacao": 50.0,
-   "variacao_pct": 25.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 25.0,
+   "variacao_pct": 20.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 50.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -81016,7 +81354,7 @@
    "id": "palacio-1593545",
    "titulo": "- LAVADORA DE ALTA PRESSÃO WAP COMBATE TURBO ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 100.0,
+   "lance_atual": 150.0,
    "encerramento": "2026-11-18 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -81041,13 +81379,17 @@
     {
      "data": "2026-11-14",
      "preco": 100.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 150.0
     }
    ],
-   "preco_anterior": 50.0,
+   "preco_anterior": 100.0,
    "variacao": 50.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 100.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -82981,7 +83323,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8917",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/b46060e1407d471d664fb3d7a1f7a642.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -83016,7 +83358,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8917",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/93c11d8f7721cd47de43b3af22bf73a7.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -83049,14 +83391,14 @@
    "id": "palacio-1593512",
    "titulo": "- IMPRESSORA 3D BAMBU LAB A1 MINI, BIVOLTS, B...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 400.0,
+   "lance_atual": 450.0,
    "encerramento": "2026-11-19 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8917",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/400ab2cb52f693d9325504e41d1cfed3.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -83078,13 +83420,17 @@
     {
      "data": "2026-11-14",
      "preco": 400.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 450.0
     }
    ],
-   "preco_anterior": 200.0,
-   "variacao": 200.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 700.0,
+   "preco_anterior": 400.0,
+   "variacao": 50.0,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 800.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -83100,7 +83446,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8917",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/65a8da17c8d70c035acc3c7b45f33bb1.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -83133,14 +83479,14 @@
    "id": "palacio-1593544",
    "titulo": "- FREEZER HORIZONTAL MIDEA, MODELO MDRC280SFZ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 200.0,
+   "lance_atual": 350.0,
    "encerramento": "2026-11-19 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8917",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/c3377847a27fe9fc67c06e374b0078d1.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -83158,13 +83504,17 @@
     {
      "data": "2026-11-14",
      "preco": 200.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 350.0
     }
    ],
-   "preco_anterior": 100.0,
-   "variacao": 100.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 100.0,
+   "preco_anterior": 200.0,
+   "variacao": 150.0,
+   "variacao_pct": 75.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 250.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -83180,7 +83530,7 @@
    "publico": "PF e PJ",
    "link": "https://www.palaciodosleiloes.com.br/site/index.php?leilao_pesquisa=8917",
    "valor_avaliacao": null,
-   "imagem": "https://www.palaciodosleiloes.com.br/site/imagens_lote/500375/f7232775e11cc41fbb58ef66b4299a11.webp",
+   "imagem": null,
    "observacoes": [],
    "detalhes": {
     "comitente": "MDL",
@@ -98094,7 +98444,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -99356,7 +99706,7 @@
    "id": "superbid-5071475",
    "titulo": "LOTE CONTENDO ACESSÓRIOS ELETRÔNICOS E DISPOSITIVOS - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 340,
+   "lance_atual": 440,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -99368,7 +99718,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -99384,13 +99734,17 @@
     {
      "data": "2026-11-03",
      "preco": 340
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 440
     }
    ],
-   "preco_anterior": 240,
+   "preco_anterior": 340,
    "variacao": 100,
-   "variacao_pct": 41.7,
-   "variacao_em": "2026-11-03",
-   "variacao_total_pct": 41.7,
+   "variacao_pct": 29.4,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 83.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
