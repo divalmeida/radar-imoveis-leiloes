@@ -1,64 +1,64 @@
 {
- "atualizado_em": "2026-11-15 13:01",
+ "atualizado_em": "2026-11-15 19:01",
  "fontes": {
   "Receita Federal": {
    "ok": true,
    "lotes": 499,
-   "segundos": 420
+   "segundos": 523
   },
   "Superbid": {
    "ok": true,
    "lotes": 1540,
-   "segundos": 420
+   "segundos": 523
   },
   "Caixa": {
    "ok": true,
    "lotes": 794,
    "dados_de": "2026-11-14 19:22",
    "local": true,
-   "segundos": 420
+   "segundos": 523
   },
   "Kwara": {
    "ok": true,
    "lotes": 198,
-   "segundos": 420
+   "segundos": 523
   },
   "Mega Leilões": {
    "ok": true,
    "lotes": 19,
-   "segundos": 420
+   "segundos": 523
   },
   "Freitas": {
    "ok": true,
    "lotes": 115,
-   "segundos": 420
+   "segundos": 523
   },
   "Palácio dos Leilões": {
    "ok": true,
    "lotes": 133,
-   "segundos": 420
+   "segundos": 523
   },
   "Parque dos Leilões": {
    "ok": true,
    "lotes": 1,
-   "segundos": 420
+   "segundos": 523
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
    "lotes": 209,
    "dados_de": "2026-11-14 19:22",
    "local": true,
-   "segundos": 420
+   "segundos": 523
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
    "lotes": 255,
-   "segundos": 420
+   "segundos": 523
   },
   "Zuk / Frazão (imóveis BA)": {
    "ok": true,
    "lotes": 47,
-   "segundos": 420
+   "segundos": 523
   }
  },
  "lotes": [
@@ -1834,7 +1834,7 @@
    "id": "kwara-1741940693837808855",
    "titulo": "Iphone 8",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 120.0,
+   "lance_atual": 140.0,
    "encerramento": "2026-11-16 09:34",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -1844,7 +1844,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/5b930284-e058-404b-a9b5-7144d371d992.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 2,
+    "lances": 3,
     "vendedor": "Projeto Uirapuru"
    },
    "prioridade": false,
@@ -1859,13 +1859,17 @@
     {
      "data": "2026-11-12",
      "preco": 120.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 140.0
     }
    ],
-   "preco_anterior": 100.0,
+   "preco_anterior": 120.0,
    "variacao": 20.0,
-   "variacao_pct": 20.0,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 20.0,
+   "variacao_pct": 16.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 40.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -2928,7 +2932,7 @@
    "id": "kwara-1745009854524687957",
    "titulo": "6 itens: Inversor de corrente, 3 carregadores de carro elétrico, subwoofer Bomber e carregador de moto elétrica Voltz",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 210.0,
+   "lance_atual": 230.0,
    "encerramento": "2026-11-16 09:47",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -2938,7 +2942,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/75aff22d-8f13-4927-87fc-91c3e586226f.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 9,
+    "lances": 10,
     "vendedor": "Assurant"
    },
    "prioridade": false,
@@ -2957,13 +2961,17 @@
     {
      "data": "2026-11-15",
      "preco": 210.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 230.0
     }
    ],
-   "preco_anterior": 190.0,
+   "preco_anterior": 210.0,
    "variacao": 20.0,
-   "variacao_pct": 10.5,
+   "variacao_pct": 9.5,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 23.5,
+   "variacao_total_pct": 35.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -3012,7 +3020,7 @@
    "id": "kwara-1746265991320438086",
    "titulo": "3 Itens: Microfone sem fio Tomate, DVR Intelbras 16 canais e kit teclado e mouse sem fio",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 170.0,
+   "lance_atual": 190.0,
    "encerramento": "2026-11-16 09:51",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3022,7 +3030,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/0ab1ac73-c255-4de6-aabf-4a9c78fb5c21.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 7,
+    "lances": 8,
     "vendedor": "Assurant"
    },
    "prioridade": false,
@@ -3053,13 +3061,17 @@
     {
      "data": "2026-11-15",
      "preco": 170.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 190.0
     }
    ],
-   "preco_anterior": 150.0,
+   "preco_anterior": 170.0,
    "variacao": 20.0,
-   "variacao_pct": 13.3,
+   "variacao_pct": 11.8,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 142.9,
+   "variacao_total_pct": 171.4,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -3103,7 +3115,7 @@
    "id": "kwara-1747224611587622263",
    "titulo": "PlayStation 5",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1970.0,
+   "lance_atual": 2010.0,
    "encerramento": "2026-11-16 09:57",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3113,7 +3125,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/030820cd-a428-4a7d-a01b-07a6abcab4d1.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 76,
+    "lances": 78,
     "vendedor": "GVS"
    },
    "prioridade": false,
@@ -3152,13 +3164,17 @@
     {
      "data": "2026-11-15",
      "preco": 1970.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 2010.0
     }
    ],
-   "preco_anterior": 1650.0,
-   "variacao": 320.0,
-   "variacao_pct": 19.4,
+   "preco_anterior": 1970.0,
+   "variacao": 40.0,
+   "variacao_pct": 2.0,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 43.8,
+   "variacao_total_pct": 46.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -3242,7 +3258,7 @@
    "id": "kwara-1750860937109178320",
    "titulo": "3 itens: Fritadeira elétrica Wap, purificador de água Consul e máquina de gelo Mondial",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 237.0,
+   "lance_atual": 277.0,
    "encerramento": "2026-11-16 10:08",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -3252,7 +3268,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/d7b314cd-0c3c-4430-8979-310aacc74436.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 3,
+    "lances": 5,
     "vendedor": "Assurant"
    },
    "prioridade": false,
@@ -3271,13 +3287,17 @@
     {
      "data": "2026-11-15",
      "preco": 237.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 277.0
     }
    ],
-   "preco_anterior": 217.0,
-   "variacao": 20.0,
-   "variacao_pct": 9.2,
+   "preco_anterior": 237.0,
+   "variacao": 40.0,
+   "variacao_pct": 16.9,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 20.3,
+   "variacao_total_pct": 40.6,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -3320,7 +3340,7 @@
    "id": "superbid-5102262",
    "titulo": "SISTEMA COMPLETO DE MANETES PARA SIMULAÇÃO DE VOO PARA PC (01 UN) (REF.: SB0033776)",
    "categoria": "Eletrônicos",
-   "lance_atual": 590,
+   "lance_atual": 690,
    "encerramento": "2026-11-16 10:32",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -3332,7 +3352,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 1,
+    "lances": 2,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -3344,14 +3364,19 @@
     {
      "data": "2026-11-11",
      "preco": 590
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 690
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 590,
+   "variacao": 100,
+   "variacao_pct": 16.9,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 16.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Superbid",
@@ -3396,7 +3421,7 @@
    "id": "superbid-5091097",
    "titulo": "STARLINK SISTEMA DE RECEPÇÃO DE INTERNET SATELITE, STARLINK MINI INTERNET VIA SATÉLITE (05 UN) (Ref.: SB0033979)",
    "categoria": "Informática",
-   "lance_atual": 1200,
+   "lance_atual": 1300,
    "encerramento": "2026-11-16 10:37",
    "cidade": "Embu das Artes",
    "uf": "SP",
@@ -3408,7 +3433,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "SOLD",
     "leilao": "Logística Reversa"
    },
@@ -3424,13 +3449,17 @@
     {
      "data": "2026-11-14",
      "preco": 1200
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1300
     }
    ],
-   "preco_anterior": 900,
-   "variacao": 300,
-   "variacao_pct": 33.3,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 33.3,
+   "preco_anterior": 1200,
+   "variacao": 100,
+   "variacao_pct": 8.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 44.4,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -4486,7 +4515,7 @@
    "id": "kwara-1744856069655496568",
    "titulo": "Ar-condicionado portátil Philco PAC12000F5, 220V, 3 velocidades, display digital, branco - 56652084",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 785.0,
+   "lance_atual": 835.0,
    "encerramento": "2026-11-16 11:31",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -4496,7 +4525,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/d831361a-c32d-42b5-b3eb-dd7130d77361.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "vendedor": "KABUM S.A."
    },
    "prioridade": false,
@@ -4515,13 +4544,17 @@
     {
      "data": "2026-11-15",
      "preco": 785.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 835.0
     }
    ],
-   "preco_anterior": 735.0,
+   "preco_anterior": 785.0,
    "variacao": 50.0,
-   "variacao_pct": 6.8,
+   "variacao_pct": 6.4,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 14.6,
+   "variacao_total_pct": 21.9,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -5999,7 +6032,7 @@
    "id": "kwara-1746277409767818851",
    "titulo": "Memória RAM Xpg Lancer",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1919.0,
+   "lance_atual": 1969.0,
    "encerramento": "2026-11-16 13:05",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -6009,7 +6042,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/0c1eb4e2-9eb8-440d-907f-5457c6332d89.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 32,
+    "lances": 33,
     "vendedor": "KABUM S.A."
    },
    "prioridade": false,
@@ -6048,13 +6081,17 @@
     {
      "data": "2026-11-13",
      "preco": 1919.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1969.0
     }
    ],
-   "preco_anterior": 1819.0,
-   "variacao": 100.0,
-   "variacao_pct": 5.5,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 269.7,
+   "preco_anterior": 1919.0,
+   "variacao": 50.0,
+   "variacao_pct": 2.6,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 279.4,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -6580,7 +6617,7 @@
    "id": "superbid-5090459",
    "titulo": "SECADORA DE ROUPA E LAVA E SECA (05 PC) (Ref.: SB0030222)",
    "categoria": "Limpeza",
-   "lance_atual": 2800,
+   "lance_atual": 3000,
    "encerramento": "2026-11-16 13:38",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -6592,7 +6629,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 10,
+    "lances": 11,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -6636,13 +6673,17 @@
     {
      "data": "2026-11-15",
      "preco": 2800
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 3000
     }
    ],
-   "preco_anterior": 2600,
+   "preco_anterior": 2800,
    "variacao": 200,
-   "variacao_pct": 7.7,
+   "variacao_pct": 7.1,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 40.0,
+   "variacao_total_pct": 50.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -6749,7 +6790,7 @@
    "id": "superbid-5090456",
    "titulo": "LAVADORA E LAVA E SECA (05 PC) (Ref.: SB0030225)",
    "categoria": "Limpeza",
-   "lance_atual": 2000,
+   "lance_atual": 2250,
    "encerramento": "2026-11-16 13:39",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -6761,7 +6802,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 5,
+    "lances": 6,
     "leiloeiro": "SOLD",
     "leilao": "Casas Bahia"
    },
@@ -6793,13 +6834,17 @@
     {
      "data": "2026-11-14",
      "preco": 2000
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 2250
     }
    ],
-   "preco_anterior": 1750,
+   "preco_anterior": 2000,
    "variacao": 250,
-   "variacao_pct": 14.3,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": -38.5,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": -30.8,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -10365,7 +10410,7 @@
    "id": "bolsa-106335",
    "titulo": "Refrigerador - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1690.0,
+   "lance_atual": 1790.0,
    "encerramento": "2026-11-17 11:00",
    "cidade": "Camacari",
    "uf": "BA",
@@ -10387,13 +10432,17 @@
     {
      "data": "2026-11-10",
      "preco": 1690.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1790.0
     }
    ],
-   "preco_anterior": 1490.0,
-   "variacao": 200.0,
-   "variacao_pct": 13.4,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 13.4,
+   "preco_anterior": 1690.0,
+   "variacao": 100.0,
+   "variacao_pct": 5.9,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 20.1,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -10617,7 +10666,7 @@
    "id": "bolsa-106342",
    "titulo": "Refrigerador - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1640.0,
+   "lance_atual": 1740.0,
    "encerramento": "2026-11-17 11:00",
    "cidade": "Camacari",
    "uf": "BA",
@@ -10643,13 +10692,17 @@
     {
      "data": "2026-11-10",
      "preco": 1640.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1740.0
     }
    ],
-   "preco_anterior": 1440.0,
-   "variacao": 200.0,
-   "variacao_pct": 13.9,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 22.4,
+   "preco_anterior": 1640.0,
+   "variacao": 100.0,
+   "variacao_pct": 6.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 29.9,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -11263,7 +11316,7 @@
    "id": "bolsa-106360",
    "titulo": "Refrigerador - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 800.0,
+   "lance_atual": 900.0,
    "encerramento": "2026-11-17 11:00",
    "cidade": "Camacari",
    "uf": "BA",
@@ -11281,14 +11334,19 @@
     {
      "data": "2026-11-08",
      "preco": 800.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 900.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 800.0,
+   "variacao": 100.0,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 12.5,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
@@ -12734,7 +12792,7 @@
    "id": "kwara-1746464880459777207",
    "titulo": "Split Carreir com condensadora própria",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 460.0,
+   "lance_atual": 480.0,
    "encerramento": "2026-11-17 16:01",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -12744,7 +12802,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/b47b9bcc-5182-4fa8-800c-772d1c3c8659.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 19,
+    "lances": 20,
     "vendedor": "Canopus Platina"
    },
    "prioridade": false,
@@ -12775,13 +12833,17 @@
     {
      "data": "2026-11-12",
      "preco": 460.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 480.0
     }
    ],
-   "preco_anterior": 420.0,
-   "variacao": 40.0,
-   "variacao_pct": 9.5,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 360.0,
+   "preco_anterior": 460.0,
+   "variacao": 20.0,
+   "variacao_pct": 4.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 380.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -12790,7 +12852,7 @@
    "id": "kwara-1746464880451388594",
    "titulo": "Split Carreir com condensadora própria",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 620.0,
+   "lance_atual": 640.0,
    "encerramento": "2026-11-17 16:02",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -12800,7 +12862,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/2689de62-59d4-408e-957f-076970394c78.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 27,
+    "lances": 28,
     "vendedor": "Canopus Platina"
    },
    "prioridade": false,
@@ -12831,13 +12893,17 @@
     {
      "data": "2026-11-12",
      "preco": 620.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 640.0
     }
    ],
-   "preco_anterior": 580.0,
-   "variacao": 40.0,
-   "variacao_pct": 6.9,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 520.0,
+   "preco_anterior": 620.0,
+   "variacao": 20.0,
+   "variacao_pct": 3.2,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 540.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -12910,7 +12976,7 @@
    "id": "kwara-1751452853102184382",
    "titulo": "Evaporadora Carrier com condensadora",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 220.0,
+   "lance_atual": 580.0,
    "encerramento": "2026-11-17 16:20",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -12920,7 +12986,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/36c8fc3d-f318-4ddc-a272-9baaa521c0e8.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 8,
+    "lances": 27,
     "vendedor": "Canopus Platina"
    },
    "prioridade": false,
@@ -12951,13 +13017,17 @@
     {
      "data": "2026-11-15",
      "preco": 220.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 580.0
     }
    ],
-   "preco_anterior": 180.0,
-   "variacao": 40.0,
-   "variacao_pct": 22.2,
+   "preco_anterior": 220.0,
+   "variacao": 360.0,
+   "variacao_pct": 163.6,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 175.0,
+   "variacao_total_pct": 625.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -12966,7 +13036,7 @@
    "id": "kwara-1751452853085407165",
    "titulo": "Evaporadora Vix com condensadora",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 220.0,
+   "lance_atual": 260.0,
    "encerramento": "2026-11-17 16:20",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -12976,7 +13046,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/fa83db88-1f04-4c78-b6f8-525c1c6592a1.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 8,
+    "lances": 10,
     "vendedor": "Canopus Platina"
    },
    "prioridade": false,
@@ -13007,13 +13077,17 @@
     {
      "data": "2026-11-15",
      "preco": 220.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 260.0
     }
    ],
-   "preco_anterior": 200.0,
-   "variacao": 20.0,
-   "variacao_pct": 10.0,
+   "preco_anterior": 220.0,
+   "variacao": 40.0,
+   "variacao_pct": 18.2,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 175.0,
+   "variacao_total_pct": 225.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -15940,7 +16014,7 @@
    "id": "freitas-8151-12",
    "titulo": "LOTE COM 01 VOLANTE GAMER LOGITECH G29 DRIVING FORCE RACING WHEEL PARA...",
    "categoria": "Eletrônicos",
-   "lance_atual": 850.0,
+   "lance_atual": 900.0,
    "encerramento": "2026-11-18 14:00",
    "cidade": "Santo André",
    "uf": "SP",
@@ -15960,14 +16034,19 @@
     {
      "data": "2026-11-08",
      "preco": 850.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 900.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 850.0,
+   "variacao": 50.0,
+   "variacao_pct": 5.9,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 5.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Freitas",
@@ -21753,7 +21832,7 @@
    "id": "freitas-8155-69",
    "titulo": "LOTE COM 01 SMARTPHONE MOTOROLA EDGE 60 NEO XT2509-1 256GB 12GB RAM CO...",
    "categoria": "Celulares / Tablets",
-   "lance_atual": 1030.0,
+   "lance_atual": 1190.0,
    "encerramento": "2026-11-18 16:00",
    "cidade": "Santo André",
    "uf": "SP",
@@ -21777,13 +21856,17 @@
     {
      "data": "2026-11-10",
      "preco": 1030.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1190.0
     }
    ],
-   "preco_anterior": 950.0,
-   "variacao": 80.0,
-   "variacao_pct": 8.4,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 8.4,
+   "preco_anterior": 1030.0,
+   "variacao": 160.0,
+   "variacao_pct": 15.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 25.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -21792,7 +21875,7 @@
    "id": "freitas-8155-70",
    "titulo": "LOTE COM 01 SMARTPHONE SAMSUNG GALAXY S24 ULTRA SM-S928B/DS 512GB 12GB...",
    "categoria": "Celulares / Tablets",
-   "lance_atual": 2190.0,
+   "lance_atual": 2270.0,
    "encerramento": "2026-11-18 16:00",
    "cidade": "Santo André",
    "uf": "SP",
@@ -21812,14 +21895,19 @@
     {
      "data": "2026-11-08",
      "preco": 2190.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 2270.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 2190.0,
+   "variacao": 80.0,
+   "variacao_pct": 3.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 3.7,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Freitas",
@@ -22510,7 +22598,7 @@
    "id": "freitas-8155-90",
    "titulo": "LOTE COM 01 SMARTPHONE SAMSUNG GALAXY S22 SM-S901E 256GB 8GB RAM COM B...",
    "categoria": "Celulares / Tablets",
-   "lance_atual": 630.0,
+   "lance_atual": 730.0,
    "encerramento": "2026-11-18 16:00",
    "cidade": "Santo André",
    "uf": "SP",
@@ -22530,14 +22618,19 @@
     {
      "data": "2026-11-08",
      "preco": 630.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 730.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 630.0,
+   "variacao": 100.0,
+   "variacao_pct": 15.9,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 15.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Freitas",
@@ -23160,7 +23253,7 @@
    "id": "superbid-5084730",
    "titulo": "01 DRONE (Ref.: Lote 18)",
    "categoria": "Eletrônicos",
-   "lance_atual": 75,
+   "lance_atual": 100,
    "encerramento": "2026-11-19 10:40",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -23172,7 +23265,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -23192,13 +23285,17 @@
     {
      "data": "2026-11-10",
      "preco": 75
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100
     }
    ],
-   "preco_anterior": 50,
+   "preco_anterior": 75,
    "variacao": 25,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 200.0,
+   "variacao_pct": 33.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 300.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -23254,7 +23351,7 @@
    "id": "superbid-5089058",
    "titulo": "01 DRONE (Ref.: Lote 47)",
    "categoria": "Eletrônicos",
-   "lance_atual": 75,
+   "lance_atual": 100,
    "encerramento": "2026-11-19 10:41",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -23266,7 +23363,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -23286,13 +23383,17 @@
     {
      "data": "2026-11-12",
      "preco": 75
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100
     }
    ],
-   "preco_anterior": 50,
+   "preco_anterior": 75,
    "variacao": 25,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 200.0,
+   "variacao_pct": 33.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 300.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -23301,7 +23402,7 @@
    "id": "superbid-5089057",
    "titulo": "01 DRONE (Ref.: Lote 52)",
    "categoria": "Eletrônicos",
-   "lance_atual": 75,
+   "lance_atual": 100,
    "encerramento": "2026-11-19 10:41",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -23313,7 +23414,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -23333,13 +23434,17 @@
     {
      "data": "2026-11-10",
      "preco": 75
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100
     }
    ],
-   "preco_anterior": 50,
+   "preco_anterior": 75,
    "variacao": 25,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 200.0,
+   "variacao_pct": 33.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 300.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -23532,7 +23637,7 @@
    "id": "superbid-5089055",
    "titulo": "01 DRONE (Ref.: Lote 119)",
    "categoria": "Eletrônicos",
-   "lance_atual": 75,
+   "lance_atual": 100,
    "encerramento": "2026-11-19 10:44",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -23544,7 +23649,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 3,
+    "lances": 4,
     "leiloeiro": "SOLD",
     "leilao": "OF de Lima"
    },
@@ -23564,13 +23669,17 @@
     {
      "data": "2026-11-10",
      "preco": 75
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100
     }
    ],
-   "preco_anterior": 50,
+   "preco_anterior": 75,
    "variacao": 25,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 200.0,
+   "variacao_pct": 33.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 300.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -26140,7 +26249,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/e80a3ec2-97d8-4fbb-bf6d-bf8c87484262.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "vendedor": "WILL BANK"
    },
    "prioridade": false,
@@ -26298,7 +26407,7 @@
    "id": "bolsa-107716",
    "titulo": "Notebook e Tablets - 2 itens",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1000.0,
+   "lance_atual": 1100.0,
    "encerramento": "2026-11-23 10:00",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -26320,13 +26429,17 @@
     {
      "data": "2026-11-15",
      "preco": 1000.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1100.0
     }
    ],
-   "preco_anterior": 900.0,
+   "preco_anterior": 1000.0,
    "variacao": 100.0,
-   "variacao_pct": 11.1,
+   "variacao_pct": 10.0,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 11.1,
+   "variacao_total_pct": 22.2,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -26436,7 +26549,7 @@
    "id": "bolsa-107720",
    "titulo": "Tablets - 4 itens",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1200.0,
+   "lance_atual": 1300.0,
    "encerramento": "2026-11-23 10:00",
    "cidade": "Duque de Caxias",
    "uf": "RJ",
@@ -26458,13 +26571,17 @@
     {
      "data": "2026-11-15",
      "preco": 1200.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1300.0
     }
    ],
-   "preco_anterior": 1100.0,
+   "preco_anterior": 1200.0,
    "variacao": 100.0,
-   "variacao_pct": 9.1,
+   "variacao_pct": 8.3,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 9.1,
+   "variacao_total_pct": 18.2,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -27816,7 +27933,7 @@
    "id": "bolsa-107355",
    "titulo": "Lava e seca - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 773.0,
+   "lance_atual": 873.0,
    "encerramento": "2026-11-23 11:00",
    "cidade": "Jundiai",
    "uf": "SP",
@@ -27834,14 +27951,19 @@
     {
      "data": "2026-11-11",
      "preco": 773.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 873.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 773.0,
+   "variacao": 100.0,
+   "variacao_pct": 12.9,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 12.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
@@ -29854,7 +29976,7 @@
    "id": "kwara-1699923027136874299",
    "titulo": "Ar condicionado cassete",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 900.0,
+   "lance_atual": 950.0,
    "encerramento": "2026-11-23 16:36",
    "cidade": "São Paulo",
    "uf": "SP",
@@ -29864,7 +29986,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/d29c9652-e2bb-470e-b27f-e2b696258637.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 9,
+    "lances": 10,
     "vendedor": "Planik Frei Caneca"
    },
    "prioridade": false,
@@ -29887,13 +30009,17 @@
     {
      "data": "2026-11-13",
      "preco": 900.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 950.0
     }
    ],
-   "preco_anterior": 850.0,
+   "preco_anterior": 900.0,
    "variacao": 50.0,
-   "variacao_pct": 5.9,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 20.0,
+   "variacao_pct": 5.6,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 26.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -34585,7 +34711,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "leiloeiro": "SOLD",
     "leilao": "Delei Store"
    },
@@ -42394,7 +42520,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/c25e90ec-2c9b-48cf-afe4-cbd2409ef586.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 0,
+    "lances": 1,
     "vendedor": "MC Outlet"
    },
    "prioridade": false,
@@ -70849,7 +70975,7 @@
    "id": "kwara-1745720973904053509",
    "titulo": "Cafeteira Nespresso 220V",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 596.0,
+   "lance_atual": 616.0,
    "encerramento": "2026-11-30 13:53",
    "cidade": "Taboão da Serra",
    "uf": "SP",
@@ -70859,7 +70985,7 @@
    "imagem": "https://cdn.kwara.com.br/lot-images/4219560c-8e22-4b8f-b1d6-a354df1c0f13.thumbnail.jpg",
    "observacoes": [],
    "detalhes": {
-    "lances": 18,
+    "lances": 19,
     "vendedor": null
    },
    "prioridade": false,
@@ -70890,13 +71016,17 @@
     {
      "data": "2026-11-10",
      "preco": 596.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 616.0
     }
    ],
-   "preco_anterior": 576.0,
+   "preco_anterior": 596.0,
    "variacao": 20.0,
-   "variacao_pct": 3.5,
-   "variacao_em": "2026-11-10",
-   "variacao_total_pct": 77.4,
+   "variacao_pct": 3.4,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 83.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -74935,7 +75065,7 @@
    "id": "palacio-1593104",
    "titulo": "1 - REFRIGERADOR PANASONIC BT41X ACO 220V (NÃ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
+   "lance_atual": 250.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -74960,13 +75090,17 @@
     {
      "data": "2026-11-15",
      "preco": 150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 250.0
     }
    ],
-   "preco_anterior": 100.0,
-   "variacao": 50.0,
-   "variacao_pct": 50.0,
+   "preco_anterior": 150.0,
+   "variacao": 100.0,
+   "variacao_pct": 66.7,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 50.0,
+   "variacao_total_pct": 150.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75219,7 +75353,7 @@
    "id": "palacio-1593193",
    "titulo": "- 01 LAVA E SECA SAMSUNG WD13FG6B34BXBZ, CAPA...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
+   "lance_atual": 700.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75256,13 +75390,17 @@
     {
      "data": "2026-11-15",
      "preco": 600.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 700.0
     }
    ],
-   "preco_anterior": 500.0,
+   "preco_anterior": 600.0,
    "variacao": 100.0,
-   "variacao_pct": 20.0,
+   "variacao_pct": 16.7,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 100.0,
+   "variacao_total_pct": 133.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75458,7 +75596,7 @@
    "id": "palacio-1592654",
    "titulo": "- 01 SMART TV SEMP ROKU DE 32 POLEGADAS, MODE...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 550.0,
+   "lance_atual": 600.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75495,13 +75633,17 @@
     {
      "data": "2026-11-14",
      "preco": 550.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 600.0
     }
    ],
-   "preco_anterior": 500.0,
+   "preco_anterior": 550.0,
    "variacao": 50.0,
-   "variacao_pct": 10.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 450.0,
+   "variacao_pct": 9.1,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 500.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75606,7 +75748,7 @@
    "id": "palacio-1593204",
    "titulo": "COIFA VIDRO PLANO ILHA BRASTEMP 100 CM INO...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
+   "lance_atual": 250.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75631,13 +75773,17 @@
     {
      "data": "2026-11-14",
      "preco": 150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 250.0
     }
    ],
-   "preco_anterior": 100.0,
-   "variacao": 50.0,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 50.0,
+   "preco_anterior": 150.0,
+   "variacao": 100.0,
+   "variacao_pct": 66.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 150.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75786,7 +75932,7 @@
    "id": "palacio-1593205",
    "titulo": "CONDESADORA SPLIT FRIO 9000BTUS NA 220V 1...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
+   "lance_atual": 750.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75819,13 +75965,17 @@
     {
      "data": "2026-11-15",
      "preco": 250.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 750.0
     }
    ],
-   "preco_anterior": 200.0,
-   "variacao": 50.0,
-   "variacao_pct": 25.0,
+   "preco_anterior": 250.0,
+   "variacao": 500.0,
+   "variacao_pct": 200.0,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 400.0,
+   "variacao_total_pct": 1400.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -75834,7 +75984,7 @@
    "id": "palacio-1592814",
    "titulo": "- 1 TELEVISÃO LG NANO 4K UHD AI DE 65 POLEGAD...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 400.0,
+   "lance_atual": 450.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -75863,13 +76013,17 @@
     {
      "data": "2026-11-13",
      "preco": 400.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 450.0
     }
    ],
-   "preco_anterior": 300.0,
-   "variacao": 100.0,
-   "variacao_pct": 33.3,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 60.0,
+   "preco_anterior": 400.0,
+   "variacao": 50.0,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 80.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -76449,7 +76603,7 @@
    "id": "palacio-1593128",
    "titulo": "1 - SMART TV SAMSUNG CRYSTAL UHD 75 POLEGADAS...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1150.0,
+   "lance_atual": 1300.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -76490,13 +76644,17 @@
     {
      "data": "2026-11-15",
      "preco": 1150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1300.0
     }
    ],
-   "preco_anterior": 1000.0,
+   "preco_anterior": 1150.0,
    "variacao": 150.0,
-   "variacao_pct": 15.0,
+   "variacao_pct": 13.0,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 1050.0,
+   "variacao_total_pct": 1200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -76561,7 +76719,7 @@
    "id": "palacio-1593131",
    "titulo": "1 - SMART TV LG 50 POLEGADAS NANO 4K UHD -",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1000.0,
+   "lance_atual": 1100.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -76598,13 +76756,17 @@
     {
      "data": "2026-11-15",
      "preco": 1000.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1100.0
     }
    ],
-   "preco_anterior": 750.0,
-   "variacao": 250.0,
-   "variacao_pct": 33.3,
+   "preco_anterior": 1000.0,
+   "variacao": 100.0,
+   "variacao_pct": 10.0,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 566.7,
+   "variacao_total_pct": 633.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -76613,7 +76775,7 @@
    "id": "palacio-1592643",
    "titulo": "1 - FOGAO 5 BC BRASLAR NEW SIRIUS PLUS - 1 -...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
+   "lance_atual": 350.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -76642,13 +76804,17 @@
     {
      "data": "2026-11-14",
      "preco": 250.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 350.0
     }
    ],
-   "preco_anterior": 200.0,
-   "variacao": 50.0,
-   "variacao_pct": 25.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 150.0,
+   "preco_anterior": 250.0,
+   "variacao": 100.0,
+   "variacao_pct": 40.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 250.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -76657,7 +76823,7 @@
    "id": "palacio-1592644",
    "titulo": "2 - FOGAO BRASLAR 4 NEW SIRIUS 1 - LIQUIDIFIC...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 100.0,
+   "lance_atual": 150.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -76682,13 +76848,17 @@
     {
      "data": "2026-11-14",
      "preco": 100.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 150.0
     }
    ],
-   "preco_anterior": 50.0,
+   "preco_anterior": 100.0,
    "variacao": 50.0,
-   "variacao_pct": 100.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 100.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -76697,7 +76867,7 @@
    "id": "palacio-1592645",
    "titulo": "FOGÃO ITATIAIA 4 BOCAS 2-FOGAO 5 BC BRASLAR...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 50.0,
+   "lance_atual": 100.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -76718,14 +76888,19 @@
     {
      "data": "2026-11-13",
      "preco": 50.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 50.0,
+   "variacao": 50.0,
+   "variacao_pct": 100.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -76802,7 +76977,7 @@
    "id": "palacio-1592648",
    "titulo": "1 - FOGAO A GAS 4Q MONACO TOP GLASS PTO 1 - F...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
+   "lance_atual": 200.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -76827,13 +77002,17 @@
     {
      "data": "2026-11-14",
      "preco": 150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 200.0
     }
    ],
-   "preco_anterior": 100.0,
+   "preco_anterior": 150.0,
    "variacao": 50.0,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 50.0,
+   "variacao_pct": 33.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 100.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -77069,7 +77248,7 @@
    "id": "palacio-1593573",
    "titulo": "- 1 REFRIGERADOR ELECTROLUX FROST FREE, MODEL...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1200.0,
+   "lance_atual": 1250.0,
    "encerramento": "2026-11-16 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -77106,13 +77285,17 @@
     {
      "data": "2026-11-15",
      "preco": 1200.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 1250.0
     }
    ],
-   "preco_anterior": 650.0,
-   "variacao": 550.0,
-   "variacao_pct": 84.6,
+   "preco_anterior": 1200.0,
+   "variacao": 50.0,
+   "variacao_pct": 4.2,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 2300.0,
+   "variacao_total_pct": 2400.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -78908,7 +79091,7 @@
    "id": "palacio-1592788",
    "titulo": "- AMPLIFICADOR TARAMPS TS 800X4; - AMPLIFICAD...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
+   "lance_atual": 200.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -78937,13 +79120,17 @@
     {
      "data": "2026-11-14",
      "preco": 150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 200.0
     }
    ],
-   "preco_anterior": 100.0,
+   "preco_anterior": 150.0,
    "variacao": 50.0,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 200.0,
+   "variacao_pct": 33.3,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 300.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -79027,7 +79214,7 @@
    "id": "palacio-1591870",
    "titulo": "1 - SMARTWATCH AMAZFIT BIP6 - 1 - SMARTWATCH ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 300.0,
+   "lance_atual": 350.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79056,13 +79243,17 @@
     {
      "data": "2026-11-13",
      "preco": 300.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 350.0
     }
    ],
-   "preco_anterior": 200.0,
-   "variacao": 100.0,
-   "variacao_pct": 50.0,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 100.0,
+   "preco_anterior": 300.0,
+   "variacao": 50.0,
+   "variacao_pct": 16.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 133.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -79167,7 +79358,7 @@
    "id": "palacio-1590551",
    "titulo": "7 - SMARTPHONES SAMSUNG, SENDO: 1 - M31 - 1 ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
+   "lance_atual": 300.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79200,13 +79391,17 @@
     {
      "data": "2026-11-13",
      "preco": 250.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 300.0
     }
    ],
-   "preco_anterior": 200.0,
+   "preco_anterior": 250.0,
    "variacao": 50.0,
-   "variacao_pct": 25.0,
-   "variacao_em": "2026-11-13",
-   "variacao_total_pct": 150.0,
+   "variacao_pct": 20.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -79435,7 +79630,7 @@
    "id": "palacio-1593157",
    "titulo": "1 - LAVA E SECA SAMSUNG WASH E DRY 13 E 8 KG ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
+   "lance_atual": 250.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79464,13 +79659,17 @@
     {
      "data": "2026-11-15",
      "preco": 150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 250.0
     }
    ],
-   "preco_anterior": 100.0,
-   "variacao": 50.0,
-   "variacao_pct": 50.0,
+   "preco_anterior": 150.0,
+   "variacao": 100.0,
+   "variacao_pct": 66.7,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 200.0,
+   "variacao_total_pct": 400.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -79514,7 +79713,7 @@
    "id": "palacio-1593165",
    "titulo": "1 - SAMSUNG AR-CONDENSADORAICIONADO SPLIT SAM...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 100.0,
+   "lance_atual": 150.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79535,14 +79734,19 @@
     {
      "data": "2026-11-14",
      "preco": 100.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 150.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 100.0,
+   "variacao": 50.0,
+   "variacao_pct": 50.0,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 50.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Palácio dos Leilões",
@@ -79664,7 +79868,7 @@
    "id": "palacio-1593176",
    "titulo": "1 - LAVA E SECA WASH/DRY 13/8KG HISENSE WD5Q1...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
+   "lance_atual": 250.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79689,13 +79893,17 @@
     {
      "data": "2026-11-15",
      "preco": 150.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 250.0
     }
    ],
-   "preco_anterior": 100.0,
-   "variacao": 50.0,
-   "variacao_pct": 50.0,
+   "preco_anterior": 150.0,
+   "variacao": 100.0,
+   "variacao_pct": 66.7,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 50.0,
+   "variacao_total_pct": 150.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -79739,7 +79947,7 @@
    "id": "palacio-1593185",
    "titulo": "1 - MONITOR SAMSUNG SMART SIGNAGE AFFICHAGE I...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
+   "lance_atual": 400.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79776,13 +79984,17 @@
     {
      "data": "2026-11-15",
      "preco": 350.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 400.0
     }
    ],
-   "preco_anterior": 300.0,
+   "preco_anterior": 350.0,
    "variacao": 50.0,
-   "variacao_pct": 16.7,
+   "variacao_pct": 14.3,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 600.0,
+   "variacao_total_pct": 700.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -79835,7 +80047,7 @@
    "id": "palacio-1593554",
    "titulo": "GELADEIRA SAMSUNG, VOLUME TOTAL 682 LITROS...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 750.0,
+   "lance_atual": 950.0,
    "encerramento": "2026-11-17 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -79864,13 +80076,17 @@
     {
      "data": "2026-11-14",
      "preco": 750.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 950.0
     }
    ],
-   "preco_anterior": 250.0,
-   "variacao": 500.0,
-   "variacao_pct": 200.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 1400.0,
+   "preco_anterior": 750.0,
+   "variacao": 200.0,
+   "variacao_pct": 26.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 1800.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -81156,7 +81372,7 @@
    "id": "palacio-1593262",
    "titulo": "- 1 TELEVISOR SAMSUNG CRYSTAL UHD U8600F DE 5...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 400.0,
+   "lance_atual": 450.0,
    "encerramento": "2026-11-18 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -81193,13 +81409,17 @@
     {
      "data": "2026-11-15",
      "preco": 400.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 450.0
     }
    ],
-   "preco_anterior": 300.0,
-   "variacao": 100.0,
-   "variacao_pct": 33.3,
+   "preco_anterior": 400.0,
+   "variacao": 50.0,
+   "variacao_pct": 12.5,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 700.0,
+   "variacao_total_pct": 800.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -81252,7 +81472,7 @@
    "id": "palacio-1593572",
    "titulo": "- 1 TELEVISOR TCL QLED TV DE 43 POLEGADAS, FH...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 450.0,
+   "lance_atual": 500.0,
    "encerramento": "2026-11-18 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -81285,13 +81505,17 @@
     {
      "data": "2026-11-15",
      "preco": 450.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 500.0
     }
    ],
-   "preco_anterior": 300.0,
-   "variacao": 150.0,
-   "variacao_pct": 50.0,
+   "preco_anterior": 450.0,
+   "variacao": 50.0,
+   "variacao_pct": 11.1,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 800.0,
+   "variacao_total_pct": 900.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -81571,7 +81795,7 @@
    "id": "palacio-1593539",
    "titulo": "- REFRIGERADOR EXPOSITOR VERTICAL HQ, MODELO ...",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 100.0,
+   "lance_atual": 200.0,
    "encerramento": "2026-11-18 10:00",
    "cidade": "Juatuba",
    "uf": "MG",
@@ -81596,13 +81820,17 @@
     {
      "data": "2026-11-15",
      "preco": 100.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 200.0
     }
    ],
-   "preco_anterior": 50.0,
-   "variacao": 50.0,
+   "preco_anterior": 100.0,
+   "variacao": 100.0,
    "variacao_pct": 100.0,
    "variacao_em": "2026-11-15",
-   "variacao_total_pct": 100.0,
+   "variacao_total_pct": 300.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -83819,7 +84047,7 @@
    "id": "bolsa-107598",
    "titulo": "Freezer - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 800.0,
+   "lance_atual": 900.0,
    "encerramento": "2026-11-19 10:00",
    "cidade": "Contagem",
    "uf": "MG",
@@ -83845,13 +84073,17 @@
     {
      "data": "2026-11-14",
      "preco": 800.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 900.0
     }
    ],
-   "preco_anterior": 700.0,
+   "preco_anterior": 800.0,
    "variacao": 100.0,
-   "variacao_pct": 14.3,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 33.3,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 50.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -84153,7 +84385,7 @@
    "id": "bolsa-107608",
    "titulo": "Frigobar - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
+   "lance_atual": 450.0,
    "encerramento": "2026-11-19 10:00",
    "cidade": "Contagem",
    "uf": "MG",
@@ -84171,14 +84403,19 @@
     {
      "data": "2026-11-13",
      "preco": 350.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 450.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 350.0,
+   "variacao": 100.0,
+   "variacao_pct": 28.6,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 28.6,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
@@ -84478,7 +84715,7 @@
    "id": "bolsa-107619",
    "titulo": "Freezer - 1 item",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 650.0,
+   "lance_atual": 750.0,
    "encerramento": "2026-11-19 10:00",
    "cidade": "Contagem",
    "uf": "MG",
@@ -84496,14 +84733,19 @@
     {
      "data": "2026-11-13",
      "preco": 650.0
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 750.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 650.0,
+   "variacao": 100.0,
+   "variacao_pct": 15.4,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 15.4,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Bolsa de Leilões",
@@ -98205,7 +98447,7 @@
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067727",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/63cc9d39-2a84-4f93-8829-66b447b69eee.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/b1ede6cf-4a82-45a0-8c48-740a61a1dc2a.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -98350,7 +98592,7 @@
    "id": "superbid-5067763",
    "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 600,
+   "lance_atual": 700,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
@@ -98362,7 +98604,7 @@
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 4,
+    "lances": 5,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -98386,13 +98628,17 @@
     {
      "data": "2026-11-14",
      "preco": 600
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 700
     }
    ],
-   "preco_anterior": 500,
+   "preco_anterior": 600,
    "variacao": 100,
-   "variacao_pct": 20.0,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 100.0,
+   "variacao_pct": 16.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 133.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -98401,14 +98647,14 @@
    "id": "superbid-5067764",
    "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 300,
+   "lance_atual": 100,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067764",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/60e40e65-8a5c-4506-85a2-1d6cbedd5abd.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/14778de1-18dd-4cd8-ad4b-6f9853b9a8e0.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -98425,13 +98671,18 @@
     {
      "data": "2026-10-27",
      "preco": 300
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 100
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
+   "preco_anterior": 300,
+   "variacao": -200,
+   "variacao_pct": -66.7,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": -66.7,
+   "baixou_preco": true,
    "subiu_preco": false
   },
   {
@@ -98446,7 +98697,7 @@
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5067765",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/3d12ac2c-7530-4f78-9c01-379e71f33ffc.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/d727e561-94cb-4caa-a75c-ba5601f59c75.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -98929,14 +99180,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5068762",
-   "titulo": "LOTE CONTENDO PRODUTOS PARA MATÉRIA DE CONSTRUÇÃO - PRAZO DE VALIDADE VENCIDO - NO ESTADO - SEM GARANTIA",
+   "titulo": "LOTE CONTENDO BENS DIVERSOS - PRAZO DE VALIDADE VENCIDO - NO ESTADO - SEM GARANTIAS",
    "categoria": "Eletroportáteis",
    "lance_atual": 600,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-produtos-para-materia-de-construcao-prazo-de-validade-vencido-no-e-5068762",
+   "link": "https://www.superbid.net/oferta/lote-contendo-bens-diversos-prazo-de-validade-vencido-no-estado-sem-garantias-5068762",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/a7d01d3d-d363-40a1-96a8-8cd2a334c346.jpg",
    "observacoes": [
@@ -98967,14 +99218,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5068763",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE ONZE TVS DE 32 POLEGADAS PARA PEÇAS - NO ESTADO - SEM GARANTIA",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 11 TVS DE 32 POLEGADAS - PARA PEÇAS - NO ESTADO - SEM GARANTIAS",
    "categoria": "Eletroportáteis",
    "lance_atual": 700,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-onze-tvs-de-32-polegadas-para-pecas-no-estado-sem--5068763",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-11-tvs-de-32-polegadas-para-pecas-no-estado-sem-ga-5068763",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/ba958e91-46e1-4800-b454-b87056bb108b.jpg",
    "observacoes": [
@@ -99653,19 +99904,19 @@
    "id": "superbid-5071468",
    "titulo": "01 NOTEBOOK PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
-   "lance_atual": 800,
+   "lance_atual": 900,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
    "link": "https://www.superbid.net/oferta/01-notebook-para-conserto-no-estado-sem-garantia-5071468",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/d4a28d0f-ee8e-4e87-b01b-0a5c29e50745.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/3a9ae550-5f2f-48ae-b034-c063fcaab1f7.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
    "detalhes": {
-    "lances": 6,
+    "lances": 7,
     "leiloeiro": "NP LEILÕES",
     "leilao": "LEILÃO DE LOGÍSTICA REVERSA E OPORTUNIDADES"
    },
@@ -99697,13 +99948,17 @@
     {
      "data": "2026-11-14",
      "preco": 800
+    },
+    {
+     "data": "2026-11-15",
+     "preco": 900
     }
    ],
-   "preco_anterior": 700,
+   "preco_anterior": 800,
    "variacao": 100,
-   "variacao_pct": 14.3,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 166.7,
+   "variacao_pct": 12.5,
+   "variacao_em": "2026-11-15",
+   "variacao_total_pct": 200.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -99928,14 +100183,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5071474",
-   "titulo": "01 MONITOR LG 24 POLEGADAS (MODELO 24MS500 - NO ESTADO - SEM GARANTIA",
+   "titulo": "01 MONITOR LG 24 POLEGADAS (MODELO 24MS500) - ESTADO DE FUNCIONAMENTO DESCONHECIDO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
    "lance_atual": 200,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-monitor-lg-24-polegadas-modelo-24ms500-no-estado-sem-garantia-5071474",
+   "link": "https://www.superbid.net/oferta/01-monitor-lg-24-polegadas-modelo-24ms500-estado-de-funcionamento-desconhecido-n-5071474",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/e064dc1b-9018-487a-b566-75020903ece8.jpg",
    "observacoes": [
@@ -100112,14 +100367,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5072555",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE TVS E MONITORES PARA PEÇAS - NO ESTADO - SEM GARANTIA",
+   "titulo": "LOTE CONTENDO DIVERSOS MONITORES E TELEVISORES - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
    "lance_atual": 700,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-tvs-e-monitores-para-pecas-no-estado-sem-garantia-5072555",
+   "link": "https://www.superbid.net/oferta/lote-contendo-diversos-monitores-e-televisores-para-pecas-sem-testes-no-estado-s-5072555",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/0f7442fa-6acd-4df0-bdca-d602abd1a735.jpg",
    "observacoes": [
@@ -100226,14 +100481,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5072558",
-   "titulo": "LOTE CONTENDO PRODUTOS PARA CONSTRUÇÃO VENCIDOS - NO ESTADO - SEM GARANTIA",
+   "titulo": "LOTE CONTENDO PRODUTOS DIVERSOS PARA CONSTRUÇÃO VENCIDOS - NO ESTADO - SEM GARANTIAS",
    "categoria": "Eletroportáteis",
    "lance_atual": 700,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-produtos-para-construcao-vencidos-no-estado-sem-garantia-5072558",
+   "link": "https://www.superbid.net/oferta/lote-contendo-produtos-diversos-para-construcao-vencidos-no-estado-sem-garantias-5072558",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/15ceba5a-9676-4415-bf54-681d35961c1d.jpg",
    "observacoes": [
@@ -100264,14 +100519,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5072559",
-   "titulo": "LOTE CONTENDO APROXIMADAMENTE 9 EVAPORADORA MEDES E GREE PARA PEÇA - NO ESTADO - SEM GARANTIA",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 9 EVAPORADORAS MIDEA E GREE - PARA PEÇAS - SEM TESTES - NO ESTADO - SEM GARANTIAS",
    "categoria": "Eletroportáteis",
    "lance_atual": 990,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-9-evaporadora-medes-e-gree-para-peca-no-estado-sem-5072559",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-9-evaporadoras-midea-e-gree-para-pecas-sem-testes--5072559",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/a65f5e1e-b4e8-4859-84bc-eee80a754185.jpg",
    "observacoes": [
@@ -101138,16 +101393,16 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5072583",
-   "titulo": "01 IMPRESSORA 3D BAMBU LAB A1 COMBO - APARENTEMENTE NOVA - NO ESTADO - SEM GARANTIA",
+   "titulo": "01 IMPRESSORA 3D BAMBU LAB A1 COMBO - APARENTEMENTE NOVA - SEM TESTES - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
    "lance_atual": 2200,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-impressora-3d-bambu-lab-a1-combo-aparentemente-nova-no-estado-sem-garantia-5072583",
+   "link": "https://www.superbid.net/oferta/01-impressora-3d-bambu-lab-a1-combo-aparentemente-nova-sem-testes-no-estado-sem--5072583",
    "valor_avaliacao": null,
-   "imagem": "https://ms.sbwebservices.net/photos/88fbb8d3-b35f-4b4c-8208-6a254317ecae.jpg",
+   "imagem": "https://ms.sbwebservices.net/photos/f9ada537-1a8f-49be-9d2b-e20c4c089035.jpg",
    "observacoes": [
     "Confirme nas condições do leilão se aceita pessoa física"
    ],
@@ -101528,14 +101783,14 @@
   {
    "fonte": "Superbid",
    "id": "superbid-5072593",
-   "titulo": "01 NOBREAK SMS PAINEL RGB - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
+   "titulo": "LOTE CONTENDO APROXIMADAMENTE 02 NOBREAKS - PARA CONSERTO - NO ESTADO - SEM GARANTIA",
    "categoria": "Eletroportáteis",
    "lance_atual": 400,
    "encerramento": "2026-12-16 14:00",
    "cidade": "Porto Alegre",
    "uf": "RS",
    "publico": "PF e PJ",
-   "link": "https://www.superbid.net/oferta/01-nobreak-sms-painel-rgb-para-conserto-no-estado-sem-garantia-5072593",
+   "link": "https://www.superbid.net/oferta/lote-contendo-aproximadamente-02-nobreaks-para-conserto-no-estado-sem-garantia-5072593",
    "valor_avaliacao": null,
    "imagem": "https://ms.sbwebservices.net/photos/cff06ff1-5c35-4986-95db-0d5e5850415c.jpg",
    "observacoes": [
