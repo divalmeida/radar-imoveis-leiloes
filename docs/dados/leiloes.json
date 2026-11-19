@@ -45,10 +45,52 @@
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
-   "lotes": 166,
-   "dados_de": "2026-11-18 08:16",
+   "lotes": 101,
+   "dados_de": "2026-11-19 19:08",
    "local": true,
-   "segundos": 454
+   "novos_pendentes": [
+    "leilaoprime-4463",
+    "leilaoprime-4464",
+    "leilaoprime-4466",
+    "leilaoprime-4467",
+    "leilaoprime-4471",
+    "leilaoprime-4473",
+    "leilaoprime-4474",
+    "leilaoprime-4480",
+    "leilaoprime-4483",
+    "leilaoprime-4493",
+    "leilaoprime-4496",
+    "leilaoprime-4500",
+    "leilaoprime-4503",
+    "leilaoprime-4509",
+    "leilaoprime-4510",
+    "leilaoprime-4513",
+    "leilaoprime-4514",
+    "leilaoprime-4518",
+    "leilaoprime-4521",
+    "leilaoprime-4522",
+    "leilaoprime-4530",
+    "leilaoprime-4532",
+    "leilaoprime-4538",
+    "leilaoprime-4546",
+    "leilaoprime-4547",
+    "leilaoprime-4549",
+    "leilaoprime-4552",
+    "leilaoprime-4553",
+    "leilaoprime-4554",
+    "leilaoprime-4557",
+    "leilaoprime-4558",
+    "leilaoprime-4560"
+   ],
+   "precos_pendentes": {
+    "joaoemilio-210118": 700.0,
+    "joaoemilio-210119": 1610.0,
+    "joaoemilio-210131": 700.0,
+    "joaoemilio-212163": 580.0,
+    "joaoemilio-212167": 940.0,
+    "joaoemilio-212172": 1000.0,
+    "leilaoprime-4285": 1025.73
+   }
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -129054,2299 +129096,12 @@
   },
   {
    "fonte": "João Emílio",
-   "id": "joaoemilio-211825",
-   "titulo": "01 MACBOOK AIR APPLE I5-3317U, MOD.: MD223, 2-CORE, 4GB, ANO 2012, N/S C02JP4S9DRV6 (OBS: BATERIA ESTUFADA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 840.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211825/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350199/img-350199-6aee1b5d3068f.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 840.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211826",
-   "titulo": "01 MACBOOK PRO APPLE I5-4278U, MOD.: MGX72, 2-CORE, 8GB, ANO 2014, N/S C02N54VCG3QH (OBS: BATERIA ESTUFADA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 950.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211826/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350200/img-350200-6aee1b66255d0.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 950.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211827",
-   "titulo": "01 MACBOOK AIR APPLE I5-5250U, MOD.: MMGG2, 2-CORE, 8GB, ANO 2015, N/S C1MSY8RFH3QF (OBS: BATERIA ESTUFADA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 950.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211827/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350201/img-350201-6aee1b74c4515.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 950.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211828",
-   "titulo": "01 MACBOOK PRO APPLE I7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02W63CDG8WN (OBS: BATERIA ESTUFADA, NÃO GERA IMAGEM NO DISPLAY), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1000.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211828/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350202/img-350202-6aee1b7953ce2.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1000.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211829",
-   "titulo": "01 MACBOOK PRO APPLEI7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02VX1C1G8WN (OBS: BATERIA ESTUFADA E SEM SSD), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1000.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211829/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350203/img-350203-6aee1b8412897.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1000.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211830",
-   "titulo": "01 MACBOOK PRO APPLEI7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02WQ3WPG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211830/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350204/img-350204-6aee1b876c3f5.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1300.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211831",
-   "titulo": "01 MACBOOK PRO APPLEI7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02WN257G8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211831/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350205/img-350205-6aee1b8b9bc8c.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1300.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211832",
-   "titulo": "01 MACBOOK PRO APPLE I7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02W929NG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211832/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350206/img-350206-6aee1b9106f79.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1300.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211833",
-   "titulo": "01 MACBOOK PRO APPLE I7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02S59SYG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211833/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350207/img-350207-6aee1b96a9f0e.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1300.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211834",
-   "titulo": "01 MACBOOK PRO APPLE I7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02WX0ZFG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211834/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350208/img-350208-6aee1b9c7f960.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1300.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211835",
-   "titulo": "01 MACBOOK PRO APPLE I7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02WT3ZGG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211835/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350209/img-350209-6aee1ba3816b6.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1300.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211836",
-   "titulo": "01 MACBOOK PRO APPLE I7-4770HQ, MOD.: MJLQ2, 4-CORE, 16GB, ANO 2015, N/S C02WQ1DYG8WN (OBS: BATERIA ESTUFADA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1300.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211836/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350210/img-350210-6aee1ba9a7f39.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1300.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211837",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S DYD8253, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211837/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350211/img-350211-6aee1baf3c41f.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211838",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S 6W98253, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211838/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350212/img-350212-6aee1bb4e543d.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211839",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S 1C68253, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211839/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350213/img-350213-6aee1bbb5df85.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211840",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S D748253, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211840/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350214/img-350214-6aee1bc17c95e.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211841",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S DM930D3, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211841/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350215/img-350215-6aee1bc735bc8.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211842",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S DZP7253, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211842/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350216/img-350216-6aee1bccb8d29.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211843",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S D0F8253, 01 MONITOR DELL SE2216H HDMI N/S DW58253 (OBS: NÃO LIGA), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 400.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211843/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350217/img-350217-6aee1bd4a9e98.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 400.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211844",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S DWM8253, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211844/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350218/img-350218-6aee1bdb1c480.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211845",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S 9KFKTD2, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211845/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350219/img-350219-6aee1be11978b.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211846",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S J0F8253, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211846/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350220/img-350220-6aee1bec666f7.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211847",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S 6XL7253, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211847/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350221/img-350221-6aee1bf23ae2d.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211848",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S 1B2N823, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211848/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350222/img-350222-6aee1bf7c3137.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211849",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S DXG7253, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211849/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350223/img-350223-6aee1bfe0e0a0.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211850",
-   "titulo": "01 MONITOR DELL SE2216H HDMI N/S J9P7253, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 350.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211850/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350224/img-350224-6aee1fd0a4585.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 350.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211851",
-   "titulo": "01 MONITOR SAMSUNG S22E310HY HDMI N/S Y29WHX5JA01273Z, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 330.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211851/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350225/img-350225-6aee1fdba068f.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 330.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211852",
-   "titulo": "01 MONITOR SAMSUNG S22E310HY HDMI N/S Y29WHXAJ101129B, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 330.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211852/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350226/img-350226-6aee1fe4f193d.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 330.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211853",
-   "titulo": "01 MONITOR SAMSUNG S22E310HY HDMI N/S Y29WHXAJ102574J, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 330.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211853/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350227/img-350227-6aee1fec1000b.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 330.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211854",
-   "titulo": "01 MONITOR SAMSUNG S22E310HY HDMI N/S Y29WHXHH300546J, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 330.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211854/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350228/img-350228-6aee1ff27e4f1.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 330.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211855",
-   "titulo": "01 MONITOR SAMSUNG S22E310HY HDMI N/S Y29WHXAJ101305N, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 330.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211855/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350229/img-350229-6aee1ff869943.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 330.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211856",
-   "titulo": "01 MONITOR SAMSUNG S22E310HY HDMI N/S Y29WHXHH200516B, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 330.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211856/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350230/img-350230-6aee20057e283.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 330.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211857",
-   "titulo": "01 MONITOR SAMSUNG S22E310HY HDMI N/S Y29WHXHH100674A, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 330.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211857/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350231/img-350231-6aee200d828b5.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 330.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211858",
-   "titulo": "01 MONITOR SAMSUNG S22E310HY HDMI N/S Y29WHXAJ101306D, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 330.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211858/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350232/img-350232-6aee215f076ca.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 330.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211859",
-   "titulo": "01 MONITOR SAMSUNG S22B300B DVI / VGA N/S Y3B8HXFCB00541W, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 210.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211859/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350233/img-350233-6aee20912f9d0.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 210.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211860",
-   "titulo": "01 MONITOR SAMSUNG S22C300F DVI / VGA N/S Y1VUHXFDB03934D, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 210.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211860/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350234/img-350234-6aee2096ec99a.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 210.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211861",
-   "titulo": "01 MONITOR SAMSUNG S22C300F DVI / VGA N/S Y1VUHXFDC00697Z, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 210.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211861/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350235/img-350235-6aee209d32b89.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 210.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211862",
-   "titulo": "01 MONITOR SAMSUNG S22C300F DVI / VGA N/S Y1VUHXFDB03690X, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 210.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211862/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350236/img-350236-6aee20a3ee3dc.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 210.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211864",
-   "titulo": "01 XBOX, 05 CONTROLES, 01 JOGO MARVEL, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 500.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211864/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350238/img-350238-6aee20ac18f40.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 440.0
-    },
-    {
-     "data": "2026-11-12",
-     "preco": 480.0
-    },
-    {
-     "data": "2026-11-18",
-     "preco": 500.0
-    }
-   ],
-   "preco_anterior": 480.0,
-   "variacao": 20.0,
-   "variacao_pct": 4.2,
-   "variacao_em": "2026-11-18",
-   "variacao_total_pct": 13.6,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211796",
-   "titulo": "01 AR CONDICIONADO SPLIT LG 11.000 BTUS, 01 AR CONDICIONADO SPLIT ELGIN 12.000 BTUS (ITEM Nº 1), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1000.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Barra da Tijuca",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211796/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349855/img-349855-6adb723f12a0b.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1000.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211802",
-   "titulo": "01 MÁQUINA/ CAFETEIRA DE CAFÉ EXPRESSO CUISINART EM-200 - SEMI-AUTOMÁTICA EM AÇO INOX (ITEM Nº 18), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 800.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Barra da Tijuca",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211802/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349866/img-349866-6adb72af49ca0.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 800.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211794",
-   "titulo": "LOTE COMPOSTO DE: 01 PURIFICADOR DE ÁGUA OSMOSE REVERSA ELGA PURILAB PULSE, 03 REFIL DE COLUNA PARA PURIFICADOR DE ÁGUA, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211794/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349679/img-349679-6acfa5c678cb9.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211728",
-   "titulo": "LOTE COMPOSTO DE: 300 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 750.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211728/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000346089/img-346089-6a358ecc4e811.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 750.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211727",
-   "titulo": "LOTE COMPOSTO DE: 200 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 500.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211727/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000346088/img-346088-6a358ec4ae45c.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 500.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211769",
-   "titulo": "LOTE COMPOSTO DE: 100 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211769/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349272/img-349272-6ab66c7747883.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 250.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211770",
-   "titulo": "LOTE COMPOSTO DE: 100 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211770/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349273/img-349273-6ab66c753d375.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 250.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211771",
-   "titulo": "LOTE COMPOSTO DE: 100 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211771/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349274/img-349274-6ab66c6f04d23.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 250.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211729",
-   "titulo": "LOTE COMPOSTO DE: 100 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211729/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000346091/img-346091-6a358ed663aa9.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 250.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211772",
-   "titulo": "LOTE COMPOSTO DE: 100 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211772/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349275/img-349275-6ab66c6872e89.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 250.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211773",
-   "titulo": "LOTE COMPOSTO DE: 100 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211773/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349276/img-349276-6ab66c66aedc8.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 250.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211774",
-   "titulo": "LOTE COMPOSTO DE: 100 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 250.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211774/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349277/img-349277-6ab66c605d208.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 250.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211730",
-   "titulo": "LOTE COMPOSTO DE: 200 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 500.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211730/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000346093/img-346093-6a358ee425fff.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 500.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211775",
-   "titulo": "LOTE COMPOSTO DE: 200 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 500.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211775/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349278/img-349278-6ab66c5d4f15f.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 500.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211731",
-   "titulo": "LOTE COMPOSTO DE: 200 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 500.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211731/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000346094/img-346094-6a358ef4a1782.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 500.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211776",
-   "titulo": "LOTE COMPOSTO DE: 200 CARREGADORES DE CELULAR INOVA V8, 2.1A CAR 8201 COM CABO EMBUTIDO, BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 500.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211776/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349279/img-349279-6ab66c557f918.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 500.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211777",
-   "titulo": "LOTE COMPOSTO DE: 200 CARREGADORES DE CELULAR TURBO POWER 15w QUICK CHARGE 3.0 COM CABO CARREGADOR USB/ MICRO USB (UNIVERSAL), BIVOLT, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 500.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211777/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349294/img-349294-6ab66b707f224.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 500.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211745",
-   "titulo": "LOTE COMPOSTO DE: 01 SMARTPHONE SAMSUNG GALAXY A3, 01 TELEFONE SEM FIO INTELBRAS, 01 CARREGADOR/ BASE DE RECARGA MAGNÉTICA 2 EM 1 BOOSTCHARGE PRO DA BELKIN, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 100.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211745/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000346691/img-346691-6a4ead415be74.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 100.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211763",
-   "titulo": "01 MONITOR PARA ENDOSCOPIA MARCA KARL STORZ, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 400.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211763/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349032/img-349032-6aac01d22e2e2.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 400.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211865",
-   "titulo": "01 (UMA) CORTADORA AUTOMÁTICA DE BLÍSTERES DE MEDICAMENTOS MARCA OPUSPAC BC 100, 01 (UM) MONITOR MULTIPARÂMETRO, MARCA GE CARESCAPE, 01 (UM) COLPOSCÓPIO MARCA OLYMPUS, 01 (UMA) LUPA ESTEREOSCÓPICA, 01 (UM) AUDIÔMETRO MARCA INTERACOUSTICS, 1(UM) APARE",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 7000.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Duque de Caxias",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211865/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350240/img-350240-6af4e56e37be6.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 7000.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211795",
-   "titulo": "1 UN. IMPRESSORA KYOCERA, COM DEFEITO, VENDA NO ESTADO DE CONSERVAÇÃO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 180.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211795/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349753/img-349753-6ad21d1f3fdc2.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 180.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211744",
-   "titulo": "03 SOFÁ DIVERSOS, 1 UN. DE MICROONDAS (COM DEFEITO), NO ESTADO DE CONSERVAÇÃO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 20.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211744/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000346584/img-346584-6a4bd1221e084.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 20.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211806",
-   "titulo": "1 UN. DE IMPRESSORA DRYSTAR 5503. ITEM COM DEFEITO, VENDA NO ESTADO DE CONSERVAÇÃO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 150.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211806/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350028/img-350028-6ae388e35ec27.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 150.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211810",
-   "titulo": "1 UN. SUPORTE EXPOSITOR, 2 UN. CADEIRAS DE BANHO, 1 UN. ESTRUTURA DE CADEIRA DE COLETA, 1 UN. MESA DE REFEIÇÃO, 1 UN. FRIGOBAR E 1 UN. MESA DE ESCRITÓRIO. ITENS OBSOLETOS, VENDA NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 180.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211810/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350032/img-350032-6ae388f619b1a.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 180.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211751",
-   "titulo": "01 MÓDULO DE EXTENSÃO RF/IR PHILIPS - SEM USO ALCANCE RF - ATÉ 45MTS ALCANCE IR - DE 5 A 7 METROS FREQUÊNCIA COMPATÍVEL - 25 KHZ-100 KHZ INCLUI CABOS; FONTE; ANTENA E CAIXA PRODUTO RARO E COLECIONÁVEL, PERFEITO PARA ENTUSIASTAS DA LINHA PHILIPS PRONT",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 160.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211751/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000348270/img-348270-6a846b53aa8cf.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 160.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211811",
-   "titulo": "LOTE DE INFORMATICA COMPOSTO DE: 05 COMPUTADORES, 01 IMPRESSORA RICOH, 16 TECLADOS POSITIVO, 08 INTERFACE CELULAR INTELBRAS ITC 4100, 13 ESTABILIZADORES, 19 UNIDADES ÓPTICAS DE DVD/CD, 2 NOBREAK INTERATIVO DA MARCA INTELBRAS, 01 GRAVADOR DIGITAL DE V",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1200.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211811/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://www.joaoemilio.com.br/site/images/sem-imagem-lote.jpg?modified=20240531",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1200.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211812",
-   "titulo": "06 ULTRASSOM/ JATO DE BICARBONATO, 01 CUBA LAVADORA ULTRASSÔNICA DIGITAL BIOCLEAN 6 LITROS (GNATUS), 01 NEGATOSCÓPIO DE 1 CORPO, 01 PEDESTAL COM LUMINÁRIA DE INFRAVERMELHO TERAPÊUTICO OU FOCO CLÍNICO, NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3200.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Volta Redonda",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211812/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://www.joaoemilio.com.br/site/images/sem-imagem-lote.jpg?modified=20240531",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 3200.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-211768",
-   "titulo": "LOTE COMPOSTO DE: 01 IMPRESSORA MULTFUNCIONAL HP OFFICE JET PRO 8500, 01 IMPRESSORA SAMSUNG LASER SCX 4200, 01 IMPRESSORA HP ADVANTEGE 2676, 01 IMPRESSORA PLOTER HP DESIGNER 1111, 01 IMPRESSORA MATRICIAL CANON BJC5500, 01 IMPRESSORA PLOTER HP DESIGNE",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 500.0,
-   "encerramento": "2026-11-18 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/211768/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000349268/img-349268-6acfa61030a76.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 500.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
    "id": "joaoemilio-210118",
    "titulo": "LOTE COMPOSTE DE: 15 CPUs (FALTANDO PEÇAS), 08 MONITORES, 04 NOTBOOKs, 01 NETBOOK, 01 SWITCH, 17 TECLADOS, 01 RELOGIO DE PONTO, 01 TELEFONE SEM FIO, 01 ARMARIO DE FERRO, 04 MESAS, 01 QUADRO BRANCO, PRATILEIRAS, NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 700.0,
+   "lance_atual": 800.0,
    "encerramento": "2026-11-24 11:00",
-   "cidade": "Itaguai",
+   "cidade": "Rio de Janeiro",
    "uf": "RJ",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/210118/detalhes",
@@ -131364,23 +129119,28 @@
     {
      "data": "2026-11-08",
      "preco": 700.0
+    },
+    {
+     "data": "2026-11-19",
+     "preco": 800.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 700.0,
+   "variacao": 100.0,
+   "variacao_pct": 14.3,
+   "variacao_em": "2026-11-19",
+   "variacao_total_pct": 14.3,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "João Emílio",
    "id": "joaoemilio-210119",
    "titulo": "LOTE COMPOSTE DE: 11 ESTANTES DE FERRO, 09 ARMARIOS DE FERRO, 01 ARMARIO ALTO, 01 MESA, 01 LONGARINA, 10 CPUs (FALTANDO PEÇAS), 03 MONITORES, 05 IMPRESSORAS, NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1610.0,
+   "lance_atual": 1621.0,
    "encerramento": "2026-11-24 11:00",
-   "cidade": "Itaguai",
+   "cidade": "Nova Iguacu",
    "uf": "RJ",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/210119/detalhes",
@@ -131402,13 +129162,17 @@
     {
      "data": "2026-11-12",
      "preco": 1610.0
+    },
+    {
+     "data": "2026-11-19",
+     "preco": 1621.0
     }
    ],
-   "preco_anterior": 1566.0,
-   "variacao": 44.0,
-   "variacao_pct": 2.8,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": 2.8,
+   "preco_anterior": 1610.0,
+   "variacao": 11.0,
+   "variacao_pct": 0.7,
+   "variacao_em": "2026-11-19",
+   "variacao_total_pct": 3.5,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -131524,7 +129288,7 @@
    "id": "joaoemilio-210131",
    "titulo": "LOTE COMPOSTE DE: 17 CPUs (FALTANDO PEÇAS), 06 NOBREAKs, 01 MONITOR, 01 SCANER, 01 UNIDADE DE FITA EXTERNA LTO 6 ULTRIUM 6250, 01 IMPRESSORA, 01 PAINEL DE ALARME GARD 10 COM SENSOR, , NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 700.0,
+   "lance_atual": 800.0,
    "encerramento": "2026-11-24 11:00",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -131544,14 +129308,19 @@
     {
      "data": "2026-11-08",
      "preco": 700.0
+    },
+    {
+     "data": "2026-11-19",
+     "preco": 800.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 700.0,
+   "variacao": 100.0,
+   "variacao_pct": 14.3,
+   "variacao_em": "2026-11-19",
+   "variacao_total_pct": 14.3,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "João Emílio",
@@ -132000,7 +129769,7 @@
    "id": "joaoemilio-212163",
    "titulo": "3 MESAS C/2 CADEIRAS; 1 ORGANIZADOR C/ 3 GAVETAS PLASTICO, 1 LOTE DE ROUPAS; 1POLTRONA; 2 COOLER, 1 ASPIRADOR; 2 CAMAS DE SOLTEIRO C/ COLCHÃO, 1 TV; 1 SOFÁ, 1 VENTILADOR; 1 FILTRO DE ÁGUA, 1 MESA PLÁSTICA; 1 MÁQUINA DE LAVAR; 1 RACK; 1 GELADEIRA (DPE",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 580.0,
+   "lance_atual": 630.0,
    "encerramento": "2026-11-26 11:00",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -132020,14 +129789,19 @@
     {
      "data": "2026-11-13",
      "preco": 580.0
+    },
+    {
+     "data": "2026-11-19",
+     "preco": 630.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 580.0,
+   "variacao": 50.0,
+   "variacao_pct": 8.6,
+   "variacao_em": "2026-11-19",
+   "variacao_total_pct": 8.6,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "João Emílio",
@@ -132136,7 +129910,7 @@
    "id": "joaoemilio-212167",
    "titulo": "1 LOTE DE UTENSÍLIOS DIVERSOS; 1 LOTE DE QUADRO DECORATIVO, 2 (DUAS) TELEVISOÕES TURBOS; 1 LOTES DE MESA; 2 SOFÁS; 1 CAMA DE SOLTEIRO S/COLCHÃO; 1 ROÇADEIRA; 1 LOTE DE CADEIRA; 1 GELADEIRA; 2 CAIXAS DE SOM; 2 APARADORES; 2 ARMÁRIOS DE MADEIRA; 1 ROUP",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 940.0,
+   "lance_atual": 1040.0,
    "encerramento": "2026-11-26 11:00",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -132160,13 +129934,17 @@
     {
      "data": "2026-11-14",
      "preco": 940.0
+    },
+    {
+     "data": "2026-11-19",
+     "preco": 1040.0
     }
    ],
-   "preco_anterior": 840.0,
+   "preco_anterior": 940.0,
    "variacao": 100.0,
-   "variacao_pct": 11.9,
-   "variacao_em": "2026-11-14",
-   "variacao_total_pct": 11.9,
+   "variacao_pct": 10.6,
+   "variacao_em": "2026-11-19",
+   "variacao_total_pct": 23.8,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -132243,7 +130021,7 @@
    "id": "joaoemilio-212172",
    "titulo": "1 CELULAR (DPE: 9268-24 - PROC.: 0844236-59.2024.8.19.0001).",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1000.0,
+   "lance_atual": 1100.0,
    "encerramento": "2026-11-26 11:00",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -132263,14 +130041,19 @@
     {
      "data": "2026-11-13",
      "preco": 1000.0
+    },
+    {
+     "data": "2026-11-19",
+     "preco": 1100.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 1000.0,
+   "variacao": 100.0,
+   "variacao_pct": 10.0,
+   "variacao_em": "2026-11-19",
+   "variacao_total_pct": 10.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "João Emílio",
@@ -132438,482 +130221,6 @@
     {
      "data": "2026-11-13",
      "preco": 1330.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4097",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4097/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004358/img-4358-6ac8117f8a63e.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4098",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4098/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004359/img-4359-6ac8119eb487c.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4099",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4099/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004360/img-4360-6ac811b24e34c.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4100",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4100/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004361/img-4361-6ac811d1c4f90.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4101",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4101/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004362/img-4362-6ac811ee43e37.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4102",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4102/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004363/img-4363-6ac81206ea0e5.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4103",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4103/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004364/img-4364-6ac8122e0ea78.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4104",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4104/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004365/img-4365-6ac812491117e.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4105",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4105/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004366/img-4366-6ac812677defe.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4106",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4106/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004367/img-4367-6ac812873fd80.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4107",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4107/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004368/img-4368-6ac812a6d7190.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4108",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4108/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004369/img-4369-6ac812c725d7a.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4109",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4109/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004370/img-4370-6ac816368753f.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4110",
-   "titulo": "Bebedouro duplo Libell",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 600.0,
-   "encerramento": "2026-11-19 14:00",
-   "cidade": "São Caetano do Sul Contatos São Paulo",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4110/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004371/img-4371-6ac8130733abf.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 600.0
     }
    ],
    "preco_anterior": null,
@@ -133623,7 +130930,7 @@
    "id": "leilaoprime-4285",
    "titulo": "Smart TV TCL 65 polegadas QLED 4K P7K Google TV",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1025.73,
+   "lance_atual": 1055.73,
    "encerramento": "2026-11-23 14:00",
    "cidade": "Vargem Grande Paulista",
    "uf": "SP",
@@ -133647,13 +130954,17 @@
     {
      "data": "2026-11-18",
      "preco": 1025.73
+    },
+    {
+     "data": "2026-11-19",
+     "preco": 1055.73
     }
    ],
-   "preco_anterior": 995.73,
+   "preco_anterior": 1025.73,
    "variacao": 30.0,
-   "variacao_pct": 3.0,
-   "variacao_em": "2026-11-18",
-   "variacao_total_pct": 3.0,
+   "variacao_pct": 2.9,
+   "variacao_em": "2026-11-19",
+   "variacao_total_pct": 6.0,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -134212,18 +131523,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19061",
-   "titulo": "LOTE 01 1 - Câmera Inteligente Im7+3mp De Resolução Intelbras Branco 1 - Câmera De Segurança Wi-fi Externa Tp-link Tapo C320ws 2k 4mp Ip66 Branco 1 - Furadeira De Impacto 500 W 3/8 Cinza Tramontina 127v 1 - Conjunto De 6 Pratos Sobremesa Split White ",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4463",
+   "titulo": "Cafeteira Expresso Oster BVSTEM7400 Voltagem:127V",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 5500.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 698.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19061/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4463/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016633/img-16633-6af3a6cf9ea24.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004824/img-4824-6ae566f66f39a.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134231,11 +131542,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 5500.0
+     "data": "2026-11-19",
+     "preco": 698.0
     }
    ],
    "preco_anterior": null,
@@ -134246,18 +131557,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19062",
-   "titulo": "LOTE 02. 1 - Jogo De Jantar E Chá 20 Peças Unni Brisa Oxford Aw20-5903 Bege 1 - Mercusys Mc510 Câmera De Segurança Wi-fi Externa 2k 3mp, Rotação 360°, Visão Noturna Colorida, Detecção De Pessoas E... Branco 1 - Marvel Vingadores Titan Series Homem De",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4464",
+   "titulo": "WAP Robo Aspirador de Po ROBOT W40000 - Estacao Autolimpante, Mapeamento LDS 360&#176, Passa Pano com MOP Giratorio 127V",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 5000.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 479.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19062/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4464/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016634/img-16634-6af3a8b5d4f26.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004825/img-4825-6ae56711d647b.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134265,11 +131576,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 5000.0
+     "data": "2026-11-19",
+     "preco": 479.0
     }
    ],
    "preco_anterior": null,
@@ -134280,18 +131591,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19102",
-   "titulo": "LOTE 04. 1 - Lavadora De Alta Pressão Compacta Wap Wl 1800 1400w 1500psi 360l/h 220v Amarelo 60 Hz 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato Turbo Rotativo E Lança Leque Preto 220v 60 Hz 1 - Kit Furadeira De",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4466",
+   "titulo": "QUANTIDADE: 29 1 Fonte Carregador Tomada Usb Power Adapter 10w Ios /universal 1 ventilador magnetico para resfriamento do telefone 1 Cabo Conversor Adaptador Hdmi Para Vga Com Saída De Áudio E Cabo P2 1 Cabo Adaptador Hdmi Para Vga E Tv Pc Xbox360 No",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 5200.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 90.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19102/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4466/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016687/img-16687-6af4c285f1f66.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004827/img-4827-6ae56743eb23a.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134299,11 +131610,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 5200.0
+     "data": "2026-11-19",
+     "preco": 90.0
     }
    ],
    "preco_anterior": null,
@@ -134314,18 +131625,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19103",
-   "titulo": "LOTE 05. 1 - Jogo De Jantar E Chá 20 Peças Unni Brisa Oxford Aw20-5903 Bege 1 - Lavadora De Alta Pressão Profissional 5100 Turbo Wap Cinza Cor Cinza/amarelo Frequência 60 Hz 127v 1 - Cadeira De Descanso Musical Funtime New Maxi Baby Color Rosa 1 - Ba",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4467",
+   "titulo": "SUGGAR DEPURADOR DE AR SLIM DE EMBUTIR 60CM INOX 220V DE62IX (DETALHES ESTETICOS)",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 4800.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 154.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19103/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4467/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016688/img-16688-6af4c4b9159a4.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004828/img-4828-6ae5675be42f5.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134333,11 +131644,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 4800.0
+     "data": "2026-11-19",
+     "preco": 154.0
     }
    ],
    "preco_anterior": null,
@@ -134348,18 +131659,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19104",
-   "titulo": "LOTE 06. 1 - Jogo De Jantar E Chá 20 Peças Unni Brisa Oxford Aw20-5903 Bege 1 - Lavadora De Alta Pressão Profissional 5100 Turbo Wap Cinza Cor Cinza/amarelo Frequência 60 Hz 127v 1 - Cadeira De Descanso Musical Funtime New Maxi Baby Color Rosa 1 - Ba",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4471",
+   "titulo": "BEBEDOURO DE ÁGUA GELADA FRIA E NATURAL ELÉTRICO BE11B BRANCO BIVOLT (SEM CAIXA)",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 4800.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 99.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19104/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4471/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016689/img-16689-6af4c93654dfb.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004832/img-4832-6ae567ca24acd.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134367,11 +131678,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 4800.0
+     "data": "2026-11-19",
+     "preco": 99.0
     }
    ],
    "preco_anterior": null,
@@ -134382,18 +131693,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19105",
-   "titulo": "LOTE 07. 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato Turbo Rotativo E Lança Leque Preto 220v 60 Hz 1 - Bola Da Liga Da Copa Do Mundo Fifa 2026 Jd8045 Adi White Branco 1 - Secador Multifuncional 5 Em 1 Mondial ",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4473",
+   "titulo": "nobreak power vision upv 2200bi ng potencia 2200va bivolt sms",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 4900.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 680.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19105/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4473/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016690/img-16690-6af4c9df13534.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004834/img-4834-6ae567fa6e976.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134401,50 +131712,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 4800.0
-    },
-    {
-     "data": "2026-11-18",
-     "preco": 4900.0
-    }
-   ],
-   "preco_anterior": 4800.0,
-   "variacao": 100.0,
-   "variacao_pct": 2.1,
-   "variacao_em": "2026-11-18",
-   "variacao_total_pct": 2.1,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19108",
-   "titulo": "LOTE 10. 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato Turbo Rotativo E Lança Leque Preto 127v 60 Hz 1 - Burigotto Protege Reclinável Cadeira Infantil Para Carro Color Mesclado Negro Preto 1 - Moto Elétrica Bang",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3300.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19108/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016693/img-16693-6af4cc2176a90.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
-   "historico_precos": [
-    {
-     "data": "2026-11-12",
-     "preco": 3300.0
+     "data": "2026-11-19",
+     "preco": 680.0
     }
    ],
    "preco_anterior": null,
@@ -134455,18 +131727,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19109",
-   "titulo": "LOTE 11. 1 - Lavadora E Desobstruidora De Alta Pressão Wap 5100 Turbo Ultra Motor Indução 2300 Psi 2500w 550 L/h 220v Amarelo/cinza 1 - Travel System Cosco Kids, Reverse, 0 A 15kg, Rosa Rajado Preto 1 - Máquina De Gelo Turbo Ice Premium, Mondial, 120",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4474",
+   "titulo": "Cooktop 4 Bocas Itatiaia Essencial com Mesa de Vidro Temperado BIVOLT",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3300.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 64.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19109/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4474/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016694/img-16694-6af4ccc2c08e6.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004835/img-4835-6ae56811cc2d9.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134474,11 +131746,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 3300.0
+     "data": "2026-11-19",
+     "preco": 64.0
     }
    ],
    "preco_anterior": null,
@@ -134489,18 +131761,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19110",
-   "titulo": "LOTE 12. 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato Turbo Rotativo E Lança Leque Preto 220v 60 Hz 1 - Lavadora De Alta Pressão Compacta Wap Wl 1800 1400w 1500psi 360l/h 127v Amarelo 1 - Chuveiro Elétrico Fame",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4480",
+   "titulo": "QUANT: 45 Arco e Flecha Brinquedos Pica Pau 1 Microfone Pedestal Infantil Rock Show Azul, DM Toys 1 Luva Lanca Ventosa E Agarra 2 Candide, Laptop Infantil, Patrulha Canina, Brinquedo Educativo - Bilingue 1 Brinquedo Educativo Barco Didático com Bloco",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3400.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 540.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19110/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4480/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016695/img-16695-6af4cd862d900.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004841/img-4841-6ae5756919cfb.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134508,50 +131780,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 3300.0
-    },
-    {
-     "data": "2026-11-18",
-     "preco": 3400.0
-    }
-   ],
-   "preco_anterior": 3300.0,
-   "variacao": 100.0,
-   "variacao_pct": 3.0,
-   "variacao_em": "2026-11-18",
-   "variacao_total_pct": 3.0,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19111",
-   "titulo": "LOTE 13. 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato Turbo Rotativo E Lança Leque Preto 220v 60 Hz 1 - Aparelho De Jantar 20 Peças Roma Branco 1 - Assento Booster Burigotto Protege Para Carro, Preto, De 15 A 3",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3300.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19111/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016696/img-16696-6af4d679afa37.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
-   "historico_precos": [
-    {
-     "data": "2026-11-12",
-     "preco": 3300.0
+     "data": "2026-11-19",
+     "preco": 540.0
     }
    ],
    "preco_anterior": null,
@@ -134562,18 +131795,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19113",
-   "titulo": "LOTE 15. 1 - Pressurizador Lorenzetti Pl20 Pl 20 Mca 350w Água 127v 1 - Lavadora De Alta Pressão Wap Wl 1820 Com Stop Total, Jato Leque E Concentrado Cinza 220v 220v 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4483",
+   "titulo": "Cabo HDMI PLUS 2.0 4K HDR 19P 30M PIX 1 cabo coaxil 100 metros 5mm udi cabos 1 profesional fonte colmeia chaveada dc saida 24v hzv 1 gigabit ethernet media converter mc210cs tp-link 1 fonte carregadora para notebook 65w 19v 3,42A bivolt 1 Dvd Player ",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3300.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 547.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19113/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4483/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016698/img-16698-6af4d852886e9.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004844/img-4844-6ae575dc91270.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134581,11 +131814,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 3300.0
+     "data": "2026-11-19",
+     "preco": 547.0
     }
    ],
    "preco_anterior": null,
@@ -134596,18 +131829,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19114",
-   "titulo": "LOTE 16. 1 - Kit Mochila Lancheira Xeryus Patrulha Canina Azul-escuro Paw Patrol 1 - Bola De Futebol Trionda Training Copa Do Mundo Da Fifa 26tm adidas White/royal Blue/solar Blue/power Red 1 - Lavadora De Alta Pressão Kärcher K2 Plus Turbo 1740 Psi ",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4493",
+   "titulo": "Dreamgear Dgps4-6420 Fone De Ouvido Headset Gamer Com Microfone E Controle De Volume Para Ps4 E Ps5",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3300.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 165.6,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19114/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4493/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016699/img-16699-6af4d9319f404.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004854/img-4854-6ae5770fe3d6d.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134615,11 +131848,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 3300.0
+     "data": "2026-11-19",
+     "preco": 165.6
     }
    ],
    "preco_anterior": null,
@@ -134630,18 +131863,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19115",
-   "titulo": "LOTE 17. 1 - Lavadora E Desobstruidora De Alta Pressão Wap Ousada Wl 2610 Ultra Cinza/amarelo 127v 60 Hz 1 - Lavadora De Alta Pressão Wap Ousada Plus 2200 1500w 1750 Psi Amarelo/preto 220v 1 - Base Preta Para Bebê Conforto Touring Burigotto Até 13kg ",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4496",
+   "titulo": "Dreamgear Dgps3-3878 Controle Orbiter Com Fio 2, 5 Metros Para Playstation 3",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3300.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 177.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19115/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4496/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016700/img-16700-6af4da3201ba3.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004857/img-4857-6ae57753d48ab.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134649,11 +131882,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 3300.0
+     "data": "2026-11-19",
+     "preco": 177.0
     }
    ],
    "preco_anterior": null,
@@ -134664,18 +131897,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19116",
-   "titulo": "LOTE 18. 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato Turbo Rotativo E Lança Leque Preto 220v 60 Hz 1 - Lavadora De Alta Pressão Wap Ousada Plus 2200 1500w 1750 Psi Amarelo/preto 220v 1 - Aparelho De Jantar E C",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4500",
+   "titulo": "QUANT: 11 Máquina Waffle Omelete Dupla Antiaderente Agratto Cor Preto (QUEBRADO NA FRENTE) 1 Sanduicheira Elétrica Cadence Click - 220V (QUEBRADO EM BAIXO) 1 MONDIAL Sanduicheira Fast Grill & Sandwich, Preto,220V - S-12 (QUEBRADO NA FRENTE) 2 Mini Gr",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 5300.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 206.2,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19116/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4500/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016701/img-16701-6af4dad46c8f1.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004861/img-4861-6ae577d097b10.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134683,11 +131916,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 5300.0
+     "data": "2026-11-19",
+     "preco": 206.2
     }
    ],
    "preco_anterior": null,
@@ -134698,18 +131931,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19119",
-   "titulo": "LOTE 21. 1 - Apple Watch Ultra 3 Gps + Cellular Caixa Preta De Titânio 49 Mm Pulseira Oceano Preta - Distribuidor Autorizado Preto Correa Ocean Itens provenientes de logística reversa. Não fazemos entregas.",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4503",
+   "titulo": "Air Fryer Britânia 4,2L Dura Mais 1500W BFR38 1 Fritadeira Elétrica Airfryer 4l 1500w Preta Multi Go201 Cor Preto 1 Fritadeira Sem Óleo Air Fryer 4L Mondial 1500W - AFN-40-BI 1 Panela De Arroz 10 Xícaras Mantem Aquecido Multi Go005 Cor Inox/preto 2 P",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 4300.0,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 270.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19119/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4503/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016704/img-16704-6af4e124b74dc.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004864/img-4864-6ae5780ee2e42.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134717,11 +131950,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 4300.0
+     "data": "2026-11-19",
+     "preco": 270.0
     }
    ],
    "preco_anterior": null,
@@ -134732,18 +131965,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Tudo Leilão",
-   "id": "tudoleilao-19125",
-   "titulo": "LOTE. 22 1 MÁQUINA DE LAVAR 15KG BRASTEMP BWF15AB 220V BRANCO 1 MÁQUINA DE LAVAR 10K COLORMAQ LCS 110V BC 1 MICROONDAS 34L MONDIAL MO-02-34-E CINZA ESPELHADO 220V 1 DEPURADOR SUGGAR SLIM DPS160BIBR 60CM BCO BIV 1 FOGÃO 4B PISO ITATIAIA STAR NEW BIV B",
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4509",
+   "titulo": "Aquecedor Britânia Termoventilador 2 em 1 2000W AB1100N 127V 1 Aquecedor de Ambiente Termoventilador Mondial A-08 Branco e Cinza 1500W 127V 1 Cafeteira Cadence Single Contrast CAF218 1 Cafeteira Elétrica Dolce Arome Mondial 800W - C-44-32X-SI 1 Ferro",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 2119.54,
-   "encerramento": "2026-11-18 11:00",
-   "cidade": "Cotia",
+   "lance_atual": 129.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
    "uf": "SP",
    "publico": "PF e PJ",
-   "link": "https://www.tudoleilao.com.br/item/19125/detalhes",
+   "link": "https://www.leilaoprime.com.br/item/4509/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016709/img-16709-6af4ee818619b.jpeg",
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004870/img-4870-6ae57f0006255.jpeg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -134751,11 +131984,623 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-19",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 2119.54
+     "data": "2026-11-19",
+     "preco": 129.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4510",
+   "titulo": "LIQUIDIFICADOR PH900 VM 127V PHILCO 1 LIQUIDIFICADOR PH900 PR 127V PHILCO 1 Liquidificador Reverse Philco Plq1300P 1 Liquidificador Full Super Potente 1400W Oster PR 1 batedeira planetária britânia bbp760 turbo power plus 1",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 193.4,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4510/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004871/img-4871-6ae57f12068ce.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 193.4
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4513",
+   "titulo": "38 Utensílios domésticos ( Danificados ) podendo faltar acessórios, sen eles: 11 - Dispenser elétrico para sabonete Euro 1 - despertador digital herweg 2 - moedor de café inox mino style 1 - liquidificador de suco recarregável fr04 hmaston 1 - minipr",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 235.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4513/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004874/img-4874-6ae57f5776bd5.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 235.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4514",
+   "titulo": "10 itens entre grills e churrasqueiras elétricas (funcionando com avarias) Sendo: grills: 1 philco PGR21PI 127V 2 sanduicheira e grill press inox 127V 1 arno SW3315B0 127V 1 fun kitchen steak grill 1 cadence GRL500 127V 1 black decker G2200 churrasqu",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 240.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4514/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004875/img-4875-6ae57fa848300.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 240.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4518",
+   "titulo": "4 Air Fryer diversas marcas e modelos ( funcionando com avaria ) Sendo: 1- Oster OFRT520 220V 1- Oster OFRT970 220V 1- Philco PFR15PG 220V 1- Wap WAFG1 127V",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 235.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4518/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004879/img-4879-6ae618b6c8f34.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 235.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4521",
+   "titulo": "COOKTOP MUELLER MCI041BG",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 150.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4521/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004882/img-4882-6ae6190a00a52.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 150.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4522",
+   "titulo": "BASE CAFETEIRA SAECO",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 45.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4522/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004883/img-4883-6ae6191fb1337.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 45.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4530",
+   "titulo": "Apoio De Braco Encosto 208 2023 A 2024 C/Porta Copo (Grafite C/Linha Grafite) 1 Apoio De Braço Ford New Fiesta Mexicano 2011 Até 2013, Nat, 300712, Preto/ Linhas Pretas 1 Kit Coifa de Câmbio Manopla Cobalt 2012 a 2020 Bola Cinza Aro Cromado - Encaixe",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 290.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4530/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004891/img-4891-6ae62db0ec34a.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 290.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4532",
+   "titulo": "BEBEDOURO COLUNA EGC35B 220V ESMALTEC",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 180.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4532/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004893/img-4893-6ae62f5b96e8e.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 180.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4538",
+   "titulo": "BLACK DECKER Ferro de Passar a Vapor 1200W Rosa 220V AJ2200 (AVARIA ESTETICA) 1 BLACK DECKER FERRO DE PASSAR A VAPOR AZUL 220V - AJ2000AZ-B2 (AVARIA ESTETICA) 2 BLACK DECKER FERRO DE PASSAR A VAPOR AZUL 220V - FX2100-B2 (AVARIA ESTETICA) 1 BLACK DECK",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 150.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4538/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004899/img-4899-6ae6301388a80.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 150.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4546",
+   "titulo": "ELG, F160N, Suporte Articulado de Mesa com Pistao a Gas e Ajuste de Altura, 2 Monitores de 17 a 35, Com Organizador d... 2 Suporte Fixo de Parede Para TVs de 32\"a 65\" com Peso ate 50kg - N01V4 ELG 1 ELG, F50N, Suporte Articulado de Mesa para Monitore",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 193.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4546/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004907/img-4907-6ae63106b5c15.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 193.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4547",
+   "titulo": "Electrolux Liquidificador Electrolux 600W 2,7L Efficient TriForce 3 Velocidades Preto (EBL700) 127V (COPO QUEBRADO) 7 LIQ ELECTROLUX EBL1500 127V (COPO QUEBRADO) 1 Liquidificador Electrolux 1000W 2,7L Efficient com TriForce 5 Velocidades Cinza EBL100",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 260.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4547/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004908/img-4908-6ae63123213f4.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 260.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4549",
+   "titulo": "cooler para notebook 6012331 maxprint 1 cooler para notebook ac166 multi 6 cooler para notebook ac263 multi 7 cooler para notebook ac267 multi 1 cooler para notebook ac282 multi 2 cooler para notebook ergostand iv notepal 1 cooler para notebook nbc-1",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 423.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4549/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004910/img-4910-6ae63230db4be.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 423.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4552",
+   "titulo": "BUBA Assento Redutor Com Escada -Cinza, Cinza 1 Buba Assento Redutor Com Escada Rosa 1 Buba, Travesseiro Urso Branco 1 Buba Banheira Inflavel Baleia Feliz Colorido 2 Bicicleta de Equilíbrio Sem Pedal com Som Para Bebês A Partir de 12 Meses Buba 1 Bub",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 336.4,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4552/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004913/img-4913-6ae632756f75a.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 336.4
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4553",
+   "titulo": "CHURRASQUEIRA COTHERM GIULIETA 110V (FERRO QUEBRADO) 2 WAP Aspirador de Po Vertical HIGH SPEED PLUS 3 em 1, Compacto, 1,2 Litros, com Extensor Removivel, 134mbar 1350W 127V (QUEBRADO EMCIMA) 1 WAP Aspirador de Po Vertical HIGH SPEED PLUS 3 em 1, Comp",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 190.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4553/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004914/img-4914-6ae632902ed63.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 190.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4554",
+   "titulo": "LIQUIDIFICADOR WALITA HR2271 220V (COPO QUEBRADO) 1 Processador de Alimentos Philco PMN04A 420W com Jarra 500ml Função Pulsar e Trava de Segurança Preto 220V (COPO TRINCADO) 1 Processador de Alimentos Philco PMN04A 420W com Jarra 500ml Função Pulsar ",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 191.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4554/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004915/img-4915-6ae632ad5d1f5.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 191.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4557",
+   "titulo": "QUANT: 26 AMICUS Fonte Bebedouro de Agua Portatil AQUA MINI para Gatos e Caes - Fontes de Agua para Pets, Bebedouro para Animai... 4 VIDA MANSA Bebedouro Pp 2 L Rosa 1 Cama de Janela para Gatos Petlon, Preto 1 Bebedouro Beija Flor Ekology 1 The Compa",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 197.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4557/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004918/img-4918-6ae634e7ce71e.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 197.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4558",
+   "titulo": "FISCHER FORNO ELETRICO EMBUTIR FIT LINE 48L INOX 220V 34493-95486 COM AVARIAS ESTÉTICAS",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 198.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4558/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004919/img-4919-6ae634fceac13.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 198.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4560",
+   "titulo": "Smart TV TCL 85 Polegadas QLED 4K P7K WiFi Bluetooth Google TV HDR10+ Dolby Atmos Dolby Vision 85P7K (TELA QUEBRADA NA PARTE ESQUERDA)",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 450.0,
+   "encerramento": null,
+   "cidade": "São Paulo",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4560/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004921/img-4921-6ae63524e396d.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-19",
+   "historico_precos": [
+    {
+     "data": "2026-11-19",
+     "preco": 450.0
     }
    ],
    "preco_anterior": null,
