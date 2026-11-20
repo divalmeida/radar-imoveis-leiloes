@@ -45,10 +45,21 @@
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
-   "lotes": 112,
-   "dados_de": "2026-11-20 08:18",
+   "lotes": 113,
+   "dados_de": "2026-11-20 20:07",
    "local": true,
-   "segundos": 417
+   "novos_pendentes": [
+    "tudoleilao-19391",
+    "tudoleilao-19392",
+    "tudoleilao-19394",
+    "tudoleilao-19395",
+    "tudoleilao-19397",
+    "tudoleilao-19398",
+    "tudoleilao-19399"
+   ],
+   "precos_pendentes": {
+    "joaoemilio-212167": 1040.0
+   }
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -127222,9 +127233,9 @@
    "id": "joaoemilio-212167",
    "titulo": "1 LOTE DE UTENSÍLIOS DIVERSOS; 1 LOTE DE QUADRO DECORATIVO, 2 (DUAS) TELEVISOÕES TURBOS; 1 LOTES DE MESA; 2 SOFÁS; 1 CAMA DE SOLTEIRO S/COLCHÃO; 1 ROÇADEIRA; 1 LOTE DE CADEIRA; 1 GELADEIRA; 2 CAIXAS DE SOM; 2 APARADORES; 2 ARMÁRIOS DE MADEIRA; 1 ROUP",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1040.0,
+   "lance_atual": 1140.0,
    "encerramento": "2026-11-26 11:00",
-   "cidade": "Rio de Janeiro",
+   "cidade": "Nova Iguaçu",
    "uf": "RJ",
    "publico": "PF e PJ",
    "link": "https://www.joaoemilio.com.br/item/212167/detalhes",
@@ -127250,13 +127261,17 @@
     {
      "data": "2026-11-19",
      "preco": 1040.0
+    },
+    {
+     "data": "2026-11-20",
+     "preco": 1140.0
     }
    ],
-   "preco_anterior": 940.0,
+   "preco_anterior": 1040.0,
    "variacao": 100.0,
-   "variacao_pct": 10.6,
-   "variacao_em": "2026-11-19",
-   "variacao_total_pct": 23.8,
+   "variacao_pct": 9.6,
+   "variacao_em": "2026-11-20",
+   "variacao_total_pct": 35.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -127540,220 +127555,6 @@
    "variacao_pct": null,
    "variacao_em": null,
    "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4143",
-   "titulo": "Frigobar Philco",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 900.0,
-   "encerramento": "2026-11-20 14:00",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4143/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004443/img-4443-6ac925de88a24.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 900.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4144",
-   "titulo": "Fogão 4 bocas Neo coock",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 285.0,
-   "encerramento": "2026-11-20 14:00",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4144/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004444/img-4444-6ac925f03d82d.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 285.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4145",
-   "titulo": "Fogão 4 bocas Esmaltec",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 210.0,
-   "encerramento": "2026-11-20 14:00",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4145/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004445/img-4445-6ac9260a42bf8.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 210.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4147",
-   "titulo": "Fogão 4 bocas Esmaltec",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 149.25,
-   "encerramento": "2026-11-20 14:00",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4147/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004447/img-4447-6ac9262fd5f8e.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 149.25
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4148",
-   "titulo": "Fogão 4 bocas Mueller",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 230.0,
-   "encerramento": "2026-11-20 14:00",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4148/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004448/img-4448-6ac9268544c2b.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 450.0
-    },
-    {
-     "data": "2026-11-12",
-     "preco": 230.0
-    }
-   ],
-   "preco_anterior": 450.0,
-   "variacao": -220.0,
-   "variacao_pct": -48.9,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": -48.9,
-   "baixou_preco": true,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4149",
-   "titulo": "Coifa Fisher de ilha em inox 90cm",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 900.0,
-   "encerramento": "2026-11-20 14:00",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4149/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004449/img-4449-6ac9269ad4b47.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-08",
-   "historico_precos": [
-    {
-     "data": "2026-11-08",
-     "preco": 1125.0
-    },
-    {
-     "data": "2026-11-12",
-     "preco": 900.0
-    }
-   ],
-   "preco_anterior": 1125.0,
-   "variacao": -225.0,
-   "variacao_pct": -20.0,
-   "variacao_em": "2026-11-12",
-   "variacao_total_pct": -20.0,
-   "baixou_preco": true,
    "subiu_preco": false
   },
   {
@@ -130287,6 +130088,244 @@
     {
      "data": "2026-11-20",
      "preco": 1300.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19391",
+   "titulo": "LOTE 31. 1 - Lavadora De Alta Pressão Kärcher K2 Plus 1740psi/libras 1400w 300l/h Com Jato Turbo Rotativo E Lança Leque 220v Preto 1 - Lavadora De Alta Pressão Wap Wl 4200 5 Pistões 2200w 1305psi 510l/h Com Jato Regulável E Motor De Indução 127v Cinz",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1450.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19391/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016963/img-16963-6b0030fc23bfc.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 1450.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19392",
+   "titulo": "LOTE 32. 1 - Lavadora E Desobstruidora De Alta Pressão Wap Wl 4200 Ultra 5 Pistões 2200w 1305psi 510l/h Com Jato Regulável E Motor De Indução 220v Cinza 60 Hz 1 - Lavadora De Alta Pressão Desobstruidora Wap Ousada Wl 2600 Ultra 1500w De Potência 1750",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 2100.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19392/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016964/img-16964-6b0046bdede59.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 2100.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19394",
+   "titulo": "LOTE 34. 1 - Aparador De Grama Elétrico Bipartido Apb1000t Com Diâmetro De Corte De 280 Mm 1000 W Tramontina 220v Laranja-escuro 1 - Chuveiro Loren Shower Eletronico Ducha Lorenzetti Cor Branco Potência 5500 W Voltagem 127 127v 5.5 Kw 1 - Aparelho De",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1800.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19394/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016966/img-16966-6b0033e5d2599.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 1800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19395",
+   "titulo": "LOTE 35. 1 - Jogo De Panelas De Cerâmica Clear 5 Peças Pomodoro Ceraflame Vermelho 1 - Desobstruidora De Alta Pressão Wap Atacama Smart Ultra Com Potência De 1400w 1500psi Amarelo/preto 127v 1 - Chuveiro Loren Shower Eletronico Ducha Lorenzetti Cor B",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 2400.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19395/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016967/img-16967-6b003655a8b47.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 2400.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19397",
+   "titulo": "LOTE 37. 1 - Lavadora De Alta Pressão Profissional 5100 Turbo Wap Cinza Cor Cinza/amarelo Frequência 60 Hz 127v 1 - Jogo De 6 Xícaras Grandes 200 Ml Com Pires Unni Brisa Oxford Marrom / Off White Liso 1 - Furadeira Philco Force 3000 Rpm Mandril 13mm ",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 2500.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19397/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016969/img-16969-6b0041f242c54.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 2500.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19398",
+   "titulo": "LOTE 38. 1 - Aparelho Monitor Medidor Pressão Arterial Omron Hem-7142 Monitor Digital Branco 1 - Copo Stanley Quencher Frost 887ml Branco Liso 1 - Chuveiro Loren Shower Eletronico Ducha Lorenzetti Cor Branco Potência 5500 W Voltagem 127 127v 5.5 Kw 1",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 2300.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19398/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016970/img-16970-6b0042b3e7b9a.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 2300.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19399",
+   "titulo": "LOTE 39. 1 - Conjunto C/ 6 Ramequim Médio Orgânico Litchi Ø9x3cm 70ml Porto Brasil 1 - Jogo De Jantar E Chá 20 Peças Biona Donna Cerâmica Amarelo Florido Multicolor 1 - Kit Duplo Mamadeiras Pétala 125ml E 260ml - Scd838/26 Avent 1 - Lavadora De Alta ",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3900.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19399/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016971/img-16971-6b0044a6cfff2.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 3900.0
     }
    ],
    "preco_anterior": null,
