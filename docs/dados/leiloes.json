@@ -45,10 +45,23 @@
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
-   "lotes": 101,
-   "dados_de": "2026-11-19 19:08",
+   "lotes": 112,
+   "dados_de": "2026-11-20 08:18",
    "local": true,
-   "segundos": 387
+   "novos_pendentes": [
+    "tudoleilao-19376",
+    "tudoleilao-19377",
+    "tudoleilao-19378",
+    "tudoleilao-19380",
+    "tudoleilao-19381",
+    "tudoleilao-19382",
+    "tudoleilao-19386",
+    "tudoleilao-19387",
+    "tudoleilao-19388",
+    "tudoleilao-19389",
+    "tudoleilao-19390"
+   ],
+   "precos_pendentes": {}
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -129177,6 +129190,380 @@
     {
      "data": "2026-11-19",
      "preco": 450.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19376",
+   "titulo": "LOTE 10. 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato Turbo Rotativo E Lança Leque Preto 127v 60 Hz 1 - Burigotto Protege Reclinável Cadeira Infantil Para Carro Color Mesclado Negro Preto 1 - Moto Elétrica Bang",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3300.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19376/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016693/img-16693-6af4cc2176a90.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 3300.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19377",
+   "titulo": "LOTE 11. 1 - Lavadora E Desobstruidora De Alta Pressão Wap 5100 Turbo Ultra Motor Indução 2300 Psi 2500w 550 L/h 220v Amarelo/cinza 1 - Travel System Cosco Kids, Reverse, 0 A 15kg, Rosa Rajado Preto 1 - Máquina De Gelo Turbo Ice Premium, Mondial, 120",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3300.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19377/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016694/img-16694-6af4ccc2c08e6.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 3300.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19378",
+   "titulo": "LOTE 13. 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato Turbo Rotativo E Lança Leque Preto 220v 60 Hz 1 - Aparelho De Jantar 20 Peças Roma Branco 1 - Assento Booster Burigotto Protege Para Carro, Preto, De 15 A 3",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3300.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19378/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016696/img-16696-6af4d679afa37.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 3300.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19380",
+   "titulo": "LOTE 15. 1 - Pressurizador Lorenzetti Pl20 Pl 20 Mca 350w Água 127v 1 - Lavadora De Alta Pressão Wap Wl 1820 Com Stop Total, Jato Leque E Concentrado Cinza 220v 220v 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3300.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19380/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016698/img-16698-6af4d852886e9.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 3300.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19381",
+   "titulo": "LOTE 16. 1 - Kit Mochila Lancheira Xeryus Patrulha Canina Azul-escuro Paw Patrol 1 - Bola De Futebol Trionda Training Copa Do Mundo Da Fifa 26tm adidas White/royal Blue/solar Blue/power Red 1 - Lavadora De Alta Pressão Kärcher K2 Plus Turbo 1740 Psi ",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3300.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19381/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016699/img-16699-6af4d9319f404.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 3300.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19382",
+   "titulo": "LOTE 21. 1 - Apple Watch Ultra 3 Gps + Cellular Caixa Preta De Titânio 49 Mm Pulseira Oceano Preta - Distribuidor Autorizado Preto Correa Ocean Itens provenientes de logística reversa. Não fazemos entregas.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4300.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19382/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016704/img-16704-6af4e124b74dc.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 4300.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19386",
+   "titulo": "LOTE 24. 1 - Ducha Eletrônica Lorenzetti Loren Shower Ultra 7500w 220v Branco 7.5 W 1 - Brinquedo Para Bebês Cachorrinho Aprende Comigo Fisher-price Azul 1 - Escova Secadora By Juliette, Mondial, 1300w - Es-ju-02 Verde 127/220v 1 - Secador De Cabelos",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 2900.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19386/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016932/img-16932-6aff780880590.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 2900.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19387",
+   "titulo": "LOTE 25. 1 - Maxi Baby Bauhaus Cadeira Infantil Cinza 0-36kg 5 Posições 1 - Bicicleta De Equilibrio Rosa Com Som Sem Pedal 18824 - Buba 1 - Aparelho De Jantar 20 Peças Roma Branco 1 - Câmera Inteligente Im7+3mp De Resolução Intelbras Branco 1 - Secad",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3000.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19387/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016933/img-16933-6aff788ae992b.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 3000.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19388",
+   "titulo": "LOTE 26. 1 - Chuveiro Lorenzetti Acqua Duo Ultra Preto Cromado 5500w 127v 5.5 Kw 1 - Parafusadeira E Furadeira De Impacto Wap K21 Id03 Sem Fio Com Maleta Organizadora Bivolt Preto/amarelo 127/220v 50/60 Hz 1 - Mercusys Mc510 Câmera De Segurança Wi-fi",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 2300.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19388/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016934/img-16934-6aff7a7c4fc70.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 2300.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19389",
+   "titulo": "LOTE 27. 1 - Desobstruidora De Alta Pressão Profissional Wap Wl 4500 Ultra 1500w 1650psi 420l/h Motor Indução 127v Cinza 60hz 1 - Câmera Inteligente Intelbras Im5sc Con Wi-fi Full Hd Color Branca Branco 1 - Mercusys Mc510 Câmera De Segurança Wi-fi Ex",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 2800.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19389/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016935/img-16935-6aff7b1231d22.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 2800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19390",
+   "titulo": "LOTE 30. 1 - Cadeira De Refeição Maxi Baby Mug Milk Branco 1 - Andador Infantil Bebê Até 12kg Azul Styll Baby 1 - Lavadora De Alta Pressão Kärcher Prática Black 1500 Psi 1400w 300l/h Com Aplicador De Detergente E Lança Regulável Amarelo/preto 127v 1 ",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1300.0,
+   "encerramento": "2026-11-26 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19390/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016936/img-16936-6aff7c1ad15a4.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-20",
+   "historico_precos": [
+    {
+     "data": "2026-11-20",
+     "preco": 1300.0
     }
    ],
    "preco_anterior": null,
