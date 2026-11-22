@@ -46,9 +46,14 @@
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
    "lotes": 113,
-   "dados_de": "2026-11-20 20:07",
+   "dados_de": "2026-11-22 15:47",
    "local": true,
-   "segundos": 559
+   "novos_pendentes": [],
+   "precos_pendentes": {
+    "joaoemilio-212319": 3500.0,
+    "joaoemilio-212324": 700.0,
+    "tudoleilao-19377": 3300.0
+   }
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -128767,7 +128772,7 @@
    "id": "joaoemilio-212319",
    "titulo": "107 ITENS APROXIMADAMENTE, COMPOSTO DE: SERVIDOR SM, DESKTOP, MULTIVIWER, WORKSTATION, SWITCH DE KVM, DISTRIBUIDOR DE VIDEO, CONVERSOR DE VIDEO, UP/DOWN CONVERTER, CONVERSOR DE PADRÃO ASPECTO, MISTURADOR DE AUDIO, ACESSORIOS E PERIFERICOS DE VIDEO, C",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3500.0,
+   "lance_atual": 3600.0,
    "encerramento": "2026-11-25 11:05",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -128787,14 +128792,19 @@
     {
      "data": "2026-11-18",
      "preco": 3500.0
+    },
+    {
+     "data": "2026-11-22",
+     "preco": 3600.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 3500.0,
+   "variacao": 100.0,
+   "variacao_pct": 2.9,
+   "variacao_em": "2026-11-22",
+   "variacao_total_pct": 2.9,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "João Emílio",
@@ -128937,7 +128947,7 @@
    "id": "joaoemilio-212324",
    "titulo": "LOTE COMPOSTO DE: 01 GELADEIRA, 01 LAVADORA DE PISO (NF: 000178229), NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 700.0,
+   "lance_atual": 750.0,
    "encerramento": "2026-11-25 11:05",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -128957,14 +128967,19 @@
     {
      "data": "2026-11-18",
      "preco": 700.0
+    },
+    {
+     "data": "2026-11-22",
+     "preco": 750.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 700.0,
+   "variacao": 50.0,
+   "variacao_pct": 7.1,
+   "variacao_em": "2026-11-22",
+   "variacao_total_pct": 7.1,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "João Emílio",
@@ -131845,7 +131860,7 @@
    "id": "tudoleilao-19377",
    "titulo": "LOTE 11. 1 - Lavadora E Desobstruidora De Alta Pressão Wap 5100 Turbo Ultra Motor Indução 2300 Psi 2500w 550 L/h 220v Amarelo/cinza 1 - Travel System Cosco Kids, Reverse, 0 A 15kg, Rosa Rajado Preto 1 - Máquina De Gelo Turbo Ice Premium, Mondial, 120",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3300.0,
+   "lance_atual": 3400.0,
    "encerramento": "2026-11-26 11:00",
    "cidade": "Cotia",
    "uf": "SP",
@@ -131865,14 +131880,19 @@
     {
      "data": "2026-11-20",
      "preco": 3300.0
+    },
+    {
+     "data": "2026-11-22",
+     "preco": 3400.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 3300.0,
+   "variacao": 100.0,
+   "variacao_pct": 3.0,
+   "variacao_em": "2026-11-22",
+   "variacao_total_pct": 3.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Tudo Leilão",
