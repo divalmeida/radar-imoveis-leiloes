@@ -46,7 +46,7 @@
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
    "lotes": 113,
-   "dados_de": "2026-11-22 15:47",
+   "dados_de": "2026-11-22 19:08",
    "local": true,
    "novos_pendentes": [],
    "precos_pendentes": {
@@ -128772,7 +128772,7 @@
    "id": "joaoemilio-212319",
    "titulo": "107 ITENS APROXIMADAMENTE, COMPOSTO DE: SERVIDOR SM, DESKTOP, MULTIVIWER, WORKSTATION, SWITCH DE KVM, DISTRIBUIDOR DE VIDEO, CONVERSOR DE VIDEO, UP/DOWN CONVERTER, CONVERSOR DE PADRÃO ASPECTO, MISTURADOR DE AUDIO, ACESSORIOS E PERIFERICOS DE VIDEO, C",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3600.0,
+   "lance_atual": 3700.0,
    "encerramento": "2026-11-25 11:05",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -128796,13 +128796,17 @@
     {
      "data": "2026-11-22",
      "preco": 3600.0
+    },
+    {
+     "data": "2026-11-22",
+     "preco": 3700.0
     }
    ],
-   "preco_anterior": 3500.0,
+   "preco_anterior": 3600.0,
    "variacao": 100.0,
-   "variacao_pct": 2.9,
+   "variacao_pct": 2.8,
    "variacao_em": "2026-11-22",
-   "variacao_total_pct": 2.9,
+   "variacao_total_pct": 5.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -128947,7 +128951,7 @@
    "id": "joaoemilio-212324",
    "titulo": "LOTE COMPOSTO DE: 01 GELADEIRA, 01 LAVADORA DE PISO (NF: 000178229), NO ESTADO.",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 750.0,
+   "lance_atual": 800.0,
    "encerramento": "2026-11-25 11:05",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -128971,13 +128975,17 @@
     {
      "data": "2026-11-22",
      "preco": 750.0
+    },
+    {
+     "data": "2026-11-22",
+     "preco": 800.0
     }
    ],
-   "preco_anterior": 700.0,
+   "preco_anterior": 750.0,
    "variacao": 50.0,
-   "variacao_pct": 7.1,
+   "variacao_pct": 6.7,
    "variacao_em": "2026-11-22",
-   "variacao_total_pct": 7.1,
+   "variacao_total_pct": 14.3,
    "baixou_preco": false,
    "subiu_preco": true
   },
