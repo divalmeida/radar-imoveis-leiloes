@@ -46,9 +46,12 @@
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
    "lotes": 113,
-   "dados_de": "2026-11-22 19:08",
+   "dados_de": "2026-11-23 08:08",
    "local": true,
-   "segundos": 704
+   "novos_pendentes": [],
+   "precos_pendentes": {
+    "leilaoprime-4464": 479.0
+   }
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -131444,7 +131447,7 @@
    "id": "leilaoprime-4464",
    "titulo": "WAP Robo Aspirador de Po ROBOT W40000 - Estacao Autolimpante, Mapeamento LDS 360&#176, Passa Pano com MOP Giratorio 127V",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 479.0,
+   "lance_atual": 529.0,
    "encerramento": null,
    "cidade": "São Paulo",
    "uf": "SP",
@@ -131464,14 +131467,19 @@
     {
      "data": "2026-11-19",
      "preco": 479.0
+    },
+    {
+     "data": "2026-11-23",
+     "preco": 529.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 479.0,
+   "variacao": 50.0,
+   "variacao_pct": 10.4,
+   "variacao_em": "2026-11-23",
+   "variacao_total_pct": 10.4,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Leilão Prime",
