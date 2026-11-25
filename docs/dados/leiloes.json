@@ -45,10 +45,24 @@
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
-   "lotes": 154,
-   "dados_de": "2026-11-24 19:19",
+   "lotes": 163,
+   "dados_de": "2026-11-25 08:52",
    "local": true,
-   "segundos": 395
+   "novos_pendentes": [
+    "tudoleilao-19789",
+    "tudoleilao-19790",
+    "tudoleilao-19791",
+    "tudoleilao-19792",
+    "tudoleilao-19794",
+    "tudoleilao-19795",
+    "tudoleilao-19797",
+    "tudoleilao-19815",
+    "tudoleilao-19816"
+   ],
+   "precos_pendentes": {
+    "joaoemilio-212163": 1180.0,
+    "leilaoprime-4464": 679.0
+   }
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -111067,7 +111081,7 @@
    "id": "joaoemilio-212163",
    "titulo": "3 MESAS C/2 CADEIRAS; 1 ORGANIZADOR C/ 3 GAVETAS PLASTICO, 1 LOTE DE ROUPAS; 1POLTRONA; 2 COOLER, 1 ASPIRADOR; 2 CAMAS DE SOLTEIRO C/ COLCHÃO, 1 TV; 1 SOFÁ, 1 VENTILADOR; 1 FILTRO DE ÁGUA, 1 MESA PLÁSTICA; 1 MÁQUINA DE LAVAR; 1 RACK; 1 GELADEIRA (DPE",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1180.0,
+   "lance_atual": 1230.0,
    "encerramento": "2026-11-26 11:00",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -111095,13 +111109,17 @@
     {
      "data": "2026-11-24",
      "preco": 1180.0
+    },
+    {
+     "data": "2026-11-25",
+     "preco": 1230.0
     }
    ],
-   "preco_anterior": 630.0,
-   "variacao": 550.0,
-   "variacao_pct": 87.3,
-   "variacao_em": "2026-11-24",
-   "variacao_total_pct": 103.4,
+   "preco_anterior": 1180.0,
+   "variacao": 50.0,
+   "variacao_pct": 4.2,
+   "variacao_em": "2026-11-25",
+   "variacao_total_pct": 112.1,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -114133,7 +114151,7 @@
    "id": "leilaoprime-4464",
    "titulo": "WAP Robo Aspirador de Po ROBOT W40000 - Estacao Autolimpante, Mapeamento LDS 360&#176, Passa Pano com MOP Giratorio 127V",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 679.0,
+   "lance_atual": 729.0,
    "encerramento": null,
    "cidade": "São Paulo",
    "uf": "SP",
@@ -114161,13 +114179,17 @@
     {
      "data": "2026-11-24",
      "preco": 679.0
+    },
+    {
+     "data": "2026-11-25",
+     "preco": 729.0
     }
    ],
-   "preco_anterior": 529.0,
-   "variacao": 150.0,
-   "variacao_pct": 28.4,
-   "variacao_em": "2026-11-24",
-   "variacao_total_pct": 41.8,
+   "preco_anterior": 679.0,
+   "variacao": 50.0,
+   "variacao_pct": 7.4,
+   "variacao_em": "2026-11-25",
+   "variacao_total_pct": 52.2,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -115906,6 +115928,312 @@
     {
      "data": "2026-11-24",
      "preco": 280.98
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19789",
+   "titulo": "LOTE. 4 1 LIQ 3VEL MONDIAL L99 500W VM 110V 1 MAQ CORT CABELO MONDIAL CR02 PR/PRT 110V 1 SAND/GRILL MONDIAL MASTER S-20 PT/INOX 110V 1 AQUECEDOR HALOGENO MONDIAL A16 QUARTZO BR/CZ 110V 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 PAN ELETR MO",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 661.24,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19789/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013282/img-13282-6a9c5c1972094.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-25",
+   "historico_precos": [
+    {
+     "data": "2026-11-25",
+     "preco": 661.24
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19790",
+   "titulo": "LOTE. 9 1 MODELADOR EM-12 PRETO/VERMELHO BIVOLT MONDIAL 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 LIQ 2VEL MONDIAL EASY POWER L-550 550W PT 110V 1 AQUECEDOR HALOGENO MONDIAL A16 QUARTZO BR/CZ 110V 1 BAT PLAN MONDIAL 12VEL BP-03W-2B 700W BR",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 601.27,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19790/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013287/img-13287-6a9c5cb3d4165.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-25",
+   "historico_precos": [
+    {
+     "data": "2026-11-25",
+     "preco": 601.27
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19791",
+   "titulo": "LOTE. 14 1 FERRO A VAPOR MONDIAL F-53 1200W PTO/AZ 110V 1 FURAD IMPACTO GSB 450 RE 450W 127V BOSCH 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 SAND/GRILL MONDIAL S12 PT 110V 1 VENT 40CM MS MONDIAL SUPER POWER VSP40B 6P PT 110V 1 PAN ELETR MO",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 905.25,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19791/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013292/img-13292-6a9c5d08271da.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-25",
+   "historico_precos": [
+    {
+     "data": "2026-11-25",
+     "preco": 905.25
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19792",
+   "titulo": "LOTE. 24 1 MIXER MONDIAL PRATIC M-15-B 200W PT 110V 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 LIQ 12VEL MONDIAL L1400 J/VIDRO 1400W PTO/INX 110V 1 CHURRASQ ELETR MONDIAL CH05 PR 110V 1 APARADOR DE PELOS MONDIAL BG04 6 EM 1 PT BIV 1 SAND/GR",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 748.49,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19792/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013302/img-13302-6a9c5e93cd590.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-25",
+   "historico_precos": [
+    {
+     "data": "2026-11-25",
+     "preco": 748.49
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19794",
+   "titulo": "LOTE. 30 1 SECADOR 1200W MONDIAL SC10 VM/PR BIV 1 ESCOVA SECADORA MONDIAL ES-JU-02 1200W VD BIV 1 ESCOVA SECADORA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 LIQ 3VEL MONDIAL L99 500W VM 110V 1 SAND MONDIAL ULTRA S13 PT 110V 1 FRIT ELET MONDIAL AFN60 6L PT/IN",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 584.74,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19794/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013308/img-13308-6a9c5f3ab7b06.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-25",
+   "historico_precos": [
+    {
+     "data": "2026-11-25",
+     "preco": 584.74
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19795",
+   "titulo": "LOTE. 31 1 CAF 18XIC MONDIAL C-30 DOLCE AROME FB 110V 1 ESC ALISADORA EA-06 BLACK GOLD ARGAN MONDIAL BIV 1 PRANCHA MONDIAL P-01-IR AZ BIV 1 ESCOVA SECADORA SLIM MONDIAL ES-20 BIV 1 SAND MONDIAL ULTRA S13 PT 110V 1 SAND/GRILL MONDIAL MASTER S-20 PT/IN",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 636.17,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19795/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013309/img-13309-6a9c5fc0b408f.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-25",
+   "historico_precos": [
+    {
+     "data": "2026-11-25",
+     "preco": 636.17
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19797",
+   "titulo": "LOTE. 40 1 ASP 1400W BRITANIA BAS30 2 EM 1 AZL 127V 1 ASP STICK 1100W ELECTROLUX POWERSPEED STK13 110V 1 SECADOR 2100W GAMA LICHIA CERAMIC ION 127V 1 ESCOVA SECADORA MONDIAL ES-50 WHITE ROSE BIV 1 APARADOR ONEBLADE BIVOLT QP1424 PHILIPS 1 VENT 40CM M",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 540.61,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19797/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000013318/img-13318-6a9c60476a781.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-25",
+   "historico_precos": [
+    {
+     "data": "2026-11-25",
+     "preco": 540.61
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19815",
+   "titulo": "LOTE. 382 1 MAQ COSTURA 10 PONTOS SINGER FACILITA 4411 110V 1 PARAF E FURA WAP WF 12K3.2 BAT LITIO 12V BIV 1 LAVADORA DE ALTA PRESSAO KARCHER K2 PLUS 127V 1 FRIT ELET MONDIAL AFN40-BI FAMILY 4L PT/INOX 110V 1 PAN PRESSAO FE MAGNIFIC AA GRAF 4,5L PANE",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1253.79,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19815/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016487/img-16487-6aeba658142cd.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-25",
+   "historico_precos": [
+    {
+     "data": "2026-11-25",
+     "preco": 1253.79
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19816",
+   "titulo": "LOTE. 386 1 SECADOR MONDIAL SCN-01 2000W PTO 110V. 1 LIQ MONDIAL PERSONAL BLENDER 2CP DG01 PT 110V 1 MINI PROCES MONDIAL TURBO PRATIC MP-16 PTO 110V 1 AQUECEDOR HALOGENO MONDIAL A16 QUARTZO BR/CZ 110V 1 ESCOVA SECADORA BRITANIA BEC02PR BIV 1 CANECA T",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 630.67,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19816/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016491/img-16491-6aeba8bb7cf64.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-25",
+   "historico_precos": [
+    {
+     "data": "2026-11-25",
+     "preco": 630.67
     }
    ],
    "preco_anterior": null,
