@@ -45,10 +45,42 @@
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
-   "lotes": 163,
-   "dados_de": "2026-11-25 08:52",
+   "lotes": 174,
+   "dados_de": "2026-11-26 10:45",
    "local": true,
-   "segundos": 489
+   "novos_pendentes": [
+    "joaoemilio-212722",
+    "leilaoprime-4590",
+    "leilaoprime-4591",
+    "leilaoprime-4592",
+    "leilaoprime-4593",
+    "leilaoprime-4594",
+    "leilaoprime-4595",
+    "leilaoprime-4597",
+    "leilaoprime-4598",
+    "leilaoprime-4602",
+    "leilaoprime-4604",
+    "leilaoprime-4605",
+    "leilaoprime-4606",
+    "leilaoprime-4607",
+    "leilaoprime-4608",
+    "leilaoprime-4609",
+    "leilaoprime-4610",
+    "leilaoprime-4611",
+    "leilaoprime-4612",
+    "leilaoprime-4613",
+    "leilaoprime-4614",
+    "tudoleilao-19880",
+    "tudoleilao-19882",
+    "tudoleilao-19884",
+    "tudoleilao-19904"
+   ],
+   "precos_pendentes": {
+    "joaoemilio-212163": 1230.0,
+    "joaoemilio-212173": 990.0,
+    "leilaoprime-4464": 729.0,
+    "tudoleilao-19376": 3300.0
+   }
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -99594,407 +99626,6 @@
   },
   {
    "fonte": "João Emílio",
-   "id": "joaoemilio-212318",
-   "titulo": "254 ITENS APROXIMADAMENTE, COMPOSTO DE: DESKTOP, WORKSTATION, SERVIDOR, STORAGE, NOTEBOOK, FRAME SYNCHRONIZER, ACESSORIOS E PERIFERICOS DE AUDIO, DISTRIBUIDOR DE VIDEO, INTERCOM BASE STATION, INTERFACE DE TALLY, BROADCAST, ACESSORIOS E PERIFERICOS DE",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 10000.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212318/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350448/img-350448-6afc4bad55ea5.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 10000.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-212319",
-   "titulo": "107 ITENS APROXIMADAMENTE, COMPOSTO DE: SERVIDOR SM, DESKTOP, MULTIVIWER, WORKSTATION, SWITCH DE KVM, DISTRIBUIDOR DE VIDEO, CONVERSOR DE VIDEO, UP/DOWN CONVERTER, CONVERSOR DE PADRÃO ASPECTO, MISTURADOR DE AUDIO, ACESSORIOS E PERIFERICOS DE VIDEO, C",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3700.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212319/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350449/img-350449-6afc4bb85dc4f.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 3500.0
-    },
-    {
-     "data": "2026-11-22",
-     "preco": 3600.0
-    },
-    {
-     "data": "2026-11-22",
-     "preco": 3700.0
-    }
-   ],
-   "preco_anterior": 3600.0,
-   "variacao": 100.0,
-   "variacao_pct": 2.8,
-   "variacao_em": "2026-11-22",
-   "variacao_total_pct": 5.7,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-212320",
-   "titulo": "114 ITENS APROXIMADAMENTE, COMPOSTO DE: PATCH DE AUDIO, NOTEBOOK, LUMINARIA, BUFFER/REPETIDOR, MONITOR BROADCAST, ACESSORIOS E PERIFERICOS DE VIDEO, ACESSORIOS E PERIFERICOS DE ILUMINAÇÃO, TRANSMISSOR/RECEPTOR, MICROFONE, INTERCOM BASE STATION, TRANS",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 6000.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212320/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350450/img-350450-6afc4c0f09ecf.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 6000.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-212321",
-   "titulo": "67 ITENS APROXIMADAMENTE, COMPOSTO DE: INDEFINIDO CISCO, VIEWFINDER, CAMCORDER, MICROFONE DE MÃO, ACESSORIOS E PERIFERICOS DE AUDIO, CAIXA ACUSTICA, INDEFINIDO BROADCAST, MESA DIGITALIZADORA, BREAKOUT BOX, SWITCH DE KVM, PATCH DE VIDEO, TRANSMISSOR/R",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 5000.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212321/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350451/img-350451-6afc4c14cca95.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 5000.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-212322",
-   "titulo": "38 ITENS APROXIMADAMENTE, COMPOSTO DE: GAVETA AMPLIFICADORA, ACESSORIOS E PERIFERICOS DE RF, COMBINADOR NEC, EXTENSOR DE KVM, MONITOR BROADCAST, MONITOR LCD, ACESSORIOS E PERIFERICOS DE TI, SWITCH DE REDE, GABINETE/DESKTOP, IMPRESSORA, ACESSORIOS E P",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 2500.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212322/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350452/img-350452-6afc4c19980dc.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 2500.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-212323",
-   "titulo": "LOTE COMPOSTO DE: 03 Aps. de DVD, 01 GELADEIRA, 01 LAVADORA DE PISO (NF: 000178234), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 800.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212323/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350453/img-350453-6afc617c314e8.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 800.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-212324",
-   "titulo": "LOTE COMPOSTO DE: 01 GELADEIRA, 01 LAVADORA DE PISO (NF: 000178229), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1000.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212324/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350454/img-350454-6afc618472677.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 700.0
-    },
-    {
-     "data": "2026-11-22",
-     "preco": 750.0
-    },
-    {
-     "data": "2026-11-22",
-     "preco": 800.0
-    },
-    {
-     "data": "2026-11-24",
-     "preco": 1000.0
-    }
-   ],
-   "preco_anterior": 800.0,
-   "variacao": 200.0,
-   "variacao_pct": 25.0,
-   "variacao_em": "2026-11-24",
-   "variacao_total_pct": 42.9,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-212325",
-   "titulo": "151 ITENS APROXIMADAMENTE, COMPOSTO DE: MONITOR LCD, ACESSORIOS E PERIFERICOS DE RF, ENCODER, MODULADOR /DEMODULADOR, TELEVISORES, AMPLIFICADOR DE AUDIO, EQUIPAMENTOS DE REDE, REMOTE CONTROL, ACESSORIOS E PERIFERICOS DE TI, BREAKOUT BOX, DISTRIBUIRDO",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 5500.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212325/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350455/img-350455-6afc4c333e4d2.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 5500.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-212326",
-   "titulo": "LOTE COMPOSTO DE: 01 GELADEIRA, 01 LAVADORA DE PISO (NF: 000178221), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 850.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212326/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350456/img-350456-6afc4c4337cbc.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 700.0
-    },
-    {
-     "data": "2026-11-24",
-     "preco": 850.0
-    }
-   ],
-   "preco_anterior": 700.0,
-   "variacao": 150.0,
-   "variacao_pct": 21.4,
-   "variacao_em": "2026-11-24",
-   "variacao_total_pct": 21.4,
-   "baixou_preco": false,
-   "subiu_preco": true
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-212327",
-   "titulo": "55 ITENS APROXIMADAMENTE, COMPOSTO DE: TABLET, DESKTOP, MONITOR LCD, WORKSTATION, INTERFACE DE AUDIO, ACESSORIOS E PERIFERICOS DE VIDEO, HEADSET, NOTEBOOK, ACESSORIOS E PERIFERICOS DE AUDIO, DISTIRBUIDOR DE VIDEO, ACESSORIOS E PERIFERICOS DE COMUNICA",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 4500.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212327/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350457/img-350457-6afc4c5204305.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 4500.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
-   "id": "joaoemilio-212333",
-   "titulo": "LOTE COMPOSTO DE: 2 LAVADORAS DE PISO (NF: 000178222), NO ESTADO.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1200.0,
-   "encerramento": "2026-11-25 11:05",
-   "cidade": "Rio de Janeiro",
-   "uf": "RJ",
-   "publico": "PF e PJ",
-   "link": "https://www.joaoemilio.com.br/item/212333/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350463/img-350463-6afc4c765f1bf.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-18",
-   "historico_precos": [
-    {
-     "data": "2026-11-18",
-     "preco": 1200.0
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "João Emílio",
    "id": "joaoemilio-212162",
    "titulo": "1 LOTE DE CAPAS DE CELULAR; 1 LOTE DE PELÍCULA PARA CELULAR; 3 CAPACETES INFANTIS (DPE: 6668-26 - PROC.: 3041727-69.2026.8.19.0001).",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -100066,7 +99697,7 @@
    "id": "joaoemilio-212163",
    "titulo": "3 MESAS C/2 CADEIRAS; 1 ORGANIZADOR C/ 3 GAVETAS PLASTICO, 1 LOTE DE ROUPAS; 1POLTRONA; 2 COOLER, 1 ASPIRADOR; 2 CAMAS DE SOLTEIRO C/ COLCHÃO, 1 TV; 1 SOFÁ, 1 VENTILADOR; 1 FILTRO DE ÁGUA, 1 MESA PLÁSTICA; 1 MÁQUINA DE LAVAR; 1 RACK; 1 GELADEIRA (DPE",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 1230.0,
+   "lance_atual": 1280.0,
    "encerramento": "2026-11-26 11:00",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -100098,13 +99729,17 @@
     {
      "data": "2026-11-25",
      "preco": 1230.0
+    },
+    {
+     "data": "2026-11-26",
+     "preco": 1280.0
     }
    ],
-   "preco_anterior": 1180.0,
+   "preco_anterior": 1230.0,
    "variacao": 50.0,
-   "variacao_pct": 4.2,
-   "variacao_em": "2026-11-25",
-   "variacao_total_pct": 112.1,
+   "variacao_pct": 4.1,
+   "variacao_em": "2026-11-26",
+   "variacao_total_pct": 120.7,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -100377,7 +100012,7 @@
    "id": "joaoemilio-212173",
    "titulo": "1 RÁDIO COMUNICADOR (DPE: 0122-25 - PROC.: 0919911-28.2024.8.19.0001). 10 CELULARES; 1 PEN DRIVE; 3 PORTAS MOEDAS (DPE: 0126-25 - PROC.: 0004175-76.2017.8.19.0021). 2 CELULARES (DPE: 10141-24 - PROC.: 0819658-91.2022.8.19.0004). 1 CELULAR (DPE: 2454-",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 990.0,
+   "lance_atual": 1090.0,
    "encerramento": "2026-11-26 11:00",
    "cidade": "Rio de Janeiro",
    "uf": "RJ",
@@ -100401,13 +100036,17 @@
     {
      "data": "2026-11-18",
      "preco": 990.0
+    },
+    {
+     "data": "2026-11-26",
+     "preco": 1090.0
     }
    ],
-   "preco_anterior": 540.0,
-   "variacao": 450.0,
-   "variacao_pct": 83.3,
-   "variacao_em": "2026-11-18",
-   "variacao_total_pct": 83.3,
+   "preco_anterior": 990.0,
+   "variacao": 100.0,
+   "variacao_pct": 10.1,
+   "variacao_em": "2026-11-26",
+   "variacao_total_pct": 101.9,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -102996,18 +102635,18 @@
    "subiu_preco": false
   },
   {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4366",
-   "titulo": "Limpeza prática para o dia a dia residencia.Para quem busca agilidade sem esforço físico, esta lavadora entrega eficiência em tarefas rotineiras. O jato de alta pressão remove sujeiras leves e médias com rapidez, reduzindo o tempo de limpeza e dispen",
+   "fonte": "João Emílio",
+   "id": "joaoemilio-212722",
+   "titulo": "114 ITENS APROXIMADAMENTE, COMPOSTO DE: PATCH DE AUDIO, NOTEBOOK, LUMINARIA, BUFFER/REPETIDOR, MONITOR BROADCAST, ACESSORIOS E PERIFERICOS DE VIDEO, ACESSORIOS E PERIFERICOS DE ILUMINAÇÃO, TRANSMISSOR/RECEPTOR, MICROFONE, INTERCOM BASE STATION, TRANS",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 380.25,
-   "encerramento": "2026-11-25 14:00",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
+   "lance_atual": 3000.0,
+   "encerramento": "2026-12-02 12:55",
+   "cidade": "Rio de Janeiro",
+   "uf": "RJ",
    "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4366/detalhes",
+   "link": "https://www.joaoemilio.com.br/item/212722/detalhes",
    "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004529/img-4529-6ad1828352533.jpg",
+   "imagem": "https://d8ed0d6197eff01b.cdn.gocache.net/bens/0000350450/img-350450-6afc4c0f09ecf.jpg",
    "observacoes": [
     "Comissão do leiloeiro: 5%"
    ],
@@ -103015,79 +102654,11 @@
    "prioridade": false,
    "destaque": true,
    "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
+   "primeiro_visto": "2026-11-26",
    "historico_precos": [
     {
-     "data": "2026-11-12",
-     "preco": 380.25
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4400",
-   "titulo": "Soprador e Aspirador de Folhas a Gasolina 26cc  1HP.Projetado para oferecer eficiência e versatilidade em trabalhos ao ar livre, o Soprador e Aspirador de Folhas a Gasolina de 26cc é ideal para a limpeza de jardins, quintais e outras áreas externas.",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 627.75,
-   "encerramento": "2026-11-25 14:00",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4400/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004563/img-4563-6ad2482aa838c.jpeg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
-   "historico_precos": [
-    {
-     "data": "2026-11-12",
-     "preco": 627.75
-    }
-   ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
-   "baixou_preco": false,
-   "subiu_preco": false
-  },
-  {
-   "fonte": "Leilão Prime",
-   "id": "leilaoprime-4401",
-   "titulo": "Soprador Elétrico Profissional KD12  Potência de 800W.O soprador elétrico profissional KD12 é uma ferramenta de alto desempenho, ideal para remoção e absorção de poeira em equipamentos como ar-condicionados, computadores e televisores. Sua potência ",
-   "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 170.25,
-   "encerramento": "2026-11-25 14:00",
-   "cidade": "São Caetano do Sul",
-   "uf": "SP",
-   "publico": "PF e PJ",
-   "link": "https://www.leilaoprime.com.br/item/4401/detalhes",
-   "valor_avaliacao": null,
-   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000004564/img-4564-6ad2499bb61fa.jpg",
-   "observacoes": [
-    "Comissão do leiloeiro: 5%"
-   ],
-   "detalhes": {},
-   "prioridade": false,
-   "destaque": true,
-   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
-   "primeiro_visto": "2026-11-12",
-   "historico_precos": [
-    {
-     "data": "2026-11-12",
-     "preco": 170.25
+     "data": "2026-11-26",
+     "preco": 3000.0
     }
    ],
    "preco_anterior": null,
@@ -103136,7 +102707,7 @@
    "id": "leilaoprime-4464",
    "titulo": "WAP Robo Aspirador de Po ROBOT W40000 - Estacao Autolimpante, Mapeamento LDS 360&#176, Passa Pano com MOP Giratorio 127V",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 729.0,
+   "lance_atual": 779.0,
    "encerramento": null,
    "cidade": "São Paulo",
    "uf": "SP",
@@ -103168,13 +102739,17 @@
     {
      "data": "2026-11-25",
      "preco": 729.0
+    },
+    {
+     "data": "2026-11-26",
+     "preco": 779.0
     }
    ],
-   "preco_anterior": 679.0,
+   "preco_anterior": 729.0,
    "variacao": 50.0,
-   "variacao_pct": 7.4,
-   "variacao_em": "2026-11-25",
-   "variacao_total_pct": 52.2,
+   "variacao_pct": 6.9,
+   "variacao_em": "2026-11-26",
+   "variacao_total_pct": 62.6,
    "baixou_preco": false,
    "subiu_preco": true
   },
@@ -104204,11 +103779,691 @@
    "subiu_preco": true
   },
   {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4590",
+   "titulo": "Micro-ondas Midea MRA S21 20L branco porta preta",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 181.65,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4590/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005017/img-5017-6af25b32f2888.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 181.65
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4591",
+   "titulo": "Micro-ondas Midea MRA S21 20L branco porta preta",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 181.65,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4591/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005018/img-5018-6af25b4700c43.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 181.65
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4592",
+   "titulo": "Micro-ondas Midea MRA S21 20L branco porta preta",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 181.65,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4592/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005019/img-5019-6af25b5f76365.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 181.65
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4593",
+   "titulo": "Micro-ondas Midea MRA S21 20L branco porta preta",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 181.65,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4593/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005020/img-5020-6af25b8d4f0a5.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 181.65
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4594",
+   "titulo": "Lavadora alta pressão Kärcher HD585 Profi 220V NR 032872",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1229.14,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4594/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005022/img-5022-6af25bd14b0d3.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1229.14
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4595",
+   "titulo": "Lavadora alta pressão Kärcher HD585 profissional 127V",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1189.65,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4595/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005023/img-5023-6af25c0f5a306.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1189.65
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4597",
+   "titulo": "Caixa de som Bluetooth JBL Boombox 4 azul",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 740.28,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4597/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005026/img-5026-6af25c576e5ab.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 740.28
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4598",
+   "titulo": "Lavadora alta pressão Kärcher K3.98 1500W 127V",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 497.0,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4598/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005028/img-5028-6af25c8145670.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 497.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4602",
+   "titulo": "Scanner Canon LiDE 300 USB + Nobreak TS Shara UPS Mini 600VA bivolt 6 tomadas + Kit 3 fans PCYes Sangue Frio 3 ARGB White Ghost 120mm",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 347.52,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4602/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005034/img-5034-6af25d3dc3e6f.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 347.52
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4604",
+   "titulo": "Smart TV TCL 65 polegadas QLED 4K P7K Google TV",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1025.73,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4604/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005037/img-5037-6af25dab6db41.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1025.73
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4605",
+   "titulo": "Smart TV TCL 65 polegadas QLED 4K P7K Google TV",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1562.66,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4605/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005038/img-5038-6af4a8ddd6d1f.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1562.66
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4606",
+   "titulo": "Smart TV TCL 65 polegadas QLED 4K P7K Google TV",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1562.66,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4606/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005039/img-5039-6af4a8f46bfdd.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1562.66
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4607",
+   "titulo": "Smart TV TCL 65 polegadas QLED 4K P7K Google TV",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1562.66,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4607/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005040/img-5040-6af879f381730.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1562.66
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4608",
+   "titulo": "Smart TV TCL 65 polegadas QLED 4K P7K Google TV",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1562.66,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4608/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005041/img-5041-6af87a06e57dd.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1562.66
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4609",
+   "titulo": "Smart TV TCL 65 polegadas QLED 4K P7K Google TV",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1562.66,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4609/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005042/img-5042-6af87a1b4d774.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1562.66
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4610",
+   "titulo": "Smart TV TCL 65 polegadas QLED 4K P7K Google TV",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1562.66,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4610/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005043/img-5043-6af87a2f0ff2a.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1562.66
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4611",
+   "titulo": "FOGÃO PISO A GÁS FISCHER 5 BOCAS FIT LINE PREMPE IRON SILVER MODELO 39240-108969 PLUVIÔMETRO MULTITEC FORNO A GÁS DE EMBUTIR FISCHER INFINITY 78L COM GRILL MODELO 36450-104455 LAVADORA DE ROUPA LATINA 10KG 500W MODELO LA555 PLUVIÔMETRO MULTITEC CLIMA",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 2900.0,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4611/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005004/img-5004-6b04d1bc17c61.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 2900.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4612",
+   "titulo": "CAFETEIRA ELÉTRICA DIGITAL MALLORY EASY COFFEE 900W MODELO B92000701 CAIXA DE SOM BLUETOOTH HOOPSON 100W MODELO RBM-018 CAIXA DE SOM BLUETOOTH HOOPSON 100W MODELO RBM-019 CALCULADORA FUNCIONAL MODELO OS-837X CALCULADORA FUNCIONAL MODELO OS-837X CENTR",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3200.0,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4612/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005005/img-5005-6b04d1e8919c9.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 3200.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4613",
+   "titulo": "FOGÃO DE CHÃO BRASLAR 5 BOCAS CARINA BLACK MODELO 10020080 CLIMATIZADOR PHILCO 4 EM 1 MODELO PCL05A REFIL ESCOVA DENTAL ELÉTRICA VITALLYS MODELO VRB-1 CAFETEIRA TRADICIONAL MARCHESONI 10L 1300W MODELO CF 2.102 PURIFICADOR DE ÁGUA GELADA BASIC ACQUABI",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 3000.0,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4613/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005007/img-5007-6b04d27d76f2c.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 3000.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Leilão Prime",
+   "id": "leilaoprime-4614",
+   "titulo": "FORNO ELÉTRICO DE EMBUTIR MIDEA 80L 2750W MODELO TSD80P2 FORNO ELÉTRICO DE BANCADA SUGGAR 50L 1800W MODELO FE5012PT PLUVIÔMETRO MULTITEC FORNO ELÉTRICO DE BANCADA LAYR JOY BRANCO COOKTOP DE INDUÇÃO 2 EM 1 COM COIFA INTEGRADA ELECTROLUX EXPERT MODELO ",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4900.0,
+   "encerramento": null,
+   "cidade": "Vargem Grande Paulista",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.leilaoprime.com.br/item/4614/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d14pr348cflhr7.cloudfront.net/bens/0000005044/img-5044-6af25c7c73d87.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 4900.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
    "fonte": "Tudo Leilão",
    "id": "tudoleilao-19376",
    "titulo": "LOTE 10. 1 - Lavadora De Alta Pressão Kärcher K5 2100 Psi 380l/h 1900w Motor Indução Com Jato Turbo Rotativo E Lança Leque Preto 127v 60 Hz 1 - Burigotto Protege Reclinável Cadeira Infantil Para Carro Color Mesclado Negro Preto 1 - Moto Elétrica Bang",
    "categoria": "Eletrônicos e eletrodomésticos",
-   "lance_atual": 3300.0,
+   "lance_atual": 3400.0,
    "encerramento": "2026-11-26 11:00",
    "cidade": "Cotia",
    "uf": "SP",
@@ -104228,14 +104483,19 @@
     {
      "data": "2026-11-20",
      "preco": 3300.0
+    },
+    {
+     "data": "2026-11-26",
+     "preco": 3400.0
     }
    ],
-   "preco_anterior": null,
-   "variacao": null,
-   "variacao_pct": null,
-   "variacao_em": null,
+   "preco_anterior": 3300.0,
+   "variacao": 100.0,
+   "variacao_pct": 3.0,
+   "variacao_em": "2026-11-26",
+   "variacao_total_pct": 3.0,
    "baixou_preco": false,
-   "subiu_preco": false
+   "subiu_preco": true
   },
   {
    "fonte": "Tudo Leilão",
@@ -104822,6 +105082,40 @@
   },
   {
    "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19904",
+   "titulo": "LOTE. 6488 1 - GELADEIRA FF 455L CONSUL CRM53MB BRANCA 220V. Itens provenientes de logística reversa. PRODUTOS NÃO TESTADOS, podendo apresentar avarias, falta de peças, acessórios e/ou componentes,NÃO ENTREGAMOS.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1799.22,
+   "encerramento": "2026-12-03 11:00",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19904/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://www.tudoleilao.com.br/site/images/sem-imagem-lote.jpg?modified=20240531",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1799.22
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
    "id": "tudoleilao-19707",
    "titulo": "LOTE. 6515 1 GELADEIRA FF 347L MIDEA MD-RT468MTA011 110V BC Itens provenientes de logística reversa. Produtos NÃO TESTADOS e podem apresentar avarias e falta de peças e acessórios. Não fazemos entregas.",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -104845,6 +105139,40 @@
     {
      "data": "2026-11-24",
      "preco": 1070.91
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19884",
+   "titulo": "LOTE. 6701 1 - GELADEIRA FF 455L CONSUL CRM53MB BRANCA 220V. Itens provenientes de logística reversa. PRODUTOS NÃO TESTADOS, podendo apresentar avarias, falta de peças, acessórios e/ou componentes,NÃO ENTREGAMOS.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1140.13,
+   "encerramento": "2026-12-03 11:00",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19884/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017069/img-17069-6b074c82bbe1a.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1140.13
     }
    ],
    "preco_anterior": null,
@@ -105219,6 +105547,74 @@
     {
      "data": "2026-11-25",
      "preco": 630.67
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19880",
+   "titulo": "LOTE. 448 1 ESCOVA ROTATIVA MONDIAL ERB-01 PTO/GOLD ROSE BIV 1 VENT 30CM MS MONDIAL MAXIS V30MXW BR/AZ 110V 1 SECADOR MONDIAL SCN-04 2000W PRETO/CROMADO 127V 1 SANDUICHEIRA CADENCE CLICK SAN400 110V 1 ESCOVA MODELADORA PHILCO PEC17A CERAMICA BIV 1 PA",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 567.57,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19880/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017065/img-17065-6b071c14c4f05.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 567.57
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19882",
+   "titulo": "LOTE. 449 1 FERRO VAPOR MONDIAL FVN-01-P 1200W BR/RX 110V 1 PRANCHA MONDIAL P-01-IR AZ BIV 1 SAND MONDIAL ULTRA S13 PT 110V 1 ESC SECADORA MONDIAL BLACK GOLD ES-15 PT/CH BIV. 1 ESCOVA ROTATIVA MONDIAL ARGAN ER-11 PTO 110V 1 PRANCHA MONDIAL GOLDEN ROS",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 1049.71,
+   "encerramento": "2026-12-07 11:00",
+   "cidade": "São José dos Pinhais",
+   "uf": "PR",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19882/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017067/img-17067-6b071c219ddb6.jpg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": false,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-26",
+   "historico_precos": [
+    {
+     "data": "2026-11-26",
+     "preco": 1049.71
     }
    ],
    "preco_anterior": null,
