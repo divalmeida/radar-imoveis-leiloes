@@ -45,10 +45,43 @@
   },
   "João Emílio / Leilão Prime / Tudo Leilão": {
    "ok": true,
-   "lotes": 142,
-   "dados_de": "2026-11-26 19:09",
+   "lotes": 173,
+   "dados_de": "2026-11-27 08:37",
    "local": true,
-   "segundos": 305
+   "novos_pendentes": [
+    "tudoleilao-19728",
+    "tudoleilao-19729",
+    "tudoleilao-19730",
+    "tudoleilao-19731",
+    "tudoleilao-19732",
+    "tudoleilao-19733",
+    "tudoleilao-19734",
+    "tudoleilao-19735",
+    "tudoleilao-19736",
+    "tudoleilao-19737",
+    "tudoleilao-19738",
+    "tudoleilao-19739",
+    "tudoleilao-19740",
+    "tudoleilao-19741",
+    "tudoleilao-19742",
+    "tudoleilao-19743",
+    "tudoleilao-19744",
+    "tudoleilao-19745",
+    "tudoleilao-19746",
+    "tudoleilao-19747",
+    "tudoleilao-19748",
+    "tudoleilao-19749",
+    "tudoleilao-19750",
+    "tudoleilao-19751",
+    "tudoleilao-19752",
+    "tudoleilao-19753",
+    "tudoleilao-19754",
+    "tudoleilao-19755",
+    "tudoleilao-19756",
+    "tudoleilao-19963",
+    "tudoleilao-19993"
+   ],
+   "precos_pendentes": {}
   },
   "Bolsa de Leilões / Hisa": {
    "ok": true,
@@ -101842,6 +101875,992 @@
   },
   {
    "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19728",
+   "titulo": "LOTE. 41 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19728/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016997/img-16997-6b04bc1b0ea20.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19729",
+   "titulo": "LOTE. 42 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19729/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016998/img-16998-6b04bc28d784e.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19730",
+   "titulo": "LOTE. 43 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19730/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000016999/img-16999-6b04bc36631e6.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19731",
+   "titulo": "LOTE. 44 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19731/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017000/img-17000-6b04bc46da4bc.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19732",
+   "titulo": "LOTE. 45 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19732/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017001/img-17001-6b04bc5d278bc.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19733",
+   "titulo": "LOTE. 46 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19733/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017002/img-17002-6b04bc790d253.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19734",
+   "titulo": "LOTE. 47 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19734/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017003/img-17003-6b04bc92e2bb6.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19735",
+   "titulo": "LOTE. 48 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19735/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017004/img-17004-6b04bcb0aa321.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19736",
+   "titulo": "LOTE. 49 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19736/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017005/img-17005-6b04bcc044e3f.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19737",
+   "titulo": "LOTE. 50 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19737/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017006/img-17006-6b04bccbe1589.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19738",
+   "titulo": "LOTE. 51 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19738/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017007/img-17007-6b04bd01983aa.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19739",
+   "titulo": "LOTE. 52 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19739/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017008/img-17008-6b04bd1531d13.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19740",
+   "titulo": "LOTE. 53 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19740/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017009/img-17009-6b04bd24316be.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19741",
+   "titulo": "LOTE. 54 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19741/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017010/img-17010-6b04bd35aec4e.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19742",
+   "titulo": "LOTE. 55 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19742/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017011/img-17011-6b04bd53bac84.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19743",
+   "titulo": "LOTE. 56 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19743/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017012/img-17012-6b04bd68e5e35.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19744",
+   "titulo": "LOTE. 57 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19744/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017013/img-17013-6b04bd7979d8a.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19745",
+   "titulo": "LOTE. 58 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19745/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017014/img-17014-6b04bda66a910.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19746",
+   "titulo": "LOTE. 59 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19746/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017015/img-17015-6b04bdb958e60.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19747",
+   "titulo": "LOTE. 60 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19747/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017016/img-17016-6b04be1d19a0b.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19748",
+   "titulo": "LOTE. 61 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19748/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017017/img-17017-6b04be2f0cdda.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19749",
+   "titulo": "LOTE. 62 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19749/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017018/img-17018-6b04be42a207c.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19750",
+   "titulo": "LOTE. 63 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19750/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017019/img-17019-6b04be56c93e0.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19751",
+   "titulo": "LOTE. 64 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19751/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017020/img-17020-6b04be8d315f9.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19752",
+   "titulo": "LOTE. 65 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19752/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017021/img-17021-6b04bea896c74.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19753",
+   "titulo": "LOTE. 66 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19753/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017022/img-17022-6b04beeceb6ad.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19754",
+   "titulo": "LOTE. 67 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19754/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017023/img-17023-6b04bf00a7d9e.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19755",
+   "titulo": "LOTE. 68 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19755/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017024/img-17024-6b04bf1f8f30e.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19756",
+   "titulo": "LOTE. 69 1 PALETE LACRADO — Eletrônicos, Eletros e Diversos de Plataforma Digital Líder de Mercado ( Premium ). Itens provenientes de logística reversa. Produtos não testados. Leia o edital para mais informações.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 4800.0,
+   "encerramento": "2026-11-28 11:00",
+   "cidade": "Cotia",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19756/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://d2hmn75ryniytp.cloudfront.net/bens/0000017025/img-17025-6b04bf2f519f4.jpeg",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 4800.0
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
    "id": "tudoleilao-19904",
    "titulo": "LOTE. 6488 1 - GELADEIRA FF 455L CONSUL CRM53MB BRANCA 220V. Itens provenientes de logística reversa. PRODUTOS NÃO TESTADOS, podendo apresentar avarias, falta de peças, acessórios e/ou componentes,NÃO ENTREGAMOS.",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -101944,6 +102963,40 @@
   },
   {
    "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19963",
+   "titulo": "LOTE. 6730 1 - MÁQUINA DE LAVAR 9KG CONSUL CWB09BB 220V BC. Itens provenientes de logística reversa. PRODUTOS NÃO TESTADOS, podendo apresentar avarias, falta de peças, acessórios e/ou componentes,NÃO ENTREGAMOS.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 632.9,
+   "encerramento": "2026-12-03 11:00",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19963/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://www.tudoleilao.com.br/site/images/sem-imagem-lote.jpg?modified=20240531",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 632.9
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
    "id": "tudoleilao-19608",
    "titulo": "LOTE. 6396 1 FOGÃO 4B PISO ATLAS DAKO MAGISTER GLASS BIV PTO Itens provenientes de logística reversa. Produtos NÃO TESTADOS e podem apresentar avarias e falta de peças e acessórios. Não fazemos entregas.",
    "categoria": "Eletrônicos e eletrodomésticos",
@@ -101967,6 +103020,40 @@
     {
      "data": "2026-11-24",
      "preco": 364.87
+    }
+   ],
+   "preco_anterior": null,
+   "variacao": null,
+   "variacao_pct": null,
+   "variacao_em": null,
+   "baixou_preco": false,
+   "subiu_preco": false
+  },
+  {
+   "fonte": "Tudo Leilão",
+   "id": "tudoleilao-19993",
+   "titulo": "LOTE. 6773 1 - FOGÃO 5B PISO ATLAS AGILE UP GLASS BIV PTO Itens provenientes de logística reversa. PRODUTOS NÃO TESTADOS, podendo apresentar avarias, falta de peças, acessórios e/ou componentes,NÃO ENTREGAMOS.",
+   "categoria": "Eletrônicos e eletrodomésticos",
+   "lance_atual": 483.45,
+   "encerramento": "2026-12-03 14:00",
+   "cidade": "Jundiaí",
+   "uf": "SP",
+   "publico": "PF e PJ",
+   "link": "https://www.tudoleilao.com.br/item/19993/detalhes",
+   "valor_avaliacao": null,
+   "imagem": "https://www.tudoleilao.com.br/site/images/sem-imagem-lote.jpg?modified=20240531",
+   "observacoes": [
+    "Comissão do leiloeiro: 5%"
+   ],
+   "detalhes": {},
+   "prioridade": false,
+   "destaque": true,
+   "coletor": "João Emílio / Leilão Prime / Tudo Leilão",
+   "primeiro_visto": "2026-11-27",
+   "historico_precos": [
+    {
+     "data": "2026-11-27",
+     "preco": 483.45
     }
    ],
    "preco_anterior": null,
